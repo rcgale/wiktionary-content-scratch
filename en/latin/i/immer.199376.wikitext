@@ -1,6 +1,7 @@
-=={{de}}==
+==German==
 
 ===Adverb===
+'''immer'''  ({{compar}}: '''[[immerer]]''', {{superl}}: '''[[immerest]]''')
 # [[always]]
 [[Category:German adverbs]]
 
