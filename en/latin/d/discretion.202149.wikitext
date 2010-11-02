@@ -1,0 +1,81 @@
+{{also|discrétion}}
+==English==
+
+===Pronunciation===
+* {{audio|en-us-discretion.ogg|Audio (US)}}
+
+===Noun===
+{{en-noun|-}}
+
+# The quality of being [[discreet]] or [[circumspect]]
+#: ''Bob showed great '''discretion''' despite his knowledge of the affair.''
+# The [[ability]] to make [[wise]] [[choice]]s or [[decision]]s
+# The [[freedom]] to make one's own [[judgement]]s
+#: ''I leave that to your '''discretion'''.''
+
+====Antonyms====
+* {{l|en|indiscretion}}
+
+====Derived terms====
+* [[discretionary]]
+* {{l|en|discretion is the better part of valour}}
+
+====Translations====
+{{trans-top|The quality of being discreet or circumspect}}
+* Bulgarian: {{t|bg|дискретност|f}}
+* Dutch: {{t+|nl|discretie|f}}
+* Finnish: {{t-|fi|hienotunteisuus}}, {{t-|fi|hienovaraisuus}}, {{t-|fi|tahdikkuus}}
+* French: {{t+|fr|discrétion|f}}
+{{trans-mid}}
+* Norwegian: {{t|no|diskresjon|m}}
+* Portuguese: {{t|pt|discrição|f}}
+* Romanian: {{t|ro|prudenţă}}
+* Russian: {{t+|ru|осмотрительность|f}}
+{{trans-bottom}}
+
+{{trans-top|The ability to make wise choices or decisions}}
+* Bulgarian: {{t+|bg|благоразумие|n}}
+* Finnish: {{t-|fi|tilannetaju}}, {{t-|fi|harkintakyky}}
+* French: {{t+|fr|discrétion|f}}
+{{trans-mid}}
+* Romanian: {{t-|ro|înţelepciune}}
+* Russian: {{t+|ru|прозорливость|f}}
+{{trans-bottom}}
+
+{{trans-top|The freedom to make one's own judgements}}
+* Bulgarian: {{t|bg|усмотрение|n}},  {{t|bg|преценка|f}}
+* Finnish: {{t-|fi|oma harkinta}}
+{{trans-mid}}
+* Russian: [[свобода]] [[действие|действий]]
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Romanian: {{t-|ro|discreţie|f}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{alphagram|cdeiinorst}}
+* [[directions#English|directions]]
+
+[[de:discretion]]
+[[et:discretion]]
+[[el:discretion]]
+[[es:discretion]]
+[[fr:discretion]]
+[[ko:discretion]]
+[[io:discretion]]
+[[it:discretion]]
+[[kn:discretion]]
+[[hu:discretion]]
+[[ml:discretion]]
+[[my:discretion]]
+[[nl:discretion]]
+[[no:discretion]]
+[[pl:discretion]]
+[[pt:discretion]]
+[[ru:discretion]]
+[[simple:discretion]]
+[[ta:discretion]]
+[[te:discretion]]
+[[vi:discretion]]
+[[zh:discretion]]
