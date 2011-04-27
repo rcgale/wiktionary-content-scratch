@@ -1,0 +1,27 @@
+==English==
+
+===Noun===
+{{en-noun|sg=the [[triangle]] [[inequality]]|-}}
+
+{{wikipedia}}
+
+# {{analysis}} The [[inequality]] that states that the [[magnitude]] of the [[sum]] of two [[vector]]s is less than or equal to the sum of the magnitudes of the vectors, or any equivalent inequality in other [[space]]s.
+
+====Translations====
+{{trans-top|the triangle inequality}}
+*Chinese: [[三角不等式]]
+*French: [[inégalité triangulaire]] {{f}}
+*German: [[Dreiecksungleichung]] {{f}}
+*Hebrew: [[אי שוויון המשולש]]
+*Italian: [[disuguaglianza triangolare]] {{f}}
+{{trans-mid}}
+*Japanese: [[三角不等式]] ([[さんかくふとうしき]], sankaku futōshiki)
+*Polish: {{t-|pl|nierówność trójkąta|f}}
+*Spanish: [[desigualdad del triángulo]] {{f}}
+{{trans-bottom}}
+
+[[fr:triangle inequality]]
+[[id:triangle inequality]]
+[[hu:triangle inequality]]
+[[ta:triangle inequality]]
+[[zh:triangle inequality]]
