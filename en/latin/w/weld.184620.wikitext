@@ -1,0 +1,111 @@
+[[Image:SMAW.welding.af.ncs.jpg|thumb|right|A person welding.]]
+==English==
+
+===Pronunciation===
+* {{IPA|/wɛld/}}
+* {{rhymes|ɛld}}
+
+===Etymology 1===
+From {{etyl|enm}} {{term|welde|lang=enm}}, {{term|wolde|lang=enm}}, from {{proto|Germanic|walþō}} (cf. {{etyl|nl|-}} {{term|wouw|lang=nl}}, {{etyl|gml|-}} {{term|walde|lang=gml}}, {{term|wolde|lang=gml}}), from {{proto|Germanic|walþuz|forest}}. More at {{l|en|wold}}.
+
+====Alternative forms====
+* [[wold]]
+
+====Noun====
+{{en-noun}}
+
+# A [[herb]] (''[[Reseda luteola]]'') related to [[mignonette]], growing in Europe, and to some extent in America, used to make a yellow dye; [[dyer's broom]]; [[dyer's rocket]]; [[dyer's weed]]; [[wild woad]].
+# The yellow coloring matter or dye extracted from this plant.
+
+=====Translations=====
+{{trans-top|herb}}
+* Spanish: {{t+|es|gualda|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|dye}}
+* Spanish: {{t+|es|gualda|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+Alteration of {{term|well||lang=en|boil, rise}}, probably influenced by the past participle, {{term|welled||lang=en}}
+
+====Verb====
+{{en-verb}}
+
+# {{transitive}} To bind together [[inseparably]]; to [[unite]] closely or [[intimately]].
+#* '''1847''': [[w:Alfred Lord Tennyson|Alfred Lord Tennyson]], ''The Princess''
+#*: Now should men see / Two women faster '''welded''' in one love / Than pairs of wedlock.
+# {{transitive}} To [[join]] two [[material]]s (especially two [[metal]]s) together by applying [[heat]], [[pressure]] and [[filler]], either separately or in any combination.
+
+=====Translations=====
+{{trans-top|to bind, unite}}
+* Dutch: {{t-|nl|lassen}}, {{t-|nl|wellen}}
+* Finnish: {{t-|fi|hitsata}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|to join materials (especially metals) by applying heat}}
+* Armenian: {{t-|hy|զոդել|tr=zodel}}
+* Bosnian: {{t-|bs|variti}}, {{t|bs|zavariti}}
+* [[Catalan]]: {{t+|ca|soldar}}
+* Chinese: [[焊接]] hàn jiē
+* Dutch: {{t-|nl|lassen}}, {{t-|nl|wellen}}
+* Finnish: {{t-|fi|hitsata}}
+{{trans-mid}}
+* Italian: {{t+|it|saldare}}
+* Japanese: {{t|ja|溶接する|tr=yōsetsu suru}}
+* Polish: [[spawać]]
+* Portuguese: {{t+|pt|soldar}}
+* Spanish: {{t-|es|soldar}}
+* Swedish: {{t|sv|svetsa}}
+{{trans-bottom}}
+
+====Noun====
+{{en-noun}}
+
+# The state of being welded. {{rfex|Not sure this is real, but was in MW 1913; couldn't find a cite for "in weld" on b.g.c. through 1913}}
+# The [[joint]] made by welding.
+
+=====Derived terms=====
+* [[butt weld]]
+* [[scarf weld]]
+
+====See also====
+* [[solder]]
+* [[braze]]
+
+===Etymology 3===
+{{etystub}}
+
+====Verb====
+{{en-verb}}
+
+# {{transitive}} {{obsolete}} To [[wield]].
+
+===References===
+* {{R:Webster 1913}}
+
+===Anagrams===
+* [[lewd#English|lewd]]
+
+[[cs:weld]]
+[[de:weld]]
+[[et:weld]]
+[[fr:weld]]
+[[ko:weld]]
+[[io:weld]]
+[[it:weld]]
+[[kn:weld]]
+[[hu:weld]]
+[[ml:weld]]
+[[my:weld]]
+[[pl:weld]]
+[[ru:weld]]
+[[fi:weld]]
+[[sv:weld]]
+[[tl:weld]]
+[[ta:weld]]
+[[te:weld]]
+[[vi:weld]]
+[[zh:weld]]
