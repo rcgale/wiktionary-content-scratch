@@ -1,0 +1,25 @@
+{{also|Ge'ez}}
+==English==
+
+===Alternative forms===
+* [[jeez]]
+
+===Etymology===
+A [[minced oath]] of the word ''[[Jesus]]''.
+
+===Interjection===
+{{en-interj}}
+
+# {{euphemistic}} An exclamation denoting surprise or frustration.
+
+====Translations====
+{{trans-top|An exclamation denoting surprise or frustration}}
+* Finnish: [[jessus]]
+* German: [[jessas]]
+{{trans-mid}}
+* Norwegian: {{t-|no|i jesu navn}}
+{{trans-bottom}}
+
+[[fr:geez]]
+[[pl:geez]]
+[[pt:geez]]
