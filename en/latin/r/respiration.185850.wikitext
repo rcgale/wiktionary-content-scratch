@@ -1,0 +1,109 @@
+==English==
+{{wikipedia|dab=respiration}}
+
+===Etymology===
+{{etyl|enm}} ''[[respiracioun]]'', from {{etyl|la}} ''[[respiratio]]'', from ''[[respirare]]''.
+
+===Pronunciation===
+* {{rhymes|eɪʃən}}
+
+===Noun===
+{{wikipedia|respiration (physiology)}}
+{{en-noun}}
+
+# The process of [[inhaling]] and [[exhaling]]; [[breathing]], [[breath]].
+# An act of [[breathing]]; a [[breath]].
+#* '''1931''', William Faulkner, ''Sanctuary'', Vintage 1993, p. 76:
+#*: Gowan snored, each '''respiration''' choking to a huddle fall, as though he would never breathe again.
+# Any similar process, in organisms that lack [[lungs]], that exchanges [[gas]]es with its [[environment]].
+# The process by which [[cell]]s obtain [[chemical]] [[energy]] by the consumption of [[oxygen]] and the release of [[carbon dioxide]].
+
+====Derived terms====
+* [[artificial respiration]]
+
+====Translations====
+{{trans-top|breathing}}
+* Chinese: [[呼吸]] hūxī
+* Czech: {{t-|cs|dýchání|n}}
+* Dutch: {{t+|nl|ademhaling}}
+* Finnish: {{t-|fi|hengitys}}
+* French: {{t+|fr|respiration|f}}
+* German: {{t+|de|Atmung}}
+* Greek: {{t+|el|αναπνοή|f|tr=anapnoí}}
+* Irish: {{t-|ga|riospráid|f}}
+* Italian: {{t+|it|respirazione|f}}
+* Korean: [[숨쉬기]] (sumswigi)
+* Kurdish: {{t|ku|hanasa|sc=ku-Arab}}
+{{trans-mid}}
+* Latvian: {{t-|lv|elpošana|f}}, {{t-|lv|dvašošana|f}}
+* Norwegian: {{t-|no|åndedrett|n}}
+* Portuguese: {{t+|pt|respiração|f}}
+* Russian: {{t+|ru|дыхание|n}}
+* Spanish: {{t+|es|respiración}}
+* Swedish: {{t+|sv|andning|c}}, {{t+|sv|respiration|c}}
+* Tagalog: {{t-|tl|paghinga}}
+* Telugu: [[శ్వాసక్రియ]] (Svaasakriya)
+* Turkish: {{t+|tr|solunum}}
+* Volapük: {{t+|vo|natemam}}
+{{trans-bottom}}
+
+{{trans-top|exchange of gases}}
+* German: {{t-|de|Veratmung|f}}
+{{trans-mid}}
+* Greek: {{t+|el|αναπνοή|f|tr=anapnoí}}
+{{trans-bottom}}
+
+{{trans-top|process of biological energy extraction}}
+* Chinese:
+*: Mandarin: {{t|cmn|呼吸作用|sc=Hani}}
+{{trans-mid}}
+* Swedish: [[cellandning]] {{c}}
+* Turkish: {{t+|tr|solunum}}
+{{trans-bottom}}
+
+* Vietnamese: [[Hô hấp]]
+
+----
+
+==French==
+
+===Etymology===
+From {{etyl|la|fr}} ''[[respiratio]]'', from ''[[respirare]]''.
+
+===Pronunciation===
+* {{audio|Fr-respiration.ogg|audio}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[#English|respiration]]
+
+===Anagrams===
+* [[piraterions#French|piraterions]], [[repaitrions#French|repaitrions]], [[repaîtrions#French|repaîtrions]], [[repatriions#French|repatriions]]
+
+[[zh-min-nan:respiration]]
+[[de:respiration]]
+[[et:respiration]]
+[[el:respiration]]
+[[eo:respiration]]
+[[fa:respiration]]
+[[fr:respiration]]
+[[gl:respiration]]
+[[ko:respiration]]
+[[io:respiration]]
+[[id:respiration]]
+[[kn:respiration]]
+[[li:respiration]]
+[[hu:respiration]]
+[[mg:respiration]]
+[[my:respiration]]
+[[ja:respiration]]
+[[pl:respiration]]
+[[ru:respiration]]
+[[simple:respiration]]
+[[fi:respiration]]
+[[sv:respiration]]
+[[ta:respiration]]
+[[te:respiration]]
+[[vi:respiration]]
+[[zh:respiration]]
