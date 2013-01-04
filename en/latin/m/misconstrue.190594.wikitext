@@ -1,0 +1,39 @@
+==English==
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/mɪskənˈstruː/}}, {{X-SAMPA|/mIsk@n"stru:/}}
+
+===Etymology===
+{{prefix|mis|construe}}
+
+===Verb===
+{{en-verb|misconstru|ing}}
+
+# {{transitive}} To [[interpret]] [[erroneously]], to [[understand]] [[incorrectly]]; to [[misunderstand]].
+#* '''1975''': ...,furthermore, I hope my meaning won’t be lost or '''misconstrued''',... - Paul Simon, ''50 Ways to Leave Your Lover'' from the album ''Still Crazy after All These Years''.
+
+====Related terms====
+* [[misconstrual]]
+* [[misconstruation]]
+
+====Translations====
+{{trans-top|interpret erroneously}}
+* Hungarian: {{t-|hu|félreértelmez}}
+{{trans-mid}}
+* Norwegian: {{t-|no|feiltolke}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[consumerist#English|consumerist]]
+
+[[el:misconstrue]]
+[[es:misconstrue]]
+[[ko:misconstrue]]
+[[io:misconstrue]]
+[[kn:misconstrue]]
+[[ml:misconstrue]]
+[[pl:misconstrue]]
+[[fi:misconstrue]]
+[[sv:misconstrue]]
+[[vi:misconstrue]]
+[[zh:misconstrue]]
