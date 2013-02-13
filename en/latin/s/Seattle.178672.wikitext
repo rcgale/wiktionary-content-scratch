@@ -1,0 +1,41 @@
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{audio|En-us-Seattle.ogg|Audio}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# Seaport and largest [[city]] in the State of [[Washington]], USA.
+
+====Synonyms====
+* [[Emerald City]] {{qualifier|informal}}
+
+====Translations====
+{{trans-top|city in Washington state, USA}}
+* American Sign Language: {{tø|ase|S@NearSide-PalmForward Sidetoside}}
+* Arabic: {{t-|ar|سياتل|m|tr=siyaatal|sc=Arab}}
+* Chinese:
+*: Mandarin: {{t|cmn|西雅圖|sc=Hani}}, {{t|cmn|西雅图|tr=Xīyǎtú|sc=Hani}}
+* Greek: {{t-|el|Σιάτλ|tr=Siátl|sc=Grek}}
+{{trans-mid}}
+* Hindi: {{t-|hi|सीऐटल|tr=sī'aiṭal|sc=Deva}}
+* Japanese: {{t-|ja|シアトル|tr=Shiátoru|sc=Jpan}}
+* Korean: {{t-|ko|시애틀|tr=Siaeteul|sc=Kore}}
+* Persian: {{t-|fa|سیاتل|tr=Seyâtal|sc=fa-Arab}}
+* Russian: {{t-|ru|Сиэтл|m|tr=Siétl|sc=Cyrl}}
+* Turkish: {{t-|tr|Seattle}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[tsatlee#English|tsatlee]]
+
+[[Category:en:Cities]]
+[[Category:en:United States of America]]
+
+[[es:Seattle]]
+[[fr:Seattle]]
+[[hu:Seattle]]
+[[fi:Seattle]]
+[[zh:Seattle]]
