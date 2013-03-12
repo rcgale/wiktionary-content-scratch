@@ -1,0 +1,99 @@
+{{also|derék}}
+==English==
+
+===Alternative forms===
+* [[Derick]]
+* [[Derrick]]
+* [[Deryck]]
+{{rel-top|rare non-standard spellings}}
+* [[Darek]]
+* [[Darrick]]
+* [[Darriq]]
+* [[Dereck]]
+* [[Deric]]
+* [[Derik]]
+* [[Deriq]]
+{{rel-mid}}
+* [[Derreck]]
+* [[Derrek]]
+* [[Derrik]]
+* [[Derryck]]
+* [[Derryk]]
+* [[Deryk]]
+* [[Deryke]]
+{{rel-bottom}}
+
+===Etymology===
+Borrowed in the Middle Ages from a [[Low German]] variant of [[Theodoric]], Germanic ''þeud'' "people" + ''ric'' "ruler", and revived in the nineteenth century.<ref>Patrick Hanks and Flavia Hodges: A Concise Dictionary of First Names.Oxford University Press 2001.</ref>
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈdɛɹɪk/}}
+*: {{rhymes|ɛrɪk}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{given name|male|from=Germanic}}.
+#* '''1895''', ''The American Magazine'', Crowell-Collier Pub. co.,1895. page 446:
+#*: "Do you think so? Her husband has an odd name - '''Derek''' Keppel. He is a musician - a violinist."
+#* '''1974''', [[w:Joseph Heller|Joseph Heller]], ''Something happened'', ISBN 0 224 01065 4, page 509:
+#*: We do not entertain as much anymore because of '''Derek'''. (He produces strain. We have to pretend he doesn't.) I used to like him when I still thought he was normal. I was fond of him. I used to call him Dirk, and Kiddo, Steamshovel, Dinky Boy, and Dicky Dare. Till I found out what he was. Now it's always formal: '''Derek'''.
+#* '''2010''' [[w:James Robertson (novelist)|James Robertson]], ''And the Land Lay Still'', Hamish Hamilton, ISBN 9780241143568, page 292:
+#*: Frederick or '''Derek''' Boothby was in his late fifties, the son of a naval officer and a daughter of the Earl of Limerick.
+
+====Usage notes====
+* Popular in the UK in mid-twentieth century.
+
+====Related terms====
+* [[Dedrick]]
+* [[Del]]
+* [[Derk]]
+* [[Derry]]
+* [[Dirk]]
+* [[Jerrick]]
+* [[Terry]]
+
+====Translations====
+{{trans-top|given name}}
+* Catalan: [[Teodoric]]
+* Chinese: [[德瑞克]]
+* Croatian: [[Teodorik]]
+* Czech: [[Dětřich]]
+* Dutch: [[Diederik]], [[Diedrich]], [[Dirk]]
+* Esperanto: {{t-|eo|Teodoriko}}
+* Estonian: {{t-|et|Tiidrik}}, {{t-|et|Tiit}}
+* Faroese: [[Tíðrikur]]
+* French: {{t+|fr|Thierry}}
+* German: {{t+|de|Dietrich}}, {{t+|de|Dirk}}
+* Greek: {{t+|el|Θεοδώριχος|m|tr=Theodórichos}}
+* Hungarian: [[Detre]]
+* Icelandic: {{t+|is|Diðrik}}, {{t+|is|Þiðrik}}
+{{trans-mid}}
+* Italian: {{t+|it|Teodorico}}
+* Japanese: {{t-|ja|デレク|tr=dereku}}
+* Latin: [[Theodoricus]]
+* Latvian: {{t-|lv|Didzis|m}}
+* Norwegian: {{t-|no|Didrik}}
+* Polish: [[Teodoryk]]
+* Portuguese: {{t+|pt|Teodorico}}
+* Romanian: [[Teodoric]]
+* Russian: [[Дерек]]
+* Serbian: [[Теодорик]]
+* Slovene: [[Teodorik]]
+* Spanish: {{t+|es|Teodorico}}
+* Swedish: {{t-|sv|Didrik}}
+{{trans-bottom}}
+
+====References====
+<references/>
+* [http://www.behindthename.com/php/view.php?name=theodoric Behind the Name Article]
+* [http://www.thinkbabynames.com/meaning/1/Derek Think Baby Names Article]
+
+[[el:Derek]]
+[[ko:Derek]]
+[[no:Derek]]
+[[pl:Derek]]
+[[pt:Derek]]
+[[ru:Derek]]
+[[sr:Derek]]
+[[zh:Derek]]
