@@ -1,0 +1,54 @@
+{{wikipedia|dab=weirdo (disambiguation)|weirdo}}
+==English==
+
+===Etymology===
+From {{suffix|weird|o}}.
+
+===Pronunciation===
+* {{audio|en-us-weirdo.ogg|Audio (US)}}
+* {{rhymes|ɪə(r)dəʊ}}
+
+===Noun===
+{{en-noun|es|pl2=weirdos}}
+
+# {{slang}} A [[strange]], [[odd]], [[eccentric]] person.
+# {{slang}} An [[insane]], possibly [[dangerous]] person.
+
+====Synonyms====
+* See also [[Wikisaurus:mad person]]
+
+====Derived terms====
+* {{l|en|queerdo}}
+
+====Translations====
+{{trans-top|strange person}}
+* Czech: {{t-|cs|podivín|m}}
+* French: {{t+|fr|loufoque}}
+* {{trreq|Georgian}}
+* Japanese: {{t-|ja|変な人|tr=hen na hito}}
+* Russian: {{t+|ru|чудак|tr=chudak}}
+{{trans-mid}}
+* Scottish Gaelic: {{t-|gd|baoghal|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|чудак}}
+*: Roman: {{t-|sh|čudak}}
+* Spanish: {{t+|es|excéntrico|m}}
+{{trans-bottom}}
+
+===See also===
+* [[oddball]]
+* [[wingnut]]
+* [[sicko]]
+
+===Anagrams===
+* [[rowdie#English|rowdie]], [[wordie#English|wordie]]
+
+[[fr:weirdo]]
+[[ko:weirdo]]
+[[hu:weirdo]]
+[[oc:weirdo]]
+[[pl:weirdo]]
+[[ru:weirdo]]
+[[fi:weirdo]]
+[[sv:weirdo]]
+[[vi:weirdo]]
