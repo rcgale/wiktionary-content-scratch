@@ -1,0 +1,44 @@
+==English==
+
+===Etymology===
+From {{etyl|enm|en}}, from {{etyl|la|en}} {{term|gibbus||humped, hunched|lang=la}}, probably cognate with {{term/t|la|cubō||bend oneself, lie down}}, Italian {{term|gobba||humpback|lang=it}}, Greek {{term|sc=Grek|κύφος|tr=kyphos||humpback, bent|lang=el}},  {{term|sc=Grek|κύβος|tr=kybos||cube, vertebra|lang=el}}.
+
+===Pronunciation===
+* {{IPA|/ˈɡɪbəs/}}
+* {{rhymes|ɪbəs}}
+
+===Adjective===
+{{en-adj}}
+
+# Characterized by [[convex|convexity]]; [[protuberant]].
+# {{context|astronomy|lang=en}} Phase of [[moon]] or [[planet]] between first quarter and full or between full and last [[quarter]].
+# [[humpback|Humpbacked]].
+
+====Derived terms====
+* [[gibbous moon]]
+
+====Translations====
+{{trans-top|characterized by convexity; protuberant}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|phase of moon or planet}}
+* French: {{t+|fr|gibbeux|m}}, {{t+|fr|gibbeuse|f}}
+* Navajo: {{tø|nv|nitʼą́ą́ hanádzá}}
+{{trans-mid}}
+* [[Scottish Gaelic]]: {{t-|gd|crotach}}
+{{trans-bottom}}
+
+{{trans-see|humpbacked}}
+
+[[et:gibbous]]
+[[io:gibbous]]
+[[ml:gibbous]]
+[[my:gibbous]]
+[[pl:gibbous]]
+[[ru:gibbous]]
+[[fi:gibbous]]
+[[ta:gibbous]]
+[[te:gibbous]]
+[[vi:gibbous]]
+[[zh:gibbous]]
