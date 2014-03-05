@@ -1,0 +1,98 @@
+==Icelandic==
+
+===Etymology===
+{{rfe|lang=is}}
+
+===Pronunciation===
+{{rfp|lang=is}}
+
+===Noun===
+{{is-noun|f|myntar|myntir}}
+
+# a [[coin]]{{jump|is|coin|s}}
+# a [[currency]]{{jump|is|currency|s}}
+
+====Declension====
+{{rfinfl|is|noun}}
+
+====Derived terms====
+* [[Efnahags- og myntbandalagið]] (Economic and Monetary Union)
+* [[erlend mynt]]
+* [[gullmynt]] (gold specie)
+* [[innleiðing sameiginlegu myntarinnar]] (introduction of the single currency)
+* [[myntaskja]] (coin box)
+* [[myntbandalag]] (Monetary Union)
+* [[Myntbandalag Evrópu]] (European Monetary Union)
+* [[mynteining]] (monetary unit)
+* [[myntflokkun]] (coin-sorting)
+* [[myntflokkunarvél]] (coin-sorting machine)
+* [[myntfræði]] (numismatics)
+* [[myntpökkun]] (coin-wrapping)
+* [[myntpökkunarvél]] (coin-wrapping machine)
+* [[myntslátta]] (striking of coins)
+* [[myntsímasjálfsali]] (coin operated public pay-telephone)
+* [[myntstýrður leikur]] (coin-operated game)
+* [[mynttalning]] (coin-counting)
+* [[mynttalningarvél]] (coin-counting machine)
+* [[óslegin mynt]] (coin blank)
+* [[slá mynt]]
+* [[svara í sömu mynt]]
+* [[vél til að meðhöndla mynt]] (coin-handling machine)
+
+====Synonyms====
+* {{jump|s|is|coin}} [[peningur]]
+* {{jump|s|is|currency}} [[gjaldmiðill]]
+
+----
+
+==Norwegian==
+
+===Noun===
+{{head|no|noun|g=m}}
+
+# [[coin]] (a piece of currency)
+
+{{tbot entry|Norwegian|coin|2008|October|no}}
+
+----
+
+==Swedish==
+{{wikipedia|lang=sv}}
+
+===Pronunciation===
+* {{IPA|/mʏnt/|lang=sv}}
+* {{audio|Sv-mynt.ogg|audio}}
+
+===Noun===
+{{sv-noun|n}}
+
+# [[coin]]; a piece of currency
+
+====Declension====
+{{sv-noun-n-zero}}
+
+====See also====
+* [[mynta]]
+* [[ge tillbaka med samma mynt]]
+
+[[et:mynt]]
+[[el:mynt]]
+[[es:mynt]]
+[[fr:mynt]]
+[[ko:mynt]]
+[[io:mynt]]
+[[ka:mynt]]
+[[li:mynt]]
+[[hu:mynt]]
+[[mg:mynt]]
+[[nl:mynt]]
+[[no:mynt]]
+[[pl:mynt]]
+[[pt:mynt]]
+[[ru:mynt]]
+[[fi:mynt]]
+[[sv:mynt]]
+[[tl:mynt]]
+[[chr:mynt]]
+[[tr:mynt]]
+[[vi:mynt]]
