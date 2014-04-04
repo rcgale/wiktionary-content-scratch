@@ -1,0 +1,41 @@
+==Translingual==
+
+===Alternative forms===
+* {{sense|roman numeral}} [[ccc]], [[CCD]], [[ccd]], [[CCLL]], [[ccll]]
+
+===Number===
+'''CCC'''
+
+# A Roman numeral representing [[three hundred]] ([[300]]).
+
+====See also====
+* Previous: [[CCXCIX]] ([[two hundred and ninety-nine]], [[299]])
+* Next: [[CCCI]] ([[three hundred and one]], [[301]])
+
+[[Category:Roman numerals]]
+
+----
+
+==English==
+
+==={{initialism-old|en}}===
+'''CCC'''
+
+# {{w|Copyright Clearance Center}}
+# {{w|Civilian Conservation Corps}}
+# {{w|Chaos Computer Club}}
+# {{w|California Conservation Corps}}
+
+----
+==German==
+==={{initialism-old|de}}===
+{{head|de}}
+
+# {{w|Chaos Computer Club}}
+
+[[de:CCC]]
+[[fr:CCC]]
+[[sk:CCC]]
+[[ta:CCC]]
+[[th:CCC]]
+[[tr:CCC]]
