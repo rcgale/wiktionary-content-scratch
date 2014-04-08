@@ -1,0 +1,36 @@
+==English==
+
+===Etymology===
+{{suffix|aspiration|al}}
+
+===Pronunciation===
+{{rfp|lang=en}}
+* {{audio|Aspirational US.ogg|Audio (U.S.A.)|lang=en}}
+
+===Adjective===
+{{en-adj}}
+# Being [[ambitious]].
+# [[desiring|Desiring]] [[success]].
+# {{context|legal|lang=en}} expressing a hope or intention but not creating a legally binding obligation.
+
+====Translations====
+{{trans-top|being ambitious}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|desiring success}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|fr}}: {{t+|fr|aspirationnel|m}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A person with [[aspirations]].
+
+[[et:aspirational]]
+[[io:aspirational]]
+[[ru:aspirational]]
