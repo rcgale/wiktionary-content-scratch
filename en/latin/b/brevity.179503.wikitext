@@ -1,0 +1,92 @@
+==English==
+
+===Etymology===
+First attested in English in 1509; either:
+* Borrowed directly from {{etyl|la|en}} {{term/t|la|brevitās}}; or
+* from {{etyl|xno|en}} {{term|brevité|lang=fro}} < from {{etyl|fro|en}} {{term|brieveté|lang=fro}} < from {{etyl|la|en}} {{term/t|la|brevitātem}}, accusative of {{term/t|la|brevitās}}, from {{term|brevis||short|lang=la}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈbɹɛv.ɪ.ti/}}
+
+===Noun===
+{{en-noun|~|brevities}}
+
+# {{context|uncountable|lang=en}} The quality of being [[brief]] in duration.
+#* {{quote-book
+|year=2005
+|author=Bill Bryson
+|title=A short history of nearly everything
+|passage= Thanks to Global Positioning Systems we can see that Europe and North America are parting at about the speed a fingernail grows—roughly two yards in a human lifetime. If you were prepared to wait long enough, you could ride from Los Angeles all the way up to San Francisco. It is only the [[brevity]] of lifetimes that keeps us from appreciating the changes.}}
+# {{context|uncountable|lang=en}} [[succinctness|Succinctness]]; [[conciseness]].
+#* {{quote-book
+|year=1966
+|author=Jackson E. Morris
+|title=Principles of scientific and technical writing
+|passage=A good technical writing style will now be defined as a style possessing clarity, '''brevity''', and variety.}}
+# {{context|rare|countable|lang=en}} A short piece of writing.
+
+====Derived terms====
+* {{l|en|brevitic}}
+* {{l|en|brevity is the soul of wit}}
+
+====Related terms====
+{{rel-top|terms related to ''brevity''}}
+* {{l|en|breve}}
+{{rel-mid}}
+* {{l|en|brief}}
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|the quality of being brief in duration}}
+* Bulgarian: {{t|bg|кракост|f}}, {{t+|bg|краткотрайност|f}}
+* Czech: {{t|cs|krátkost|f}}
+* French: {{t+|fr|concision|f}}
+* German: {{t+|de|Kürze|f}}
+* Latin: {{t|la|brevitās|f}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|korthet}}
+*: Nynorsk: {{t|nn|stuttleik}}
+* Russian: {{t+|ru|краткость|f|tr=krátkost'}}
+* Turkish: {{t+|tr|kısalık}}
+{{trans-bottom}}
+
+{{trans-top|succinctness; conciseness}}
+* Bulgarian: {{t+|bg|сбитост|f}}
+* Czech: {{t|cs|stručnost|f}}
+* German: {{t|de|Bündigkeit|f}}, {{t+|de|Knappheit|f}}
+{{trans-mid}}
+* Latin: {{t|la|brevitās|f}}
+* Russian: {{t+|ru|краткость|f|tr=krátkost'}}, {{t+|ru|лаконичность|f|tr=lakoníčnost'}}
+* Turkish: {{t|tr|özlülük}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|ar}}: {{t|ar|إيجاز - إجمال- قصر|f|sc=Arab}}
+{{trans-bottom}}
+
+===See also===
+* [[Appendix:Brief amounts of time]]
+
+[[ca:brevity]]
+[[cs:brevity]]
+[[et:brevity]]
+[[el:brevity]]
+[[eo:brevity]]
+[[fr:brevity]]
+[[ko:brevity]]
+[[hy:brevity]]
+[[io:brevity]]
+[[kn:brevity]]
+[[ky:brevity]]
+[[hu:brevity]]
+[[ml:brevity]]
+[[my:brevity]]
+[[pl:brevity]]
+[[ro:brevity]]
+[[ru:brevity]]
+[[sv:brevity]]
+[[ta:brevity]]
+[[te:brevity]]
+[[vi:brevity]]
+[[zh:brevity]]
