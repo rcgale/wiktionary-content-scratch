@@ -1,0 +1,103 @@
+==English==
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/dɪsəˈpɔɪntmənt/}}
+* {{audio|en-us-disappointment.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# {{context|uncountable|lang=en}} The emotion felt when a strongly held [[expectation]] is not met.
+#: ''Choking back his disappointment after his own team's splendid wins against Liverpool and Aston Villa, he said: "I've got to be humble and say we were beaten by a very good side."'' &mdash; ''Today'', News Group Newspapers Ltd, 1992
+# {{context|countable|lang=en}} A circumstance in which a strongly held expectation is not met.
+#* {{quote-news
+|year=2012
+|date=May 5
+|author=Phil McNulty
+|title=Chelsea 2-1 Liverpool
+|work=BBC Sport
+|url=http://www.bbc.co.uk/sport/0/football/17878435
+|page=
+|passage=For Liverpool, their season will now be regarded as a relative '''disappointment''' after failure to add the FA Cup to the Carling Cup and not mounting a challenge to reach the Champions League places.}}
+#: ''As the disappointments crowded in &mdash; the economy, Rhodesia, strife within the trade-union movement &mdash; [[w:Harold Wilson|Wilson]] tried the expedient of a semi-formal inner Cabinet, or Parliamentary Committee, as he misleadingly liked to call it.'' &mdash; ''Cabinet'', Hennessy, Peter, Basil Blackwell Ltd, 1990
+
+====Related terms====
+* [[disappoint]]
+
+====Translations====
+{{trans-top|emotion}}
+* Arabic: {{t|ar|خيبة أمل|f|tr=ḵáybat ámal|sc=Arab}}
+* Armenian: {{t|hy|հիասթափություն}}
+* Bulgarian: {{t+|bg|разочарова́ние|n}}
+* Chinese:
+*: Mandarin: {{t+|cmn|失望|tr=shīwàng|sc=Hani}}
+* Czech: {{t|cs|zklamání|n}}
+* Dutch: {{t+|nl|teleurstelling|f}}
+* Esperanto: {{t|eo|malkontentigo}}
+* Finnish: {{t|fi|pettymys}}
+* French: {{t+|fr|déception|f}}
+* German: {{t+|de|Enttäuschung|f}}
+* Greek: {{t+|el|απογοήτευση|f}}
+* Hebrew: {{t+|he|אכזבה|f|tr=akhzava|sc=Hebr}}
+* Icelandic: {{t|is|vonbrigði|n-p}}
+* Japanese: {{t+|ja|失望|tr=しつぼう, shitsubō|sc=Jpan}}
+* Korean: {{t+|ko|실망|tr=silmang|sc=Kore}} ({{t+|ko|失望|sc=Kore}})
+* Malayalam: {{t+|ml|നിരാശ|sc=Mlym}}, {{t+|ml|ഇച്ഛാഭംഗം|sc=Mlym}}
+{{trans-mid}}
+* Maori: {{t|mi|ketekete}}
+* Norwegian:
+*: Bokmål: {{t|nb|skuffelse|m}}
+*: Nynorsk: {{t|nn|vonbrot|n}}, {{t|nn|vonbrott|n}}, {{t|nn|skuffelse|m}}
+* Polish: {{t+|pl|rozczarowanie|n}}, {{t+|pl|zawód|m}}
+* Portuguese: {{t+|pt|decepção|f}}
+* Romanian: {{t+|ro|dezamăgire|f}}, {{t+|ro|decepție|f}}
+* Russian: {{t+|ru|разочарова́ние|n}}
+* Scottish Gaelic: {{t|gd|briseadh-dùil|m}}, {{t|gd|mealladh-dùil|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|разочарење|n}}
+*: Roman: {{t|sh|razočarenje|n}}
+* Slovene: {{t|sl|razočaranje|n}}
+* Spanish: {{t+|es|decepción|f}}
+* Telugu: {{t|te|ఆశాభంగం|tr=aaSaabhaMgaM|sc=Telu}}
+* Vietnamese: {{t+|vi|thất vọng|alt=sự thất vọng}} ({{t+|vi|sự}} + {{t|vi|失望}})
+{{trans-bottom}}
+
+{{trans-top|circumstance}}
+* Bulgarian: {{t+|bg|неприя́тност|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|失望|tr=shīwàng|sc=Hani}}
+* Dutch: {{t+|nl|tegenvaller}}, {{t+|nl|tegenslag}}
+{{trans-mid}}
+* Finnish: {{t|fi|pettymys}}
+* Russian: {{t+|ru|неприя́тность|f}}, {{t+|ru|разочарова́ние|n}}
+* Scottish Gaelic: {{t|gd|briseadh-dùil|m}}, {{t|gd|mealladh-dùil|m}}
+{{trans-bottom}}
+
+[[de:disappointment]]
+[[et:disappointment]]
+[[el:disappointment]]
+[[es:disappointment]]
+[[fr:disappointment]]
+[[ko:disappointment]]
+[[hy:disappointment]]
+[[io:disappointment]]
+[[it:disappointment]]
+[[kk:disappointment]]
+[[ku:disappointment]]
+[[li:disappointment]]
+[[hu:disappointment]]
+[[mg:disappointment]]
+[[ml:disappointment]]
+[[my:disappointment]]
+[[ja:disappointment]]
+[[pl:disappointment]]
+[[pt:disappointment]]
+[[ro:disappointment]]
+[[ru:disappointment]]
+[[simple:disappointment]]
+[[fi:disappointment]]
+[[sv:disappointment]]
+[[ta:disappointment]]
+[[chr:disappointment]]
+[[vi:disappointment]]
+[[zh:disappointment]]
