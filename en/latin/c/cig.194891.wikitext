@@ -1,0 +1,63 @@
+==English==
+
+===Etymology===
+{{clipping|cigarette|lang=en}}
+
+===Pronunciation===
+* {{IPA|/ˈsɪɡ/|lang=en}}
+* {{rhymes|ɪɡ|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# [[cigarette]]
+
+===Anagrams===
+* {{l|en|CGI}}
+* {{l|en|GCI}}
+
+[[Category:en:Smoking]]
+
+----
+
+==Lojban==
+
+===Rafsi===
+{{jbo-rafsi}}
+
+# {{jbo-rafsi of|cigla}}
+
+----
+==Welsh==
+
+===Etymology===
+From {{etyl|cel-pro|ga}} {{m|cel-pro|*kīkos||breast}}; compare Breton {{m|br|kig||meat}}, Middle Irish {{m|mga|cích||breast}}.
+
+===Pronunciation===
+* {{IPA|[kiːɡ]|lang=cy}}
+
+===Noun===
+{{cy-noun|m|cigoedd}}
+
+# [[meat]] {{gloss|animal flesh used as food}}
+
+===Mutation===
+{{cy-mut-c|ig}}
+
+[[ast:cig]]
+[[br:cig]]
+[[cy:cig]]
+[[es:cig]]
+[[fr:cig]]
+[[gl:cig]]
+[[io:cig]]
+[[jv:cig]]
+[[lo:cig]]
+[[hu:cig]]
+[[mg:cig]]
+[[nl:cig]]
+[[pl:cig]]
+[[fi:cig]]
+[[chr:cig]]
+[[tr:cig]]
+[[vi:cig]]
