@@ -1,0 +1,26 @@
+==English==
+
+===Etymology===
+{{prefix|penta|tonic|lang=en}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{context|music|lang=en}} Based on five tones.
+#: ''The middle movement is completely pentatonic, giving it an unusual sound.''
+
+====Related terms====
+* [[diatonic]]
+* [[pentatonic scale]]
+
+====Translations====
+{{trans-top|based on five notes}}
+* Catalan: {{t|ca|pentatònic}}
+* Finnish: {{t+|fi|pentatoninen}}, {{t|fi|viisisävelinen}}
+{{trans-mid}}
+* French: {{t+|fr|pentatonique|m|f}}
+{{trans-bottom}}
+
+[[ro:pentatonic]]
+[[ta:pentatonic]]
+[[zh:pentatonic]]
