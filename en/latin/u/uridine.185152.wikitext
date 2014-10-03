@@ -1,0 +1,29 @@
+==English==
+[[File:Uridin.svg|right|thumb|Structure diagram of uridine]]
+{{wikipedia}}
+
+===Pronunciation===
+* {{IPA|/ˈjʊə.ɹɪ.din/|lang=en}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# {{context|organic compound|biochemistry|lang=en}} A [[nucleoside]] formed from [[uracil]] and [[ribose]].
+
+====Derived terms====
+* [[azauridine]]
+* [[deoxyuridine]]
+* [[uridine monophosphate]]
+* [[uridine disphospate]]
+* [[uridine triphosphate]]
+
+===See also===
+* [[UMP]]
+* [[UTP]]
+
+[[fr:uridine]]
+[[ko:uridine]]
+[[hy:uridine]]
+[[pl:uridine]]
+[[zh:uridine]]
