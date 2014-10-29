@@ -1,0 +1,8 @@
+==English==
+
+===Noun===
+{{en-noun|acquiescencies}}
+# The quality of being [[acquiescent]]; [[acquiescence]].
+
+===References===
+* {{R:Webster 1913}}
