@@ -1,0 +1,73 @@
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|po|slati|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/pǒslati/|lang=sh}}
+* {{hyphenation|po|sla|ti|lang=sh}}
+
+===Verb===
+{{sh-verb|head=pòslati|r|послати|по̀слати|a=pf}}
+
+# {{context|transitive|lang=sh}} to [[send]]
+
+====Conjugation====
+{{sh-conj
+|p.va=pòslāvši
+|pr.1s=pošaljem
+|pr.2s=pošalješ
+|pr.3s=pošalje
+|pr.1p=pošaljemo
+|pr.2p=pošaljete
+|pr.3p=pošalju
+|f1.hr=poslat
+|f1.stem=posla
+|a.1s=poslah
+|a.2s=posla
+|a.3s=posla
+|a.1p=poslasmo
+|a.2p=poslaste
+|a.3p=poslaše
+|impt.2s=pošalji
+|impt.1p=pošaljimo
+|impt.2p=pošaljite
+|app.ms=poslao
+|app.fs=poslala
+|app.ns=poslalo
+|app.mp=poslali
+|app.fp=poslale
+|app.np=poslala
+|ppp.ms=poslan
+|ppp.fs=poslana
+|ppp.ns=poslano
+|ppp.mp=poslani
+|ppp.fp=poslane
+|ppp.np=poslana
+}}
+
+====Related terms====
+* {{l|sh|slȁti|g=impf}}
+
+----
+
+==Slovene==
+
+===Etymology===
+From {{etyl|sla-pro|sl}} {{m|sla-pro|*posъlati}}, from {{m|sla-pro|*po}} + {{m|sla-pro|*sъlati}}.
+
+===Verb===
+{{sl-verb|posláti|pf|pósljem|poslàl}}
+
+# [[send]] (make something go somewhere)
+
+====Conjugation====
+{{rfinfl|sl|verb}}
+
+[[ko:poslati]]
+[[hr:poslati]]
+[[mg:poslati]]
+[[sl:poslati]]
+[[sh:poslati]]
+[[fi:poslati]]
+[[chr:poslati]]
