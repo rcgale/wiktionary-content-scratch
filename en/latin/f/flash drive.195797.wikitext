@@ -1,0 +1,34 @@
+==English==
+
+===Noun===
+{{en-noun|head=[[flash]] [[drive]]}}
+
+# A small [[electronic]] device used to store [[digital]] [[data]], more [[portable]] and [[robust]] than a [[hard drive]], ranging in capacities from 64MB to 256GB.
+
+====Synonyms====
+
+* [[USB]] flash drive
+* [[USB key]]
+* [[jump drive]]
+* [[thumb drive]]
+* [[pen drive]]
+
+====Translations====
+{{trans-top|storage device}}
+* Catalan: {{t+|ca|llapis de memòria|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|閃盤|sc=Hani}}, {{t|cmn|闪盘|tr=shǎnpán|sc=Hani}}, {{t+|cmn|優盤|sc=Hani}}, {{t|cmn|优盘|tr=yōupán|sc=Hani}}
+* Danish: {{t|da|usb-stik}} / {{t|da|USB-stik|n}}, {{t|da|usb-nøgle}} / {{t|da|USB-nøgle|c}}
+* Finnish: {{t|fi|flash-ajuri}}, {{t+|fi|muistitikku}}, {{t|fi|USB-muisti}}
+* French: {{t+|fr|clé USB|f}}
+{{trans-mid}}
+* German: {{t|de|Flash-Laufwerk|n}}
+* Japanese: {{t|ja|フラッシュドライブ|tr=furasshudoraibu|sc=Jpan}}
+* Korean: {{t|ko|플래시 드라이브|sc=Kore}}
+* Russian: {{t|ru|флэш-накопитель|m|tr=fleš-nakopítel'|sc=Cyrl}}, {{qualifier|colloquial}} {{t+|ru|флэшка|f|tr=fléška|sc=Cyrl}}
+* Swedish: {{t+|sv|USB-minne|n}}, {{t+|sv|USB-sticka|c}}
+* Turkish: {{t|tr|bellek aygıtı}}, {{t|tr|flash disk}}, {{t|tr|flaş sürücüsü}}, {{t|tr|hafıza ünitesi}}, {{t|tr|USB bellek}}, {{t|tr|USB çubuk}}
+{{trans-bottom}}
+
+[[fr:flash drive]]
+[[tr:flash drive]]
