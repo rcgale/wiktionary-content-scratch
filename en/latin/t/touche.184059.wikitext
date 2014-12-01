@@ -1,0 +1,54 @@
+{{also|touché}}
+==English==
+
+===Interjection===
+{{en-interj}}
+
+# {{alternative spelling of|touché|lang=en}}
+
+----
+
+==French==
+
+===Etymology===
+From the verb ''[[toucher]]''
+
+===Pronunciation===
+* {{audio|Fr-touche.ogg|audio|lang=fr}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[touch]]
+# [[key]] (on keyboard)
+# [[fingerboard]]
+
+===Verb===
+{{fr-verb-form}}
+
+# {{inflection of|toucher||1|s|pres|indc|lang=fr}}
+# {{inflection of|toucher||3|s|pres|indc|lang=fr}}
+# {{inflection of|toucher||1|s|pres|subj|lang=fr}}
+# {{inflection of|toucher||3|s|pres|subj|lang=fr}}
+# {{inflection of|toucher||2|s|impr|lang=fr}}
+
+===Anagrams===
+* [[choute#French|choute]]
+
+===External links===
+* {{R:TLFi}}
+
+[[cs:touche]]
+[[de:touche]]
+[[fr:touche]]
+[[ko:touche]]
+[[io:touche]]
+[[li:touche]]
+[[hu:touche]]
+[[nl:touche]]
+[[pl:touche]]
+[[ru:touche]]
+[[fi:touche]]
+[[sv:touche]]
+[[chr:touche]]
+[[vi:touche]]
