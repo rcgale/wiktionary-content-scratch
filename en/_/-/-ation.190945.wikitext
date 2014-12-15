@@ -1,0 +1,117 @@
+{{also|-âtion}}
+==English==
+
+===Alternative forms===
+* [[⠠⠝]] {{qualifier|Braille}}
+
+===Etymology===
+From the {{etyl|la|en}} suffix {{m|la|-ātiō}}, an alternative form of {{m|la|-tiō}} (whence {{term|-tion|lang=en}}).
+
+===Suffix===
+{{en-suffix}}
+
+# An [[action]] or [[process]] - e.g. [[hibernation]].
+# The [[result]] of an action or process - e.g. [[accumulation]].
+# A [[state]] or [[quality]] - e.g. [[exhilaration]].
+
+====Related terms====
+* [[-tion]]
+
+====Derived terms====
+* [[-ification]]
+* [[-ization]]/[[-isation]]
+* [[-ational]]
+{{suffixsee|en}}
+
+====Translations====
+{{trans-top|-ation (suffix)}}
+* Arabic: {{t|ar|ية|alt=ـية|tr=-íyya}}
+* Belarusian: {{t|be|-ацыя|f|tr=-ácyja}}
+* Bulgarian: {{t|bg|-ация|f|tr=-ácija}}
+* Catalan: {{t|ca|-ació|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|化|alt=-化|tr=-huà|sc=Hani}}
+* Czech: {{t|cs|-ace|f}}
+* Dutch: {{t+|nl|-tie|f}}, {{t+|nl|-atie|f}}
+* Estonian: {{t|et|-atsioon}}
+* Finnish: {{t|fi|-aatio}}
+* French: {{t+|fr|-ation|f}}
+*: Old French: {{t|fro|-ation}}, {{t|fro|-acion}}
+*: Middle French: {{t|frm|-ation}}
+* Galician: {{t|gl|-ación|f}}
+* German: {{t|de|-ation|f}}, {{t|de|-ierung|f}}
+* Indonesian: {{t|id|-sasi}}
+* Japanese: {{t+|ja|化|alt=-化|tr=-か, -ka}}
+* Jèrriais: {{t|roa-jer|-âtion|f}}
+{{trans-mid}}
+* Korean: {{t+|ko|화|alt=-화|sc=Hang}} ({{t+|ko|化|alt=-化|sc=Hani}})
+* Macedonian: {{t|mk|-ација|f|tr=-ácija}}
+* Malay: {{t|ms|-asi}}
+* Occitan: {{t|oc|-acion|f}}
+* Polish: {{t|pl|-acja}}
+* Portuguese: {{t|pt|-ação|f}}
+* Romanian: {{t|ro|-are}}, {{t|ro|-ire}}
+* Russian: {{t|ru|-ация|f|tr=-ácija}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|-ација|f}}
+*: Roman: {{t|sh|-acija|f}}
+* Slovak: {{t|sk|-ácia|f}}
+* Slovene: {{t|sl|-acija|f}}
+* Spanish: {{t|es|-ación|f}}
+* Swedish: {{t|sv|-ation}}
+* Ukrainian: {{t|uk|-ація|f|tr=-ácija}}
+* Vietnamese: {{t+|vi|hoá|alt=... hoá}}
+{{trans-bottom}}
+
+----
+
+==French==
+
+===Alternative forms===
+* {{l/fr|-sion}}
+* {{l/fro|-tion}}
+* {{l/fro|-xion}}
+
+===Etymology===
+From {{etyl|fro|fr}} {{term|-ation|lang=fro}}, from {{etyl|la|fr}} {{m|la|-ātiō}}.
+
+===Pronunciation===
+* {{IPA|/a.sjɔ̃/|lang=fr}}
+
+===Suffix===
+{{fr-suffix}}
+
+# {{l/en|-ation}}
+
+====Derived terms====
+{{suffixsee|fr}}
+
+----
+
+==Middle French==
+
+===Alternative forms===
+* {{l|frm|-acion}}
+
+===Suffix===
+{{head|frm|suffix}}
+
+# {{l/en|-ation}}
+
+----
+
+==Old French==
+
+===Alternative forms===
+* {{l/fro|-acion}}
+* {{l/fro|-aciun}}
+* {{l/fro|-atiun}}
+
+===Suffix===
+{{head|fro|suffix}}
+
+# {{l/en|-ation}}
+
+[[de:-ation]]
+[[fr:-ation]]
+[[pl:-ation]]
