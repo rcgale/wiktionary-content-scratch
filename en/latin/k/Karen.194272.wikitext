@@ -1,0 +1,118 @@
+==English==
+{{wikipedia}}
+
+===Etymology 1===
+From {{etyl|da|en}} {{term|Karen|lang=da}}.
+
+====Pronunciation====
+* {{a|UK}} {{IPA|/ˈkaɹən/|lang=en}}
+* {{a|US}} {{IPA|/ˈkæɹən/|/ˈkɛɹən/|/ˈkɑɹən/|/ˈkɛɚn/|/ˈkɑɚn/|lang=en}}
+* {{rhymes|æɹən|ɛɹən|ɛə(ɹ)n|ɑː(ɹ)n|lang=en}}
+* {{homophones|lang=en|caring|cairn|carn}} {{qualifier|some American accents}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# {{given name|female|from=Ancient Greek}}. First taken up as a given name in the U.S.A., and popular in the English-speaking world from the 1950s to the 1970s.
+#* '''1878''' [[w:Celia Thaxter|Celia Thaxter]], ''Drift-Weed'', Houghton, Osgood,1878, page 28 ("Karen"):
+#*: Left you a lover in that far land, / O '''Karen''' sad, that you pine so long! / Would I could unravel and understand / That sorrowful, sweet Norwegian song!
+#* '''1918''' Cecily Ullman Sidgwick, ''Karen'', W.Collins, 1918, page 12:
+#*: I was not called '''Karen''' after Hans Andersen's dancing girl, but after a Danish friend of my mother's who married an Englishman and was my godmother. So much for our family affairs.
+
+===Etymology 2===
+From {{etyl|my|en}} {{term|ကရင်||wild, low-caste man|lang=my|tr=ka.rang}}.
+
+====Pronunciation====
+* {{a|GenAm|RP}} {{IPA|/kəˈɹɛn/|lang=en}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# A group of languages of [[Myanmar]] and [[Thailand]].
+
+====External links====
+[http://www.ethnologue.com/show_family.asp?subid=90271 Ethnologue report on the Karen languages]
+
+===Etymology 3===
+
+====Proper noun====
+{{en-proper noun}}
+
+# {{non-gloss definition|A transliteration of the Armenian male given name [[Կարեն]]}}.
+
+===Anagrams===
+* [[anker#English|anker]],  [[naker#English|naker]]
+
+[[Category:en:Languages]]
+[[Category:en:Armenian male given names]]
+
+[[Category:en:Burma]]
+----
+
+==Danish==
+
+===Etymology===
+A medieval variant of {{term|Katharina||[[Catherine]]|lang=da}}.
+
+===Proper noun===
+{{head|da|proper noun}}
+
+# {{given name|female|lang=da}}.
+
+===References===
+* [http://www.danskernesnavne.navneforskning.ku.dk/ ] Danskernes Navne, based on CPR data: 83 320 females with the given name Karen have been registered in Denmark between about 1890 (=the population alive in 1967) and January 2005, with the frequency peak in the 1910s. Accessed on 19 May 2011. 
+
+----
+
+==German==
+
+===Alternative forms===
+* {{l|de|Caren}}
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{given name|female|lang=de}} borrowed from {{etyl|da|de}} Karen.
+
+----
+
+==Icelandic==
+
+===Pronunciation===
+* {{IPA|/ˈkʰaːrɛ(ː)n/|lang=is}}
+
+===Proper noun===
+{{head|is|proper noun|g=f}}
+
+# {{given name|female|lang=is}}
+
+====Declension====
+{{is-decl-noun-f-s1|Kar|e|n|u=u}}
+Sometimes also ''Karen'' in accusative and dative.
+
+----
+
+==Norwegian==
+
+===Proper noun===
+{{head|no|proper noun}}
+
+# {{given name|female|lang=no}} of Danish origin.
+
+[[ar:Karen]]
+[[ca:Karen]]
+[[de:Karen]]
+[[es:Karen]]
+[[fr:Karen]]
+[[ko:Karen]]
+[[is:Karen]]
+[[li:Karen]]
+[[my:Karen]]
+[[no:Karen]]
+[[pl:Karen]]
+[[ru:Karen]]
+[[sr:Karen]]
+[[fi:Karen]]
+[[sv:Karen]]
+[[ta:Karen]]
+[[zh:Karen]]
