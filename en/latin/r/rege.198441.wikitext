@@ -1,0 +1,184 @@
+==Dutch==
+
+===Pronunciation===
+* {{rhymes|eːɣə|lang=nl}}
+
+===Verb===
+{{nl-verb-form}}
+
+# {{nl-verb form of|n=sg|t=past|m=subj|rijgen}}
+
+===Anagrams===
+* [[reeg#Dutch|reeg]]
+
+----
+
+==German==
+
+===Etymology===
+From the verb ''[[regen]]''
+
+===Adjective===
+{{de-adj|reger|regesten}}
+
+# [[brisk]], [[lively]]
+
+====Declension====
+{{de-decl-adj|reg|reger|regest}}
+
+====Synonyms====
+* {{l/de|munter}}
+* {{l/de|lebhaft}}
+
+====Antonyms====
+* {{l/de|müde}}
+* {{l/de|matt}}
+* {{l/de|schlapp}}
+
+====Related terms====
+* {{l/de|angeregt}}
+* {{l/de|anregend}}
+
+===Verb===
+{{head|de|verb form}}
+
+# ''Form of [[regen#German|regen]]''
+
+===External links===
+* {{R:Duden}}
+
+----
+
+==Hungarian==
+
+===Pronunciation===
+* {{IPA|/ˈrɛɡɛ/|lang=hu}}
+* {{hyphenation|re|ge|lang=hu}}
+
+===Noun===
+{{hu-noun|pl=regék}}
+
+# [[myth]], [[tale]], [[saga]], [[legend]]
+
+====Declension====
+{{hu-decl-k-front1|reg|é}}{{hu-pos-tek|regé}}
+
+[[Category:hu:Literature]]
+
+----
+
+==Latin==
+
+===Noun===
+{{la-noun-form|rēge}}
+
+# {{inflection of|rēx||abl|s|lang=la}}
+
+===Verb===
+{{la-verb-form|rege}}
+
+# {{inflection of|regō||2|s|pres|actv|impr|lang=la}}
+
+----
+
+==Novial==
+
+===Etymology===
+A root word.
+
+Root: [[reg-]].
+
+Morphemes: [[reg-]] + [[-e (1)]].
+
+===Noun===
+{{nov-noun}}
+
+# [[monarch]], [[king]] or [[queen]]
+
+====Related terms====
+{|
+|[[rego]] ||   { n }   || [[king]]
+|-
+|[[rega]] ||   { n }   || [[queen]]
+|-
+|[[regia]] ||   { n }   || [[kingdom]]
+|-
+|[[regira]] ||   { v }   || [[reign]]
+|-
+|[[regiro]] ||   { n }   || [[reign]]
+|-
+|[[regido]] ||   { n }   || [[royal]] [[prince]]
+|-
+|[[regida]] ||   { n }   || [[royal]] [[princess]]
+|-
+|[[regal]] ||   { adj }   || [[regal]], [[royal]]
+|-
+|[[viserego]] ||   { n }   || [[viceroy]]
+|-
+|[[regonal]] ||   { adj }   || [[kingly]]
+|-
+|[[reganal]] ||   { adj }   || [[queenly]]
+|}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{pt-verb-form}}
+
+# {{inflection of|reger||3|s|pres|indc|lang=pt}}
+# {{inflection of|reger||2|s|impr|lang=pt}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{etyl|la|ro}} {{term|rēgem|lang=la}} (''accusative of {{term|rēx|lang=la}}''), probably a later borrowing.
+
+===Pronunciation===
+* {{IPA|[ˈre.d͡ʒe]|lang=ro}}
+
+===Noun===
+{{ro-noun|m|regi|f=regină}}
+
+# [[king]]
+# {{context|chess|lang=ro}} [[king]]
+
+====Declension====
+{{ro-noun-m-e|def=regel|pl=regi}}
+
+====Related terms====
+* [[regină]]
+* [[rigă]]
+
+====See also====
+* [[împărat]]
+
+[[cs:rege]]
+[[de:rege]]
+[[el:rege]]
+[[es:rege]]
+[[fr:rege]]
+[[fy:rege]]
+[[ko:rege]]
+[[io:rege]]
+[[jv:rege]]
+[[kn:rege]]
+[[ku:rege]]
+[[lt:rege]]
+[[hu:rege]]
+[[mg:rege]]
+[[ja:rege]]
+[[pl:rege]]
+[[pt:rege]]
+[[ro:rege]]
+[[ru:rege]]
+[[sk:rege]]
+[[sh:rege]]
+[[fi:rege]]
+[[sv:rege]]
+[[chr:rege]]
+[[tr:rege]]
+[[zh:rege]]
