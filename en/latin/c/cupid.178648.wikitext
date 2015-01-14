@@ -1,0 +1,49 @@
+{{also|Cupid}}
+==English==
+
+===Noun===
+{{en-noun}}
+
+# A [[putto]] carrying a [[bow and arrow]], representing [[Cupid]] or [[love]].
+#*{{quote-book|year=1963|author={{w|Margery Allingham}}
+|title={{w|The China Governess}}
+|chapter=1|url=http://openlibrary.org/works/OL2004261W
+|passage=The half-dozen pieces […] were painted white and carved with festoons of flowers, birds and '''cupids'''. To display them the walls had been tinted a vivid blue which had now faded, but the carpet, which had evidently been stored and recently relaid, retained its original turquoise.}}
+
+====Translations====
+{{trans-top|child with bow and arrow as representation of love}}
+* Finnish: {{t|fi|kerubi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[pudic#English|pudic]]
+
+----
+
+==Romansch==
+
+===Noun===
+{{rm-noun|m}}
+
+# {{context|Rumantsch Grischun|Sursilvan|Sutsilvan|Puter|Vallader|lang=rm}} [[nap]]
+
+====Synonyms====
+* {{qualifier|Rumantsch Grischun|Sursilvan}} {{l|rm|siesta}}, {{l|rm|durmida}}
+* {{qualifier|Sursilvan}} {{l|rm|tut}}
+* {{qualifier|Sutsilvan}} {{l|rm|sien}}
+* {{qualifier|Surmiran}} {{l|rm|cupidada}}, {{l|rm|durmeidetta}}, {{l|rm|cuc}}
+* {{qualifier|Puter|Vallader}} {{l|rm|sönin}}
+* {{qualifier|Vallader}} {{l|rm|sönet}}
+
+[[fr:cupid]]
+[[ku:cupid]]
+[[ml:cupid]]
+[[pl:cupid]]
+[[ro:cupid]]
+[[ru:cupid]]
+[[fi:cupid]]
+[[ta:cupid]]
+[[te:cupid]]
+[[vi:cupid]]
+[[zh:cupid]]
