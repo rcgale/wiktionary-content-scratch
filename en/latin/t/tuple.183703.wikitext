@@ -1,0 +1,111 @@
+==English==
+{{wikipedia}}
+{{wikibooks|Python Programming/Tuples}}
+{{wikibooks|Haskell/Lists and tuples}}
+
+===Etymology===
+From the ending of the words ''[[quintuple]]'', ''[[sextuple]]''; from Latin ''[[-plus]]''.
+
+===Pronunciation===
+* {{IPA|/tuːpəl/|/tʌpəl/|lang=en}}
+* {{rhymes|uːpəl|ʌpəl|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# {{context|set theory|lang=en}} A [[finite]] [[sequence]] of [[term]]s.
+#: ''A '''tuple''' is not merely a totally-ordered set because the same element can appear more than once in a '''tuple''': for example, <math>(a, b, a)</math> qualifies as a 3-'''tuple''' whereas it would not qualify as a totally-ordered set (of cardinality 3), because the set would be <math>\{a, b\}</math> where <math>a \le b </math> and <math>b \le a</math> so that <math>a = b</math>; i.e., it would actually be a one-element set, <math>\{a\}</math>, not even just two-element.''
+#: ''If commutativity were added to a [[tuple]], it would turn into a multiset or "bag".  For example, words (of some alphabetic language) can be considered to be [[tuple]]s of letters.  If the ordering requirement on those letters were lifted, then the word would become a multiset of letters equivalent to those of its anagrams.''
+# {{context|computing|lang=en}} A single [[row]] in a [[relational database]].
+# {{context|computing|lang=en}} A [[set]] of comma-separated [[value]]s passed to a program or operating system as a [[parameter]] to a [[function]] [[call]].
+# {{context|computing|lang=en}} In some programming languages, a [[data type]] which is similar but distinct from the [[list]] data type, whose instances are characterized by having a rather fixed [[arity]], and the elements of which instances can differ from each other by data type. (''Note'': this definition may overlap with the previous one.)
+#: ''Both Python and Haskell have a [[tuple]] data type as well as a list data type.''
+#: ''Unlike lists, [[tuple]]s are not formed by consing.''
+
+====Synonyms====
+* {{sense|finite sequence of terms}} [[n-tuple|''n''-tuple]] (''when the sequence contains'' n ''terms''), [[ordered pair]] (''when the sequence contains exactly two terms''), [[triple]] ''or'' [[triplet]] (''when the sequence contains exactly three terms'')
+
+====Related terms====
+* [[-tuple]]
+* [[ordered pair]]
+* [[tuplet]]
+* [[component]]
+
+====Translations====
+{{trans-top|in set theory}}
+* Chinese:
+*: Mandarin: {{t|cmn|多元组|tr=duoyuanzu|sc=Hani}}
+* Czech: {{t|cs|uspořádaná n-tice|f}}
+* Finnish: {{t+|fi|monikko}}
+* French: {{t+|fr|n-uplet|m}}
+* German: {{t+|de|Tupel|n}}
+{{trans-mid}}
+* Japanese: {{t+|ja|組|tr=くみ, kumi|sc=Jpan}}
+* Polish: {{t|pl|krotka|f}}
+* Portuguese: {{t|pt|tupla|f}}
+* Russian: {{t+|ru|кортеж|m|tr=kortɛ́ž}}
+* Swedish: {{t+|sv|tupel|c}}, {{t|sv|tipel|c}}
+{{trans-bottom}}
+
+{{trans-top|row (record) in a database}}
+* Finnish: {{t+|fi|monikko}}
+* German: {{t+|de|Tupel|n}}
+* Polish: {{t|pl|krotka|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|запись|f|tr=zápisʹ|sc=Cyrl}} {{qualifier|record}}, {{t+|ru|ряд|m|tr=rjad|sc=Cyrl}} {{qualifier|row}}, {{t+|ru|кортеж|m|tr=kortɛ́ž|sc=Cyrl}}, {{t+|ru|строка|f|tr=stroká|sc=Cyrl}} {{qualifier|row}}
+{{trans-bottom}}
+
+{{trans-top|set of values passed as a parameter}}
+* Finnish: {{t+|fi|monikko}}
+* French: {{t+|fr|n-uplet|m}}
+* Japanese: {{t|ja|タプル|tr=たぷる, tapuru|sc=Jpan}}
+{{trans-mid}}
+* Polish: {{t|pl|krotka|f}}
+* Russian: {{t+|ru|кортеж|m|tr=kortɛ́ž|sc=Cyrl}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[letup#English|letup]], [[let up#English|let up]]
+* [[plute#English|plute]]
+
+----
+
+==Lojban==
+
+===Etymology===
+{{jbo-etym
+|zh='''tue'''i|zh_t=腿|zh_tr=tuǐ
+|en='''le'''g|en_t=leg
+|es='''p'''i'''e'''rn|es_t=pierna
+}}
+
+===Pronunciation===
+* {{IPA|/ˈtuple/|lang=jbo}}
+
+===Gismu===
+{{jbo-gismu|tup|tu'e}}
+
+# [[leg]]; x1 is a/the leg (body-part) of x2; (metaphor: supporting branch).
+
+====See also====
+* [[birka]]
+* [[stani]]
+* [[zbepi]]
+* [[jamfu]]
+* [[jimca]]
+* [[sanli]]
+
+[[Category:jbo:Anatomy]]
+[[Category:jbo:Nouns]]
+
+[[de:tuple]]
+[[et:tuple]]
+[[fr:tuple]]
+[[gl:tuple]]
+[[ko:tuple]]
+[[mg:tuple]]
+[[pl:tuple]]
+[[sv:tuple]]
+[[ta:tuple]]
+[[vi:tuple]]
+[[zh:tuple]]
