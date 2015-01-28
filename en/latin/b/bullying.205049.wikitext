@@ -1,0 +1,116 @@
+==English==
+{{wikipedia}}
+[[File:Bullying_on_Instituto_Regional_Federico_Errázuriz_(IRFE)_in_March_5,_2007.jpg|thumb|right|an example of bullying.]]
+
+===Pronunciation===
+* {{a|UK}} {{IPAchar|/ˈbʊl.i.ɪŋ/}}
+* {{a|US}} {{IPAchar|/ˈbʊl.i.iŋ/}}
+
+===Noun===
+{{en-noun}}
+
+# An act of [[intimidating]] a [[weaker]] person to do something, especially such [[repeated]] [[coercion]].
+# Persistent acts intended to make life unpleasant for another person.
+#: {{ux|en|'''Bullying''' is a punishable offense in all schools.}}
+
+====Related terms====
+* [[bully]]
+
+====Translations====
+{{trans-top|act of intimidating a weaker person}}
+* Czech: {{t|cs|šikana|f}}
+* Esperanto: {{t|eo|ĉikanado}}
+* Finnish: {{t|fi|kiusaaminen}}, {{t|fi|pakottaminen}}
+* French: {{t+|fr|harcèlement|m}}
+* German: {{t|de|Schikanieren|n}},  {{t+|de|Schikane|f}}, {{t|de|Drangsalieren|n}}
+* Greek: {{t+|el|νταηλίκι|n|tr=daïlíki|sc=Grek}}
+* Irish: {{t|ga|bulaíocht|f}}
+{{trans-mid}}
+* Italian: {{t+|it|bullismo|m}}
+* Macedonian: {{t|mk|застрашување|n|tr=zastrašúvanje}}
+* Portuguese: {{t+|pt|bullying|m}}
+* Russian: {{t+|ru|запугивание|n|tr=zapúgivanije|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|burraidheachd|f}}
+* Spanish: {{t+|es|vejación|f}},  {{t|es|ultraje|m}},  {{t+|es|acoso|m}},  {{t|es|hostigamiento|m}}, {{t|es|bullying}}, {{t|es|matonaje|m}}, {{t|es|matonismo|m}}
+{{trans-bottom}}
+
+{{trans-top|persistent acts intended to make life unpleasant}}
+* Chinese:
+*: Mandarin: {{t|cmn|欺負|sc=Hani}}, {{t+|cmn|欺负|tr=qīfu|sc=Hani}}, {{t+|cmn|恃強欺弱|sc=Hani}}, {{t|cmn|恃强欺弱|tr=shìqiángqīruò|sc=Hani}}, {{t|cmn|恃強凌弱|sc=Hani}}, {{t|cmn|恃强凌弱|tr=shìqiánglíngruò|sc=Hani}}, {{t+|cmn|欺凌|tr=qīlíng|sc=Hani}}
+* Esperanto: {{t|eo|ĉikanado}}
+* Finnish: {{t|fi|kiusaaminen}}
+* French: {{t+|fr|harcèlement|m}}
+* German: {{t+|de|Mobbing|n}},  {{t|de|Mobben|n}}, {{t|de|Piesacken|n}}, {{t|de|Piesackerei|f}}, {{t|de|Drangsalieren|n}}, {{t|de|Tyrannisieren|n}}
+* Icelandic: {{t+|is|einelti|n}}
+{{trans-mid}}
+* Irish: {{t|ga|bulaíocht|f}}
+* Japanese: {{t+|ja|いじめ|tr=ijime|sc=Jpan}}, {{t|ja|嫌がらせ|tr=いやがらせ, iyagarase|sc=Jpan}}
+* Korean: {{t|ko|괴롭힘|sc=Kore}}, {{t|ko|집단 괴롭힘|sc=Kore}}
+* Macedonian: {{t|mk|задевање|n|tr=zadévanje}}
+* Portuguese: {{t+|pt|bullying|m}}
+* Russian: {{t+|ru|издевательство|alt=издевательства|n-p|tr=izdevátel’stva}}, {{qualifier|army}} {{t+|ru|дедовщина|f|tr=dedovščína|sc=Cyrl}}, {{t+|ru|задирание|n|tr=zadiránije|sc=Cyrl}}, {{t+|ru|травля|f|tr=trávlja|sc=Cyrl}}, {{t+|ru|буллинг|m|tr=búlling|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|burraidheachd|f}}
+* Spanish: {{t|es|bullying|m}},  {{t|es|mobbing|m}}
+* Swedish: {{t+|sv|mobbning|c}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Irish: {{t-check|ga|ceanntrom|m}}
+{{trans-mid}}
+* Japanese: {{t+check|ja|いじめ|tr=ijime}}
+{{trans-bottom}}
+
+====See also====
+* [[abuse#Noun|abuse]]
+* [[mobbing]]
+
+===Verb===
+{{head|en|present participle}}
+
+# {{present participle of|bully|lang=en}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m|-}}
+
+# {{l|en|bullying}} {{gloss|persistent acts intended to make someone’s life unpleasant}}
+
+----
+
+==Spanish==
+
+===Noun===
+{{wikipedia|lang=es}}
+{{es-noun|m|-}}
+
+# school [[#English|bullying]]
+
+====Synonyms====
+* [[acoso escolar]], [[hostigamiento escolar]]
+
+====See also====
+* [[mobbing]]
+
+[[de:bullying]]
+[[eo:bullying]]
+[[fr:bullying]]
+[[ko:bullying]]
+[[io:bullying]]
+[[ku:bullying]]
+[[hu:bullying]]
+[[mg:bullying]]
+[[ja:bullying]]
+[[pl:bullying]]
+[[pt:bullying]]
+[[simple:bullying]]
+[[sh:bullying]]
+[[fi:bullying]]
+[[sv:bullying]]
+[[ta:bullying]]
+[[te:bullying]]
+[[tr:bullying]]
+[[vi:bullying]]
+[[zh:bullying]]
