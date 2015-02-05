@@ -1,0 +1,113 @@
+==English==
+{{wikipedia|dab=welfare}}
+
+===Etymology===
+From {{etyl|enm|en}} {{term|welfare|lang=enm}}, probably from the {{etyl|ang|en}} phrase {{term|wel faran||to fare well, get along successfully, prosper|lang=ang}}  (cognate with {{etyl|gml|-}} {{term|wolvare||welfare|lang=gml}}, Old Norse {{term|velferð|lang=non}}, Swedish {{term|välfärd|lang=sv}} and Dutch {{term|welvaart|lang=nl}}.) Equivalent to {{compound|well|fare|lang=en}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ˈwɛlˌfɛə/|lang=en}}
+* {{a|GenAm}} {{IPA|/ˈwɛlˌfɛɚ/|lang=en}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{context|uncountable|lang=en}} [[health|Health]], [[safety]], [[happiness]] and [[prosperity]]; [[well-being]] in any respect.
+#* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=19
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=Nothing was too small to receive attention, if a supervising eye could suggest improvements likely to conduce to the common '''welfare'''. Mr. Gordon Burnage, for instance, personally visited dust-bins and back premises, accompanied by a sort of village bailiff, going his round like a commanding officer doing billets.}}
+# {{context|uncountable|chiefly|US|lang=en}} Various forms of [[financial]] aid provided by the [[government]] to those who are in need of it (abbreviated form of ''Welfare assistance'').
+
+====Synonyms====
+* [[income support]], [[public assistance]], [[social security]] 
+
+====Antonyms====
+* [[evilfare]]
+* [[illfare]]
+* [[woefare]]
+* [[wofare]]
+
+====Translations====
+{{trans-top|health, safety, well-being, happiness and prosperity}}
+* Chinese:
+*: Mandarin: {{t+|cmn|福利|tr=fúlì|sc=Hani}}, {{t+|cmn|幸福|tr=xìngfú|sc=Hani}}, {{t|cmn|康樂|sc=Hani}}, {{t+|cmn|康乐|tr=kānglè|sc=Hani}}
+* Czech: {{t|cs|blaho|n}}
+* Danish: {{t+|da|lykke|c}}, {{t+|da|velfærd|c}}
+* Esperanto: {{t|eo|bonstato}}
+* Finnish: {{t+|fi|hyvinvointi}}
+* French: {{t+|fr|bien-être|m}}
+* Galician: {{t+|gl|benestar|f}}
+* German: {{t+|de|Wohlergehen|n}}, {{t+|de|Wohlfahrt|f}}
+{{trans-mid}}
+* Greek: {{t+|el|ευημερία|f|sc=Grek}}
+* Japanese: {{t+|ja|幸せ|tr=しあわせ, shiawase|sc=Jpan}}, {{t+|ja|幸福|tr=こうふく, kōfuku|sc=Jpan}}
+* Latvian: {{t|lv|labklājība|f}}
+* Macedonian: {{t|mk|благосостојба|f|tr=blagosóstojba}}
+* Portuguese: {{t+|pt|bem-estar|m}}
+* Russian: {{t+|ru|благосостояние|n|tr=blagosostojánije|sc=Cyrl}}, {{t+|ru|благополучие|n|tr=blagopolúčije|sc=Cyrl}}
+* Telugu: {{t+|te|సంక్షేమము|tr=samkshemamu|sc=Telu}}
+* Turkish: {{t+|tr|refah}}
+{{trans-bottom}}
+
+{{trans-top|aid, provided by a government, etc.}}
+* Chinese:
+*: Mandarin: {{t+|cmn|福利|tr=fúlì|sc=Hani}}, {{t|cmn|[[社會]][[福利]]|sc=Hani}}, {{t|cmn|[[社会]][[福利]]|tr=shèhuì fúlì|sc=Hani}}
+* Danish: {{t|da|forsorg|c}}
+* Finnish: {{t|fi|sosiaaliavustus}}, {{t|fi|sosiaalituki}}
+* French: {{t|fr|aide sociale|f}}
+* Galician: {{t|gl|beneficencia|f}}, {{t|gl|seguridade social|f}}
+* German: {{t+|de|Sozialhilfe|f}}, {{t+|de|Wohlfahrt|f}}
+{{trans-mid}}
+* Greek: {{t+|el|πρόνοια|f|sc=Grek}}
+* Japanese: {{t+|ja|福祉|tr=ふくし, fukushi|sc=Jpan}}
+* Korean: {{t+|ko|복지|sc=Kore}} {{t+|ko|福祉|sc=Kore}})
+* Macedonian: {{t|mk|социјална помош|f|tr=socijálna pómoš}}
+* Portuguese: {{t|pt|segurança social|f}}
+* Russian: {{t|ru|[[социальный|социальная]] [[помощь]]|f|tr=sociálʹnaja pómoščʹ|sc=Cyrl}}
+{{trans-bottom}}
+
+====External links====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+===See also===
+* {{l/en|hellfare}}
+* {{l/en|workfare}}
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun|g=m|invariable}}
+
+# [[welfare state]]
+
+[[cs:welfare]]
+[[et:welfare]]
+[[es:welfare]]
+[[eo:welfare]]
+[[fr:welfare]]
+[[ko:welfare]]
+[[hy:welfare]]
+[[io:welfare]]
+[[id:welfare]]
+[[it:welfare]]
+[[kn:welfare]]
+[[ku:welfare]]
+[[hu:welfare]]
+[[mg:welfare]]
+[[ml:welfare]]
+[[my:welfare]]
+[[ja:welfare]]
+[[km:welfare]]
+[[pl:welfare]]
+[[ru:welfare]]
+[[simple:welfare]]
+[[fi:welfare]]
+[[sv:welfare]]
+[[ta:welfare]]
+[[te:welfare]]
+[[chr:welfare]]
+[[vi:welfare]]
+[[zh:welfare]]
