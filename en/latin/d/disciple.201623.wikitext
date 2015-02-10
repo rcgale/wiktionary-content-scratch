@@ -1,0 +1,137 @@
+{{also|Disciple}}
+==English==
+
+===Etymology===
+From {{etyl|ang|en}} {{term|discipul|lang=ang}}, from {{etyl|la|en}} {{term|discipulus||a pupil, learner|lang=la}}, from {{term|discere||to learn}}; akin to {{term|docere||to teach}}. Later influenced or superceded in Middle English by {{etyl|fro|en}} ''[[deciple]]''.
+
+===Pronunciation===
+* {{IPA|/dɪˈsaɪpəɫ/|lang=en}}
+* {{audio|En-us-disciple.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A person who learns from another, especially one who then teaches others.
+# An active [[follower]] or [[adherent]] of someone, or some [[philosophy]] etc.
+#* Holy Bible, Matthew 9:10 (King James Version)
+#*: And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his '''disciples'''.
+#* {{quote-book|year=1922|author={{w|Ben Travers}}
+|chapter=4|title=[http://openlibrary.org/works/OL1521052W A Cuckoo in the Nest]
+|passage=By some paradoxical evolution rancour and intolerance have been established in the vanguard of primitive Christianity. Mrs. Spoker, in common with many of the stricter '''disciples''' of righteousness, was as inclement in demeanour as she was cadaverous in aspect.}}
+# {{context|Ireland|lang=en}} Miserable-looking creature of a man.
+
+====Related terms====
+* [[discipleship]]
+* [[disciplic]]
+* [[discipline]]
+
+====Synonyms====
+* [[student]]
+
+====Translations====
+{{trans-top|a person who learns from another, especially one who then teaches others}}
+* Armenian: {{t|hy|աշակերտ|tr=ašakert}}
+* Bulgarian: {{t+|bg|ученик|m}}
+* Czech: {{t|cs|následovník|m}}, {{t+|cs|žák|m}}
+* Dutch: {{t+|nl|discipel|m}}
+* Esperanto: {{t|eo|disĉiplo}}
+* French: {{t+|fr|disciple}}
+* German: {{t+|de|Jünger|m}}, {{t|de|Jüngerin|f}}
+* Indonesian: {{t+|id|murid}}
+* Jèrriais: {{t|roa-jer|discipl'ye|m}}
+* Latin: {{t+|la|discipulus}}, {{t|la|discens}}
+{{trans-mid}}
+* Old English: {{t|ang|geongra|m}}, {{t|ang|discipul|m}}
+* Old Saxon: {{t|osx|giungaro|m}}, {{t|osx|jungaro|m}}, {{t|osx|iungaro|m}}
+* Portuguese: {{t+|pt|discípulo|m}}
+* Russian: {{t+|ru|ученик|m|tr=učeník}},  {{t+|ru|последователь|m|tr=poslédovatel'}},  {{t+|ru|сторонник|m|tr=storónnik}}
+* Scottish Gaelic: {{t|gd|deisciobal|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wuknik|m}}, {{t|dsb|wuknica|f}}
+* Spanish: {{t+|es|discípulo|m}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|tidäb}}, {{qualifier|♂}} {{t|vo|hitidäb}}, {{qualifier|♀}} {{t|vo|jitidäb}}
+{{trans-bottom}}
+
+{{trans-top|an active follower or adherent of someone, or some philosophy}}
+* Bulgarian: {{t+|bg|последовател|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|弟子|tr=dìzǐ|sc=Hani}}
+* Czech: {{t|cs|stoupenec|m}}, {{t|cs|učedník|m}}
+* French: {{t+|fr|disciple}}
+* German: {{t+|de|Jünger|m}}, {{t|de|Jüngerin|f}}
+* Irish: {{t|ga|deisceabal|m}}
+*: Old Irish: {{t|sga|deiscipul|m}}
+* Japanese: {{t+|ja|弟子|tr=でし, ていし, deshi, teishi}}
+{{trans-mid}}
+* Jèrriais: {{t|roa-jer|discipl'ye|m}}
+* Latin: {{t+|la|discipulus}}
+* Portuguese: {{t+|pt|discípulo|m}}
+* Russian: {{t+|ru|последователь|m|tr=poslédovatel'}},  {{t+|ru|сторонник|m|tr=storónnik}},  {{qualifier|apostle}} {{t+|ru|апостол|m|tr=apóstol}}
+* Scottish Gaelic: {{t|gd|deisciobal|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wuknik|m}}, {{t|dsb|wuknica|f}}
+{{trans-bottom}}
+
+====See also====
+* [[apostle]]
+
+===Verb===
+{{en-verb|discipl}}
+
+# {{context|obsolete|lang=en}} To [[train]], [[educate]], [[teach]].
+#* '''1590''', Edmund Spenser, ''The Faerie Queene'', IV.i:
+#*: fraile youth is oft to follie led, / Through false allurement of that pleasing baite, / That better were in vertues '''discipled''' [...].
+
+====External links====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+----
+
+==French==
+
+===Etymology===
+From {{etyl|fro|fr}} ''[[deciple]]'', borrowed from {{etyl|la|fr}} ''[[discipulus]]''.
+
+===Pronunciation===
+* {{IPA|/disipl(ə)/|lang=fr}}
+* {{audio|Fr-disciple.ogg|Audio|lang=fr}}
+
+===Noun===
+{{fr-noun|m}}
+
+# [[#English|disciple]]
+
+===External links===
+* {{R:TLFi}}
+
+[[ang:disciple]]
+[[et:disciple]]
+[[el:disciple]]
+[[es:disciple]]
+[[eo:disciple]]
+[[eu:disciple]]
+[[fr:disciple]]
+[[ko:disciple]]
+[[hy:disciple]]
+[[io:disciple]]
+[[it:disciple]]
+[[kn:disciple]]
+[[ku:disciple]]
+[[li:disciple]]
+[[hu:disciple]]
+[[ml:disciple]]
+[[my:disciple]]
+[[pl:disciple]]
+[[ru:disciple]]
+[[sm:disciple]]
+[[sa:disciple]]
+[[simple:disciple]]
+[[fi:disciple]]
+[[sv:disciple]]
+[[ta:disciple]]
+[[te:disciple]]
+[[chr:disciple]]
+[[tr:disciple]]
+[[vi:disciple]]
+[[zh:disciple]]
