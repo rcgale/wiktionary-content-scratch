@@ -1,0 +1,90 @@
+==English==
+{{wikipedia|martial arts}}
+
+===Etymology===
+Collocation of [[martial]] + [[art]], coined in 1933 as a loan translation of Japanese ''[[bujutsu]]''.
+But already in Pope's ''Iliad'' (1715, 4.360), and in Sotheby's ''Iliad'' (1831, book 6).
+{{commons|Martial arts}}
+
+===Noun===
+[[File:Judo Morote Seoi Nage by Bryan small.gif|thumb|120px|A [[dan]] graduation [[combat]] in [[judo]].]]
+{{en-noun|head=[[martial]] [[art]]}}
+
+# Commonly, any of several fighting styles which contain systematized methods of training for combat, both armed and unarmed; often practiced as a sport, e.g. [[boxing]], [[karate]], [[judo]], [[silat]], [[wrestling]], or [[Muay Thai]].
+# military skills, proficiency in military strategy, prowess in warfare
+#: '''1832''' ''...of all the modes by which the advantage of his country may be secured, the martial arts and valour are those by which a Swiss the most hopes to promote it.'' (Richard Chenevix, An Essay Upon National Character:  4. On patriotism, p. 481).
+
+====Derived terms====
+* [[martial artist]]
+* [[mixed martial arts]]
+
+====Translations====
+{{trans-top|fighting style}}
+* Albanian: {{t|sq|arti luftarak}}
+* Armenian: {{t|hy|մարտարվեստ|sc=Armn}}
+* Asturian: {{t|ast|arte marcial}}
+* Azerbaijani: {{t|az|döyüş sənəti}}
+* Belarusian: {{t|be|баяво́е маста́цтва|n|sc=Cyrl}}
+* Bulgarian: {{t|bg|бо́йно изку́ство|n}}
+* Catalan: {{t|ca|art marcial}}
+* Chinese:
+*: Mandarin: {{t+|cmn|武術|sc=Hani}}, {{t|cmn|武术|tr=wǔshù|sc=Hani}}, {{t+|cmn|武藝|sc=Hani}}, {{t+|cmn|武艺|tr=wǔyì|sc=Hani}}
+* Czech: {{t|cs|bojové umění|n}}
+* Danish: {{t|da|kampsport}}
+* Dutch: {{t|nl|gevechtskunst|f}}, {{t|nl|gevechtssport|f}}, {{t|nl|krijgskunst|f}}
+* Estonian: {{t|et|võitluskunst}}
+* Finnish: {{t|fi|taistelulaji}}, {{t|fi|kamppailulaji}}
+* French: {{t+|fr|art martial|m}}
+* Galician: {{t|gl|arte marcial}}
+* Georgian: {{t|ka|საბრძოლო ხელოვნების|sc=Geor}}
+* German: {{t+|de|Kampfkunst|f}}, {{t+|de|Kampfsport|m}}
+* Greek: {{t|el|πολεμικές τέχνες|f-p}}
+* Hebrew: {{t+|he|אמנות לחימה}}
+* Hindi: {{t|hi|युद्ध कलाएँ|f-p|tr=yuddh kalāẽ|sc=Deva}}
+* Hungarian: {{t+|hu|harcművészet}}
+* Icelandic: {{t|is|bardagaíþrótt}}
+* Irish: {{t|ga|ealaín oscartha}}
+* Italian: {{t|it|arti marziali}}
+{{trans-mid}}
+* Japanese: {{t|ja|武術|tr=ぶじゅつ, bujutsu|sc=Jpan}}, {{t+|ja|武道|tr=ぶどう, budō|sc=Jpan}}, {{t+|ja|武芸|tr=ぶげい, bugei|sc=Jpan}}
+* Korean: {{t+|ko|무예}} ({{t+|ko|武藝|sc=Kore}}), {{t+|ko|무술|sc=Kore}} ({{t+|ko|武術|sc=Kore}})
+* Latvian: {{t|lv|cīņas māksla|f}}
+* Lithuanian: {{t|lt|kovos menas|m}}
+* Macedonian: {{t|mk|боречка вештина|f|sc=Cyrl}}
+* Maltese: {{t|mt|arti marzjali}}
+* Norwegian: {{t|no|kampsport}}, {{t|no|kampaktivitet}}, {{t|no|kampkunst}}
+* Persian: {{t|fa|هنر رزمی|tr=honar-e razmi|sc=fa-Arab}}
+* Polish: {{t|pl|sztuka walki|f}}
+* Portuguese: {{t+|pt|arte marcial|f}}
+* Romanian: {{t|ro|artă marțială|f}}
+* Russian: {{t+|ru|боево́е иску́сство|n|sc=Cyrl}}, {{t+|ru|единоборство|n-p|alt=единобо́рства}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|борилачка вештина|f}}, {{t|sh|борилачка вјештина|f}}
+*: Roman: {{t|sh|borilačka veština|f}}, {{t|sh|borilačka vještina|f}}
+* Slovak: {{t|sk|bojové umenie|n}}
+* Slovene: {{t|sl|borilna veščina|f}}, {{t|sl|umetnost bojevanja|f}}
+* Spanish: {{t+|es|arte marcial}}
+* Swedish: {{t+|sv|kampsport}}
+* Turkish: {{t|tr|dövüş sanatı}}
+* Ukrainian: {{t|uk|бойове́ мисте́цтво|n|sc=Cyrl}}
+* Vietnamese: {{t|vi|môn võ}}, {{t|vi|môn võ thuật}}, {{t+|vi|võ thuật}} ({{t|vi|武術}}), {{t+|vi|vũ thuật}}
+{{trans-bottom}}
+
+{{trans-top|military prowess}}
+* German: {{t|de|Kriegskunst|f}}
+* Russian: {{t+|ru|вое́нное иску́сство|n|sc=Cyrl}}
+{{trans-mid}}
+* Vietnamese: {{t|vi|tài năng chiến đấu}}
+{{trans-bottom}}
+
+[[Category:en:Martial arts]]
+
+[[zh-min-nan:martial art]]
+[[fr:martial art]]
+[[ko:martial art]]
+[[hu:martial art]]
+[[pl:martial art]]
+[[ru:martial art]]
+[[fi:martial art]]
+[[ta:martial art]]
+[[vi:martial art]]
