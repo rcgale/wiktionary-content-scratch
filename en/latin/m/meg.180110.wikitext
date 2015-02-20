@@ -1,0 +1,162 @@
+{{also|Meg|MEG|-meg|meg-|még}}
+==English==
+
+===Noun===
+{{en-noun}}
+
+# {{context|slang|lang=en}} Common abbreviation for many/any unit having the [[SI]] [[prefix]] '''[[mega-]]''', such as '''[[megahertz]]'''
+#: {{context|computing|lang=en}} - ''My new computer has over 500 megs of RAM.'' = [[megabyte]]
+#: ''(radio) - "What frequency does Radio XYZ broadcast on ?"  "105.7 meg" = [[megahertz]]
+#: ''(heating) - "a 250 meg gas heater" = [[megajoule]]s
+
+====Usage notes====
+* This usage is mostly verbal. It is less often used in writing.''
+
+====See also====
+* [[mil]]
+
+===Anagrams===
+* [[EMG#English|EMG]]
+* [[gem#English|gem]], [[Gem#English|Gem]]
+
+----
+
+==Esperanto==
+{{cardinalbox|eo||1,000,000||meg|ord=mega}}
+
+===Etymology===
+{{back-form|lang=eo|mega-}}
+
+===Numeral===
+{{eo-card}}
+
+# {{context|neologism|rare|lang=eo}} [[million]], 10<sup>6</sup>
+
+====Synonyms====
+* [[miliono]]
+
+----
+
+==Faroese==
+
+===Pronunciation===
+* {{IPA|[meː]|lang=fo}}
+
+===Pronoun===
+'''meg''' {{g|s}}
+
+# [[me]], accusative singular of ''[[eg]]'' (I)
+
+====Declension====
+{{fo-decl-pers-pron}}
+
+[[Category:Faroese pronouns]]
+
+----
+
+==Hungarian==
+
+===Pronunciation===
+* {{IPA|/ˈmɛɡ/|lang=hu}}
+* {{audio|Hu-meg.ogg|Audio|lang=hu}}
+
+===Etymology===
+From {{etyl|fiu-pro|hu}} {{m|urj-pro|*müŋä||rear, beyond}}. For a similar semantic development, see Finnish cognate {{term|myös||also, too|lang=fi}}. Of the same origin as [[mögött]], [[mögé]], and [[mögül]].<ref>[http://starling.rinet.ru/cgi-bin/response.cgi?root=config&morpho=0&basename=\data\uralic\uralet&first=1&off=&text_proto=&method_proto=substring&ic_proto=on&text_meaning=&method_meaning=substring&ic_meaning=on&text_germmean=&method_germmean=substring&ic_germmean=on&text_fin=&method_fin=substring&ic_fin=on&text_est=&method_est=substring&ic_est=on&text_saa=&method_saa=substring&ic_saa=on&text_mrd=&method_mrd=substring&ic_mrd=on&text_mar=&method_mar=substring&ic_mar=on&text_udm=&method_udm=substring&ic_udm=on&text_kom=&method_kom=substring&ic_kom=on&text_khn=&method_khn=substring&ic_khn=on&text_man=&method_man=substring&ic_man=on&text_ugr=meg&method_ugr=substring&ic_ugr=on&text_smd=&method_smd=substring&ic_smd=on&text_nen=&method_nen=substring&ic_nen=on&text_enc=&method_enc=substring&ic_enc=on&text_nga=&method_nga=substring&ic_nga=on&text_slk=&method_slk=substring&ic_slk=on&text_kam=&method_kam=substring&ic_kam=on&text_janh=&method_janh=substring&ic_janh=on&text_samm2=&method_samm2=substring&ic_samm2=on&text_redei=&method_redei=substring&ic_redei=on&text_add=&method_add=substring&ic_add=on&text_reshet=&method_reshet=substring&ic_reshet=on&text_yuk=&method_yuk=substring&ic_yuk=on&text_lit=&method_lit=substring&ic_lit=on&text_any=&method_any=substring&sort=number&ic_any=on Starostin's Uralic Database, Entry #552]</ref>
+
+===Conjunction===
+{{head|hu|conjunction}}
+
+# [[and]]
+# [[plus]]
+
+====See also====
+* [[és#Hungarian|és]]
+* [[meg-]]
+
+====References====
+<references/>
+
+[[Category:Hungarian three-letter words]]
+
+----
+
+==Livonian==
+===Pronoun===
+{{head|liv|pronoun form}}
+# [[we]]; {{liv-inflection of|pl|n|minā|pro}}
+
+----
+
+==Lojban==
+
+===Rafsi===
+{{jbo-rafsi}}
+
+# {{jbo-rafsi of|megdo}}
+
+----
+
+==Norwegian Bokmål==
+
+===Pronoun===
+{{head|nb|pronoun}}
+
+# [[me]] (direct object of a verb); objective case of {{l|nb|jeg}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology===
+From {{etyl|non|nn}} {{term|mik|lang=non}}.
+
+===Pronunciation===
+* {{IPA|/meːɡ/|lang=nn}} {{nn-pronu-note}}
+
+===Pronoun===
+{{head|nn|pronoun}}
+
+# [[me]] (direct object of a verb); objective case of {{l|nn|eg}}
+
+===See also===
+{{nn-pers-pron}}
+
+===References===
+* {{R:Dokumentasjonsprosjektet|lang=nn}}
+
+----
+
+==Romansch==
+
+===Alternative forms===
+* {{qualifier|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran}} {{l|rm|matg}}
+* {{qualifier|Vallader}} {{l|rm|mai}}
+
+===Etymology===
+From {{etyl|la|rm}} {{m|la|māius||of May}}.
+
+===Proper noun===
+{{rm-proper noun|m}}
+
+# {{context|Puter|lang=rm}} [[May]]
+
+[[Category:rm:Months]]
+
+[[az:meg]]
+[[de:meg]]
+[[fr:meg]]
+[[ko:meg]]
+[[lb:meg]]
+[[hu:meg]]
+[[mg:meg]]
+[[mn:meg]]
+[[nl:meg]]
+[[no:meg]]
+[[nn:meg]]
+[[pl:meg]]
+[[pt:meg]]
+[[ru:meg]]
+[[sv:meg]]
+[[chr:meg]]
+[[vi:meg]]
+[[zh:meg]]
