@@ -1,0 +1,186 @@
+{{also|Riddle}}
+==English==
+{{wikipedia|dab=riddle (disambiguation)|mul=Riddle}}
+
+===Pronunciation===
+* {{rhymes|ɪdəl|lang=en}}
+
+===Etymology 1===
+From {{etyl|enm|en}} {{m|enm|redel}}, {{m|enm|redels}}, from {{etyl|ang|en}} {{m|ang|rǣdels}}, {{m|ang|rǣdelse||counsel", "opinion", "imagination", "riddle}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rēdisliją||counsel, conjecture}}. Akin to {{etyl|osx|-}} {{m|osx|rādisli}}, {{m|osx|rādislo}}, {{m|osx|rēdilsa}} ({{etyl|nds|-}} {{m|nds|Radels}}, {{etyl|nl|-}} {{m|nl|raadsel}}), {{etyl|goh|-}} {{m|goh|rātisla}} ({{etyl|de|-}} {{m|de|Rätsel||riddle}}), {{etyl|ang|-}} {{m|ang|rǣdan||to read, advise, interpret}}.
+
+====Noun====
+{{en-noun}}
+
+#A [[verbal]] [[puzzle]], [[mystery]], or other [[problem]] of an [[intellectual]] nature.
+#:{{ux|en|Here's a '''riddle''': It's black, and white, and red all over. What is it?}}
+#*{{w|John Milton}} (1608-1674)
+#*:To wring from me, and tell to them, my secret, / That solved the '''riddle''' which I had proposed.
+#*{{RQ:Chmbrs YngrSt|VIII}}
+#*:Elbows almost touching they leaned at ease, idly reading the almost obliterated lines engraved there. &para; {{nowrap|"I never}} understood it," she observed, lightly scornful. "What occult meaning has a sun-dial for the spooney? ''I'm'' sure I don't want to read '''riddles''' in a strange gentleman's optics."
+
+=====Synonyms=====
+* {{sense|verbal puzzle, mystery or problem}} [[enigma]], [[conundrum]], [[brain-teaser]]
+
+=====Derived terms=====
+* [[riddler]]
+* [[riddle stick]]
+* [[a riddle wrapped up in an enigma]]
+
+=====Translations=====
+{{trans-top|puzzle}}
+* Arabic: {{t+|ar|لغز|sc=Arab}}
+* Armenian: {{t|hy|հանելուկ}}
+* Chinese:
+*: Mandarin: {{t-check|cmn|燈謎|sc=Hani}}
+* Czech: {{t|cs|hádanka|f}}
+* Dutch: {{t+|nl|raadsel}}
+* Esperanto: {{t+|eo|enigmo}}
+* Estonian: {{t|et|mõistatus}}
+* Faroese: {{t|fo|gáta}}
+* Finnish: {{t+|fi|arvoitus}}
+* French: {{t+|fr|énigme|f}}, {{t+|fr|devinette|f}}, {{t|fr|devinaille}}
+* German: {{t+|de|Rätsel|n}}
+* Greek: {{t+|el|αίνιγμα|n|sc=Grek}}, {{t+|el|γρίφος|m|sc=Grek}}
+* Hindi: {{t|hi|पहेली|f|tr=pahelī}}
+* Hungarian: {{t+|hu|rejtély}}, {{t+|hu|talány}}, {{t+|hu|rejtvény}}
+* Icelandic: {{t+|is|gáta}}
+* Italian: {{t+|it|enigma|m}}, {{t|it|indovinello|m}}
+* Japanese: {{t|ja|なぞなぞ|sc=Jpan}}
+* Korean: {{t+|ko|수수께끼|sc=Hang}}
+{{trans-mid}}
+* Latvian: {{t|lv|mīkla}}
+* Maori: {{t|mi|panga}}, {{t|mi|pere}}
+* Norwegian: {{t+|no|gåte}}
+* Polish: {{t+|pl|zagadka|f}}
+* Portuguese: {{t+|pt|enigma|m}}, {{t+|pt|charada|f}}, {{t+|pt|adivinhas}}
+* Romanian: {{t+|ro|ghicitoare}}, {{t+|ro|cimilitură}}
+* Russian: {{t+|ru|зага́дка|f}}
+* Scottish Gaelic: {{t|gd|dubh-fhacal|m}}
+* Serbo-Croatian: {{t|sh|zagonetka|f}}, {{t|sh|enigma|f}}
+* Spanish: {{t+|es|enigma|m}}, {{t+|es|acertijo|m}}, {{t+|es|adivinanza}}
+* Swahili: {{t+|sw|fumbo}}
+* Swedish: {{t+|sv|gåta}}
+* Turkish: {{t+|tr|bulmaca}}, {{t+|tr|esrar}}
+* Ukrainian: {{t+|uk|загадка}}
+* Urdu: {{t|ur|پہیلی|tr=pahelī|f}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb|riddl}}
+
+# To speak ambiguously or enigmatically.
+# {{context|transitive|lang=en}} To [[solve]], [[answer]], or [[explicate]] a riddle or question
+#: '''''Riddle''' me this'', meaning ''Answer the following question.''
+
+=====Translations=====
+{{trans-top|to solve, answer, or explicate a riddle or question}}
+* Dutch: {{t+|nl|raden}}
+* Finnish: {{t+|fi|arvata}}
+* German: {{t|de|enträtseln}}
+{{trans-mid}}
+* Greek: {{t+|el|λύνω|sc=Grek}}, {{t+|el|ξεδιαλύνω|sc=Grek}}, {{t+|el|εξηγώ|sc=Grek}}
+* Italian: {{t+|it|risolvere}}, {{t+|it|spiegare}}
+* Swahili: {{t+|sw|mafumbo}}
+{{trans-bottom}}
+
+===Etymology 2===
+From {{etyl|enm|en}} {{m|enm|riddil}}, {{m|enm|ridelle||sieve}}, from {{etyl|ang|en}} {{m|ang|hriddel||sieve}}, alteration of earlier {{m|ang|hridder}}, {{m|ang|hrīder}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hridą||sieve}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hrid-||to shake}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*krey-}}. Akin to {{etyl|de|-}} {{m|de|Reiter||sieve}}, {{etyl|non|-}} {{m|non|hreinn||pure, clean}}, {{etyl|goh|-}} {{m|goh|hreini||pure, clean}}, {{etyl|got|-}} {{m|got|𐌷𐍂𐌰𐌹𐌽𐍃||clean, pure}}. More at {{l|en|rinse}}.
+
+====Noun====
+{{en-noun}}
+
+# A [[sieve]] with coarse [[mesh]]es, usually of wire, for separating coarser materials from finer, as chaff from grain, cinders from ashes, or gravel from sand.
+# A [[board]] with a row of [[pin]]s, set [[zigzag]], between which wire is drawn to [[straighten]] it.
+
+=====Translations=====
+{{trans-top|sieve}}
+* Finnish: {{t+|fi|siivilä}}
+* Greek: {{t+|el|κόσκινο|n|sc=Grek}}, {{t|el|κρισάρα|f|sc=Grek}}
+* Italian: {{t|it|scolino|m}}, {{t+|it|setaccio|m}}
+{{trans-mid}}
+* Polish: {{t+|pl|rzeszoto|n}}
+* Portuguese: {{t+|pt|peneira|f}}
+* Spanish: {{t+|es|criba|f}}, {{t|es|harnero|m}} {{qualifier|Chile}}
+* Swahili: {{t+|sw|mafumbo}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb|riddl}}
+
+# To put something through a [[#Noun 2|riddle]] or [[sieve#Noun|sieve]], to [[sieve#Verb|sieve]], to [[sift#Verb|sift]].
+#: ''You have to '''riddle''' the gravel before you lay it on the road.''
+#* {{quote-news|author=Helen Yemm|title=Thorny problems: How can I revive a forsythia hedge? &#91;print version 5 April 2014, p.&nbsp;G9&#93;|url=http://www.telegraph.co.uk/gardening/gardeningadvice/10743118/Thorny-problems-how-can-I-revive-a-forsythia-hedge.html|newspaper={{w|The Daily Telegraph}} (Gardening)|location=London|date=8 April 2014|passage=In its finest form&nbsp;– two years old or more&nbsp;– leaf mould can be '''riddled''' (sieved) and used, mixed 50/50 with sand, to make fine potting compost for seeds and cuttings.}}
+# To fill with [[hole]]s like a [[#Noun 2|riddle]].
+#: ''The machinegun fire began to '''riddle''' the poor Afghanis.''
+# To fill or spread throughout; to [[pervade]].
+#: ''Your argument is '''riddled''' with errors.''
+
+=====Translations=====
+{{trans-top|to put something through a riddle or sieve}}
+* Czech: {{t|cs|prosít|pf}}
+* Dutch: {{t+|nl|zeven}}
+* Finnish: {{t|fi|siivilöidä}}
+* French: {{t+|fr|cribler}}
+* Greek: {{t+|el|κοσκινίζω|sc=Grek}}
+{{trans-mid}}
+* Italian: {{t|it|setacciare}}
+* Spanish: {{t+|es|cribar}}, {{t|es|harnear}} {{qualifier|Chile}}
+* Swahili: {{t+|sw|mafumbo}}
+{{trans-bottom}}
+
+{{trans-top|to fill with holes like a riddle}}
+* Czech: {{t|cs|proděravět|pf}}
+* Dutch: {{t+|nl|doorzeven}}
+* Finnish: {{t+|fi|rei'ittää}}, {{t|fi|puhkoa}}
+* French: {{t+|fr|cribler}}
+* German: {{t|de|durchlöchern}}
+{{trans-mid}}
+* Greek: {{t+|el|τρυπώ|sc=Grek}}
+* Italian: {{t+|it|crivellare}}, {{t+|it|forare}}
+* Spanish: {{t+|es|agujerear}}
+* Swahili: {{t+|sw|mafumbo}}
+{{trans-bottom}}
+
+{{trans-top|to fill or spread throughout; to pervade}}
+* Dutch: {{t+|nl|doordringen}}, {{t|nl|doorspekt}}
+* Finnish: {{t|fi|vilistä}}
+* French: {{t+|fr|cribler}}
+{{trans-mid}}
+* Italian: {{t|it|cospargere}}, {{t+|it|riempire}}
+* Spanish: {{t|es|plagar}}
+* Swahili: {{t+|sw|mafumbo}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{l|en|dreidl}}
+
+[[ang:riddle]]
+[[ast:riddle]]
+[[az:riddle]]
+[[et:riddle]]
+[[el:riddle]]
+[[fr:riddle]]
+[[ko:riddle]]
+[[hy:riddle]]
+[[io:riddle]]
+[[kn:riddle]]
+[[sw:riddle]]
+[[ku:riddle]]
+[[hu:riddle]]
+[[mg:riddle]]
+[[ml:riddle]]
+[[my:riddle]]
+[[pl:riddle]]
+[[pt:riddle]]
+[[ru:riddle]]
+[[sa:riddle]]
+[[simple:riddle]]
+[[fi:riddle]]
+[[sv:riddle]]
+[[tl:riddle]]
+[[ta:riddle]]
+[[te:riddle]]
+[[chr:riddle]]
+[[tr:riddle]]
+[[vi:riddle]]
+[[zh:riddle]]
