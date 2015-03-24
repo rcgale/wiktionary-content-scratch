@@ -1,0 +1,70 @@
+==English==
+{{was wotd|2012|March|23}}
+
+===Etymology===
+From {{etyl|fr|en}} {{term|escapade||the act of escaping; a trick|lang=fr}}, from {{etyl|osp|en}} {{term|escapada|lang=osp}}, from {{term|escapar||to escape|lang=osp}}, from {{etyl|VL.|en}} {{m|la|*excappō||to escape}}.
+
+===Pronunciation===
+* {{enPR|ĕs'kə-pād'}}, {{IPA|/ˈɛskəˌpeɪd/|lang=en}}
+* {{rhymes|eɪd|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[daring]] or [[adventurous]] act; an undertaking which goes against [[convention]].
+#* '''1724''', [[w:Daniel Defoe|Daniel Defoe]] (authorship disputed), "Capt. Howel Davis and His Crew" in ''[[w:A General History of the Pyrates|A General History of the Pyrates]]'':
+#*: The Manner of living among the ''Portugueze'' here is, with the utmost Frugality and Temperance. . . . The best of them (excepting the Governor now and then) neither pay nor receive any Visits of '''Escapade''' or Recreation.
+#* '''1816''', [[w:Walter Scott|Sir Walter Scott]], ''The Antiquary - Volume II'', ch. 9:
+#*: [Nobody] stood more confounded than Oldbuck at this sudden '''escapade''' of his nephew. "Is the devil in him," was his first exclamation, "to go to disturb the brute?"
+#* '''1918''', [[w:P. G. Wodehouse|P. G. Wodehouse]], ''Piccadilly Jim'', ch. 1:
+#*: He is always doing something to make himself notorious. There was that breach-of-promise case, and that fight at the political meeting, and his '''escapades''' at Monte Carlo.
+#* '''2011''' March 4, [[w:Richard Corliss|Richard Corliss]], "[http://entertainment.time.com/2011/03/04/the-adjustment-bureau-movie-review/ ''The Adjustment Bureau'']" (film review), ''Time'' <small>(retrieved 23 March 2014)</small>:
+#*: He seems on the verge of winning the New York Senate election when the ''New York Post'' runs a photo of David’s exposed butt in a mooning '''escapade''' from his college days.
+
+====Translations====
+{{trans-top|daring or adventurous act; undertaking which goes against convention}}
+* Bulgarian: {{t+|bg|лудория|f|sc=Cyrl}}, {{t+|bg|приключение|n|sc=Cyrl}}
+* Dutch: {{t|nl|escapade|f}}
+* Finnish: {{t+|fi|tempaus}}
+* French: {{t+|fr|escapade|f}}
+* German: {{t+|de|Eskapade|f}}, {{t+|de|Abenteuer|n}}, {{t+|de|Streich|m}}
+* Greek: {{t+|el|περιπέτεια|n}}
+* Italian: {{t|it|scappatella|f}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|eskapade|m}}
+*: Nynorsk: {{t|nn|eskapade|m}}
+* Russian: {{t+|ru|эскапада|f}}
+* Spanish: {{t+|es|aventura|f}}, {{t+|es|travesura|f}}, {{t+|es|escapada|f}}
+* Swedish: {{t+|sv|eskapad|c}}
+{{trans-bottom}}
+
+----
+
+==Galician==
+
+===Verb===
+{{gl-verb-form}}
+
+# {{inflection of|escapar||lang=gl|2|p|impr}}
+
+[[de:escapade]]
+[[et:escapade]]
+[[el:escapade]]
+[[fr:escapade]]
+[[ko:escapade]]
+[[io:escapade]]
+[[it:escapade]]
+[[kn:escapade]]
+[[ku:escapade]]
+[[hu:escapade]]
+[[ml:escapade]]
+[[ms:escapade]]
+[[ps:escapade]]
+[[pl:escapade]]
+[[ru:escapade]]
+[[fi:escapade]]
+[[ta:escapade]]
+[[te:escapade]]
+[[vi:escapade]]
+[[zh:escapade]]
