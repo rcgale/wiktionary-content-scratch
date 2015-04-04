@@ -1,0 +1,115 @@
+{{also|skít}}
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{rhymes|ɪt|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[short]] [[comic]] [[performance]].
+# A [[jeer]] or [[sally]]; a brief [[satire]].
+#* Leslie Stephen
+#*: That is a mere '''skit''' compared with this strange performance.
+# {{context|obsolete|lang=en}} A [[wanton]] [[girl]]; a [[wench]].
+
+====Translations====
+{{trans-top|comedy}}
+* Chinese:
+*: Mandarin: {{t+|cmn|小品|tr=xiǎopǐn|sc=Hani}}, {{t|cmn|喜劇小品|sc=Hani}}, {{t|cmn|喜剧小品|tr=xǐjù xiǎopǐn|sc=Hani}} {{qualifier|sketch comedy}}
+* Dutch: {{t+|nl|sketch|m}}
+* Finnish: {{t+|fi|sketsi}}
+* French: {{t+|fr|sketch|m}}, {{t+|fr|parodie|f}}
+{{trans-mid}}
+* German: {{qualifier|art}} {{t+|de|Darbietung}}, {{t+|de|Parodie|f}}, {{t+|de|Satire|f}}, {{t|de|Seitenhieb|m}}, {{t+|de|Spott|m}}
+* Japanese: {{t|ja|寸劇|tr=すんげき, sungeki|sc=Jpan}}, {{t|ja|スケッチ|tr=suketchi|sc=Jpan}}, {{t|ja|スキット|tr=sukitto|sc=Jpan}}
+* Korean: {{t+|ko|촌극|tr=chongeuk|sc=Kore}}
+* Russian: {{t+|ru|скетч|m|tr=sketč|sc=Cyrl}}, {{t+|ru|пародия|f|tr=paródija|sc=Cyrl}}, {{t+|ru|реприза|f|tr=repríza|sc=Cyrl}}
+* Swedish: {{t+|sv|sketch|c}}
+* Turkish: {{t+|tr|hiciv}}, {{t+|tr|parodi}}, {{t+|tr|skeç}}, {{t+|tr|şaka}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|skits|skitting|skitted}}
+
+# {{context|Ireland|Liverpool|lang=en}} to make fun of. (Used in [[Merseyside]])
+
+====Translations====
+{{trans-top|poke fun}}
+* Dutch: {{t+|nl|plagen}}, {{t|nl|[[belachelijk]] [[maken]]}}
+* German: {{t+|de|verspotten}}
+{{trans-mid}}
+* Korean: {{t+|ko|조롱하다|tr=choronghada|sc=Kore}}
+* Russian: {{t+|ru|высмеивать|impf|tr=vysméivatʹ|sc=Cyrl}}, {{t+|ru|высмеять|pf|tr=výsmejatʹ|sc=Cyrl}}
+* Turkish: {{t+|tr|alay etmek}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[kist#English|kist]]
+* [[kits#English|kits]]
+
+[[Category:en:Comedy]]
+
+----
+
+==Swedish==
+
+===Etymology===
+From {{etyl|non|sv}} {{term|skítr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*skītaz}}. Compare Danish {{term|skide|lang=da}}, Icelandic {{term|skítur|lang=is}}, Dutch {{term|schijt|lang=nl}}, English {{term|shit|lang=en}}.
+
+===Pronunciation===
+* {{audio|Sv-skit.ogg|audio|lang=sv}}
+* {{IPA|/ˈɧiːt/|lang=sv}}
+
+===Noun===
+{{head|sv|noun|g=c}}
+
+# {{context|strongly colloquial|lang=sv}} [[excrement]]; [[shit]]
+#: ''Det är '''skit''' på mattan.'' "There's shit on the carpet."
+# {{context|strongly colloquial|lang=sv}} dirt, filth
+#: ''Ta bort den där '''skiten''' från skrivbordet.'' "Get that crap off the desk."
+# {{context|strongly colloquial|lang=sv}} someone or something undesirable or revolting
+#: ''Jag börjar tröttna på den här '''skiten'''.'' "I'm getting tired of this shit."
+#: ''Du är bara en liten '''skit'''.'' "You're just a little shit."
+# {{context|strongly colloquial|lang=sv}} ''as the first part of compound used to indicate something negative''
+#: ''Det här är ett jävla '''skitjobb'''.'' "This is a damned crappy job."
+# {{context|strongly colloquial|lang=sv}} ''as the first part of compound used to intensify the positive or negative aspect of something''
+#: ''Den där filmen var '''skitbra'''.'' "That movie was really good."
+#: ''De lagar '''skitgod''' mat.'' "They cook really good food."
+
+===Interjection===
+{{head|sv|nouns}}
+
+# {{context|strongly colloquial|lang=sv}} [[shit]]!
+
+[[Category:Swedish nouns]]
+
+===Verb===
+{{head|sv|verb form}}
+
+# {{sv-verb-form-imp|skita}}
+
+[[cs:skit]]
+[[et:skit]]
+[[fr:skit]]
+[[ko:skit]]
+[[hy:skit]]
+[[io:skit]]
+[[it:skit]]
+[[ku:skit]]
+[[hu:skit]]
+[[mg:skit]]
+[[ml:skit]]
+[[pl:skit]]
+[[ru:skit]]
+[[sq:skit]]
+[[fi:skit]]
+[[sv:skit]]
+[[ta:skit]]
+[[te:skit]]
+[[chr:skit]]
+[[tr:skit]]
+[[vi:skit]]
+[[vo:skit]]
+[[zh:skit]]
