@@ -1,0 +1,19 @@
+==French==
+
+===Etymology===
+Contraction of {{compound|je|ai|lang=fr}}.
+
+===Pronunciation===
+* {{IPA|/ʒe/|lang=fr}}
+* {{homophones|g|lang=fr}}
+
+===Phrase===
+{{head|fr|phrase}}
+
+# {{compound|je|ai|lang=fr}}; usually translated as [[I]] [[have]] without context.
+
+====Usage notes====
+* Unlike in English, in French this contraction is mandatory.
+
+[[es:j'ai]]
+[[fr:j'ai]]
