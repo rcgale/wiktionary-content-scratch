@@ -1,0 +1,89 @@
+{{also|play-boy|Playboy}}
+==English==
+
+===Noun===
+{{en-noun}}
+
+# A man who does not work, but devotes himself to a life of [[leisure]] and [[pleasure]], often [[sexual]], without commitments or responsibilities.
+
+====Synonyms====
+* [[hedonist]]
+====Antonyms====
+* [[playgirl]]
+
+====Translations====
+{{trans-top|unemployed man who devotes himself to pleasure}}
+* Arabic: {{t-needed|ar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|花花公子|tr=huāhuāgōngzi|sc=Hani}}
+* Czech: {{t|cs|playboy|m}}, {{t|cs|svěťák|m}}, {{t+|cs|flamendr|m}}
+* Dutch: {{t|nl|casanova}}, {{t|nl|don juan}}
+* Finnish: {{t|fi|playboy}}
+* French: {{t+|fr|playboy|m}}, {{t+|fr|play-boy|m}}
+* German: {{t+|de|Playboy|m}}
+* Hungarian: {{t-needed|hu}}
+{{trans-mid}}
+* Italian: {{t+|it|playboy|m}}
+* Japanese: {{t|ja|遊び人|tr=あそびにん, asobinin|sc=Jpan}}, {{t|ja|プレイボーイ|tr=pureibōi|sc=Jpan}}
+* Norwegian: {{t|no|levemann|m}}
+* Polish: {{t+|pl|playboy|m}}
+* Portuguese: {{t+|pt|playboy|m}}
+* Russian: {{t+|ru|ловелас|m|tr=lovelás}}, {{t+|ru|повеса|m|tr=povésa}}, {{t+|ru|плейбой|m|tr=plɛjbój|sc=Cyrl}}, {{t+|ru|гуляка|m|tr=guljáka|sc=Cyrl}}
+* Spanish: {{t+|es|golfo|m}}, {{t+|es|mujeriego|m}}
+* Swedish: {{t+|sv|playboy|c}}, {{t+|sv|lebeman|c}}
+* Turkish: {{t+|tr|playboy}}, {{t|tr|kazanova}}
+{{trans-bottom}}
+
+----
+
+==Finnish==
+
+===Pronunciation===
+* {{IPA|/ˈple̞ibo̞i/|lang=fi}}
+
+===Noun===
+{{fi-noun}}
+
+# [[#English|playboy]]
+
+====Declension====
+{{fi-decl-rosé|playboy|a|ill_sg_vowel=i|ill_sg_vowel2=y}}
+
+----
+
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# {{alternative spelling of|play-boy|lang=fr}}
+
+====Usage notes====
+{{U:fr:1990 reform spelling}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m|s}}
+
+# {{l|en|playboy}} {{gloss|man who devotes himself to pleasure}}
+# {{lb|pt|Brazil|slang}} a rich person
+
+[[fr:playboy]]
+[[ko:playboy]]
+[[io:playboy]]
+[[it:playboy]]
+[[kn:playboy]]
+[[ku:playboy]]
+[[hu:playboy]]
+[[ml:playboy]]
+[[nl:playboy]]
+[[pl:playboy]]
+[[pt:playboy]]
+[[ru:playboy]]
+[[sv:playboy]]
+[[tr:playboy]]
+[[vi:playboy]]
+[[zh:playboy]]
