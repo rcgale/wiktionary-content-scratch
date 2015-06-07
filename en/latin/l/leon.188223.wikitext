@@ -1,0 +1,207 @@
+{{also|Leon|león}}
+==Interlingua==
+
+===Etymology===
+{{etyl|la|ia}} {{term|leo|lang=la}}
+
+===Noun===
+{{head|ia|noun}}
+
+# a [[lion]]
+# [[Leo]]
+
+[[Category:ia:Animals]]
+[[Category:ia:Mammals]]
+
+----
+
+==Irish==
+{{wikipedia|lang=ga}}
+[[Image:Lion waiting in Nambia.jpg|thumb|leon]]
+
+===Alternative forms===
+* {{l|ga|leomhan}}
+
+===Etymology===
+From {{etyl|sga|ga}} {{m|sga|léo}}, {{m|sga|léoman}}, from {{etyl|la|ga}} {{m|la|leō|leō, leōnem}}.
+
+===Noun===
+{{ga-noun|g=m|leoin|leoin}}
+
+# [[lion]]
+
+====Declension====
+{{ga-decl-m1|l|eon|eoin}}
+
+[[Category:ga:Felids]]
+
+----
+
+==Middle English==
+<!--this Middle English entry was created using Template:new enm entry-->
+
+===Noun===
+{{enm-noun}}
+
+# [[lion]]
+
+[[Category:enm:Mammals]]
+
+----
+
+==Occitan==
+
+===Etymology===
+From {{etyl|la|oc}} {{term|leō|lang=la}}, ''leōnis''.
+
+===Pronunciation===
+* {{IPA|[leˈu]|lang=oc}}
+
+===Noun===
+{{oc-noun|m}}
+
+# [[lion]]
+
+[[Category:oc:Mammals]]
+
+----
+
+==Old English==
+
+===Etymology===
+From {{etyl|gem-pro|ang}} {{m|gem-pro|*līhwaną}}. Cognate with Old High German {{term|lihan|lang=goh}} (German {{term|leihen|lang=de}}).
+
+===Pronunciation===
+* {{IPA|/leːon/|lang=ang}}
+
+===Verb===
+{{ang-verb|head=lēon}}
+
+# to [[lend]], [[loan]]
+
+====Conjugation====
+{{ang-conj|type=strong|class=1|lēon|lēonne|*līge|*līhst|līhþ|*lēoþ|*līge|*līgen|lāh|lige|lāh|ligon|*lige|*ligen|līh|*lēoþ|*lēonde|ligen}}
+
+----
+
+==Old French==
+
+===Noun===
+{{fro-noun|m}}
+
+# {{alternative form of|lion|lang=fro}}
+#* {{quote-book|author={{w|Christian of Troyes}}|title=[[s:fr:Yvain ou le Chevalier au Lion|Yvain ou le Chevalier au lion]]|year=circa 1170|passage=Et li '''leons''', qui che esgarde,<br>De li aidier plus ne se tarde[.]|translation=And the lion who was watching<br>Did not wait any longer to help him.}}
+
+[[Category:fro:Animals]]
+
+----
+
+==Old Spanish==
+
+===Etymology===
+From {{etyl|la|osp}} {{m|la|leōnem}}, accusative of {{m|la|leō}}, from {{etyl|grc|osp}} {{m|grc|λέων}}.
+
+===Pronunciation===
+* {{IPA|[leˈõn]|lang=osp}}
+
+===Noun===
+{{osp-noun|m|es}}
+
+# [[lion]]
+#* '''c. 1250:''' [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 6v.
+#*: Et por ende a tal ṕpriedat eſta piedra q́ el q́ la trae obedecé le los '''leones''' aſſi q́ los puede tomar a manos ¬ nol fará mal por q́ el '''leó''' q́ndo la uee pierde toda la fuerça ¬ nó a en ſi poder.
+#*:: And such is the property of this stone that '''lions''' will obey he who bears it, so that he can touch them with his hands and they will not harm him, for when he sees it the '''lion''' loses all its strength and has in him no power.
+
+====Related terms====
+* {{l|osp|Leon}}
+
+====Descendants====
+* Spanish: {{l/es|león}}
+
+[[Category:osp:Felids]]
+[[Category:osp:Mammals]]
+
+----
+
+==Venetian==
+
+===Etymology===
+From {{etyl|la|vec}} {{m|la|leō|leō, leōnem}} (compare Italian {{m|it|leone}}).
+
+===Noun===
+{{vec-noun|leon|m||i}} or {{vec-noun|le|m|on|uni}}
+
+# [[lion]]
+
+[[Category:vec:Mammals]]
+
+----
+
+==Volapük==
+
+===Noun===
+{{vo-noun}}
+
+# (''male or female'') [[lion]]
+
+====Declension====
+{{vo-decl-noun}}
+
+====Related terms====
+{{rel-top}}
+* [[hileon]]
+* [[hileonül]]
+* [[jileonül]]
+* [[leonacav]]
+* [[leonagiom]]
+* [[leonakap]]
+* [[leonakral]]
+* [[leonakluv]]
+{{rel-mid}}
+* [[leonalad]]
+* [[leonalemud]]
+* [[leonalep]]
+* [[leonasep]]
+* [[leonem]]
+* [[leonemit]]
+* [[leonik]]
+* [[leonül]]
+{{rel-bottom}}
+
+[[Category:vo:Felids]]
+
+[[af:leon]]
+[[br:leon]]
+[[cy:leon]]
+[[de:leon]]
+[[et:leon]]
+[[es:leon]]
+[[eo:leon]]
+[[eu:leon]]
+[[fr:leon]]
+[[fy:leon]]
+[[ga:leon]]
+[[gl:leon]]
+[[ko:leon]]
+[[io:leon]]
+[[id:leon]]
+[[it:leon]]
+[[kn:leon]]
+[[lo:leon]]
+[[lt:leon]]
+[[li:leon]]
+[[hu:leon]]
+[[mk:leon]]
+[[mg:leon]]
+[[nl:leon]]
+[[no:leon]]
+[[oc:leon]]
+[[pl:leon]]
+[[pt:leon]]
+[[ru:leon]]
+[[sl:leon]]
+[[fi:leon]]
+[[sv:leon]]
+[[chr:leon]]
+[[tr:leon]]
+[[vo:leon]]
