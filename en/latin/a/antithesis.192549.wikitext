@@ -1,0 +1,76 @@
+==English==
+
+===Etymology===
+From {{etyl|grc|en}} {{m|grc|ἀντί||against}} + {{m|grc|θέσις||position}}. Surface analysis {{prefix|anti|thesis|lang=en}}.
+
+===Pronunciation===
+* {{a|US}} {{IPA|/ænˈtɪ.θə.sɪs/|lang=en}}
+* {{audio|en-us-antithesis.ogg|Audio (US)|lang=en}}
+
+{{examples-right|sense=rhetoric|examples=[[w:Abraham Lincoln|Abraham Lincoln]], ''[[s:Gettysburg Address|Gettysburg Address]]'' (1863)<br>The world will little note, nor long remember what we say here, but it can never forget what they did here.}}
+
+===Noun===
+{{en-noun|antitheses}}
+
+# A [[proposition]] that is the [[diametric]] [[opposite]] of some other proposition.
+# {{context|rhetoric|lang=en}} A device by which two contrasting ideas are [[juxtaposed]] in [[parallel]] form.
+
+====Antonyms====
+* [[epitome]]
+
+====Related terms====
+* [[antithetical]]
+
+====Translations====
+{{trans-top|proposition that is opposite to other proposition}}
+* Chinese:
+*: Mandarin: {{t|cmn|對照|sc=Hani}}, {{t+|cmn|对照|tr=duìzhào|sc=Hani}}, {{t|cmn|對立|sc=Hani}}, {{t+|cmn|对立|tr=duìlì|sc=Hani}}, {{t|cmn|對偶|sc=Hani}}, {{t+|cmn|对偶|tr=duì'ǒu|sc=Hani}}
+* Czech: {{t|cs|antiteze|f}}
+* Dutch: {{t+|nl|antithese}}
+* Esperanto: {{t|eo|antitezo}}
+* Finnish: {{t|fi|antiteesi}}, {{t+|fi|vastakohta}}
+* French: {{t+|fr|antithèse|f}}
+* German: {{t+|de|Antithese|f}}
+* Greek: {{t+|el|αντίθεση|f|sc=Grek}}
+{{trans-mid}}
+* Hungarian: {{t|hu|antitézis}}
+* Italian: {{t+|it|antitesi|f}}
+* Japanese: {{t+|ja|対照|tr=たいしょう, taishō|sc=Jpan}}, {{t|ja|アンチテーゼ|tr=anchitēze|sc=Jpan}}
+* Maori: {{t|mi| kupu tauaro}}
+* Portuguese: {{t+|pt|antítese|f}}
+* Russian: {{t+|ru|антите́за|f|tr=antitɛ́za}}, {{t+|ru|антите́зис|m|tr=antitɛ́zis}}, {{t+|ru|противополо́жность|f}}
+* Serbo-Croatian: {{t|sh|antiteza|f}}
+* Slovene: {{t|sl|antiteza|f}}
+* Spanish: {{t|es|antítesis|f}}
+* Swedish: {{t+|sv|antites|c}}
+{{trans-bottom}}
+
+[[de:antithesis]]
+[[et:antithesis]]
+[[el:antithesis]]
+[[eu:antithesis]]
+[[fa:antithesis]]
+[[fr:antithesis]]
+[[ko:antithesis]]
+[[hy:antithesis]]
+[[io:antithesis]]
+[[id:antithesis]]
+[[kn:antithesis]]
+[[ku:antithesis]]
+[[hu:antithesis]]
+[[mg:antithesis]]
+[[ml:antithesis]]
+[[my:antithesis]]
+[[nl:antithesis]]
+[[ps:antithesis]]
+[[pl:antithesis]]
+[[simple:antithesis]]
+[[fi:antithesis]]
+[[sv:antithesis]]
+[[ta:antithesis]]
+[[te:antithesis]]
+[[th:antithesis]]
+[[chr:antithesis]]
+[[tr:antithesis]]
+[[vi:antithesis]]
+[[zh:antithesis]]
