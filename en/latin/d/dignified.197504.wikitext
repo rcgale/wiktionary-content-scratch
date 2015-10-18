@@ -1,0 +1,63 @@
+==English==
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈdɪɡnɪfaɪd/|lang=en}}
+
+===Adjective===
+{{en-adj}}
+
+# [[respectable]]
+
+====Translations====
+{{trans-top|respectable}}
+* Belarusian: {{t|be|го́дны|sc=Cyrl}}
+* Bulgarian: {{t+|bg|достоен}}, {{t+|bg|величествен}}
+* Catalan: {{t|ca|digne}}
+* Czech: {{t|cs|důstojný|m}}
+* Danish: {{t|da|værdig}}
+* Faroese: {{t|fo|virðiligur}}
+* Finnish: {{t+|fi|arvokas}}, {{t+|fi|arvostettu}}, {{t|fi|kunnianarvoisa}}
+* French: {{t+|fr|digne}}
+* German: {{t|de|würdevoll}}, {{t+|de|würdig}}
+{{trans-mid}}
+* Hungarian: {{t|hu|méltóságteljes}}, {{t|hu|tiszteletet parancsoló}}
+* Italian: {{t|it|rispettabile}}
+* Macedonian: {{t|mk|до́стоен|sc=Cyrl}}
+* Polish: {{t|pl|dostojny}}, {{t+|pl|godny}}
+* Portuguese: {{t+|pt|digno}}
+* Russian: {{t+|ru|досто́йный}}, {{t+|ru|вели́чественный}}, {{t+|ru|велича́вый}}
+* Slovak: {{t|sk|dôstojný}}
+* Spanish: {{t+|es|digno}}, {{t+|es|respetable}}
+* Ukrainian: {{t|uk|гі́дний|sc=Cyrl}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|dignify}}
+
+[[ca:dignified]]
+[[cy:dignified]]
+[[de:dignified]]
+[[et:dignified]]
+[[es:dignified]]
+[[fr:dignified]]
+[[ko:dignified]]
+[[hy:dignified]]
+[[io:dignified]]
+[[it:dignified]]
+[[kn:dignified]]
+[[ku:dignified]]
+[[hu:dignified]]
+[[mg:dignified]]
+[[ml:dignified]]
+[[my:dignified]]
+[[pl:dignified]]
+[[simple:dignified]]
+[[sv:dignified]]
+[[ta:dignified]]
+[[te:dignified]]
+[[chr:dignified]]
+[[tr:dignified]]
+[[vi:dignified]]
+[[zh:dignified]]
