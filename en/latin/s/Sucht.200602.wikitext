@@ -1,0 +1,55 @@
+{{also|sucht}}
+==German==
+
+===Etymology===
+From {{etyl|goh|de}} {{term|suht|lang=goh}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*suhtiz}}. Akin to {{etyl|nl|-}} {{term|zucht|lang=nl}}, {{etyl|non|-}} {{term|sótt|lang=non}}.
+
+===Pronunciation===
+* {{IPA|[ˈzʊxt]|lang=de}}
+* {{rhymes|ʊχt|lang=de}}
+
+===Noun===
+{{de-noun|f||Süchte|pl2=Suchten}}
+
+# [[addiction]]
+
+====Related terms====
+{{rel-top3}}
+* {{l|de|Drogensucht}} {{g|f}}
+* {{l|de|Eifersucht}} {{g|f}}
+* {{l|de|Fallsucht}} {{g|f}}
+* {{l|de|Fresssucht}} {{g|f}}
+* {{l|de|Gelbsucht}} {{g|f}}
+* {{l|de|Magersucht}} {{g|f}}
+{{rel-mid3}}
+* {{l|de|Schwindsucht}} {{g|f}}
+* {{l|de|Sehnsucht}} {{g|f}}
+* {{l|de|Spielsucht}} {{g|f}}
+* {{l|de|suchen}}
+* {{l|de|Suchtberatung}} {{g|f}}
+{{rel-mid3}}
+* {{l|de|süchten}}
+* {{l|de|Suchtgift}} {{g|n}}
+* {{l|de|süchtig}} {{pos_a}}
+* {{l|de|Tobsucht}} {{g|f}}
+* {{l|de|Trunksucht}} {{g|f}}
+* {{l|de|Wassersucht}} {{g|f}}
+{{rel-bottom}}
+
+===See also===
+* [[Abhängigkeit]]
+
+===External links===
+* {{R:Duden}}
+
+[[de:Sucht]]
+[[el:Sucht]]
+[[fr:Sucht]]
+[[io:Sucht]]
+[[hu:Sucht]]
+[[mg:Sucht]]
+[[pl:Sucht]]
+[[fi:Sucht]]
+[[sv:Sucht]]
+[[tr:Sucht]]
+[[zh:Sucht]]
