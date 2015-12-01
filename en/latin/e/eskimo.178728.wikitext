@@ -1,0 +1,75 @@
+{{also|Eskimo}}
+==Dutch==
+
+===Etymology===
+From [[Eskimo]] {{g2|m}}
+
+===Pronunciation===
+* {{audio|Nl-eskimo.ogg|Audio|lang=nl}}
+
+===Noun===
+{{nl-noun|n|-|-}}
+
+# A thick [[woolen]] [[fabric]], mainly used for warm [[winter coat]]s
+
+====Derived terms====
+* [[eskimojas]]
+* [[eskimojekker]] {{g2|m}}
+
+----
+
+==Finnish==
+{{Finnish index|e|s}}
+
+===Pronunciation===
+* {{IPA|[ˈe̞skimo̞]|lang=fi}}
+* {{hyphenation|es|ki|mo|lang=fi}}
+
+===Noun===
+{{wikipedia|Eskimot|lang=fi}}
+{{fi-noun}}
+
+# An [[Eskimo]].
+
+====Declension====
+{{fi-decl-palvelu|eskimo|a}}
+
+----
+
+==French==
+
+===Alternative forms===
+* [[esquimau]]
+
+===Etymology===
+From [[Eskimo]] {{g|m}}
+
+===Adjective===
+{{head|fr|adjective|g=m|g2=f|invariable}}
+
+# [[Eskimo]]
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun|g=m|invariable}}
+
+# A [[parka]] coat
+
+[[ko:eskimo]]
+[[io:eskimo]]
+[[ku:eskimo]]
+[[hu:eskimo]]
+[[ml:eskimo]]
+[[nl:eskimo]]
+[[uz:eskimo]]
+[[pl:eskimo]]
+[[fi:eskimo]]
+[[chr:eskimo]]
+[[vi:eskimo]]
+[[zh:eskimo]]
