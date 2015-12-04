@@ -1,0 +1,30 @@
+==English==
+
+===Etymology===
+{{blend|fork|spoon|lang=en}}
+
+===Pronunciation===
+* {{a|RP}} /fuːn/, /<tt>fu:n</tt>/
+* {{a|US}} {{enPR|fo͞on}}, {{IPA|/fun/|lang=en}}
+* {{rhymes|uːn|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[spork]].
+
+====Synonyms====
+* [[spork]]
+
+===See also===
+* [[runcible spoon]]
+* [[splade]], [[Splayd]]&trade;
+
+[[Category:en:Cutlery]]
+
+[[fr:foon]]
+[[mg:foon]]
+[[nl:foon]]
+[[pt:foon]]
+[[ru:foon]]
+[[chr:foon]]
