@@ -1,0 +1,125 @@
+{{also|iëŋ}}
+==Dutch Low Saxon==
+
+===Cardinal number===
+{{head|nds-nl|numeral}}
+
+# {{alternative form of|een|lang=nds-nl}}
+
+[[Category:Dutch Low Saxon cardinal numbers]]
+
+----
+
+==Elfdalian==
+
+===Etymology===
+From {{etyl|non|dlc}} {{term|einn|lang=non}}, from {{etyl|gem-pro|dlc}} {{m|gem-pro|*ainaz}}. Cognate with {{etyl|sv|-}} {{term|en|lang=sv}}.
+
+===Article===
+{{head|dlc|article|g=m}}
+
+# [[a]], [[an]]
+
+===Numeral===
+{{head|dlc|numeral|g=m}}
+
+# [[one]]
+
+====Usage notes====
+The masculine and feminine forms are used only together with a following noun. When used alone (such as when counting), the neuter form {{term|iett|lang=dlc}} is used instead.
+
+[[Category:Elfdalian cardinal numbers]]
+
+----
+
+==Esperanto==
+
+===Etymology===
+{{suffix|ie|n|lang=eo}}
+
+===Pronunciation===
+* {{audio|Eo-ien.ogg|Audio|lang=eo}}
+
+===Adverb===
+{{eo-head}}
+
+# to [[somewhere]] {{qualifier|"accusative" of {{m|eo|ie}}}}
+
+====Related terms====
+* {{l|eo|kien}}
+* {{l|eo|tien}}
+* {{l|eo|ĉien}}
+* {{l|eo|nenien}}
+
+{{catlangname|eo|correlatives}}
+
+----
+
+==Finnish==
+
+===Etymology===
+From {{inh|fi|fiu-fin-pro|*igen}}, from {{inh|fi|fiu-pro|*ikene}}, from Proto-Uralic *ike(-ńe, -ne). Cognates include Hungarian {{term|íny|lang=hu}}.
+
+===Pronunciation===
+* {{IPA|lang=fi|[ien]}}
+* {{rhymes|ien|lang=fi}}
+* {{hyphenation|ien|lang=fi}}
+
+===Noun===
+{{fi-noun}}
+
+# [[gum]] (part of mouth)
+
+====Declension====
+{{fi-decl-sisar|i||k|en|ä}}
+
+====Compounds====
+* [[ientulehdus]]
+
+[[Category:fi:Anatomy]]
+
+----
+
+==West Frisian==
+
+===Etymology===
+From {{etyl|ofs|fy}} {{term|ēn|lang=ofs}}, from {{etyl|gem-pro|fy}} {{m|gem-pro|*ainaz}}, from {{etyl|ine-pro|fy}} {{m|ine-pro|*óynos}}.
+
+===Noun===
+{{head|fy|noun|plural|ienen}}
+
+# [[one]]
+
+===Pronoun===
+{{head|fy|pronoun}}
+
+# [[one]]
+
+===Numeral===
+{{cardinalbox|fy|0|1|2|nul|twa|ord=earst}}
+{{head|fy|numeral}}
+
+# {{context|cardinal|lang=fy}} [[one]]
+
+[[da:ien]]
+[[et:ien]]
+[[el:ien]]
+[[es:ien]]
+[[eu:ien]]
+[[fr:ien]]
+[[fy:ien]]
+[[gl:ien]]
+[[io:ien]]
+[[ku:ien]]
+[[lt:ien]]
+[[hu:ien]]
+[[mg:ien]]
+[[nl:ien]]
+[[nds:ien]]
+[[pl:ien]]
+[[pt:ien]]
+[[ru:ien]]
+[[fi:ien]]
+[[sv:ien]]
+[[chr:ien]]
+[[tr:ien]]
