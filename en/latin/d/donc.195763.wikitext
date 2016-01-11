@@ -1,0 +1,41 @@
+==French==
+
+===Etymology===
+From {{etyl|frm|fr}} {{term|donc|lang=frm}}, variant of {{term|doncques|lang=frm}}, from {{etyl|fro|fr}} {{term|donkes||then|lang=fro}}. Of uncertain and disputed origin. Perhaps an [[apheresis]] of {{etyl|fro|fr}} {{term|adonc|lang=fro}}, from {{etyl|la|fr}} {{term||ad-tunc|lang=la}}, or a blend of {{etyl|la|fr}} {{term|dum||while|lang=la}} + {{term|tum|lang=la}}, {{term|tunc||then|lang=la}}. Compare also Italian {{term|dunque|lang=it}}.
+
+===Pronunciation===
+* {{audio|Fr-donc.ogg|audio|lang=fr}}
+* {{IPA|/dɔ̃k/|lang=fr}}
+* {{rhymes|ɔ̃k|lang=fr}}
+
+===Adverb===
+{{fr-adv}}
+
+# [[therefore]], [[consequently]]; [[thus]].
+#: ''Je pense, '''donc''' je suis.'' {{w|René Descartes}}, 17<sup>th</sup> Century
+#:: I think, '''therefore''' I am.
+
+===External links===
+* {{R:TLFi}}
+
+[[Category:French conjunctions]]
+[[Category:French coordinating conjunctions]]
+
+[[ca:donc]]
+[[cs:donc]]
+[[et:donc]]
+[[el:donc]]
+[[es:donc]]
+[[fr:donc]]
+[[ko:donc]]
+[[io:donc]]
+[[id:donc]]
+[[ku:donc]]
+[[hu:donc]]
+[[mg:donc]]
+[[nl:donc]]
+[[pl:donc]]
+[[pt:donc]]
+[[ru:donc]]
+[[fi:donc]]
+[[chr:donc]]
