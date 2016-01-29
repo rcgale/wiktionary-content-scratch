@@ -1,0 +1,306 @@
+{{also|Contra|contra-}}
+==English==
+
+===Pronunciation===
+* {{IPA|/ˈkɒntrə/|lang=en}}
+
+===Preposition===
+{{en-prep}}
+
+# [[against]]; [[contrary]] or [[opposed]] to
+
+===Adverb===
+{{en-adv}}
+
+# to the contrary to something
+
+====Translations====
+{{trans-top|to the contrary to something}}
+* Arabic: {{t|ar|عَلَى اَلْعَكْس}}, {{t|ar|عَلَى اَلنَّقِيض مِن}}, {{t|ar|ضِد}}
+*: Egyptian Arabic: {{t|arz|عكس|tr=ʿakss|sc=Arab}}, {{t|arz|ضد|tr=ḍeḍ|sc=Arab}}
+* Bulgarian: {{t+|bg|напротив}}, {{t+|bg|наопаки}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{label|en|business}} a deal to [[swap]] goods or services
+# {{label|en|accounting}} an entry that cancels another entry
+# {{label|en|music|informal}} any of the musical instruments in the [[contrabass]] range, e.g. [[contrabassoon]], [[contrabass clarinet]] or, especially, [[double bass]]
+# {{label|en|dance}} A [[contra dance]].
+# {{label|en|obsolete|US|New England|dance}} A [[country dance]].
+#* 2001. ''The Garland Encyclopedia of World Music: North America''. Garland Publishing. Ellen Koskoff (Ed.). Pg. 232.
+#*: Folk histories record that '''contras''' were gradually displaced by the introduction of the quadrille and the new couple dances.
+
+===Anagrams===
+* {{l|en|cantor}}
+* {{l|en|carton}}
+* {{l|en|craton}}
+
+----
+
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{m|la|contra}}.
+
+===Preposition===
+{{ast-prep}}
+
+# [[against]]
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{m|la|contra}}.
+
+===Adverb===
+{{ca-adv}}
+
+# [[against]]
+#* {{quote-book|year=2009|title=[http://books.google.com/books?id=ncP-xBLiHgoC&pg=PA145&dq=vespre&hl=ca&ei=czuXTuuFFMinhAe-1oiXBA&sa=X&oi=book_result&ct=result&resnum=6&ved=0CEoQ6AEwBQ#v=onepage&q&f=false Les Aventures d'en Nono]|author=Jean Grave|passage=Més endavant, va parlar '''contra''' la gent sense família|translation=But before, he was going to speak against people without family}}
+
+----
+
+==Finnish==
+
+===Noun===
+{{fi-noun}}
+
+# [[Contra]] {{gloss|anti-Sandinista fighter}}
+
+====Declension====
+{{fi-decl-koira|contr|||a}}
+
+====Synonyms====
+* {{l|fi|contrasissi}}
+
+----
+
+==French==
+
+===Verb===
+{{fr-verb-form}}
+
+# {{inflection of|contrer||3|s|phis|lang=fr}}
+
+===Anagrams===
+* {{l|fr|carton}}
+
+----
+
+==Italian==
+===Pronunciation===
+* {{IPA|lang=it|/ˈkontra/|[ˈkon̪.t̪r̺ä]}}
+* {{hyphenation|lang=it|cón|tra}}
+
+===Etymology 1===
+From {{etyl|la|it}} {{m|la|contrā}}.
+
+====Adverb====
+{{it-adv}}
+
+====Preposition====
+{{it-prep}}
+
+# {{obsolete form of|contro|lang=it}}
+
+====See also====
+* {{l|it|contraposto}}
+
+===Etymology 2===
+Inflected form of {{m|it|contrare}}
+
+====Verb====
+{{head|it|verb form}}
+
+# {{inflection of|contrare||3|s|pres|indc|lang=it}}
+# {{inflection of|contrare||2|s|impr|lang=it}}
+
+===Anagrams===
+* {{l|it|tronca}}
+
+----
+
+==Ladin==
+
+===Etymology===
+From {{etyl|la|lld}} {{m|la|contra}}.
+
+===Preposition===
+{{head|lld|preposition}}
+
+# [[against]]
+
+----
+
+==Latin==
+
+===Etymology===
+From {{etyl|ine-pro|la}} {{m|ine-pro|*k(')enta||down, below, with, far, along, against}}, from {{m|ine-pro|*ḱen-||to set oneself in motion, arise}}. Cognate with {{etyl|got|-}} {{m|got|𐌷𐌹𐌽𐌳𐌰𐌽𐌰||from beyond}}, {{etyl|non|-}} {{m|non|hindr||obstacle}}, {{etyl|non|-}} {{m|non|handan||from that side, beyond}}, {{etyl|goh|-}} {{m|goh|hintana||behind}}, {{etyl|ang|-}} {{m|ang|hinder||behind, back, in the farthest part, down}}, More at {{l|en|hinder}}, {{l|en|contrary}}.
+
+===Adverb===
+{{head|la|preposition|head=contrā}}
+
+# [[against]]
+# [[opposite]] to
+# [[contrary]] to
+# [[otherwise]]
+# in [[return]], back
+
+===Preposition===
+{{head|la|preposition|head=contrā}}
+
+# {{label|la|with accusative}} [[against]]
+# {{label|la|with accusative}} [[across]] from, [[opposite]]
+
+====Descendants====
+{{top3}}
+* Albanian: {{l|sq|kundër}}
+* Asturian: {{l|ast|contra}}
+* Catalan: {{l|ca|contra}}
+* Dalmatian: {{l|dlm|cuantra}}
+* English: {{l|en|contra}}
+* French: {{l|fr|contre}}
+{{mid3}}
+* Friulian: {{l|fur|cuintri}}
+* Hungarian: {{l|hu|kontra}}
+* Old Italian: {{l|roa-oit|contra}}
+:* Italian: {{l|it|contro}}
+* Ladin: {{l|lld|contra}}
+* Polish: {{l|pl|kontra}}
+{{mid2}}
+* Portuguese: {{l|pt|contra}}
+* Romanian: {{l|ro|către}}, {{l|ro|contra}}
+* Sicilian: {{l|scn|contra}}
+* Spanish: {{l|es|contra}}
+* Venetian: {{l|vec|contra}}
+{{bottom}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{etyl|la|pt}} {{m|la|contra}}.
+
+===Pronunciation===
+* {{a|Portugal}} {{IPA|/kõ.tɾɐ/|lang=pt}}
+* {{a|Brazil}} {{IPA|/kõ.tɾa/|lang=pt}}
+
+===Preposition===
+{{head|pt|preposition}}
+
+# [[against]]
+
+====Antonyms====
+* {{l|pt|a favor}}
+* {{l|pt|em prol}}
+* {{l|pt|em favor}}
+* {{l|pt|em defesa}}
+
+----
+
+==Spanish==
+{{wikipedia|lang=es}}
+
+===Pronunciation===
+* {{IPA|[ˈko̞n.tra̠]|lang=es}}
+* {{audio|Es-am-lat-contra.ogg|Audio (Latin America)|lang=es}}
+
+===Etymology===
+From {{etyl|la|es}} {{m|la|contra}}.
+
+===Preposition===
+{{head|es|preposition}}
+
+# [[against]], [[versus]]
+#: {{ux|es|la lucha '''contra''' prejuicio|t=the fight '''against''' prejudice}}
+
+====Synonyms====
+* {{l|es|en oposición a}}
+
+====Antonyms====
+* {{l|es|a favor de}}
+
+====Related terms====
+* {{l|es|contrario}}
+* {{l|es|encontrar}}
+
+====Derived terms====
+{{top3}}
+* {{l|es|contrarreforma}}
+* {{l|es|contrarrevolucionario}}
+{{mid3}}
+* {{l|es|contratapa}}
+* {{l|es|contraventana}}
+{{mid3}}
+* {{l|es|en contra de}}
+{{bottom}}
+
+====Descendants====
+* Hiligaynon: {{l|hil|kontra}}
+* Tagalog: {{l|tl|kontra}}
+
+===Adverb===
+{{es-adv}}
+
+# [[opposite]], [[facing]]
+
+====Synonyms====
+* {{l|es|en oposición a}}
+
+====Antonyms====
+* {{l|es|a favor de}}
+
+===Anagrams===
+{{top3}}
+* [[cantor]]
+* [[cartón]]
+{{mid3}}
+* [[contar]]
+* [[cortan]]
+* [[cratón]]
+{{mid3}}
+* [[tranco]]
+* [[tronca]]
+{{bottom}}
+
+[[az:contra]]
+[[ca:contra]]
+[[cs:contra]]
+[[de:contra]]
+[[el:contra]]
+[[es:contra]]
+[[fr:contra]]
+[[ko:contra]]
+[[hy:contra]]
+[[hr:contra]]
+[[io:contra]]
+[[id:contra]]
+[[it:contra]]
+[[ku:contra]]
+[[la:contra]]
+[[lv:contra]]
+[[hu:contra]]
+[[mg:contra]]
+[[ml:contra]]
+[[fj:contra]]
+[[nl:contra]]
+[[ja:contra]]
+[[no:contra]]
+[[uz:contra]]
+[[pl:contra]]
+[[pt:contra]]
+[[ro:contra]]
+[[ru:contra]]
+[[simple:contra]]
+[[fi:contra]]
+[[ta:contra]]
+[[te:contra]]
+[[chr:contra]]
+[[vi:contra]]
+[[zh:contra]]
