@@ -1,0 +1,384 @@
+{{also|Appendix:Variations of "nam"}}
+==Catacao==
+
+===Noun===
+{{head|qfa-ctc-cat|noun}}
+
+# [[moon]]
+
+----
+
+==Crimean Tatar==
+
+===Noun===
+{{head|crh|noun}}
+
+# [[name]], [[appellation]], [[title]]
+
+====Declension====
+{{crh-latin-noun|nıñ|ğa|nı|da|dan}}
+
+====References====
+* {{R:Useinov-Mireev 2002}}
+
+----
+
+==Dutch==
+
+===Pronunciation===
+* {{audio|Nl-nam.ogg|Audio|lang=nl}}
+* {{rhymes|ɑm|lang=nl}}
+* {{IPA|[nɑm]|lang=nl}}
+
+===Verb===
+{{nl-verb-form}}
+
+# {{nl-verb form of|n=sg|t=past|m=ind|nemen}}
+
+===Anagrams===
+* [[Man#Dutch|Man]], [[man#Dutch|man]]
+
+----
+
+==Finnish==
+
+===Interjection===
+{{fi-int}}
+
+# [[yum]]
+
+----
+
+==Gothic==
+
+===Romanization===
+{{got-rom}}
+
+# {{got-romanization of|𐌽𐌰𐌼}}
+
+----
+
+==Ido==
+
+===Etymology===
+{{borrowing|io|la|nam}}.
+
+===Conjunction===
+{{head|io|conjunction}}
+
+# [[for]], [[since]], [[because]], [[seeing]] [[that]]
+
+----
+
+==Indonesian==
+
+===Etymology===
+From {{etyl|ms|id}} {{m|ms|nam}}, shortened form of {{m|ms|enam}}, from {{etyl|poz-mly-pro|id}} {{m|poz-mly-pro|*ənəm}}, from {{etyl|poz-mcm-pro|id}} {{m|poz-mcm-pro|*ənəm}}, from {{etyl|poz-msa-pro|id}} {{m|poz-msa-pro|*ənəm}}, from {{etyl|poz-sus-pro|id}} {{m|poz-sus-pro|*ənəm}}, from {{etyl|poz-pro|id}} {{m|poz-pro|*ənəm}}, from {{etyl|map-pro|id}} {{m|map-pro|*ənəm}}.
+
+===Numeral===
+{{head|id|numeral}}
+
+# {{label|id|cardinal}} {{l|en|six}}
+
+[[Category:id:Six]]
+
+----
+
+==Interlingua==
+
+===Conjunction===
+{{head|ia|conjunction}}
+
+# [[for]]
+
+----
+
+==Latin==
+
+===Etymology===
+The accusative singular feminine form of the pronominal stem {{m|la||na-}}; compare the interjection {{m|la|nē||truly”, “verily”, “really”, “indeed}}. Confer with its masculine form {{etyl|la|-}} {{m|la|num}}, as in {{m|la|cum}}-{{m|la|quam}}, {{m|la|tum}}-{{m|la|tam}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/nam/|[nã]|lang=la}}
+
+===Conjunction===
+{{head|la|conjunction}}
+
+# [[for]]
+# [[thus]]
+# [[because]]
+# [[actually]]
+
+====Derived terms====
+* {{l|la|enim}}
+* {{l|la|nempe}}
+
+===References===
+* {{R:L&S}}
+
+----
+
+==Lojban==
+
+===Rafsi===
+{{jbo-rafsi}}
+
+# {{jbo-rafsi of|nabmi}}
+
+----
+
+==Lower Sorbian==
+
+===Pronunciation===
+* {{IPA|[nam]|lang=dsb}}
+
+===Pronoun===
+{{head|dsb|pronoun form}}
+
+# {{inflection of|my||dat|lang=dsb}}
+
+----
+
+==Malay==
+{{cardinalbox|ms|5|6|7|lima|tujuh}}
+
+===Etymology===
+Shortened form of {{m|ms|enam}}, from {{etyl|poz-mly-pro|ms}} {{m|poz-mly-pro|*ənəm}}, from {{etyl|poz-mcm-pro|ms}} {{m|poz-mcm-pro|*ənəm}}, from {{etyl|poz-msa-pro|ms}} {{m|poz-msa-pro|*ənəm}}, from {{etyl|poz-sus-pro|ms}} {{m|poz-sus-pro|*ənəm}}, from {{etyl|poz-pro|ms}} {{m|poz-pro|*ənəm}}, from {{etyl|map-pro|ms}} {{m|map-pro|*ənəm}}.
+
+===Alternative forms===
+* {{l|ms|enam}}
+* {{l|ms|ĕnam}}
+* {{l|ms|anam}}
+* {{l|ms|ănam}}
+* {{l|ms|انم|sc=Arab}}
+* {{l|ms|نم|sc=Arab}}
+
+===Pronunciation===
+* {{IPA|/nam/|lang=ms}}
+* {{rhymes|nam|am|lang=ms}}
+
+===Numeral===
+{{head|ms|numeral|Jawi spelling|نم}}
+
+# {{alternative form of|enam|lang=ms}}
+
+----
+
+==Ngarrindjeri==
+
+===Pronoun===
+{{head|nay|pronoun}}
+
+# [[us]]
+
+[[Category:Ngarrindjeri pronouns]]
+
+----
+
+==Old English==
+
+===Pronunciation===
+* {{IPA|/nam/|lang=ang}}
+
+===Verb===
+{{head|ang|verb form}}
+
+# {{form of|First-person preterite form|niman|lang=ang}}
+# {{form of|Third-person preterite form|niman|lang=ang}}
+
+----
+
+==Polish==
+
+===Pronunciation===
+* {{IPA|[n̪ãm]|lang=pl}}
+
+===Pronoun===
+{{head|pl|pronoun form}}
+
+# {{inflection of|lang=pl|my||dat}}
+
+----
+
+==Portuguese==
+
+===Adverb===
+{{pt-adv|-}}
+
+# {{obsolete spelling of|não|lang=pt}}
+
+----
+
+==Rohingya==
+
+===Etymology===
+{{borrowing|bn|lang=rhg}}.
+
+===Noun===
+{{head|rhg|noun}}
+
+# [[name]]
+
+----
+
+==Scottish Gaelic==
+
+===Conjunction===
+{{head|gd|conjunction}}
+
+# [[if]] {{qualifier|subjunctive}}
+
+# [[whether]] {{qualifier|subjunctive}}
+
+====Usage notes====
+* Only used before words beginning with '''b''', '''f''', '''m''' or '''p''', otherwise the form '''nan''' is used.
+* Only used in the [[conditional tense]], otherwise {{l|gd|ma}} is used.
+* The negative form is {{l|gd|mura}}.
+
+===Preposition===
+{{head|gd|preposition}}
+
+# [[in]] [[my]]
+#: ''Bha mi '''nam''' chadal.'' - I was sleeping (''literally'' I was in my sleep).
+# [[in]] [[their]]
+
+====Usage notes====
+* As '''in my''', it lenites the following word.
+* As '''in their''', it is used before words beginning with '''b''', '''f''', '''m''' or '''p'''.
+
+===Article===
+{{head|gd|article}}
+
+# [[the]]
+
+====Usage notes====
+* This form is used in the [[genitive]] plural before words beginning with '''b''', '''f''', '''m''' or '''p'''.
+
+===See also===
+* {{l|gd|an}}
+* {{l|gd|na}}
+* {{l|gd|nad}}
+* {{l|gd|nan}}
+* {{l|gd|nar}}
+* {{l|gd|nur}}
+
+----
+
+==Serbo-Croatian==
+
+===Pronoun===
+{{sh-pronoun|head=nam|r|нам}}
+
+# to [[us]] (clitic dative plural of {{m|sh|jȃ||I}})
+
+====Declension====
+{{sh-decl-noun
+|ns={{l|sh|jȃ}}
+|np={{l|sh|mȋ}}
+|gs={{l|sh|mȅne}}, {{l|sh|me}}
+|gp={{l|sh|nȃs}}, {{l|sh|nas}}
+|ds={{l|sh|mȅni}}, {{l|sh|mi}}
+|dp={{l|sh|nȁma}}, {{l|sh|nam}}
+|as={{l|sh|mȅne}}, {{l|sh|me}}
+|ap={{l|sh|nȃs}}, {{l|sh|nas}}
+|vp={{l|sh|mȋ}}
+|ls={{l|sh|mȅni}}
+|lp={{l|sh|nȁma}}
+|is={{l|sh|mnȏm}}, {{l|sh|mnóme}}
+|ip={{l|sh|nȁma}}
+}}
+
+----
+
+==Turkish==
+
+===Etymology===
+{{borrowing|fa|نام|tr=nâm|lang=tr}}.
+
+===Noun===
+{{tr-noun}}
+
+# [[name]] (reputation)
+
+{{tbot entry|Turkish|name|2008|April|tr}}
+
+----
+
+==Vietnamese==
+
+===Pronunciation===
+{{vi-pron}}
+
+===Etymology 1===
+{{vi-etym-sino|南|south}}
+
+====Noun====
+{{vi-noun}}
+
+# [[south]]
+
+===Etymology 2===
+{{vi-etym-sino|男|male}}
+
+====Noun====
+{{vi-noun}}
+
+# [[man]], [[male]]
+
+----
+
+==Volapük==
+
+===Etymology===
+{{borrowing|la|manus||hand|lang=vo}}.
+
+===Pronunciation===
+* {{IPA|/nam/|lang=vo}}
+
+===Noun===
+{{vo-noun}}
+
+# [[hand]]
+
+====Declension====
+{{vo-decl-noun}}
+
+====Derived terms====
+* [[namakev]]
+
+[[Category:vo:Anatomy]]
+
+[[af:nam]]
+[[az:nam]]
+[[cs:nam]]
+[[de:nam]]
+[[el:nam]]
+[[es:nam]]
+[[eo:nam]]
+[[fr:nam]]
+[[ko:nam]]
+[[hr:nam]]
+[[io:nam]]
+[[jv:nam]]
+[[kn:nam]]
+[[ku:nam]]
+[[la:nam]]
+[[lt:nam]]
+[[hu:nam]]
+[[mg:nam]]
+[[fj:nam]]
+[[nl:nam]]
+[[ja:nam]]
+[[uz:nam]]
+[[pl:nam]]
+[[pt:nam]]
+[[ru:nam]]
+[[sq:nam]]
+[[sh:nam]]
+[[fi:nam]]
+[[sv:nam]]
+[[chr:nam]]
+[[tr:nam]]
+[[vi:nam]]
+[[vo:nam]]
+[[zh:nam]]
