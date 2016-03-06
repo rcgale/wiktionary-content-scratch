@@ -1,0 +1,73 @@
+{{also|schön}}
+==German==
+
+===Etymology 1===
+From {{etyl|gmh|de}} {{m|gmh|scōn}}, {{m|gmh|scōne||beautifully, appropriately, completely}}, from {{etyl|goh|de}} {{m|goh|scōno||beautifully}}; cognate with {{m|de|schön||beautiful}}.<ref>[[w:Friedrich Kluge|Kluge, Friedrich]] (1975). ''Etymologisches Wörterbuch der deutschen Sprache''. 21st edition. Berlin: Walter de Gruyter. p.&nbsp;675.</ref>
+
+====Pronunciation====
+* {{IPA|/ʃoːn/|lang=de}} {{a|standard}}
+* {{IPA|/ʃɔn/|lang=de}} {{a|alternatively in central and southern Germany}}
+* {{audio|De-at-schon.ogg|audio (Austria)|lang=de}}
+* {{rhymes|oːn|ɔn|lang=de}}
+
+====Adverb====
+{{de-adv}}
+
+# [[already]]; [[yet]]
+# [[admittedly]]; [[surely]]; [[indeed]]
+#: {{ux|de|Ja, '''schon'''|t=Yes, admittedly.|inline=1}}
+
+=====Usage notes=====
+* {{sense|already}} ''Schon'' is more frequent than its English equivalents. It is often used to emphasize the earliness of an action. With reference to the passage of time, the opposite of ''schon'' is {{m|de|erst}}. While ''schon'' emphasizes how soon something will happen, ''erst'' emphasizes how long it is until it happens. Thus '''''schon''' in drei Wochen'' means "in only three weeks", while '''''erst''' in drei Wochen'' means "not for another three weeks".
+* {{sense|already}} In order to stress ''schon'' another fitting adverb of time is usually added: “Are you done <u>already</u>?” → ''Bist du <u>{{m|de|jetzt}} schon</u> fertig?'' Putting stress on ''schon'' itself is also possible but less common.
+* {{sense|admittedly}} ''Schon'' frequently expresses agreement to a statement by someone else, particularly if one concedes to a particular argument while continuing to disagree in general. For example: ''Niedrigere Steuern heben den Konsum.'' – ''Das ist '''schon''' richtig, aber...'' ("Lower taxes increase consumption." – "That is indeed true, but...")
+
+=====Synonyms=====
+* {{sense|already|yet}} {{l|de|bereits}}
+* {{sense|surely|indeed}} {{l|de|doch}}, {{l|de|ja}}, {{l|de|jawohl}}, {{l|de|wirklich}}
+
+====Derived terms====
+* [[schon mal]]
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|/ʃoːn/|lang=de}}
+* {{rhymes|oːn|lang=de}}
+
+====Verb====
+{{head|de|verb form}}
+
+# {{de-verb form of|schonen|i|s}}
+# {{label|de|colloquial}} {{de-verb form of|schonen|1|s|g}}
+
+===References===
+<references />
+
+[[Category:German modal particles]]
+
+[[af:schon]]
+[[br:schon]]
+[[de:schon]]
+[[et:schon]]
+[[el:schon]]
+[[fr:schon]]
+[[ko:schon]]
+[[hy:schon]]
+[[io:schon]]
+[[id:schon]]
+[[ku:schon]]
+[[lb:schon]]
+[[lt:schon]]
+[[hu:schon]]
+[[mg:schon]]
+[[nl:schon]]
+[[ja:schon]]
+[[nds:schon]]
+[[pl:schon]]
+[[pt:schon]]
+[[ru:schon]]
+[[fi:schon]]
+[[sv:schon]]
+[[chr:schon]]
+[[zh:schon]]
