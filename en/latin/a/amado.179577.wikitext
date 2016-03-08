@@ -1,0 +1,67 @@
+{{also|Amado}}
+==Galician==
+
+===Verb===
+{{gl-verb-form|participle}}
+
+# {{inflection of|amar||lang=gl|past|part}}
+
+----
+
+==Japanese==
+
+===Romanization===
+{{ja-romaji}}
+
+# {{ja-romanization of|あまど}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{etyl|roa-opt|pt}} {{m|roa-opt|amado}}, from {{etyl|la|pt}} {{m|la|amātus}}, perfect passive participle of {{m|la|amo|amō|love}}.
+
+===Pronunciation===
+* {{a|PT}} {{IPA|/ɐˈmaðu/|lang=pt}}
+* {{hyphenation|a|ma|do|lang=pt}}
+
+===Adjective===
+{{pt-adj|amad|o}}
+
+# [[beloved]]
+
+====Inflection====
+{{pt-adj-infl|amad|o}}
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb form of|amar|ar|past participle|masculine|singular}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{etyl|la|es}} {{m|la|amātus}}, perfect passive participle of {{m|la|amo|amō|love}}.
+
+
+===Participle===
+{{es-past participle|amad}}
+
+# {{label|es|verbal or adjectival}} {{es-verb form of|mood=participle|tense=past|ending=ar|amar}} [[loved]]
+# {{label|es|adjectival only}} [[beloved]]
+
+[[es:amado]]
+[[fr:amado]]
+[[io:amado]]
+[[li:amado]]
+[[mg:amado]]
+[[nl:amado]]
+[[no:amado]]
+[[pt:amado]]
+[[fi:amado]]
+[[sv:amado]]
+[[chr:amado]]
+[[zh:amado]]
