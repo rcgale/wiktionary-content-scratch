@@ -1,0 +1,60 @@
+{{also|thanksgiving}}
+==English==
+
+===Proper noun===
+{{wikipedia}}
+{{en-proper noun}}
+
+# {{label|en|Canada|US}} [[Thanksgiving Day]], celebrated on the second Monday of October in Canada, and on the fourth Thursday of November in the United States.
+# {{label|en|Canada|US}} The [[long weekend]] which includes Thanksgiving Day: [[Thanksgiving weekend]].
+
+====Derived terms====
+* [[American Thanksgiving]]
+* [[Canadian Thanksgiving]]
+
+====Translations====
+{{trans-top|Thanksgiving Day}}
+* Arabic: {{t|ar|عِيد اَلشُّكْر|m}}
+* Armenian: {{t|hy|Գոհաբանության օր|sc=Armn}}
+* Chinese:
+*: Cantonese: {{t|yue|感恩節|sc=Hani}}, {{t|yue|感恩节|tr=gam2 jan1 zit3|sc=Hani}}
+*: Mandarin: {{t|cmn|感恩節|sc=Hani}}, {{t+|cmn|感恩节|tr=Gǎn'ēnjié|sc=Hani}}
+* Esperanto: {{t|eo|Dankotago}}
+* Finnish: {{t+|fi|kiitospäivä}}
+* French: {{t|fr|Action de grâce|f}}, {{t+|fr|Action de grâces|f}}, {{t+|fr|Thanksgiving|m}}
+* Galician: {{t|gl|Día de Acción de Grazas}}
+* German: {{t+|de|Thanksgiving|n}}, {{t+|de|Erntedankfest|n}}
+* Hebrew: {{t|he|חַג הַהוֹדָיָה|m|tr=ḥag hahodayá}}
+* Hindi: {{t+|hi|धन्यवाद|tr=dhan'yavād}}, {{t|hi|धन्यवाद दिन|tr=dhan'yavād din}}
+* Hungarian: {{t+|hu|hálaadás}}
+* Italian: {{t|it|giorno del ringraziamento|m}}
+* Japanese: {{t|ja|感謝祭|tr=かんしゃさい, kanshasai}}
+{{trans-mid}}
+* Norman: {{t|nrf|Actions dé Grâces|f-p}}
+* Korean: {{t|ko|추수감사절|tr=chusu gamsajeol|sc=Hang}}
+* Kurdish:
+*: Sorani: {{t|ku|شوکرانه‌|tr=shukrāna|sc=ku-Arab}}
+* Navajo: {{t|nv|Késhmish Yázhí}}, {{t|nv|Tązhii Daʼaghał}}
+* Norwegian: {{t|no|thanksgiving|m}}
+* Persian: {{t|fa|روز شکرگزاری|tr=ruz-e šokrgozāri}}
+* Portuguese: {{t|pt|Dia de Ação de Graças|m}}
+* Russian: {{t|ru|День благодаре́ния|m}}
+* Scottish Gaelic: {{t|gd|Là-Bhuidheachais|m}}
+* Spanish: {{t+|es|Día de Acción de Gracias|m}}
+* Thai: {{t|th|วันขอบคุณพระเจ้า|tr=wan kòp kun prá jâo}}
+* Turkish: {{t|tr|Şükran Günü}}
+* Vietnamese: {{t|vi|lễ Tạ ơn}}
+* Yup'ik: {{t|esu|Quyayaraq}}
+{{trans-bottom}}
+
+[[Category:en:Calendar terms]]
+[[Category:en:Holidays]]
+
+[[de:Thanksgiving]]
+[[es:Thanksgiving]]
+[[fr:Thanksgiving]]
+[[ko:Thanksgiving]]
+[[hu:Thanksgiving]]
+[[nl:Thanksgiving]]
+[[pl:Thanksgiving]]
+[[fi:Thanksgiving]]
