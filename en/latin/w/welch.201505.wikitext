@@ -1,0 +1,29 @@
+{{also|Welch}}
+==English==
+
+===Etymology===
+Alternative form of {{m|en|welsh}}, from {{m|en|Welsh}}.
+
+===Noun===
+{{en-noun|es}}
+
+# A person who defaults on an obligation, especially a small one.
+#: ''She's a '''welch.''' That isn't hers, I lent her that watering can three years ago.''
+
+===Verb===
+{{en-verb|welches|welching|welched}}
+
+# To [[fail]] to [[repay]] a small debt.
+# To [[fail]] to [[fulfill]] an obligation.
+#* Lt. Col. Frank Slade (Al Pacino), speaking to his caretaker in ''Scent of a woman'':
+#*: ''"I '''welched'''. I'm a welcher. Didn't I tell you?"
+
+====Derived terms====
+* [[welcher]]
+
+[[pl:welch]]
+[[ru:welch]]
+[[simple:welch]]
+[[fi:welch]]
+[[vi:welch]]
+[[zh:welch]]
