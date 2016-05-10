@@ -1,0 +1,148 @@
+{{also|fútbol}}
+==Basque==
+{{wikipedia|lang=eu}}
+
+===Noun===
+{{eu-noun}}
+
+# [[football]], [[soccer]]
+
+[[Category:eu:Sports]]
+
+----
+
+==Catalan==
+{{wikipedia|lang=ca}}
+
+===Pronunciation===
+* {{rhymes|ɔl|lang=ca}}
+
+===Noun===
+{{ca-noun|m}}
+
+# [[football]]; [[soccer]]
+
+====Derived terms====
+* {{l|ca|futbolí}}
+* {{l|ca|futbolista}}
+* {{l|ca|futbolístic}}
+
+[[Category:ca:Sports]]
+
+----
+
+==Crimean Tatar==
+
+===Etymology===
+{{etyl|en|crh}} {{m|en|football}}.
+
+===Noun===
+{{head|crh|noun}}
+
+# [[football]], [[soccer]].
+
+====Declension====
+{{crh-latin-noun|nıñ|ğa|nı|da|dan}}
+
+===References===
+* {{R:Useinov-Mireev 2002}}
+
+----
+
+==Maltese==
+
+===Etymology===
+{{etyl|en|mt}} {{m|en|football}}.
+
+===Noun===
+{{mt-noun|m}}
+
+# [[football]] {{gloss|soccer}}
+
+====Synonyms====
+* {{qualifier|Australia}} {{l|mt|soker}}
+
+[[Category:mt:Sports]]
+
+----
+
+==Spanish==
+{{wikipedia|lang=es}}
+
+===Alternative forms===
+* {{l|es|fútbol}}
+
+===Etymology===
+{{etyl|en|es}} {{m|en|football}}.
+
+===Noun===
+{{es-noun|m|-}}
+
+# {{label|es|Mexico}} [[football]] ([[soccer]])
+
+====Synonyms====
+* {{l|es|balompié}}
+* {{l|es|pambol}} {{qualifier|Mexico|colloquial}}
+
+[[Category:Spanish calques]]
+[[Category:es:Sports]]
+
+----
+
+==Tagalog==
+===Etymology===
+{{etyl|en|tl}} {{m|en|football}}.
+
+===Noun===
+{{mt-noun|tl}}
+# [[football]] (soccer)
+
+----
+==Turkish==
+
+===Etymology===
+{{etyl|en|tr}} {{m|en|football}}.
+
+===Pronunciation===
+* {{IPA|/ˈfut.bɔɫ/|lang=tr}}
+* {{hyphenation|fut|bol|lang=tr}}
+
+===Noun===
+{{tr-noun}}
+{{head|tr|noun}}
+
+# [[football]] (soccer)
+
+====Derived terms====
+* {{l|tr|futbolcu}}
+* {{l|tr|futbolculuk}}
+
+[[Category:tr:Football (soccer)]]
+[[Category:tr:Sports]]
+
+[[az:futbol]]
+[[ca:futbol]]
+[[cs:futbol]]
+[[da:futbol]]
+[[de:futbol]]
+[[es:futbol]]
+[[eu:futbol]]
+[[fa:futbol]]
+[[fr:futbol]]
+[[ko:futbol]]
+[[hr:futbol]]
+[[io:futbol]]
+[[it:futbol]]
+[[ku:futbol]]
+[[lt:futbol]]
+[[hu:futbol]]
+[[mg:futbol]]
+[[oc:futbol]]
+[[uz:futbol]]
+[[pl:futbol]]
+[[ru:futbol]]
+[[fi:futbol]]
+[[sv:futbol]]
+[[chr:futbol]]
+[[tr:futbol]]
+[[zh:futbol]]
