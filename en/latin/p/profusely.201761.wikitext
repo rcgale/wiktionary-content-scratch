@@ -1,0 +1,39 @@
+==English==
+
+===Etymology===
+{{suffix|profuse|ly|lang=en}}
+
+===Pronunciation===
+* {{a|US}} {{IPA|/prəˈfjusli/|lang=en}}
+* {{audio|en-us-profusely.ogg|Audio (US)|lang=en}}
+
+===Adverb===
+{{en-adv}}
+
+# In great [[quantity]] or [[abundance]]; in a [[profuse]] manner.
+#: ''The run left him sweating '''profusely'''.''
+
+====Translations====
+{{trans-top|In great quantity or abundance; in a profuse manner}}
+* Russian: {{t+|ru|обильно}}
+{{trans-mid}}
+{{trans-bottom}}
+
+[[et:profusely]]
+[[es:profusely]]
+[[fa:profusely]]
+[[fr:profusely]]
+[[ko:profusely]]
+[[hy:profusely]]
+[[io:profusely]]
+[[ku:profusely]]
+[[ml:profusely]]
+[[my:profusely]]
+[[ja:profusely]]
+[[pl:profusely]]
+[[ru:profusely]]
+[[sv:profusely]]
+[[ta:profusely]]
+[[te:profusely]]
+[[vi:profusely]]
+[[zh:profusely]]
