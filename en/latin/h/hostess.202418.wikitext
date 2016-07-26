@@ -1,0 +1,111 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{etyl|enm|en}} {{m|enm|hostesse}}, from {{etyl|frm|en}} {{m|frm|hostesse}}, from {{etyl|fro|en}} {{m|fro|ostesce}}, made up of {{m|fro|oste||host}} + {{m|fro|-esce||feminine marker}}.
+
+===Pronunciation===
+* {{audio|en-us-hostess.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{en-noun|es}}
+
+# A [[female]] [[host]].
+#: {{ux|en|The host and '''hostess''' greeted their guests at the door.}}
+#* {{quote-magazine|date=2013-08-10|volume=408|issue=8848|magazine={{w|The Economist}}|author=Lexington
+|title=[http://www.economist.com/news/united-states/21583274-new-wave-press-barons-should-not-allow-newspapers-become-niche-products-keeping Keeping the mighty honest]
+|passage=The ''[Washington] Post's'' proprietor through those turbulent [Watergate] days, Katharine Graham, held a double place in Washington’s hierarchy: at once regal Georgetown '''hostess''' and scrappy newshound, ready to hold the establishment to account.}}
+# A [[female]] [[innkeeper]].
+# [[stewardess|Stewardess]]: a woman [[steward]] on an [[airplane]].
+# A bar hostess or [[bargirl]]; a paid female companion offering conversation and in some cases sex.
+
+====Derived terms====
+* {{l|en|hostess trolley}}
+
+====Translations====
+{{trans-top|female host}}
+* Armenian: {{t+|hy|տանտիրուհի}}
+* Chinese:
+*: Mandarin: {{t+|cmn|女主人|tr=nǚzhǔrén|sc=Hani}}
+* Czech: {{t|cs|hostitelka|f}}
+* Danish: {{t|da|værtinde|c}}
+* Esperanto: {{t|eo|gastigantino}}
+* Finnish: {{t+|fi|emäntä}}
+* French: {{t+|fr|hôtesse|f}}, {{t+|fr|maîtresse de maison}}
+{{trans-mid}}
+* German: {{t+|de|Gastgeberin|f}}, {{t+|de|Wirtin|f}}
+* Irish: {{t|ga|banóstach|m}}
+* Korean: {{t|ko|여주인|sc=Kore}}
+* Portuguese: {{t|pt|anfitriã|f}}, {{t|pt|anfitrioa|f}}
+* Russian: {{t+|ru|хозя́йка|f}}
+* Swedish: {{t+|sv|värdinna|c}}
+* Ukrainian: {{t|uk|господиня|f|tr=hospodynja|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|female innkeeper}}
+* Czech: {{t|cs|hostitelka|f}}
+* Danish: {{t|da|værtinde|c}}
+* Finnish: {{t+|fi|emäntä}}
+{{trans-mid}}
+* German: {{t+|de|Wirtin|f}}
+* Russian: {{t+|ru|хозя́йка|f}}
+* Swedish: {{t+|sv|värdinna|c}}
+{{trans-bottom}}
+
+{{trans-top|stewardess}}
+* Czech: {{t+|cs|letuška|f}}
+* Finnish: {{t+|fi|lentoemäntä}}
+* French: {{t+|fr|hôtesse de l'air|f}}
+* German: {{t+|de|Stewardess|f}}, {{t+|de|Flugbegleiterin|f}} {{qualifier|officialese}}
+* Portuguese: {{t+|pt|aeromoça|f}}, {{t|pt|comissária de bordo|f}}, {{t|pt|comissária de voo|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|стюарде́сса|f|tr=stjuardɛ́ssa}}, {{t+|ru|стюарде́сса|f}}
+* Spanish: {{t+|es|azafata}}, {{t+|es|aeromoza|f}} {{qualifier|Latin America}}
+* Swedish: {{t+|sv|flygvärdinna|c}}
+* Turkish: {{t+|tr|hostes}}
+{{trans-bottom}}
+
+{{trans-top|bargirl (a female companion)}}
+* German: {{t+|de|Hostess|f}}
+* Japanese: {{t|ja|ホステス|tr=hosutesu|sc=Jpan}}, {{qualifier|event compagnon}} {{t|ja|イベントコンパニオン|tr=ibentokonpanion|sc=Jpan}}
+{{trans-mid}}
+* Korean: {{t+|ko|호스티스|sc=Kore}}, {{t|ko|도우미|sc=Kore}}
+* Russian: {{t|ru|хо́стесс|f|tr=xóstɛss}}, {{t+|ru|хо́стес|f|tr=xóstɛs}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|hostesses|hostessing|hostessed}}
+
+# To [[host]], as a woman.
+#* '''1975''', ''The Arrow of Pi Beta Phi'' (volume 92, issue 2, page 69)
+#*: Later in January, the alum club '''hostessed''' the initiation brunch at the Pi Beta Phi chapter house. It was thrilling to see so many girls with such enthusiasm!
+
+[[Category:English words suffixed with -ess]]
+
+[[de:hostess]]
+[[et:hostess]]
+[[el:hostess]]
+[[es:hostess]]
+[[fa:hostess]]
+[[fr:hostess]]
+[[gl:hostess]]
+[[ko:hostess]]
+[[hy:hostess]]
+[[io:hostess]]
+[[it:hostess]]
+[[kn:hostess]]
+[[ku:hostess]]
+[[la:hostess]]
+[[hu:hostess]]
+[[ml:hostess]]
+[[my:hostess]]
+[[nl:hostess]]
+[[ja:hostess]]
+[[pl:hostess]]
+[[pt:hostess]]
+[[ru:hostess]]
+[[fi:hostess]]
+[[te:hostess]]
+[[tr:hostess]]
+[[vi:hostess]]
+[[zh:hostess]]
