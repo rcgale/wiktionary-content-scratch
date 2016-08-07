@@ -1,0 +1,93 @@
+==English==
+
+===Pronunciation===
+* {{rhymes|ɛkst|lang=en}}
+
+===Etymology 1===
+From {{etyl|la|en}} {{m|la|sextus||sixth}}
+
+====Noun====
+{{en-noun}}
+
+# The [[fourth]] of the [[canonical hours]]; usually held at [[noon]].
+
+=====Translations=====
+{{trans-top|liturgical hour}}
+* Catalan: {{t+|ca|sexta|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+{{blend|sex|text|t2=to send a text message|lang=en}}; partly {{back-form|sexting|nocap=1|nodot=1|lang=en}}, which is more common.
+
+====Noun====
+{{en-noun}}
+
+# A [[sexual]] [[text message]].
+# Any electronic message with sexual context.
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|intransitive}} To send a sext message.
+# {{lb|en|transitive}} To send (someone) a (sext message).
+#* {{quote-journal
+|date=2010-04-16
+|title=Sex suspended, celibacy supreme
+|first=Victoria
+|last=Gehman
+|work=Albany Student Press
+|url=http://www.albanystudentpress.org/sex-suspended-celibacy-supreme-1.1346703
+|passage=The next day, Greg '''sexted''' me a few pictures of his package. When I opened the file the image was unlike anything I'd ever seen. "No wonder he's a sex addict!" I thought.
+}}
+#* {{quote-book
+|date=2011-11-14
+|title=The New New Rules: A Funny Look at How Everybody But Me Has Their Head Up Their Ass
+|first=Bill
+|last=Maher
+|authorlink=Bill Maher
+|publisher=Penguin
+|isbn=9781101552155
+|passage=This week, we found out Vikings quarterback Brett Favre allegedly tried to get with a young woman by sending her Myspace messages, voicemails, and notes through a friend, and when none of that worked, it was third and long—though not as long as most of us would have imagined—he decided to '''sext''' her pictures of Little Brett to close the deal.
+}}
+
+=====Synonyms=====
+* {{l|en|sex-text}}
+
+====Derived terms====
+* {{l|en|sexter}}
+* {{l|en|sextual}}
+* {{l|en|sextually}}
+
+[[Category:en:Sex]]
+[[Category:en:Texting]]
+
+----
+
+==Catalan==
+{{ordinalbox|ca|5t|6t|7m|quint|sèptim|card=sis|mult=sèxtuple}}
+
+===Etymology===
+From {{etyl|la|ca}} {{m|la|sextus||sixth}}
+
+===Adjective===
+{{ca-adj}}
+
+# {{lb|ca|ordinal}} [[sixth]]
+
+====Usage notes====
+{{ca-num-ord-note}}
+
+====Synonyms====
+* {{l|ca|sisè}}
+
+[[io:sext]]
+[[ku:sext]]
+[[mg:sext]]
+[[nl:sext]]
+[[pl:sext]]
+[[simple:sext]]
+[[fi:sext]]
+[[sv:sext]]
+[[ta:sext]]
+[[vi:sext]]
