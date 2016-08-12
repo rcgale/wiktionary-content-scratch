@@ -1,0 +1,41 @@
+{{also|.gf}}
+==Translingual==
+
+===Symbol===
+{{head|mul|symbol}}
+# The [[ISO]] 3166-1 two-letter (alpha-2) code for [[French Guiana]].
+# {{SI-unit-abb|giga|farad|[[electrical]] [[capacitance]]}}
+
+[[Category:ISO 3166-1]]
+
+----
+
+==English==
+
+===Initialism===
+{{rfc-header|Initialism}}
+{{head|en|initialism}}
+
+# [[girlfriend]]
+# "Good Fight"
+# {{lb|en|sports}} [[goals for]], a sports statistic
+
+====Synonyms====
+* {{sense|girlfriend}} {{l|en|SO}}
+
+====Related terms====
+* {{sense|girlfriend}} {{l|en|BF}}
+* {{sense|sports}} {{l|en|G}} , [[GA]]
+
+[[Category:English internet slang]]
+
+===Anagrams===
+* {{l|en|FG}}
+
+[[ca:GF]]
+[[cs:GF]]
+[[et:GF]]
+[[fr:GF]]
+[[nl:GF]]
+[[th:GF]]
+[[zh:GF]]
