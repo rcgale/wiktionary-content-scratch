@@ -1,0 +1,207 @@
+{{also|Stellen|stëllen}}
+==Dutch==
+
+===Pronunciation===
+* {{IPA|lang=nl|/ˈstɛlə(n)/}}
+* {{audio|Nl-stellen.ogg|Audio|lang=nl}}
+
+===Etymology 1===
+From {{inh|nl|dum|stellen}}, from {{inh|nl|odt|*stellen}}, from {{inh|nl|gem-pro|*stallijaną}}.
+
+====Verb====
+{{nl-verb}}
+
+# {{lb|nl|transitive}} to [[position]]; place
+# {{lb|nl|transitive}} to [[state]], to put forward
+# {{lb|nl|reflexive}} to take one's stand
+# {{lb|nl|transitive|chemistry}} to [[standardize]] a solution by titration
+
+=====Inflection=====
+{{nl-conj-wk|stel|stelle}}
+
+=====Derived terms=====
+* {{l|nl|stelling}}
+* {{l|nl|stelsel}}
+* {{l|nl|aanstellen}}
+* {{l|nl|bestellen}}
+* {{l|nl|bijstellen}}
+* {{l|nl|blootstellen}}
+* {{l|nl|herstellen}}
+* {{l|nl|instellen}}
+* {{l|nl|opstellen}}
+* {{l|nl|samenstellen}}
+* {{l|nl|teleurstellen}}
+* {{l|nl|terechtstellen}}
+* {{l|nl|terugstellen}}
+* {{l|nl|uitstellen}}
+* {{l|nl|vaststellen}}
+* {{l|nl|veronderstellen}}
+* {{l|nl|voorstellen}}
+* {{l|nl|gesteldheid}}
+* {{l|nl|vrijgesteld}}
+* {{l|nl|welgesteld}}
+* {{l|nl|gesteld zijn op}}
+* {{l|nl|stellende trap}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Noun====
+{{head|nl|noun plural form}}
+
+# {{nl-noun form of|pl|stel}}
+
+----
+
+==German==
+
+===Etymology===
+From {{etyl|goh|de}} {{m|goh|stellen}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*stallijaną}}. More at {{l|en|stell}}.
+
+===Pronunciation===
+* {{IPA|[ˈʃtɛln̩]|[ˈʃtɛlən]|lang=de}}
+* {{audio|De-stellen.ogg|audio (Germany)|lang=de}}
+* {{audio|De-at-stellen.ogg|audio (Austria)|lang=de}}
+
+===Verb===
+{{de-verb-weak|stellt|stellte|gestellt}}
+
+# {{lb|de|transitive}} to [[pose]] (a question, a riddle)
+#: ''Kann ich dir eine Frage stellen?''
+#:: Can I pose a question to you?
+# {{lb|de|transitive}} to [[position]]
+# {{lb|de|transitive}} to [[put]]
+# {{lb|de|transitive}} to [[catch]]
+#: ''Die [[Polizei]] stellte den Dieb.''
+#:: The police caught the thief.
+# {{lb|de|reflexive}} to [[surrender]]
+#: ''Der [[Dieb]] '''stellte sich''' der Polizei.''
+#:: The thief surrendered to the police.
+# {{lb|de|transitive}} to [[set]], [[adjust]] {{qualifier|a clock}}
+# {{lb|de|reflexive}} to [[place]] oneself, [[get]]
+# {{lb|de|reflexive|with gerund or adjective}} to [[feign]], to [[pretend]] to
+
+====Conjugation====
+{{de-conj-weak|stell|gestellt|h}}
+
+====Synonyms====
+* {{sense|put, position}} {{l|nl|legen}}, {{l|nl|setzen}}
+* {{sense|catch}} {{l|nl|fangen}}
+
+====Derived terms====
+{{der3|{{l|de|abstellen}}
+|{{l|de|anstellen}}
+|{{l|de|auf sich selbst gestellt}}
+|{{l|de|aufstellen}}
+|{{l|de|ausstellen}}
+|{{l|de|bereitstellen}}
+|{{l|de|bestellen}}
+|{{l|de|darstellen}}
+|{{l|de|einstellen}}
+|{{l|de|entstellen}}
+|{{l|de|entgegenstellen}}
+|{{l|de|erstellen}}
+|{{l|de|fertigstellen}}
+|{{l|de|feststellen}}
+|{{l|de|gegenüberstellen}}
+|{{l|de|gleichstellen}}
+|{{l|de|herstellen}}
+|{{l|de|hinstellen}}
+|{{l|de|in Abrede stellen}}
+|{{l|de|in Frage stellen}}
+|{{l|de|klarstellen}}
+|{{l|de|nachstellen}}
+|{{l|de|ruhig stellen}}
+|{{l|de|sicherstellen}}
+|{{l|de|Stellung}}
+|{{l|de|überstellen}}
+|{{l|de|umstellen}}
+|{{l|de|unterstellen}}
+|{{l|de|verstellen}}
+|{{l|de|vorstellen}}
+|{{l|de|wegstellen}}
+|{{l|de|zufriedenstellen}}
+|{{l|de|zustellen}}
+|{{l|de|zurückstellen}}
+|{{l|de|zusammenstellen}}}}
+
+===External links===
+* {{R:Duden}}
+
+----
+
+==Luxembourgish==
+
+===Etymology===
+From {{inh|lb|goh|stellen}}, from {{inh|lb|gem-pro|*stallijaną}}.
+
+===Pronunciation===
+* {{IPA|/ˈʃtælən/|lang=lb}}
+
+===Verb===
+{{lb-verb||gestallt}}
+
+# {{lb|lb|transitive}} to [[put]], to [[place]]
+# {{lb|lb|transitive}} to [[pose]] (a question, etc.)
+# {{lb|lb|transitive|or|reflexive}} to [[put forward]] (a suggestion, etc.)
+# {{lb|lb|transitive}} to [[set]], to [[adjust]] (an alarm clock, a thermostat, etc.)
+# {{lb|lb|transitive|or|reflexive}} to [[stand]]
+# {{lb|lb|reflexive}} to [[surrender]]
+# {{lb|lb|reflexive}} to [[behave]], to [[comport]], to [[act]]
+
+====Conjugation====
+{{lb-conj-regular|stell|gestallt|hunn}}
+
+====Derived terms====
+{{der-top}}
+* {{l|lb|astellen}}
+* {{l|lb|ausstellen}}
+* {{l|lb|bestellen}}
+* {{l|lb|bloussstellen}}
+* {{l|lb|duerstellen}}
+* {{l|lb|ëmstellen}}
+* {{l|lb|entstellen}}
+* {{l|lb|ënnerstellen}}
+* {{l|lb|erastellen}}
+* {{l|lb|erausstellen}}
+* {{l|lb|erofstellen}}
+* {{l|lb|eropstellen}}
+* {{l|lb|ewechstellen}}
+{{der-mid}}
+* {{l|lb|feststellen}}
+* {{l|lb|hanneschtstellen}}
+* {{l|lb|nobestellen}}
+* {{l|lb|ofbestellen}}
+* {{l|lb|ofstellen}}
+* {{l|lb|opstellen}}
+* {{l|lb|ustellen}}
+* {{l|lb|verstellen}}
+* {{l|lb|virbestellen}}
+* {{l|lb|virstellen}}
+* {{l|lb|zeréckstellen}}
+* {{l|lb|zoustellen}}
+{{der-bottom}}
+
+[[br:stellen]]
+[[da:stellen]]
+[[de:stellen]]
+[[et:stellen]]
+[[el:stellen]]
+[[eo:stellen]]
+[[fr:stellen]]
+[[ko:stellen]]
+[[io:stellen]]
+[[id:stellen]]
+[[ku:stellen]]
+[[lt:stellen]]
+[[hu:stellen]]
+[[mg:stellen]]
+[[fj:stellen]]
+[[nl:stellen]]
+[[ja:stellen]]
+[[pl:stellen]]
+[[ru:stellen]]
+[[fi:stellen]]
+[[sv:stellen]]
+[[chr:stellen]]
+[[zh:stellen]]
