@@ -1,0 +1,162 @@
+==English==
+
+===Etymology===
+From {{etyl|frm|en}} {{m|frm|collectif}}, from {{etyl|la|en}} {{m|la|collectivus}}, from {{m|la|collectus}}, past participle of {{m|la|colligere||to collect}}, from {{m|la|com-||together}} + {{m|la|legere||to gather}}. Compare French {{m|fr|collectif}}.
+
+===Pronunciation===
+* {{IPA|/kəˈlɛktɪv/|lang=en}}
+* {{hyphenation|col|lec|tive|lang=en|caption=Hyphenation, US}}; {{hyphenation|col|lect|ive|lang=en|caption=UK}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Formed by gathering or collecting; gathered into a mass, sum, or body; congregated or aggregated; as, the collective body of a nation.
+# Tending to [[collect]]; forming a collection.
+#* Young
+#*: Local is his throne {{...}} to fix a point, / A central point, '''collective''' of his sons.
+# Having plurality of origin or authority; as, in diplomacy, a note signed by the representatives of several governments is called a collective note.
+# {{lb|en|grammar}} Expressing a collection or aggregate of individuals, by a singular form; as, a collective name or noun, like ''assembly'', ''army'', ''jury'', etc.
+# {{lb|en|obsolete}} Deducing consequences; reasoning; inferring.
+#* Sir Thomas Browne
+#*: critical and '''collective''' reason
+
+====Derived terms====
+* {{l|en|collectiveness}}
+* {{l|en|collectively}}
+* {{l|en|hypercollective}}
+
+====Related terms====
+* {{l|en|collect}}
+* {{l|en|collectible}}
+* {{l|en|collection}}
+* {{l|en|collectivity}}
+* {{l|en|collector}}
+
+====Translations====
+{{trans-top|formed by gathering or collecting}}
+* Finnish: {{t+|fi|yhteinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|tending to collect; forming a collection}}
+* Finnish: {{t+|fi|kokoava}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|having plurality of origin or authority}}
+* Finnish: {{t+|fi|yhteinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|in grammar}}
+* Bulgarian: {{t+|bg|събирателен}}
+* Catalan: {{t|ca|col·lectiu}}
+* Dutch: {{t+|nl|collectief}}
+* Finnish: {{t+|fi|kollektiivinen}}
+* Greek: {{t+|el|περιληπτικός|m}}
+{{trans-mid}}
+* Polish: {{t+|pl|zbiorowy|m}}
+* Russian: {{t|ru|собирательное|n}}
+* Spanish: {{t+|es|colectivo}}
+{{trans-bottom}}
+
+{{trans-top|deducing consequences; reasoning; inferring}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Hebrew: {{t-check|he|שתופי|tr=shitûphi}}
+{{checktrans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A [[farm]] owned by a [[collection]] of people.
+# {{lb|en|especially|in communist countries}} One of more farms managed and owned, through the state, by the community.
+# {{lb|en|grammar}} A collective noun or name.
+# {{lb|en|by extension}} A [[group]] dedicated to a particular [[cause]] or [[interest]].
+#* '''2005''', Zoya Kocur, Simon Leung, ''Theory in contemporary art since 1985'' (page 76)
+#*: There are, however, a number of contemporary artists and art '''collectives''' that have defined their practice precisely around the facilitation of dialogue among diverse communities.
+
+====Translations====
+{{trans-top|farm owned by a group}}
+* Finnish: {{t+|fi|kollektiivitila}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|state farm}}
+* Finnish: {{t+|fi|kolhoosi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|in grammar}}
+* Finnish: {{t|fi|[[kollektiivinen]] [[substantiivi]]}}
+* Greek: {{t|el|περιληπτικό όνομα|n}}, {{t|el|περιληπτική έννοια}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|group}}
+* Finnish: {{t+|fi|kollektiivi}}
+* Greek: {{t|el|συλλογικότητα|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Derived terms===
+* {{l|en|collectivize}}
+* {{l|en|collective noun}}
+
+===See also===
+* {{l|en|collective fruit}} ''(Botany), that which is formed from a mass of flowers, as the mulberry, pineapple, and the like; -- called also multiple fruit.''
+
+===References===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+----
+
+==French==
+
+===Adjective===
+{{head|fr|adjective form}}
+
+# {{feminine singular of|collectif|lang=fr}}
+#: ''Après une belle action '''collective''', l'équipe a enfin marqué un but.''
+
+----
+
+==Latin==
+
+===Adjective===
+{{la-adj-form|collectīve}}
+
+# {{inflection of|collectīvus||voc|m|s|lang=la}}
+
+[[ar:collective]]
+[[ca:collective]]
+[[et:collective]]
+[[el:collective]]
+[[es:collective]]
+[[fr:collective]]
+[[ko:collective]]
+[[hy:collective]]
+[[io:collective]]
+[[it:collective]]
+[[kn:collective]]
+[[ku:collective]]
+[[lv:collective]]
+[[lt:collective]]
+[[hu:collective]]
+[[mg:collective]]
+[[ml:collective]]
+[[my:collective]]
+[[nl:collective]]
+[[pl:collective]]
+[[ru:collective]]
+[[fi:collective]]
+[[sv:collective]]
+[[ta:collective]]
+[[te:collective]]
+[[tr:collective]]
+[[vi:collective]]
+[[zh:collective]]
