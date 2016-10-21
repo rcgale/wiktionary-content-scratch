@@ -1,0 +1,66 @@
+==English==
+[[Image:CDC limabean.jpg|thumb|right|Beans.]]
+
+===Pronunciation===
+* {{IPA|/biːnz/|lang=en}}
+* {{rhymes|iːnz|lang=en}}
+
+===Noun===
+{{head|en|noun plural form}}
+
+# {{plural of|bean|lang=en}}
+# {{lb|en|slang|urban|plural only}} [[pill]]s; [[drug]]s in pill form
+# {{lb|en|slang|vulgar|plural only}} [[testes]]
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-third-person singular of|bean}}
+
+===Anagrams===
+* {{l|en|banes}}, {{l|en|BANES}}
+* {{l|en|Benas}}
+
+----
+
+==Latin==
+
+===Etymology===
+Present participle of {{m|la|beō}}.
+
+===Participle===
+{{la-present participle|be|be|ans}}
+
+# [[blessing]], [[gladdening]], [[enriching]]
+
+====Inflection====
+{{la-decl-3rd-part|beāns}}
+
+[[ar:beans]]
+[[az:beans]]
+[[ca:beans]]
+[[cy:beans]]
+[[de:beans]]
+[[et:beans]]
+[[eo:beans]]
+[[fr:beans]]
+[[ko:beans]]
+[[hi:beans]]
+[[io:beans]]
+[[it:beans]]
+[[kn:beans]]
+[[kk:beans]]
+[[sw:beans]]
+[[ku:beans]]
+[[li:beans]]
+[[hu:beans]]
+[[mg:beans]]
+[[my:beans]]
+[[fj:beans]]
+[[ja:beans]]
+[[simple:beans]]
+[[fi:beans]]
+[[sv:beans]]
+[[ta:beans]]
+[[th:beans]]
+[[zh:beans]]
