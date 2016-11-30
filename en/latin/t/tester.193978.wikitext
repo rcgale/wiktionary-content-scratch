@@ -1,0 +1,161 @@
+==English==
+{{wikipedia|dab=Test}}
+[[File:St.Mary's pulpit - geograph.org.uk - 1342171.jpg|right|thumb|A tester (canopy) above a [[pulpit]]]]
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈtɛstə/|lang=en}}
+* {{rhymes|ɛstə(r)|lang=en}}
+
+===Etymology 1===
+Probably from {{etyl|fro|en}} {{m|fro|testre}}, from {{etyl|la|en}} {{m|la|testa}}.
+
+====Noun====
+{{en-noun}}
+
+# A [[canopy]] over a [[bed]].
+#* '''1603''', {{w|John Florio}}, translating Michel de Montaigne, ''Essays'', III.13:
+#*: And I could as hardly spare my gloves as my shirt, or forbeare washing of my hands both in the mornng and rising from the table, or lye in a bed without a '''testerne''' and curtaines about it, as of most necessary things.
+#* Walpole
+#*: No '''testers''' to the bed, and the saddles and portmanteaus heaped on me to keep off the cold.
+#* {{quote-book|year=1963|author={{w|Margery Allingham}}
+|title={{w|The China Governess}}
+|chapter=1|url=http://openlibrary.org/works/OL2004261W
+|passage=The half-dozen pieces […] were painted white and carved with festoons of flowers, birds and cupids. [&hellip;]&nbsp; The bed was the most extravagant piece.&nbsp; Its graceful cane half '''tester''' rose high towards the cornice and was so festooned in carved white wood that the effect was positively insecure, as if the great couch were trimmed with icing sugar.}}
+# Something that [[overhang]]s something else; especially a canopy or [[soundboard]] over a [[pulpit]].
+#* '''1851''', {{w|Herman Melville}}, ''{{w|Moby Dick}}'', [[s:Moby-Dick/Chapter 11|chapter 11]]:
+#*: With our shaggy jackets drawn about our shoulders, we now passed the Tomahawk from one to the other, till slowly there grew over us a blue hanging '''tester''' of smoke, illuminated by the flame of the new-lit lamp.
+
+===Etymology 2===
+[[File:Acremeter tube tester.jpg|right|thumb|A [[vacuum tube]] tester]]
+From {{suffix|test|er|lang=en}}.
+
+====Noun====
+{{en-noun}}
+
+# A person who administers a [[test]].
+# A [[device]] used for testing.
+# {{lb|en|Australia|slang|obsolete}} A punishment of 25 [[lash]]es (strokes of a [[whip]]) across a person′s back.<ref>'''1987''', [[w:Robert Hughes (critic)|Robert Hughes]], ''[[w:The Fatal Shore|The Fatal Shore]]'', 1996, paperback, ISBN 1-86046-150-6, Chapter 12.</ref>
+# A [[sample]] of perfume available in a shop for customers to try before they buy.
+# {{lb|en|cycling}} A [[cyclist]] who focuses on success in [[time trial]]s.
+
+=====Translations=====
+{{trans-top|a person administering a test}}
+* Russian: {{t+|ru|тестиро́вщик|m|tr=tɛstiróvščik}}, {{t+|ru|испыта́тель|m}}, {{t+|ru|те́стер|m|tr=tɛ́stɛr}}
+{{trans-mid}}
+{{trans-bottom}}
+
+=====Synonyms=====
+* {{qualifier|punishment}} [[Botany Bay dozen]]
+
+===Etymology 3===
+For {{term|testern}}, {{term|teston}}, from {{etyl|fr|en}} {{m|fr|teston}}, from {{etyl|fro|en}} {{m|fro|teste}} the head, the head of the king being impressed upon the coin. See {{term|tester}} a covering, and compare {{term|testone}}, {{term|testoon}}.
+
+====Noun====
+{{en-noun}}
+
+# An old [[French]] [[silver]] [[coin]].
+# {{lb|en|UK|slang|dated}} A [[sixpence]].
+
+=====Synonyms=====
+* {{sense|sixpence}} {{l|en|teston}}, {{l|en|tizzy}}
+
+===References===
+<references />
+
+===Anagrams===
+* {{l|en|retest}}
+* {{l|en|setter}}
+* {{l|en|street}}
+
+[[Category:English agent nouns]]
+[[Category:en:Occupations]]
+
+----
+
+==French==
+
+===Etymology 1===
+{{suffix|test|er|lang=fr}}
+
+====Verb====
+{{fr-verb}}
+
+# to [[test]]
+
+=====Conjugation=====
+{{fr-conj-auto}}
+
+===Etymology 2===
+From {{etyl|la|fr}} {{m|la|testor}}.
+
+====Verb====
+{{fr-verb}}
+
+# to [[write]] one's will
+
+=====Conjugation=====
+{{fr-conj-auto}}
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|tester}}
+
+# {{inflection of|testor||1|s|pres|actv|subj|lang=la}}
+
+----
+
+==Norwegian Bokmål==
+
+===Noun===
+{{head|nb|noun form|g=m}}
+
+# {{inflection of|test||indefinite|p|lang=nb}}
+
+===Verb===
+{{head|nb|verb form}}
+
+# {{present tense of|teste|lang=nb}}
+
+----
+
+==Swedish==
+
+===Noun===
+{{head|sv|noun form}}
+
+# {{sv-noun-form-indef-pl|test}}
+
+[[ca:tester]]
+[[cs:tester]]
+[[et:tester]]
+[[el:tester]]
+[[fa:tester]]
+[[fr:tester]]
+[[ko:tester]]
+[[hy:tester]]
+[[io:tester]]
+[[id:tester]]
+[[it:tester]]
+[[ku:tester]]
+[[hu:tester]]
+[[mg:tester]]
+[[ml:tester]]
+[[my:tester]]
+[[ja:tester]]
+[[pl:tester]]
+[[pt:tester]]
+[[ro:tester]]
+[[ru:tester]]
+[[fi:tester]]
+[[sv:tester]]
+[[ta:tester]]
+[[te:tester]]
+[[chr:tester]]
+[[vi:tester]]
+[[zh:tester]]
