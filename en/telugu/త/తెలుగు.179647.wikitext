@@ -1,0 +1,48 @@
+{{also|తొలుగు|తొలగు|తెలుఁగు|తెలుంగు}}
+==Telugu==
+
+===Alternative forms===
+* {{l|te|తెలుఁగు}}, {{l|te|తెలుంగు}}
+
+===Pronunciation===
+* {{IPA|/ˈt̪ɛlʊgʊ/|lang=te}}
+
+===Proper noun===
+{{te-proper noun|tr=telugu}}
+
+# The [[Telugu]] language.
+
+===Noun===
+{{te-noun|p=తెలుగులు}}
+
+# A Telugu speaking man or woman. 
+# A Telugu word.
+
+====Derived terms====
+* {{l|te|అచ్చతెలుగు||pure Telugu}}
+* {{l|te|తెలిగించు||to translate into the Telugu language}}
+* {{l|te|తెలుగుదనము}}
+* {{l|te|తెలుగువాడు}}
+
+====Synonyms====
+* {{l|te|ఆంధ్రము}}
+* {{l|te|తెనుగు}}
+
+===Anagrams===
+* {{l|te|తెగులు}}
+
+===References===
+{{R:te:CPB|551|head=తెలుగు}}
+
+[[Category:te:Languages]]
+[[Category:te:People]]
+
+[[fr:తెలుగు]]
+[[gu:తెలుగు]]
+[[hi:తెలుగు]]
+[[nl:తెలుగు]]
+[[ja:తెలుగు]]
+[[ta:తెలుగు]]
+[[te:తెలుగు]]
+[[th:తెలుగు]]
+[[tr:తెలుగు]]
