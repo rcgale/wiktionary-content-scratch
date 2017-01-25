@@ -1,0 +1,404 @@
+{{also|Appendix:Variations of "ar"}}
+==Faroese==
+
+===Pronunciation===
+* {{IPA|[ɔaːɹ]|lang=fo}}
+
+===Etymology 1===
+From {{etyl|non|fo}} {{m|non|ár||year}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*jērą}}, from {{etyl|gem-pro|fo}} {{m|ine-pro|*yōr-}} < {{m|ine-pro|*yeh₁r-}}. Cognates include: {{etyl|nl|-}} and {{etyl|af|-}} {{m|nl|jaar}}, {{cog|en|year}}, {{cog|de|Jahr}}, {{etyl|da|-}}, {{etyl|no|-}} and {{etyl|sv|-}} {{m|da|år}}.
+
+====Noun====
+{{fo-noun|n|árs|ár}}
+
+# [[year]]
+
+=====Declension=====
+{{fo-decl-noun-n3|ár}}
+
+===Etymology 2===
+From {{etyl|non|fo}} {{m|non|ár}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*airō}}. Cognates include: {{cog|ang|ār||oar}} ({{cog|en|oar}}).
+
+====Noun====
+{{fo-noun|f|árar|árar}}
+
+# [[oar]]
+
+=====Declension=====
+{{fo-decl-noun-f6|ár}}
+
+[[Category:fo:Nautical]]
+[[Category:fo:Time]]
+
+----
+
+==Hungarian==
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{audio|Hu-ár.ogg|Audio|lang=hu}}
+* {{hyphenation|ár|lang=hu}}
+
+===Etymology 1===
+From {{etyl|fiu-pro|hu}} {{m|urj-pro|*arwa||price, value}}.<ref>{{R:Uralonet|26}}</ref>
+
+====Noun====
+{{hu-noun|ak}}
+
+# [[price]]
+#: ''borsos '''ár''''' — an exorbitant '''price'''
+#: ''borsos '''ára''' van'' — [[cost a pretty penny]], cost an [[arm and a leg]]
+
+=====Declension=====
+{{hu-infl-nom|ára|o}}{{hu-pos-atok|ár||ai}}
+
+=====Derived terms=====
+{{qualifier|Compound words}}:
+* {{l|hu|árbevétel}}, {{l|hu|árcsökkenés}}, {{l|hu|árcsökkentés}}, {{l|hu|árfolyam}}, {{l|hu|áremelés}}, {{l|hu|áremelkedés}}, {{l|hu|árverés}}, {{l|hu|irányár}}, {{l|hu|vételár}}
+
+===Etymology 2===
+From {{etyl|fiu-ugr-pro|hu}} {{m|fiu-ugr-pro|*ϑarɜ||temporary lake coming into being during flood}}.<ref>{{R:Uralonet|1747}}</ref>
+
+====Noun====
+{{hu-noun|ak}}
+
+# [[flood]] or high [[tide]]
+
+=====Declension=====
+{{hu-infl-nom|ára|o|-}}{{hu-pos-atok|ár|j|jai}}
+
+=====Derived terms=====
+{{qualifier|Compound words}}:
+* {{l|hu|árapály}}, {{l|hu|árvíz}}, {{l|hu|szökőár}}
+
+===Etymology 3===
+From the {{etyl|fiu-pro|hu}} {{m|urj-pro|*ora||awl}}.<ref>{{R:Uralonet|676}}</ref>
+
+====Noun====
+{{hu-noun|ak}}
+
+# [[awl]] {{gloss|pointed instrument for piercing small holes, as in leather or wood}}
+
+=====Declension=====
+{{hu-infl-nom|ára|o|-}}{{hu-pos-atok|ár|j|jai}}
+
+===Etymology 4===
+From {{etyl|de|hu}} {{m|de|Ar||are}} and {{etyl|fr|hu}} {{m|fr|are||are}}, from {{etyl|la|hu}} {{m|la|ārea||threshing floor}}.<ref>{{R:Zaicz 2006}}</ref>
+
+====Noun====
+{{hu-noun|ak}}
+
+# [[are]] {{gloss|accepted SI unit of area equal to 100 square metres}}
+
+=====Declension=====
+{{hu-infl-nom|ára|o|-}}{{hu-pos-atok|ár|j|jai}}
+
+=====Derived terms=====
+* {{l|hu|hektár}}
+
+===References===
+<references/>
+
+[[Category:Hungarian two-letter words]]
+
+----
+
+==Icelandic==
+
+===Pronunciation===
+* {{IPA|/auːr/|lang=is}}
+* {{rhymes|auːr|lang=is}}
+
+===Etymology 1===
+From {{etyl|non|is}} {{m|non|ár}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*aiz}}. Cognates include: {{cog|got|𐌰𐌹𐍂||early}}, {{cog|ang|ār}} and {{m|ang|ærlice}} ({{cog|en|early}}).<ref name="torp">Alf Torp, "Nynorsk Etymologisk Ordbok", Oslo 1992 (reprint), ISBN 82-90520-17-4; ''aarlege'', ''aar''</ref>
+
+====Adverb====
+{{is-adv}}
+
+# {{lb|is|rare}} [[early]]
+
+=====Derived terms=====
+* {{l|is|ár og síð}}
+
+===Etymology 2===
+From {{etyl|non|is}} {{m|non|ár||year}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*jērą}}, from {{etyl|gem-pro|is}} {{m|ine-pro|*yōr-}} < {{m|ine-pro|*yeh₁r-}}. Cognates include: {{etyl|nl|-}} and {{etyl|af|-}} {{m|nl|jaar}}, {{cog|en|year}}, {{cog|de|Jahr}}, {{etyl|da|-}}, {{etyl|no|-}} and {{etyl|sv|-}} {{m|da|år}}.<ref name="torp"/>
+
+====Noun====
+{{is-noun|n|árs|ár}}
+
+# [[year]]
+# {{is-inflection of|ár|indef|acc|s}}
+# {{is-inflection of|ár|indef|nom|p}}
+# {{is-inflection of|ár|indef|acc|p}}
+
+=====Declension=====
+{{is-decl-noun-n-s||á|r}}
+
+=====Derived terms=====
+* {{l|is|árlegur}}
+* {{l|is|ártíð}}
+* {{l|is|í ár}}
+* {{l|is|gleðilegt nýtt ár}}
+* {{l|is|gleðilegt ár}}
+* {{l|is|hlaupaár}}
+* {{l|is|áramót}}
+* {{l|is|nýár}}
+
+===Etymology 3===
+From {{etyl|non|is}} {{m|non|ár}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*airō}}. Cognates include: {{cog|ang|ār||oar}} ({{cog|en|oar}}).<ref name="torp"/>
+
+====Noun====
+{{is-noun|f|árar|árar}}
+
+# [[oar]]
+# {{is-inflection of|ár|indef|acc|s}}
+# {{is-inflection of|ár|indef|dat|s}}
+
+=====Declension=====
+{{is-decl-noun-f-s1||á|r}}
+
+=====Derived terms=====
+* {{l|is|árinni kennir illur ræðari}}
+* {{l|is|árabátur}}
+* {{l|is|koma ár sinni vel fyrir borð}} (to do well for oneself)
+* {{l|is|leggja árar í bát}} (to [[give up]])
+* {{l|is|taka djúpt í árinni}} (to express oneself forcefully)
+* {{l|is|róa öllum árum að}} (to employ all available means towards getting something done)
+
+===Etymology 4===
+Inflection of [[á#Icelandic|á]]
+
+====Noun====
+{{is-noun form}} {{g|f}}
+
+# {{is-inflection of|á|indef|gen|s}}
+# {{is-inflection of|á|indef|nom|p}}
+# {{is-inflection of|á|indef|acc|s}}
+
+===References===
+<references/>
+
+[[Category:is:Time]]
+
+----
+
+==Irish==
+
+===Etymology 1===
+From {{inh|ga|sga|ar}}, from {{inh|ga|cel-pro|*anserom}}, from {{inh|ga|ine-pro|*n̥serōm}}, from {{m|ine-pro|*nes-||we, us}}; compare {{cog|de|unser}}.
+
+====Pronunciation====
+* {{IPA|lang=ga|/ɑːɾˠ/|/əɾˠ/|/ə/}}
+
+====Determiner====
+{{head|ga|determiner|cat2=possessive determiners}} {{qualifier|triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] on the following word}}
+
+# [[our]]
+#: {{ux|ga|'''ár''' dteach|t=our house|inline=1}}
+#: {{ux|ga|'''Ár''' nAthair|t=[[Our Father]]|inline=1}}
+
+=====See also=====
+{{Irish personal pronouns}}
+
+===Etymology 2===
+From {{inh|ga|sga|ár||slaughter}}, from {{inh|ga|cel-pro|*agros}}, from {{inh|ga|ine-pro|*h₂eǵro-||hunt}}; compare {{cog|grc|ἄγρα||hunt}}.
+
+====Pronunciation====
+* {{IPA|lang=ga|/ɑːɾˠ/}}
+* {{a|Ulster}} {{IPA|lang=ga|/æːɾˠ/}}
+
+====Noun====
+{{ga-noun|m|áir|-}}
+
+# [[slaughter]], [[carnage]]
+# [[havoc]], [[destruction]]
+
+====Declension====
+{{ga-decl-m1-nopl|á|r|ir}}
+
+===Etymology 3===
+{{borrowing|ga|fr|are}}, from {{der|ga|la|area}}.
+
+====Pronunciation====
+* {{a|Munster|Connacht}} {{IPA|lang=ga|/ɑːɾˠ/}}
+* {{a|Ulster}} {{IPA|lang=ga|/æːɾˠ/}}
+
+====Noun====
+{{ga-noun|m|áir|áir}}
+
+# [[are]] {{gloss|unit of area equal to 100 square metres}}
+
+====Declension====
+{{ga-decl-m1|á|r|ir}}
+
+===Mutation===
+{{ga mut vowel}}
+
+===References===
+* {{R:ga:ODonaill}}
+* {{R:ga:Dinneen}}
+* {{R:DIL|3906|head=5 ar (‘our’)}}
+* {{R:DIL|3912|ár (‘slaughter’)}}
+* {{R:ga:Finck|II|16}}
+
+----
+
+==Old Irish==
+
+===Etymology===
+From {{inh|sga|cel-pro|*agros||slaughter}}, from {{inh|sga|ine-pro|*h₂eǵro-||hunt}}; compare {{cog|grc|ἄγρα||hunt}}
+
+===Noun===
+{{sga-noun|?||áir|pl2=ára}}
+
+# [[slaughter]], [[carnage]]
+#* {{RQ:sga-gloss|Ml|34|a|19}}
+#*: {{quote|sga|donaib '''araib'''|glosses ''ad'' {{m|la|strages}}}}
+# [[defeat]], [[destruction]]
+#* {{RQ:sga-gloss|Ml|33|d|4}}
+#*: {{quote|sga|du '''ár'''|glosses ''ad'' {{m|la|cedo|cedem}}}}
+#* {{RQ:sga-gloss|Ml|113|b|4}}
+#*: {{quote|sga|etarcnae '''áir''' mo namat|glosses ''de {{m|la|cedo|cede}} hostium''}}
+
+====Inflection====
+{{rfinfl|sga|noun}}
+
+====Derived terms====
+* {{l|sga|árchú|gloss=slaughter-hound, watchdog}}
+* {{l|sga|ármag|gloss=slaughter-plain, battlefield}}
+* {{l|sga|muccár|gloss=swine-massacre}}
+
+====Descendants====
+* Irish: {{l|ga|ár}}
+* Scottish Gaelic: {{l|gd|àr}}
+
+===Mutation===
+{{sga-mutation|á|r}}
+
+===References===
+* {{R:DIL|3912}}
+
+----
+
+==Old Norse==
+
+===Pronunciation===
+* {{a|12th century Icelandic}} {{IPA|lang=non|/ˈɑːr/}}
+
+===Etymology 1===
+From {{inh|non|gem-pro|*jērą||year}}. Cognate with {{cog|ang|ġēar}}, {{cog|ofs|jār}}, {{cog|osx|jār}}, {{cog|odt|jār}}, {{cog|goh|jār}}, {{cog|got|𐌾𐌴𐍂}}.<br/>Ultimately from {{etyl|ine-pro|non}} {{m|ine-pro|*yōr-}} < {{m|ine-pro|*yeh₁r-||year}}.
+
+====Noun====
+{{non-noun|n|árs|ár}}
+# a [[year]]
+#* ''[[w:Völuspá|Vǫluspá]]'', verse 6, lines 9-10, in '''1860''', T. Möbius, ''Edda Sæmundar hins fróða: mit einem Anhang zum Theil bisher ungedruckter Gedichte''. Leipzig, page [https://archive.org/stream/eddasmundarhins00mbgoog#page/n23 2]:
+#*: {{...}} undorn ok aptan, / '''árum''' at telja.
+#*: {{...}} ''undern and evening, ''/'' '''years''' to count.''
+# [[plenty]], [[abundance]]
+#* ''Saga Sigurðar Jórsalafara'' 53, in '''1832''', [[w:Rasmus_Rask|R. Rask]], ''Fornmanna sögur'', Volume VII. Copenhagen, page [http://books.google.com/books?id=uCwIAAAAIAAJ&pg=PA174 174]:
+#*: {{...}} þvíat þá var bæði '''ár''' og friðr.
+#*: {{...}} ''since then there were both '''plenty''' and peace.''
+# the [[name]] of the [[A]]-[[rune]]
+
+=====Declension=====
+{{non-decl-n-a|ár|ár}}
+
+====Derived terms====
+{{rel-top|Terms derived from ''ár''}}
+* {{l|non|árangr||season}}
+* {{l|non|áratal||number of years}}
+* {{l|non|áratala||calculation of years}}
+* {{l|non|árbót||bettereing of the season of produce}}
+* {{l|non|árbýll||dwelling in abundance}}
+* {{l|non|árferð||season}}
+* {{l|non|árgallalauss||fertile}}
+* {{l|non|árgalli||failure of crop}}
+* {{l|non|árgangr||year's course}}
+* {{l|non|árguð||Frey}}
+* {{l|non|árlangt}}, {{l|non|árlengis||for a year}}
+* {{l|non|árliga||yearly}}
+{{rel-mid}}
+* {{l|non|árligr||annual, early}}
+* {{l|non|ármaðr||steward}}
+* {{l|non|ármenning||stewardship}}
+* {{l|non|ársamr||fertile}}
+* {{l|non|árskyld||yearly rent}}
+* {{l|non|ársæli||fact of having good seasons}}
+* {{l|non|ársæll||happy in having good seasons}}
+* {{l|non|ártal||reckoning by years}}
+* {{l|non|ártekja||yearly rent}}
+* {{l|non|árvíð||anniversary of man's death}}
+* {{l|non|árvænligr}}, {{l|non|árvænn||promising a good season}}
+{{rel-bottom}}
+
+=====Descendants=====
+{{top2}}
+* Danish: {{l|da|år|g=n}}
+* Faroese: {{l|da|ár|g=n}}
+* Icelandic: {{l|is|ár|g=n}}
+{{mid2}}
+* Norwegian Bokmål: {{l|nb|år|g=n}}
+* Norwegian Nynorsk: {{l|nn|år|g=n}}
+* Swedish: {{l|sv|år|g=n}}
+{{bottom}}
+
+===Etymology 2===
+From {{inh|non|gem-pro|*airi||early}}. Cognate with {{cog|ang|ār}}, {{cog|got|𐌰𐌹𐍂}}.
+
+====Adverb====
+{{non-adv|-}}
+
+# [[early]], [[anciently]]
+
+=====Descendants=====
+* Icelandic: {{l|is|ár}}
+* Norwegian: {{l|no|årle}}
+* Swedish: {{l|sv|arla||early in the morning}}
+
+===Etymology 3===
+From {{inh|non|gem-pro|*airō||oar}}. Cognate with {{cog|ang|ār}}.
+
+====Noun====
+{{non-noun|f|árar|árar}}
+
+# [[oar]]
+
+=====Declension=====
+{{non-decl-f-o|ár|ár}}
+
+=====Descendants=====
+* Icelandic: {{l|is|ár|g=f}}
+
+===References===
+* [https://archive.org/stream/icelandicenglish00cleauoft#page/44 ár] in ''An Icelandic-English Dictionary'', R. Cleasby and G. Vigfússon, Clarendon Press, 1874, at [https://archive.org/details/icelandicenglish00cleauoft Internet Archive].
+* [https://archive.org/stream/concisedictionar001857#page/35 ár] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
+
+[[Category:non:Nautical]]
+[[Category:non:Time]]
+
+[[da:ár]]
+[[de:ár]]
+[[et:ár]]
+[[es:ár]]
+[[eu:ár]]
+[[fr:ár]]
+[[ko:ár]]
+[[io:ár]]
+[[is:ár]]
+[[it:ár]]
+[[lo:ár]]
+[[lt:ár]]
+[[li:ár]]
+[[hu:ár]]
+[[mg:ár]]
+[[fj:ár]]
+[[nl:ár]]
+[[ja:ár]]
+[[no:ár]]
+[[pl:ár]]
+[[pt:ár]]
+[[ru:ár]]
+[[fi:ár]]
+[[sv:ár]]
+[[tl:ár]]
+[[chr:ár]]
+[[tr:ár]]
