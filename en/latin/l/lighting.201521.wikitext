@@ -1,0 +1,84 @@
+==English==
+
+===Etymology===
+See [[light]]
+
+===Pronunciation===
+* {{audio|en-us-lighting.ogg|Audio (US)|lang=en}}
+* {{rhymes|aɪtɪŋ|lang=en}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun|~}}
+
+# The [[equipment]] used to provide [[illumination]]; the illumination so provided.
+#* {{quote-magazine|date=2013-08-03|volume=408|issue=8847|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/leaders/21582516-worlds-thirst-oil-could-be-nearing-peak-bad-news-producers-excellent Yesterday’s fuel]
+|passage=The dawn of the oil age was fairly recent. Although the stuff was used to waterproof boats in the Middle East 6,000 years ago, extracting it in earnest began only in 1859 after an oil strike in Pennsylvania.{{...}}It was used to make kerosene, the main fuel for artificial '''lighting''' after overfishing led to a shortage of whale blubber. Other liquids produced in the refining process, too unstable or smoky for lamplight, were burned or dumped.}}
+# The act of [[activating]] such equipment, or of [[igniting]] a [[flame]] etc.
+#* '''2012''', Andrew Pessin, ''Uncommon Sense'' (page 142)
+#*: We've observed plenty of strikings followed by '''lightings''', so even if we should not say that the strikings cause the lightings, isn't it at least reasonable to predict, and to believe, that the next time we strike a match in similar conditions, it will be followed by a lighting?
+# The process of [[anneal]]ing [[metal]]s.
+
+{{Webster 1913}}
+
+====Translations====
+{{trans-top|equipment, illumination}}
+* Esperanto: {{t|eo|lumigo}}
+* Finnish: {{t+|fi|valot}} {{qualifier|equipment}}, {{t+|fi|valaistus}} {{qualifier|illumination}}
+* Hungarian: {{t+|hu|világítás}}, {{t+|hu|megvilágítás}}, {{t+|hu|kivilágítás}}
+* Portuguese: {{t+|pt|iluminação}}
+* Russian: {{t+|ru|освеще́ние|n}}, {{t|ru|осветительный прибор|alt=освети́тельные прибо́ры|m-p}}
+{{trans-mid}}
+* Spanish: {{t+|es|iluminación|f}}
+* Swedish: {{t+|sv|blixt}}
+* Tagalog: {{t|tl|pagsusuga}}
+{{trans-bottom}}
+
+{{trans-top|activating lights or igniting a flame}}
+* Finnish: {{t+|fi|sytyttäminen}}, {{t+|fi|valaistus}}
+* Hungarian: {{t|hu|meggyújtás}}
+* Norwegian:
+*: Bokmål: {{t|nb|tenning|m|f}}
+*: Nynorsk: {{t|nn|tenning|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|освеще́ние|n}}
+* Telugu: {{t+|te|వెలిగించుట}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{present participle of|light|lang=en}}
+
+[[Category:en:Light sources]]
+
+[[ca:lighting]]
+[[cs:lighting]]
+[[et:lighting]]
+[[fa:lighting]]
+[[fr:lighting]]
+[[gl:lighting]]
+[[ko:lighting]]
+[[io:lighting]]
+[[it:lighting]]
+[[kn:lighting]]
+[[ku:lighting]]
+[[hu:lighting]]
+[[mg:lighting]]
+[[ml:lighting]]
+[[my:lighting]]
+[[nl:lighting]]
+[[ja:lighting]]
+[[oc:lighting]]
+[[pl:lighting]]
+[[ru:lighting]]
+[[sm:lighting]]
+[[simple:lighting]]
+[[fi:lighting]]
+[[sv:lighting]]
+[[ta:lighting]]
+[[chr:lighting]]
+[[tr:lighting]]
+[[vi:lighting]]
+[[zh:lighting]]
