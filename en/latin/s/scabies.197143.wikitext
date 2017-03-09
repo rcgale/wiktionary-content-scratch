@@ -1,0 +1,129 @@
+==English==
+{{wikipedia}}
+[[File:Acarodermatitis Hand.jpg|thumb|scabies of the hand]]
+
+===Etymology===
+From {{etyl|la|en}} {{m|la|scabiēs||scurf; scab, mange, itch}}, from {{m|la|scabō||scratch, scrape}}.
+
+===Pronunciation===
+* {{IPA|/ˈskei.biz/|lang=en}}
+* {{rhymes|eɪbiz|lang=en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pathology}} An infestation of parasitic [[mite]]s, ''[[Sarcoptes scabiei]]'', causing intense itching caused by the mites burrowing into the skin of humans and other animals. It is easily transmissible from human to human; secondary skin infection may occur.
+
+====Related terms====
+* {{l|en|scab}}
+* {{l|en|scabrous}}
+
+====Translations====
+{{trans-top|an infestation of parasitic mites, Sarcoptes scabiei}}
+* Arabic: {{t|ar|جَرَب|m}}
+* Armenian: {{t+|hy|քոս|sc=Armn}}
+* Aromanian: {{t|rup|arãnji|f}}, {{t|rup|arãnje|f}}, {{t|rup|rãnji|f}}, {{t|rup|rãnje|f}}, {{t|rup|zgaibã|f}}
+* Catalan: [[sarna#Catalan|sarna]] {{g|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|疥瘡|sc=Hani}}, {{t+|cmn|疥疮|tr=jièchuāng|sc=Hani}}
+* Czech: {{t+|cs|svrab|m}}
+* Danish: {{t+|da|fnat}}
+* Dutch: {{t+|nl|schurft}}
+* Finnish: {{t+|fi|syyhy}}
+* French: {{t+|fr|gale|f}}, {{t|fr|mal de Sainte-Marie|m}}
+* German: {{t+|de|Krätze|f}}
+* Hebrew: {{t+|he|גרדת|f|tr=garedet|sc=Hebr}}
+* Indonesian: {{t+|id|kudis}}
+* Italian: ([[acaro]] {{g|m}} [[della]]) [[scabbia]], {{t+|it|rogna|f}}
+* Japanese: {{t+|ja|疥癬|tr=かいせん, kaisen|sc=Jpan}}, {{t|ja|皮癬|tr=ひぜん, hizen|sc=Jpan}}
+* Norman: {{t|nrf|rouongne|f}}
+{{trans-mid}}
+* Korean: {{t|ko|옴|sc=Kore}}
+* Latin: {{t|la|scabiēs|f}}
+* Luxembourgish: {{t|lb|Krätz}}
+* Maori: {{t|mi|waihakihaki}}, {{t|mi|hakihaki}}, {{t|mi|harehare}}
+* Marathi: {{t|mr|खरुज|tr=kharuj|sc=Deva}}
+* Norwegian: {{t|no|reveskabb}}
+* Old Norse: {{t|non|skabb|n}}
+* Polish: {{t+|pl|świerzb|m}}
+* Portuguese: {{t+|pt|sarna|f}}
+* Quechua: {{t|qu|garaca}}
+* Romanian: {{t+|ro|scabie}}, {{t+|ro|râie}}
+* Russian: {{t+|ru|чесо́тка|f}}, {{qualifier|rare}} {{t|ru|ска́биес|m}}
+* Sardinian: {{t|sc|arrúngia}}, {{t|sc|rúngia}}, {{t|sc|orrúngia}}, {{t|sc|runza}}
+* Spanish: {{t+|es|sarna|f}}
+* Swedish: {{t+|sv|skabb}}
+* Tagalog: {{t|tl|galis}}
+* Venetian: {{t|vec|rogna|f}}, {{t|vec|gratoxa|f}}
+* Vietnamese: {{t|vi|bệnh ghẻ}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|mange}}
+
+===Anagrams===
+* {{l|en|abscise}}
+
+----
+
+==Latin==
+
+===Etymology===
+From {{m|la|scabō||scratch, scrape}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/ˈska.bi.eːs/|lang=la}}
+
+===Noun===
+{{la-noun|scabiēs|scabiēī|f|fifth}}
+
+# [[roughness]], [[scurf]]
+# [[mildew]]
+# [[scab]], [[mange]], [[itch]]
+# {{lb|la|figuratively}} [[itching]], [[longing]], [[pruriency]]
+
+====Inflection====
+{{la-decl-5th-i|scab}}
+
+====Derived terms====
+* {{l|la|scabidus}}
+* {{l|la|scabiola}}
+* {{l|la|scabiōsus}}
+* {{l|la|scabitūdō}}
+
+====Related terms====
+* {{l|la|scaber}}
+* {{l|la|scabō}}
+* {{l|la|scobis}}
+
+====Descendants====
+* Aromanian: {{l|rup|zgaibã}}
+* English: {{l|en|scabies}}
+* Italian: {{l|it|scabbia}}
+* Romanian: {{l|ro|scabie}}, {{l|ro|zgaibă}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+
+[[Category:en:Mites and ticks]]
+[[Category:la:Diseases]]
+
+[[ca:scabies]]
+[[cs:scabies]]
+[[et:scabies]]
+[[fr:scabies]]
+[[ko:scabies]]
+[[io:scabies]]
+[[it:scabies]]
+[[ku:scabies]]
+[[hu:scabies]]
+[[mg:scabies]]
+[[ml:scabies]]
+[[nl:scabies]]
+[[pl:scabies]]
+[[sk:scabies]]
+[[ta:scabies]]
+[[vi:scabies]]
+[[zh:scabies]]
