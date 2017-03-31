@@ -1,0 +1,79 @@
+{{also|testostérone}}
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{IPA|/tɛsˈtɒstəˌɹoʊn/|lang=en}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|steroid hormone}} [[steroid|Steroid]] [[hormone]] produced primarily in the [[testes]] of the [[male]]; it is [[responsible]] for the [[development]] of [[secondary]] [[sex]] [[characteristic]]s in the [[male]].
+# {{lb|en|figuratively}} Manly behavior, often of an aggressive or foolishly reckless nature.
+#: ''Mother encouraged James to rely more on intelligence and less on '''testosterone''' to deal with the neighbor's son.''
+
+====Translations====
+{{trans-top|steroid hormone}}
+* Afrikaans: {{t|af|testosteroon}}
+* Arabic: {{t|ar|تِسْتُوسْتِيرُون|m|tr=tistustirūn}}
+* Chinese:
+*: Cantonese: {{t|yue|睾酮|tr=gou1 tung4|sc=Hani}}
+*: Mandarin: {{t+|cmn|睾酮|tr=gāotóng|sc=Hani}}
+* Chuvash: {{t|cv|тестостерон}}
+* Czech: {{t|cs|testosteron|m}}
+* Danish: {{t+|da|testosteron|n}}
+* Dutch: {{t+|nl|testosteron|m}}
+* Esperanto: {{t|eo|testosterono}}
+* Finnish: {{t+|fi|testosteroni}}
+* French: {{t+|fr|testostérone|f}}
+* German: {{t+|de|Testosteron|n}}
+* Hebrew: {{t+|he|טסטוסטרון|m}}
+* Icelandic: {{t|is|testósterón|n}}
+* Indonesian: {{t+|id|testosteron}}
+{{trans-mid}}
+* Italian: {{t+|it|testosterone|m}}
+* Japanese: {{t|ja|テストステロン|tr=tesutosuteron}}
+* Kurdish: {{t+|ku|testosteron}}
+* Lithuanian: {{t|lt|testosteronas|m}}
+* Maori: {{t|mi|taiaki tāne}}
+* Norwegian: {{t|no|testosteron|n}}
+* Persian: {{t|fa|تستوسترون|tr=testosteron|sc=fa-Arab}}
+* Polish: {{t+|pl|testosteron|m}}
+* Portuguese: {{t+|pt|testosterona|f}}
+* Romanian: {{t+|ro|testosteron|m}}
+* Russian: {{t+|ru|тестостеро́н|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тестостѐро̄н|m|sc=Cyrl}}
+*: Roman: {{t+|sh|testostèrōn|m}}
+* Slovak: {{t|sk|testosterón|m}}
+* Spanish: {{t|es|testosterona|f}}
+* Swedish: {{t+|sv|testosteron|n}}
+* Turkish: {{t+|tr|testosteron}}
+{{trans-bottom}}
+
+[[Category:en:Steroids]]
+----
+
+==Italian==
+{{wikipedia|lang=it}}
+
+===Noun===
+{{it-noun|m}}
+
+# {{lb|it|steroid hormone}} [[#English|testosterone]]
+
+[[ca:testosterone]]
+[[ko:testosterone]]
+[[io:testosterone]]
+[[id:testosterone]]
+[[it:testosterone]]
+[[ku:testosterone]]
+[[hu:testosterone]]
+[[mg:testosterone]]
+[[pl:testosterone]]
+[[ro:testosterone]]
+[[ru:testosterone]]
+[[fi:testosterone]]
+[[ta:testosterone]]
+[[vi:testosterone]]
+[[zh:testosterone]]
