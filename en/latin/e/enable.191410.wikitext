@@ -1,0 +1,141 @@
+==English==
+{{Webster 1913}}
+
+===Etymology===
+From {{inh|en|enm|enablen}}, equivalent to {{prefix|en|en|able}}.
+
+===Pronunciation===
+* {{a|GenAm|RP}} {{IPA|/ɪˈneɪbəl/|lang=en}}
+* {{audio|en-us-enable.ogg|Audio (US)|lang=en}}
+* {{rhymes|eɪbəl|lang=en}}
+
+===Verb===
+{{wikipedia|enabling}}
+{{en-verb|enabl}}
+
+# To give strength or ability to; to make firm and strong.
+#* '''1611''', ''[[King James Bible]]'', "1 Tim. i. 12"
+#*: Who hath '''enabled''' me.
+# To make able (to do, or to be, something); to confer sufficient power upon; to [[furnish]] with means, opportunities, and the like; to render competent for; to [[empower]]; to [[endow]].
+#* '''1711''', October 13, {{w|Joseph Addison}}, ''{{w|The Spectator}}'', number 195
+#*: Temperance gives Nature her full play, and '''enables''' her to exert herself in all her force and vigor.
+#* {{quote-magazine|date=2013-06-29|volume=407|issue=8842|page=72-3|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/international/science-and-technology/21580133-how-microbes-promote-liver-cancer-overweight-punch-gut A punch in the gut]
+|passage=Mostly, the microbiome is beneficial. It helps with digestion and '''enables''' people to extract a lot more calories from their food than would otherwise be possible. Research over the past few years, however, has implicated it in diseases from atherosclerosis to asthma to autism.}}
+# To allow a way out or excuse for an action.
+#: {{ux|en|His parents '''enabled''' him to go on buying drugs.}}
+# To activate a function of an electronical or mechanical device.
+
+====Antonyms====
+* {{l|en|disable}}
+
+====Derived terms====
+* {{l|en|enabler}}
+* {{l|en|enablement}}
+* {{l|en|re-enable}}
+* {{l|en|reenable}}
+
+====Translations====
+{{trans-top|to give strength or ability to; to make firm and strong}}
+* Bulgarian: {{t|bg|давам възможност|sc=Cyrl}}
+* German: {{qualifier|jemanden}} {{t+|de|berechtigen}}
+* Indonesian: {{t|id|memampukan}}
+{{trans-mid}}
+* Polish: {{t|pl|uzdolnić}}, {{t|pl|upełnomocnić}}
+* Russian: {{t|ru|дава́ть возмо́жность}}, {{t+|ru|уполномо́чивать}}
+* Swedish: ge någon {{t+|sv|kraft|c}}
+{{trans-bottom}}
+
+{{trans-top|to make able}}
+* Arabic: {{t|ar|أمكن|sc=Arab}}
+* Catalan: {{t+|ca|habilitar}}
+* Czech: {{t+|cs|umožnit}}
+* Dutch: {{t+|nl|inschakelen}}, {{t|nl|in staat stellen}}
+* Esperanto: {{t|eo|ebligi}}
+* Finnish: {{t+|fi|mahdollistaa}}, [[tehdä]] [[kykenevä]]ksi
+* French: {{t+|fr|autoriser}}, {{t+|fr|permettre}}
+{{trans-mid}}
+* German: {{t+|de|befähigen}}, {{t+|de|ermöglichen}}, {{t+|de|freigeben}}
+* Latin: {{t|la|habilito}}
+* Portuguese: {{t|pt|possibilitar}}
+* Russian: {{t|ru|дава́ть возмо́жность}}, {{t+|ru|уполномо́чивать}}
+* Scottish Gaelic: {{t|gd|thoir comas do}}
+* Spanish: {{t+|es|habilitar}}
+* Swedish: {{t+|sv|möjliggöra}}
+{{trans-bottom}}
+
+{{trans-top|to allow a way out or excuse for an action}}
+* Czech: {{t+|cs|umožnit}}
+* Dutch: {{t|nl|in staat stellen}}
+* French: {{t+|fr|permettre}}
+* German: {{t+|de|anordnen}}
+{{trans-mid}}
+* Italian: {{t+|it|permettere}}
+* Scottish Gaelic: {{t|gd|thoir cothrom do}}
+* Swedish: {{t+|sv|möjliggöra}}, {{t+|sv|ursäkta}}
+{{trans-bottom}}
+
+{{trans-top|to activate a function of an electronical or mechanical device}}
+* Afrikaans: {{t|af|aanskakel}}, {{t|af|aktiveer}}
+* Albanian: {{t+|sq|aktivizoj}}
+* Amharic: {{t|am|አንቃ}}
+* Armenian: {{t+|hy|միացնել}}
+* Azeri: {{t|az|aktivləşdirmək}}
+* Basque: {{t|eu|aktibatu}}
+* Belarusian: {{t|be|актываваць}}, {{t|be|ўключаць}}
+* Bengali: {{t|bn|সক্রিয় করা}}
+* Bulgarian: {{t+|bg|активирам}}, {{t+|bg|включвам}}
+* Chinese:
+*: Mandarin: {{t+|cmn|啟用|sc=Hani}}, {{t+|cmn|启用|tr=qǐyòng|sc=Hani}}
+* Czech: {{t+|cs|aktivovat}}, {{t+|cs|zapnout}}
+* Dutch: {{t+|nl|activeren}}, {{t+|nl|inschakelen}}
+* Esperanto: {{t|eo|enŝalti}}, {{t|eo|aktivigi}}
+* Estonian: {{t|et|aktiveerima}}, {{t|et|sisse lülitama}}
+* Finnish: {{t+|fi|aktivoida}}, {{t|fi|ottaa käyttöön}}
+* French: {{t+|fr|activer}}
+* Georgian: {{t|ka|ჩართვა}}
+* German: {{t+|de|aktivieren}},  {{t+|de|einschalten}}
+* Hindi: {{t|hi|सक्रिय करना}}
+* Hungarian: {{t+|hu|bekapcsol}}, {{t+|hu|aktivál}}
+* Icelandic: {{t|is|gera virkt}}
+* Indonesian: {{t+|id|mengaktifkan}}, {{t+|id|memfungsikan}}, {{t+|id|menghidupkan}}
+* Javanese: {{t|jv|ngaktifake}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|күйгүзүү}}, {{t+|ky|жандыруу}}
+* Lao: {{t|lo|ເປີດໃຊ້ງານ}}
+* Latvian: {{t+|lv|aktivizēt}}, {{t+|lv|ieslēgt}}
+* Lithuanian: {{t+|lt|aktyvinti}}, {{t+|lt|įjungti}}
+* Luxembourgish: {{t|lb|aktivéieren}}
+* Macedonian: {{t|mk|вклучува}}, {{t|mk|активира}}
+* Malay: {{t+|ms|menghidupkan}}, {{t+|ms|mengaktifkan}}
+* Maori: {{t|mi|whakahohe}}
+* Marathi: {{t|mr|सक्रिय करावे}}
+* Persian: {{t|fa|فعال کردن}}
+* Polish: {{t+|pl|aktywować}}, {{t+|pl|włączać}}, {{t+|pl|odblokować}}
+* Portuguese: {{t+|pt|ativar}}, {{t+|pt|habilitar}}
+* Romanian: {{t+|ro|activa}}
+* Russian: {{t+|ru|активи́ровать}}, {{t+|ru|включать}}
+* Serbo-Croatian: {{t+|sh|aktivirati}}, {{t+|sh|uključiti}}, {{t+|sh|deblokirati}}
+* Slovak: {{t+|sk|aktivovať}}, {{t+|sk|zapnúť}}
+* Slovene: {{t+|sl|vklopiti}}, {{t+|sl|vključiti}}
+* Spanish: {{t+|es|activar}}, {{t+|es|habilitar}}
+* Sundanese: {{t|su|ᮍᮊ᮪ᮒᮤᮕ᮪ᮊᮩᮔ᮪}}, {{t|su|ᮍᮠᮥᮛᮥᮀᮊᮩᮔ᮪}}, {{t|su|ᮍᮖᮥᮀᮞᮤᮊᮩᮔ᮪}}
+* Swahili: {{t|sw|kuwasha}}
+* Swedish: {{t+|sv|aktivera}}
+* Turkish: {{t+|tr|etkinleştirmek}}
+* Turkmen: {{t|tk|işjeňleşdirmek}}, {{t|tk|işletmek}}
+* Ukrainian: {{t+|uk|активувати}}, {{t+|uk|вмикати}}, {{t|uk|включати}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Greek: {{t-check|el|καθιστώ ικανό}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+===Anagrams===
+* {{anagrams|en|baleen}}
