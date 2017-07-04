@@ -1,0 +1,87 @@
+==English==
+
+===Pronunciation===
+* {{IPA|/ˈɹæbəl/|lang=en}}
+* {{audio|en-us-rabble.ogg|Audio (US)|lang=en}}
+* {{rhymes|æbəl|lang=en}}
+
+===Etymology 1===
+From {{inh|en|enm|rablen||to ramble; rave; speak in a confused manner}}, cognate with {{cog|dum|rabbelen||to talk; chatter; trifle}}, {{cog|de|rabbeln}}, {{m|de|robbeln||to chatter; prattle}}.
+
+====Alternative forms====
+* {{l|en|ravel}}
+
+====Verb====
+{{en-verb|rabbl|ing}}
+
+# {{lb|en|intransitive}} To [[speak]] in a  [[confused]] manner; talk [[incoherently]]; [[utter]] [[nonsense]]
+# {{lb|en|transitive}} To speak confusedly or incoherently; [[gabble]] or [[chatter]] out
+
+===Etymology 2===
+From {{inh|en|enm|rabel}}, probably from the verb (see above).
+
+====Noun====
+{{en-noun}}
+
+# A [[mob]]; a [[disorderly]] crowd.
+# The mass of [[common]] people; the lowest class of people.
+
+=====Translations=====
+{{trans-top|a disorderly crowd}}
+* French: {{t+|fr|cohue|f}}, {{t+|fr|foule|f}}
+* Greek: {{t+|el|όχλος|m}}, {{t+|el|σκυλολόι|n}} {{qualifier|colloquial}}
+{{trans-mid}}
+* Russian: {{t+|ru|толпа́|f}}, {{t+|ru|сброд|m}}, {{t+|ru|чернь|f}}, {{t+|ru|бы́дло|n}}
+* Spanish: {{t+|es|turba|f}}
+{{trans-bottom}}
+
+{{trans-top|the mass of common people; the lowest class of people}}
+* Catalan: {{t|ca|gentalla|f}}, {{t|ca|gentola|f}}
+* French: {{t+|fr|populace|f}} {{qualifier|the commoners}}, {{t+|fr|racaille|f}}
+* German: {{t+|de|Pöbel|m}}
+* Ido: {{t|io|raskalaro}}
+* Italian: {{t|it|gentaglia|f}}
+{{trans-mid}}
+* Korean: {{t|ko|떨거지}}
+* Polish: {{t+|pl|bydło|n}}
+* Russian: {{t+|ru|сброд|m}}, {{t+|ru|чернь|f}}, {{t+|ru|бы́дло|n}} {{t+|ru|толпа́|f}}, {{t+|ru|простонаро́дье|n}}
+* Spanish: {{t+|es|gentuza|f}}
+* Swedish: {{t+|sv|pöbel|c}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Bulgarian: {{t+|bg|пасмина|f|tr=pásmina}}, {{t+|bg|паплач|f|tr=páplač}}
+* Chinese:
+*: Mandarin: {{t+|cmn|廢物|sc=Hani}}, {{t+|cmn|废物|tr=fèiwù|sc=Hani}}, {{t+|cmn|烏合之眾|sc=Hani}}, {{t+|cmn|乌合之众|tr=wūhézhlzhòng|sc=Hani}}
+* Dutch: {{t+|nl|meute|f}}, {{t|nl|meutes|f-p}}, {{t+|nl|menigte|f}}, {{t+|nl|menigten|f-p}}, {{t+|nl|gepeupel|n}}, {{t+|nl|volk|n}}
+* Finnish: {{t+|fi|ihmisjoukko}}, {{qualifier|collectively}} {{t+|fi|rahvas}}
+* Greek: {{t+|el|όχλος|m}} (óchlos)
+* Hebrew: {{t|he|ערב רב|tr=eirev rav}}
+* Hungarian: {{t+|hu|csőcselék}}
+{{trans-mid}}
+* Japanese: {{t|ja|群衆|tr=ぐんしゅう, gunshū|sc=Jpan}}, {{t|ja|暴徒|tr=ぼうと, bōto|sc=Jpan}} {{qualifier|mob}}
+* Scottish Gaelic: {{t|gd|gràisg|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|о̏лош|m|sc=Cyrl}}, {{t|sh|руља|f}}
+*: Roman: {{t+|sh|ȍloš|m}}, {{t+|sh|rulja|f}}
+* Turkish: {{t+|tr|ayaktakımı}}
+* Volapük: {{t+|vo|lupöp}}
+{{trans-bottom}}
+
+=====Synonyms=====
+* {{l|en|riffraff}}
+
+=====Derived terms=====
+* {{l|en|rabble rouser}}
+* {{l|en|rabblesome}}
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+===Anagrams===
+* {{anagrams|en|barbel|barble}}
+
+[[Category:English collective nouns]]
+[[Category:en:People]]
