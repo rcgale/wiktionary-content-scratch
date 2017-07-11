@@ -1,0 +1,24 @@
+==English==
+{{wikipedia}}
+
+===Noun===
+{{en-noun|-}}
+
+# A pale [[green]]ish [[blue]] colour.
+#: {{color panel|006F7C}}
+# A stain used in biology and [[histology]].
+
+===Adjective===
+{{en-adj|-}}
+
+# Of a pale [[green]]ish [[blue]] colour.
+
+===See also===
+* {{list:blues/en}}
+* {{l|en|Nile green}}
+
+===Anagrams===
+* {{anagrams|en|Blue Nile|belluine|blue line|blueline}}
+
+[[Category:en:Blues]]
+[[Category:en:Greens]]
