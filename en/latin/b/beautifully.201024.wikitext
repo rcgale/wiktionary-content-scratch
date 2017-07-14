@@ -1,0 +1,37 @@
+==English==
+
+===Etymology===
+{{affix|en|beautiful|-ly}}, circa 17th century
+
+===Pronunciation===
+* {{audio|en-us-beautifully.ogg|Audio (US)|lang=en}}
+
+===Adverb===
+{{en-adv}}
+
+# In a [[beautiful]] manner.
+#* '''2013''', Daniel Taylor, ''Rickie Lambert's debut goal gives England victory over Scotland'' (in ''The Guardian'', 14 August 2013)[http://www.theguardian.com/football/2013/aug/14/england-scotland-international-friendly]
+#*: Tom Cleverley had one of his better games, the highlight being a '''beautifully''' weighted pass to send Walcott away for his goal, and Rooney probably did as well as might have been anticipated given this was his first start in a competitive match since April.
+
+====Translations====
+{{trans-top|In a beautiful manner}}
+* Belarusian: {{t|be|прыго́жа}}
+* Catalan: {{t+|ca|bellament}}
+* Chinese:
+*: Mandarin: {{t+|cmn|美麗|alt=美麗地|sc=Hani}}, {{t+|cmn|美丽|tr=měilì de|alt=美丽地|sc=Hani}}
+* Dutch: {{t+|nl|mooi}}
+* Finnish: {{t+|fi|kauniisti}}, {{t+|fi|ihanasti}}
+* French: {{t+|fr|joliment}}
+* German: {{t+|de|schön}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szépen}}
+* Latin: {{t|la|pulchre}}
+* Navajo: {{t|nv|nizhónígo}}
+* Polish: {{t+|pl|pięknie}}, {{t+|pl|ślicznie}}, {{t|pl|uroczo}}, {{t|pl|urodziwie}}, {{t+|pl|ładnie}}
+* Portuguese: {{t|pt|belamente}}
+* Russian: {{t+|ru|краси́во}}, {{t+|ru|прекра́сно}}
+* Spanish: {{t+|es|bellamente}}
+* Telugu: {{t+|te|అందముగా}}
+{{trans-bottom}}
+
+[[Category:en:Appearance]]
