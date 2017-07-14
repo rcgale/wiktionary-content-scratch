@@ -1,0 +1,34 @@
+==English==
+
+===Etymology===
+From {{etyl|fr|en}} {{m|fr|clinicien}}
+
+===Pronunciation===
+* {{enPR|klĭnĭ'shən}}, {{IPA|/klɪˈnɪʃən/|lang=en}}
+* {{rhymes|ɪʃən|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[healthcare]] provider working in a [[clinic]] or [[hospital]].
+
+====Translations====
+{{trans-top|doctor working in a clinic}}
+* Catalan: {{t|ca|clínic|m}}, {{t|ca|clínica|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|臨床醫生|sc=Hani}}, {{t|cmn|临床医生|tr=línchuáng yīshēng|sc=Hani}}
+* Finnish: {{t|fi|kliinikko}}
+{{trans-mid}}
+* German: {{t|de|Kliniker|m}}, {{t|de|Klinikerin|f}}, {{t|de|Krankenhausarzt|m}}, {{t|de|Krankenhausärztin|f}}
+* Italian: {{t+|it|clinico|m}}
+* Swedish: {{t+|sv|kliniker}}
+{{trans-bottom}}
+
+{{ttbc-top}}
+* Chinese:
+*: Mandarin: {{t-check|cmn|臨床醫生|sc=Hani}}, {{t-check|cmn|临床医生|tr=línchuáng yīshēng|sc=Hani}}
+* German: {{t-check|de|Kliniker|m}}, {{t-check|de|Klinikerin|f}}
+{{trans-mid}}
+* Italian: {{t-check|it|clinico|m}}
+* Swedish: {{t+check|sv|kliniker}}
+{{trans-bottom}}
