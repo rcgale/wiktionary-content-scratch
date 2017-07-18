@@ -1,0 +1,105 @@
+==English==
+
+===Etymology===
+From {{etyl|nl|en}} ''[[Noorsch]]'', now spelled ''[[Noors]]''.
+
+===Pronunciation===
+* {{a|GenAm}} {{enPR|nôrs}}, {{IPA|/nɔɹs/|lang=en}}
+* {{a|RP}} {{IPA|/nɔːs/|lang=en}}
+* {{audio|en-us-Norse.ogg|Audio (US)|lang=en}}
+* {{audio|en-uk-Norse.ogg|Audio (UK)|lang=en}}
+* {{rhymes|ɔː(r)s|lang=en}}
+
+===Adjective===
+{{en-adj}}
+
+# Of, or relating to the [[people]], [[language]] and [[culture]] of [[Scandinavia]].
+# Of, or relating to the [[North Germanic]] group of [[language]]s.
+
+====Translations====
+{{trans-top|of Scandinavia/Norway}}
+* Czech: {{t+|cs|norský|m}}
+* Esperanto: {{t|eo|norena}}
+* French: {{t+|fr|norrois|m}}
+*: Old French: {{t|fro|norrois|m}}
+* Galician: {{t|gl|nórdico|m}}
+{{trans-mid}}
+* Icelandic: {{t+|is|norrænn|m}}
+* Italian: {{t+|it|norreno|m}}
+* Russian: {{t|ru|древнескандина́вский}}, {{t+|ru|норве́жский}} {{qualifier|Norwegian}}
+* Swahili: {{t|sw|-a Kinorsi}}
+* Turkish: {{t+|tr|Nors}}
+{{trans-bottom}}
+
+{{trans-top|of North Germanic languages}}
+* Esperanto: {{t|eo|norena}}
+* French: {{t+|fr|nordique|m|f}}
+* Galician: {{t|gl|nórdico|m}}
+* German: {{t+|de|altnordisch}}
+{{trans-mid}}
+* Icelandic: {{t+|is|norrænn|m}}
+* Italian: {{t+|it|norreno|m}}
+* Swahili: {{t|sw|-a Kinorsi}}
+* Turkish: {{t|tr|Norsça}}
+{{trans-bottom}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# A collective term for [[Scandinavian]] (historically [[Norwegian]]) people.
+# Speakers of any of the North Germanic languages.
+# The ancient [[language]] spoken by [[Viking]]s, from which modern [[Scandinavian]] languages are derived. [[Icelandic]] is the most closely related modern version, having changed little due to [[Iceland]]'s linguistic isolation.
+
+====Related terms====
+* {{l|en|Old Norse}}
+
+====Translations====
+<!--Note: "Norse" is a collective noun, so translations should be COLLECTIVE or PLURAL nouns, as appropriate-->
+{{trans-top|Scandinavian/Norwegian people}}
+* French: les [[Nordique]]s {{g|m-p}}
+* Icelandic: {{t|is|Norðurlandabúar|m-p}}
+* Italian: i [[norreni]] {{g|m-p}}
+{{trans-mid}}
+* Russian: {{t+|ru|скандинав|alt=скандина́вы|m-p}}
+* Swahili: {{t|sw|Wanorsi}}
+{{trans-bottom}}
+
+{{trans-top|speakers of any North Germanic language}}
+* French: les [[Nordique]]s {{g|m-p}}
+* Norwegian: [[Norrøn]]s {{g|m-p}}
+{{trans-mid}}
+* Swahili: {{t|sw|Wanorsi}}
+{{trans-bottom}}
+
+{{trans-top|The ancient language spoken by Vikings}}
+* Finnish: {{t+|fi|muinaisnorja}}
+* Icelandic: {{t+|is|norræna|f}}, {{t+|is|fornnorræna|f}}
+{{trans-mid}}
+* Italian: {{t+|it|norreno|m}}
+* Swahili: {{t|sw|Kinorsi}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|US|_|printing|rare|dated}} A [[size]] of [[type]] between [[Saxon]] and [[excelsior]], 2½-[[point]] [[type]].
+
+====Translations====
+{{trans-top|2½-point type}}
+* Dutch: {{t+|nl|microscoop}}, {{t+|nl|microscopie}}
+* French: {{t+|fr|microscopique}}
+{{trans-mid}}
+* German: {{t|de|Microscopique}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|Nordic}}
+* {{l|en|Nordish}}
+
+===References===
+* {{pedia|dab=Norse}}
+
+===Anagrams===
+* {{anagrams|en|Ensor|Rones|Rosen|noser|oners|renos|rosen|senor|seron|señor|snore}}
+
+[[Category:en:Extinct languages]]
