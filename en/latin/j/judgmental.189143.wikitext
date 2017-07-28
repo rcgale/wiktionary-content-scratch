@@ -1,0 +1,28 @@
+==English==
+
+===Alternative forms===
+* {{l|en|judgemental}}
+
+===Etymology===
+From {{suffix|judgment|al|lang=en}}.
+
+===Adjective===
+{{en-adj}}
+
+# Of or relating to [[judgment]].
+# {{lb|en|chiefly|of a person}} Inclined to pass judgment, [[critical]].
+
+=====Translations=====
+{{trans-top|of or relating to judgment}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|inclined to pass judgment}}
+* French: {{t+|fr|critique}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{t+check|nl|bevooroordeeld}}, {{t+check|nl|subjectief}}, {{t-check|nl|vooringenomen}}
+{{trans-mid}}
+{{trans-bottom}}
