@@ -1,0 +1,345 @@
+{{also|Sus|SUS|süs|šus|-sus|sus'|Sus.|šūs}}
+==English==
+
+===Pronunciation===
+* {{rhymes|ʌs|lang=en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|UK|informal}} [[suspicion|Suspicion]] (in terms of a [[sus law]]).
+#* '''2002''', Simon James, ''British Government: A Reader in Policy Making'' (page 84)
+#*: The committee {{...}} said ''''sus'''' had acquired a symbolic significance out of all proportion to its significance as a criminal charge.
+
+===Anagrams===
+* {{anagrams|en|U.S.S.|USS|us's}}
+
+----
+
+==Aromanian==
+
+===Alternative forms===
+* {{l|rup|ãnsus}}
+* {{l|rup|nsus}}
+* {{l|rup|nsusu}}
+* {{l|rup|susu}}
+
+===Etymology===
+From {{der|rup|VL.|sūsum}}, from {{der|rup|la|sursūm}}. Compare Daco-Romanian {{m|ro|sus}}.
+
+===Adverb===
+{{head|rup|adverb}}
+
+# [[up]]
+
+====Antonyms====
+* {{l|rup|ghios}}/{{l|rup|nghios}}
+
+[[Category:Aromanian palindromes]]
+
+----
+
+==Cebuano==
+
+===Etymology===
+Shortened form of {{m|ceb|susmaryosep}}.
+
+===Interjection===
+{{head|ceb|interjection}}
+
+# Used as an [[expression]] of [[anger]], [[frustration]] or [[disbelief]].
+
+----
+
+==Chuukese==
+
+===Etymology===
+Borrowed from {{bor|chk|en|shoes|notext=1}}.
+
+===Noun===
+{{head|chk|noun}}
+
+# [[shoe]]
+
+[[Category:chk:Clothing]]
+
+----
+
+==Danish==
+
+===Pronunciation===
+* {{IPA|/suːs/|[suːˀs]|lang=da}}
+
+===Noun===
+{{da-noun|et}}
+
+# [[whistling]], [[singing]]
+# [[whisper]], [[soughing]]
+# [[whizz]]
+# [[rush]] {{qualifier|pleasurable sensation experienced after use of a stimulant}}
+
+====Synonyms====
+* {{l|da|susen}}
+
+====Inflection====
+{{da-noun-infl|et|4=sus'|6=sus'}}
+
+===Verb===
+{{head|da|verb form}}
+
+# {{imperative of|suse|lang=da}}
+
+[[Category:Danish palindromes]]
+
+----
+
+==Finnish==
+
+===Etymology===
+{{rfe|lang=fi}}
+
+===Interjection===
+{{fi-int}}
+
+# [[oh]]; used only in the expression shown in the example below.
+#* {{ux|fi|Sus [[siunatkoon]]!|t=[[oh my God|Oh my God]]!}}
+
+[[Category:Finnish palindromes]]
+
+----
+
+==French==
+
+===Pronunciation===
+* {{IPA|/sy/|lang=fr}}
+* {{homophones|su|sue|suent|sues|sut|sût|lang=fr}}
+* {{rhymes|y|lang=fr}}
+
+===Etymology 1===
+From {{inh|fr|fro}}, from {{inh|fr|VL.|sūsum}}, from {{inh|fr|la|sūrsum}}. Cognate to Italian {{m|it|su}}.
+
+====Adverb====
+{{fr-adv}}
+
+# {{lb|fr|dated}} [[up]]
+
+=====Derived terms=====
+* {{l|fr|en sus}}
+* {{l|fr|en sus de}}
+
+===Etymology 2===
+see {{m|fr|savoir}}
+
+===Verb===
+{{fr-verb-form}}
+
+# {{inflection of|savoir||1|s|phis|lang=fr}}
+# {{inflection of|savoir||2|s|phis|lang=fr}}
+
+===Further reading===
+* {{R:TLFi}}
+
+[[Category:French palindromes]]
+
+----
+
+==Irarutu==
+
+===Noun===
+{{head|irh|noun}}
+
+# (woman's) [[breast]]
+
+===References===
+* J. C. Anceaux, ''The Linguistic Situation in the Islands of Yapen, Kurudu, Nau and Miosnum'' (2013), page 46
+
+----
+
+==Latin==
+
+===Etymology===
+From {{inh|la|ine-pro|*suH-}}. Compare Ancient Greek {{m|grc|ὗς}}, English {{m|en|swine}}, {{m|en|sow}}.
+
+===Pronunciation===
+* {{la-IPA|sūs}}
+
+===Noun===
+{{la-noun|sūs|suis|m|g2=f|third}}
+
+# [[pig]]
+
+====Declension====
+{{la-decl-irreg|noun=1|sūs}}
+
+====Synonyms====
+* {{l|la|porcus}}, [[scrofa]]
+
+====Derived terms====
+{{der3|suile|suillus|sucula|subulcus|sucerda|sucidia|lang=la}}
+
+====Descendants====
+* Italian: [[:it:suino|suino]]
+* Sardinian: {{l|sc|sue}} {{qualifier|Campidanese}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:M&A}}
+* {{R:De Vaan 2008}}
+
+{{topics|la|Mammals}}
+
+[[Category:Latin irregular nouns]]
+[[Category:Latin palindromes]]
+
+----
+
+==Middle French==
+
+===Etymology===
+From {{etyl|fro|frm}} {{m|fro|sus}}.
+
+===Adverb===
+{{head|frm|adverb}}
+
+# [[on]]; [[on top of]]
+
+===Preposition===
+{{head|frm|preposition}}
+
+# [[on]]; [[on top of]]; [[atop]]
+
+====Descendants====
+* French: {{l|fr|sus}} {{qualifier|obsolete}}
+
+[[Category:Middle French palindromes]]
+
+----
+
+==Norman==
+
+===Pronunciation===
+* {{audio|Jer-sus.ogg|Audio (Jersey)|lang=nrf}}
+
+===Etymology 1===
+From {{inh|nrf|fro|sus}}, from {{inh|nrf|la|sursum}}.
+
+====Preposition====
+{{head|nrf|preposition}}
+
+# {{lb|nrf|Guernsey}} [[on]]
+
+===Etymology 2===
+
+====Verb====
+{{nrf-verb-form}}
+
+# {{inflection of|saver||1|s|pret||lang=nrf}}
+
+[[Category:Norman palindromes]]
+
+----
+
+==Northern Sami==
+
+===Pronoun===
+{{head|se|pronoun form}}
+
+# {{inflection of|son||loc|lang=se}}
+
+----
+
+==Old French==
+
+===Etymology 1===
+From {{etyl|la|fro}} {{m|la|subtus}}.
+
+====Preposition====
+{{head|fro|preposition}}
+
+# [[under]]; [[underneath]]
+
+=====Descendants=====
+* French: {{l|fr|sous}}
+
+===Etymology 2===
+From {{etyl|VL.|fro}} ''sūsum'', from {{etyl|la|fro}} {{m|la|sūrsum}}.
+
+====Preposition====
+{{head|fro|preposition}}
+
+# [[on]]; [[on top of]]; [[atop]]
+
+=====Descendants=====
+* French: {{l|fr|sus}}
+* Norman: {{l|nrf|sus}}
+
+[[Category:Old French palindromes]]
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{etyl|VL.|ro}}, {{etyl|LL.|ro}} root ''sūsum'', from {{etyl|la|ro}} {{m|la|sūrsum}}.
+
+===Adverb===
+{{ro-adv}}
+
+# [[up]]
+
+====Antonyms====
+* {{l|ro|jos}}
+
+===See also===
+* {{l|ro|deasupra}}
+* {{l|ro|peste}}
+
+[[Category:Romanian palindromes]]
+
+----
+
+==Spanish==
+
+===Pronunciation===
+* {{IPA|lang=es|/sus/}}
+
+===Adjective===
+{{head|es|adjective|g=p}}
+
+# {{plural of|su|lang=es}} [[his|His]], [[her]], [[its]], [[one's]].
+# {{lb|es|formal}} [[your|Your]].
+
+=====Related terms=====
+{{Spanish possessive adjectives}}
+
+[[Category:Spanish palindromes]]
+
+----
+
+==Turkish==
+
+===Verb===
+{{tr-verb form}}
+
+# {{inflection of|susmak||2|s|imp|lang=tr}}
+
+[[Category:Turkish palindromes]]
+
+----
+
+==West Frisian==
+
+===Etymology===
+From {{m|fy|suster}}, from {{etyl|ofs|fy}} {{m|ofs|swester}}, from {{etyl|gem-pro|fy}} {{m|gem-pro|*swestēr}}, from {{etyl|ine-pro|fy}} {{m|ine-pro|*swésōr}}. Compare Dutch {{m|nl|zuster}}, {{m|nl|zus}}, Low German {{m|nds|swester}}, English {{m|en|sister}}, German {{m|de|Schwester}}, Danish {{m|da|søster}}.
+
+===Noun===
+{{head|fy|noun|g=c|plural|sussen}}
+
+# [[sister]]
+
+{{topics|fy|Family}}
+
+[[Category:West Frisian palindromes]]
