@@ -1,0 +1,55 @@
+==English==
+{{wikipedia|dab=weirdo (disambiguation)|weirdo}}
+
+===Etymology===
+{{suffix|en|weird|o|t2=person with characteristic}}.
+
+===Pronunciation===
+{{rfp|lang=en}}
+* {{audio|en-us-weirdo.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɪə(r)dəʊ|lang=en}}
+
+===Noun===
+{{en-noun|es|weirdos}}
+
+# {{lb|en|slang}} A [[strange]], [[odd]], [[eccentric]] person.
+# {{lb|en|slang}} An [[insane]], possibly [[dangerous]] person.
+
+====Synonyms====
+* See also [[Wikisaurus:mad person]]
+
+====Derived terms====
+* {{l|en|queerdo}}
+
+====Translations====
+{{trans-top|strange person}}
+* Czech: {{t|cs|podivín|m}}
+* French: {{t+|fr|hurluberlu}}, {{t+|fr|loufoque}}, {{t+|fr|zarbi}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|Exzentriker|m}}, {{t+|de|Spinner|m}}
+* Greek: {{t+|el|παράξενος|m}}, {{t+|el|ανώμαλος|m}}
+* Hungarian: {{t+|hu|különc}}
+* Italian: {{t+|it|strambo}}
+* Japanese: {{t|ja|変な人|tr=hen na hito}}
+* Maori: {{t|mi|porowairangi}}
+{{trans-mid}}
+* Polish: {{t+|pl|dziwak|m}}
+* Portuguese: {{t+|pt|esquisito|m}}
+* Russian: {{t+|ru|чуда́к}}
+* Scottish Gaelic: {{t|gd|baoghal|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|чудак}}
+*: Roman: {{t+|sh|čudak}}
+* Spanish: {{t+|es|excéntrico|m}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|oddball}}
+* {{l|en|wingnut}}
+* {{l|en|rando}}
+* {{l|en|sicko}}
+
+===Anagrams===
+* {{anagrams|en|rowdie|wordie}}
+
+[[Category:English 2-syllable words]]
