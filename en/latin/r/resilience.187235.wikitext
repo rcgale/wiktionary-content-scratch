@@ -1,0 +1,73 @@
+{{also|résilience}}
+==English==
+
+===Etymology===
+From {{etyl|la|en}} {{m|la|resiliō||to spring back}}.
+
+===Pronunciation===
+* {{IPA|/ɹə.zɪl.ɪ.əns/|lang=en}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun|~}}
+
+# The mental ability to recover quickly from [[depression]], [[illness]] or [[misfortune]].
+# The physical property of material that can resume its shape after being [[stretched]] or [[deformed]]; [[elasticity]].
+# The positive ability of a system or company to adapt itself to the consequences of a catastrophic failure caused by power [[outage]], a fire, a bomb or similar (particularly [[IT]] systems, [[archive]]s).
+
+====Translations====
+{{trans-top|the mental ability to recover quickly from depression, illness or misfortune}}
+* Chinese:
+*: Mandarin: {{t+|cmn|彈性|sc=Hani}}
+* Dutch: {{t|nl|herstellingsvermogen}}
+* Finnish: {{t+|fi|sitkeys}}, {{t+|fi|sinnikkyys}}, {{t|fi|lannistumattomuus}}
+* French: {{t+|fr|résilience|f}}
+* German: {{t+|de|Resilienz|f}}
+* Greek: {{t|el|ψυχολογική αντοχή}}, {{t+|el|ανθεκτικότητα}}
+* Hungarian: {{t+|hu|ellenállóképesség}}, {{t|hu|stressztűrő képesség}}
+* Navajo: {{t|nv|tʼáá ałtsoní bichʼįʼ haʼahóní}}
+{{trans-mid}}
+* Norwegian: {{t|no|motstandsdyktighet|f}}
+* Polish: {{t+|pl|odporność|f}}
+* Portuguese: {{qualifier|literally}} {{t+|pt|resiliência|f}}
+* Russian: {{t+|ru|усто́йчивость|f}}
+* Spanish: {{t+|es|resiliencia|f}}
+* Swedish: {{t+|sv|elasticitet|c}}
+* Tagalog: {{t|tl|manhid}}
+* Turkish: {{t|tr|çabuk iyileşme özelliği}}
+{{trans-bottom}}
+
+{{trans-top|the physical property of material that can resume its shape after being stretched or deformed; elasticity}}
+* Dutch: {{t+|nl|veerkracht}}
+* Finnish: {{t+|fi|joustavuus}}, {{t+|fi|kimmoisuus}}
+* French: {{t+|fr|résilience|f}}
+* German: {{t+|de|Elastizität|f}}, {{t|de|elastisches Verformungsarbeitsaufnahmevermögen|n}}
+* Greek: {{t|el|επανατακτικότητα}}, {{t|el|επαναπροσαρμοστικότητα}}, {{t+|el|ελαστικότητα}}
+* Hungarian: {{t|hu|stressztűrés}}, {{t+|hu|rugalmasság}}
+* Italian: {{t+|it|resilienza|f}}
+{{trans-mid}}
+* Korean: {{t+|ko|탄성}}
+* Polish: {{t+|pl|sprężystość|f}}
+* Portuguese: {{qualifier|literally}} {{t+|pt|resiliência|f}}
+* Russian: {{t+|ru|упру́гость|f}}, {{t+|ru|ги́бкость|f}}, {{t+|ru|эласти́чность|f}}
+* Spanish: {{t+|es|resiliencia|f}}, {{t+|es|elasticidad|f}}
+* Turkish: {{t+|tr|elastikiyet}}, {{t|tr|elastiklik}}, {{t|tr|rezilyans}}, {{t+|tr|yaylanma}}, {{t+|tr|dayanıklılık}}
+{{trans-bottom}}
+
+{{trans-top|the ability of a system or company to recover from a catastrophic failure}}
+* Dutch: {{t+|nl|veerkracht}}
+* Finnish: {{t+|fi|sietokyky}}
+* German: {{t+|de|Resilienz|f}}
+{{trans-mid}}
+* Greek: {{t|el|ακαμψιμότητα}}
+* Hungarian: {{t|hu|stressztűrés}}, {{t|hu|terhelhetőség}}
+* Russian: {{t+|ru|усто́йчивость|f}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Mandarin: {{t-check|cmn|恢復力|sc=Hani}}, {{t-check|cmn|恢复力|tr=ㄏㄨㄟㄈㄨˋㄌㄧˋ, huīfùlì|sc=Hani}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Related terms====
+* {{l|en|resilient}}
