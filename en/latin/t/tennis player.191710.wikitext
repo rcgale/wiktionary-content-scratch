@@ -1,0 +1,64 @@
+==English==
+
+===Noun===
+{{en-noun}}
+
+# A person who [[play]]s tennis, especially [[professionally]].
+#* '''2014''', Luke Russell, ''Evil: A Philosophical Investigation'' (page 166)
+#*: By way of analogy, let us consider what it takes to be a good or bad '''tennis player'''. An extremely good '''tennis player''' must possess a mastery of the many different activities that are part of the game—serving, returning, and running around the court {{...}}
+
+====Translations====
+{{trans-top|a person who plays tennis}}
+* Armenian: {{qualifier|male}} {{t+|hy|թենիսիստ}}, {{qualifier|female}} {{t|hy|թենիսիստուհի}}
+* Azeri: {{t|az|tennisçi}}
+* Basque: {{t+|eu|tenislari}}
+* Belarusian: {{t|be|тэнісі́ст|m|sc=Cyrl}}, {{t|be|тэнісі́стка|f|sc=Cyrl}}
+* Bulgarian: {{t|bg|тениси́ст|m|sc=Cyrl}}, {{t|bg|тениси́стка|f|sc=Cyrl}}
+* Catalan: {{t+|ca|tennista|m|f}}, {{t+|ca|tenista|m|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|網球運動員|sc=Hani}}, {{t|cmn|网球运动员|tr=wǎngqiú yùndòngyuán|sc=Hani}}, {{t|cmn|網球員|sc=Hani}}, {{t|cmn|网球员|tr=wǎngqiúyuán|sc=Hani}}
+* Czech: {{t+|cs|tenista|m}}, {{t+|cs|tenistka|f}}
+* Danish: {{t+|da|tennisspiller|c}}
+* Dutch: {{t|nl|tennisspeler|m}}
+* Estonian: {{t|et|tennisist}}
+* Finnish: {{t+|fi|tennispelaaja}} {{qualifier|any}}; {{t|fi|[[tennis]][[ammattilainen]]}} {{qualifier|professional}}
+* French: {{t|fr|joueur de tennis|m}}, {{t+|fr|tennisman|m}}
+* Galician: {{t|gl|tenista|m|f}}
+* Georgian: {{t|ka|ჩოგბურთელი}}
+* German: {{t+|de|Tennisspieler|m}}, {{t+|de|Tennisspielerin|f}}
+* Greek: {{t+|el|τενίστας|m}}, {{t+|el|τενίστρια|f}}
+* Hungarian: {{t+|hu|teniszező}}, {{t+|hu|teniszjátékos}}
+* Italian: {{t+|it|tennista|m|f}}
+* Japanese: {{t|ja|テニス選手|tr=tenisu senshu|sc=Jpan}}
+* Kazakh: {{t|kk|теннисші|sc=Cyrl}}
+* Korean: {{t|ko|테니스선수}}
+* Kyrgyz: {{t|ky|теннисчи|sc=Cyrl}}, {{t|ky|теннисист|sc=Cyrl}}
+{{trans-mid}}
+* Latvian: {{t|lv|tenisists|m}}
+* Lithuanian: {{t|lt|tenisininkas|m}}, {{t|lt|tenisininkė|f}}
+* Macedonian: {{t|mk|тенисе́р|m}}, {{t|mk|тенисе́рка|f}}
+* Norwegian:
+*: Bokmål: {{t+|nb|tennisspiller|m}}, {{t+|nb|tennisspeller|m}}
+*: Nynorsk: {{t|nn|tennisspelar|m}}
+* Persian: {{t|fa|تنیسور|tr=tenisor|sc=fa-Arab}}
+* Polish: {{t+|pl|tenisista|m}}, {{t+|pl|tenisistka|f}}
+* Portuguese: {{t+|pt|tenista|m|f}}
+* Romanian: {{t+|ro|tenisman|m}}, {{t+|ro|tenismană|f}}
+* Russian: {{t+|ru|тенниси́ст|m|tr=tɛnnisíst}}, {{t+|ru|тенниси́стка|f|tr=tɛnnisístka}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тенисер|m}}, {{t|sh|тенисерка|f}}
+*: Roman: {{t|sh|teniser|m}}, {{t|sh|teniserka|f}}
+* Slovak: {{t|sk|tenista|m}}, {{t|sk|tenistka|f}}
+* Slovene: {{t|sl|tenisač|m}}, {{t|sl|tenisačica|f}}
+* Spanish: {{t|es|tenista|m|f}}
+* Swedish: {{t+|sv|tennisspelare|c}}
+* Tajik: {{t|tg|теннисбоз}}
+* Turkish: {{t+|tr|tenisçi}}
+* Ukrainian: {{t|uk|теніси́ст|m|sc=Cyrl}}, {{t|uk|теніси́стка|f|sc=Cyrl}}
+* Uzbek: {{t+|uz|tennischi}}, {{t|uz|tennisist}}
+* Vietnamese: {{t|vi|người chơi quần vợt}}, {{t|vi|người đánh ten-nít}}
+{{trans-bottom}}
+
+[[Category:en:Athletes]]
+[[Category:en:People]]
+[[Category:en:Tennis]]
