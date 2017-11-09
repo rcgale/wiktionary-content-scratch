@@ -1,0 +1,40 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{prefix|en|super|set}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|set theory}} ''(symbol: ''[[⊇]]'')'' With respect to another [[set]], a set such that each of the [[element]]s of the other set is also an element of the set.
+#: ''The set of [[human being]]s is a superset of the set of human [[children]].''
+#: ''The set of characters "LBPG" is a superset of the set of characters "PG".''
+# {{lb|en|weightlifting}} Two or more different physical [[exercise]]s performed [[back-to-back]], without a period of [[rest]] between them. The exercises may employ the same muscle group, or opposing muscle groups.
+#* '''2010''', Eric Velazquez, "Power Pairings", ''Reps!'' '''17''':83
+#*: While some lifters insist that '''supersets''' must consist of consecutive exercises for the same bodypart, others would bet their weight belts that '''supersets''' involve opposing bodyparts.
+
+====Antonyms====
+* {{sense|set theory}} {{l|en|subset}}
+
+====Related terms====
+* {{l|en|set}}
+
+====Translations====
+{{trans-top|set containing all elements of another set}}
+* Czech: {{t|cs|nadmnožina|f}}
+* Danish: {{t|da|overmængde|c}}
+* Estonian: {{t|et|ülemhulk}}
+* Finnish: {{t|fi|ylijoukko}}
+* French: {{t+|fr|sur-ensemble|m}}
+{{trans-mid}}
+* German: {{t|de|Übermenge|f}}, {{t+|de|Obermenge|f}}
+* Italian: {{t|it|sovrainsieme|m}}
+* Portuguese: {{t|pt|redefinição}}
+* Spanish: {{t|es|superconjunto|m}}
+{{trans-bottom}}
+
+{{trans-top|two different physical exercises performed back-to-back}}
+* Spanish: {{t|es|superserie|f}}, {{t|es|superconjunto|m}}
+{{trans-mid}}
+{{trans-bottom}}
