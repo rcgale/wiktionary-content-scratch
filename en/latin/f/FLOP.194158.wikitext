@@ -1,0 +1,10 @@
+{{also|flop|Flop}}
+==English==
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|computing}} {{l|en|floating point operation|Floating point operation}}.
+
+===See also===
+* {{l|en|FLOPS}}
