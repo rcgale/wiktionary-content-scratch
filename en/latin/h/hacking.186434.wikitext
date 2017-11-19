@@ -1,0 +1,80 @@
+{{also|Hacking}}
+==English==
+{{wikipedia|dab=hacking}}
+
+===Pronunciation===
+* {{IPA|/ˈhækɪŋ/|lang=en}}
+
+===Adjective===
+{{en-adj}}
+
+# Short and interrupted, broken, jerky; [[hacky]].
+#: ''A '''hacking''' cough. A '''hacking''' laugh. A '''hacking''' breath. A '''hacking''' cry.''<!--all four Anise will diminish the '''most hacking''' cough to where it is no longer irritating.''--><!--from Google Books-->
+#* {{RQ:Wodehouse Offing|XX|“So now everything's fine.” I uttered a '''hacking''' laugh. “No,” I said, in answer to a query from Aunt Dahlia. “I have not accidentally swallowed my tonsils, I was merely laughing hackingly. Ironical that the young blister should say that everything is fine, for at this very moment disaster stares us in the eyeball.”}}
+
+====Usage notes====
+Most non-creative [[collocation]]s are the phrases given as examples.
+
+====Derived terms====
+* {{l|en|hacking cough}}
+* {{l|en|hackingly}}
+
+====Translations====
+{{trans-top|short and interrupted, broken, jerky}}
+* Russian: {{t+|ru|надса́дный|}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|computing}} Playful solving of technical work that requires deep understanding, especially of a computer system.
+#: From ''hacker'': ''"A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular." &mdash; [http://tools.ietf.org/html/rfc1392 RFC 1392]''
+# {{lb|en|computing}} Unauthorized attempts to bypass the security mechanisms of an information system or network. See also [[cracker]].
+# {{lb|en|pathology}} A dry [[coughing]]; the emission of a succession of short coughs.
+# {{lb|en|sports|chiefly|American football|soccer|rugby}} A kick in the [[shin]]s.
+# {{lb|en|massage}} The act of striking the muscles with the side of the hand.
+# {{lb|en|UK|countable}} A riding or journey on [[horseback]]. (Plural [[hackings]].)
+# {{lb|en|obsolete}} The operation of working over the faces of rough or worn [[grindstone]]s with a hack-hammer.
+# {{lb|en|obsolete|masonry}} The separation of a course of stones into two smaller courses, when there are not enough large stones to form a single course.
+# {{lb|en|obsolete|gem-cutting}} The cuts and grooves made in the metal laps by holding the cutting edge of a steel blade against them while in motion, for the purpose of providing receptacles or pockets for the powders using in cutting and polishing gems.
+# {{lb|en|obsolete|brick-making}} The piling of bricks for drying.
+
+====Derived terms====
+* <!--UK riding-->[[hacking coat]], [[hacking jacket]], [[hacking-seat]]
+* {{l|en|hacking run}}
+
+===Verb===
+{{head|en|present participle}}
+
+# {{present participle of|hack|lang=en|nocat=1}}
+
+===See also===
+* {{l|en|pirate}}
+
+===References===
+* {{R:Century 1911}} (Vol. IV, p. 2675–2676; supplement Vol. XI, p. 559)
+* “hacking” in ''Harrap's Shorter'', 2006, p. 416
+* “hacking” in ''Concise English Dictionary'', Wordsworth, 2007, p. [http://books.google.com/books?id=qYHPuEwaBswC&pg=PA405 405]
+* “[http://www.wordnik.com/words/hacking hacking]” at Wordnik
+
+===Anagrams===
+* {{anagrams|en|ka-ching|kaching}}
+
+----
+
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# [[#English|hacking]]
+
+----
+
+==Spanish==
+
+===Noun===
+{{es-noun|m|-}}
+
+# {{lb|es|computing}} {{l|en|hacking}}
