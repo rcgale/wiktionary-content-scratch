@@ -1,0 +1,123 @@
+==English==
+
+===Alternative forms===
+* {{l|en|reckin}} {{qualifier|dialectal}}
+* {{l|en|recken}} {{qualifier|obsolete}}
+
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|rekenen}}, from {{etyl|ang|en}} {{m|ang|recenian||to pay; arrange, dispose, reckon}} and {{m|ang|ġerecenian||to explain, recount, relate}}; both from {{etyl|gem-pro|en}} {{m|gem-pro|*rekanōną||to count, explain}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rekanaz||swift, ready, prompt}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*h₃reǵ-}}.
+
+Cognate with {{cog|sco|rekkin||to ennumerate, mention, narrate, rehearse, count, calculate, compute}}, {{cog|fy|rekkenje||to account, tally, calculate, figure}}, {{cog|nl|rekenen||to count, calculate, reckon}}, {{cog|nds|rekenen||to reckon}}, {{cog|de|rechnen||to count, reckon, calculate}}, {{cog|sv|räkna||to count, calculate, reckon}}, {{cog|is|reikna||to calculate}}. See also {{l|en|reck}}, {{l|en|reach}}.
+
+===Pronunciation===
+* {{IPA|/ˈɹɛkən/|lang=en}}
+* {{audio|en-us-reckon.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɛkən|lang=en}}
+
+===Verb===
+{{en-verb}}
+
+# To count; to enumerate; to number; also, to compute; to calculate.
+#* ...then the priest shall '''reckon''' unto him the money according to the years that remain... --''Lev. 27:18, King James Version''.
+#: I '''reckoned''' above two hundred and fifty on the outside of the church. [[w:Joseph Addison|Joseph Addison]].
+# To count as in a number, rank, or series; to estimate by rank or quality; to place by estimation; to account; to esteem; to repute.
+#* He was '''reckoned''' among the transgressors. ''Luke 23:37, King James Version''
+#* For him I '''reckon''' not in high estate. [[w:John Milton|John Milton]].
+# To charge, attribute, or adjudge to one, as having a certain quality or value.
+#* ...faith was '''reckoned''' to Abraham for righteousness. Romans 4:9, King James Version.
+#* Without her eccentricities being '''reckoned''' to her for a crime. [[w:Nathaniel Hawthorne|Nathaniel Hawthorne]].
+# To conclude, as by an enumeration and balancing of chances; hence, to [[think]]; to [[suppose]]; -- followed by an objective clause;
+#* For I '''reckon''' that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. --''Romans 8:18, King James Version.''
+#* Likewise '''reckon''' ye also yourselves to be dead indeed unto sin... --''Romans 6:11, King James Version''
+#* I '''reckon''' he won't try that again.
+# {{lb|en|intransitive}} To make an enumeration or computation; to engage in numbering or computing.
+# To come to an accounting; to make up accounts; to [[settle]]; to examine and strike the balance of debt and credit; to adjust relations of desert or penalty.
+#* Parfay," sayst thou, sometime he '''reckon''' shall." [[w:Chaucer|Chaucer]].
+
+====Synonyms====
+* {{l|en|number}}
+* {{l|en|enumerate}}
+* {{l|en|compute}}
+* {{l|en|calculate}}
+* {{l|en|estimate}}
+* {{l|en|value}}
+* {{l|en|esteem}}
+* {{l|en|account}}
+* {{l|en|repute}}
+
+====Derived terms====
+{{der-top}}
+* {{l|en|reckon for}}
+* {{l|en|reckon on}}, {{l|en|reckon upon}}
+{{der-mid}}
+* {{l|en|reckon with}}
+* {{l|en|reckon without}}
+{{der-bottom}}
+
+====Translations====
+{{trans-top|to count; to enumerate; to number; also, to compute; to calculate}}
+* Burmese: {{t+|my|တွက်|tr=twet|sc=Mymr}}
+* French: {{t+|fr|compter}}, {{t+|fr|calculer}}
+* German: {{t+|de|berechnen}}, {{t+|de|errechnen}}, {{t+|de|rechnen}}, {{t+|de|ausrechnen}}, {{t+|de|zusammenrechnen}}
+* Portuguese: {{t+|pt|contar}}, {{t+|pt|calcular}}
+{{trans-mid}}
+* Romanian: {{t+|ro|calcula}}, {{t+|ro|socoti}}
+* Russian: {{t+|ru|счита́ть}}, {{t+|ru|подсчи́тывать}}
+* Serbo-Croatian: {{t+|sh|izračunati}}
+* Spanish: {{t+|es|contar}}, {{t+|es|calcular}}, {{t+|es|censar}}
+{{trans-bottom}}
+
+{{trans-top|to count as in a number, rank, or series; to estimate by rank or quality; to place by estimation}}
+* French: {{t+|fr|compter}}, {{t+|fr|estimer}}
+* German: {{t|de|abschätzen}}, {{t+|de|kalkulieren}}
+* Portuguese: {{t+|pt|estimar}}
+{{trans-mid}}
+* Russian: {{t+|ru|счита́ть}}
+* Spanish: {{t+|es|contar}}
+{{trans-bottom}}
+
+{{trans-top|to charge, attribute, or adjudge to one, as having a certain quality or value}}
+* Mongolian: {{t+|mn|үзэх|sc=Cyrl}}
+* Portuguese: {{t+|pt|julgar}}, {{t+|pt|considerar}}
+{{trans-mid}}
+* Spanish: {{t+|es|atribuir}}, {{t+|es|adjudicar}}
+{{trans-bottom}}
+
+{{trans-top|to conclude, as by an enumeration and balancing of chances; hence, to think; to suppose}}
+* Dutch: {{t+|nl|veronderstellen}}
+* French: {{t+|fr|estimer}}, {{t+|fr|considérer}}
+* German: {{t+|de|schätzen}}, {{t+|de|vermuten}}, {{t+|de|mutmaßen}}, {{t|de|rechnen mit}}
+* Mongolian: {{t+|mn|үзэх|sc=Cyrl}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|concluir}}, {{t+|pt|considerar}}
+* Russian: {{t+|ru|полага́ть}}, {{t+|ru|счита́ть}}
+* Spanish: {{t+|es|suponer}}, {{t+|es|concluir}}, {{t+|es|tantear}}, {{t+|es|estimar}}
+{{trans-bottom}}
+
+{{trans-top|to make an enumeration or computation; to engage in numbering or computing}}
+* Spanish: {{t+|es|calcular}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to come to an accounting; to make up accounts; to settle}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{t-check|nl|rekenen tot}}
+* Korean: {{t+check|ko|헤아리다|sc=Kore}}
+{{trans-mid}}
+* Nahuatl: {{t-check|nah|tlapoalli}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|calculate}}
+* {{l|en|guess}}
+
+===References===
+* {{R:Webster 1913}}
+
+===Anagrams===
+* {{anagrams|en|conker}}
+
+[[Category:English reporting verbs]]
