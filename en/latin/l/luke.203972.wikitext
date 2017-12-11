@@ -1,0 +1,77 @@
+{{also|Luke|lûke|lǚkè}}
+==English==
+
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|luke}}, {{m|enm|leuke}}, {{m|enm|lewke||lukewarm, tepid}}, from an unexplained variant or extension of {{etyl|enm|en}} {{m|enm|lewe||warm, lukewarm, tepid}}, from {{etyl|ang|en}} {{m|ang|hlēow||warm}}, perhaps due to confusion with {{etyl|ang|en}} {{m|ang|wlæc||tepid, lukewarm, cool}}.
+
+===Pronunciation===
+* {{IPA|/luːk/|lang=en}}
+* {{rhymes|uːk|lang=en}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|British|archaic}} [[lukewarm]]
+#* '''1836''', Charles Dickens, ''The Pickwick Papers''
+#*: Let me have nine penn'orth o' brandy and water '''luke''', and the inkstand, will you, miss?
+
+===Anagrams===
+* {{anagrams|en|leku|leuk-}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+Related to the verb {{m|nb|lukke}}
+
+===Noun===
+{{nb-noun-c}}
+
+# a small {{l|en|door}} {{qualifier|including on an Advent calendar}}
+# a {{l|en|hatch}}
+# a {{l|en|window}} {{qualifier|e.g. ticket window}}
+# a {{l|en|gap}}, {{l|en|space}}, {{l|en|slot}}, {{l|en|opening}}
+
+====Derived terms====
+* {{l|nb|bakluke}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology===
+Related to the verb {{m|nb|lukke}}
+
+===Noun===
+{{nn-noun-f2}}
+
+# a small {{l|en|door}} {{qualifier|including on an Advent calendar}}
+# a {{l|en|hatch}}
+# a {{l|en|window}} {{qualifier|e.g. ticket window}}
+# a {{l|en|gap}}, {{l|en|space}}, {{l|en|slot}}, {{l|en|opening}}
+
+====Derived terms====
+* {{l|nn|bakluke}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
+
+==Scots==
+
+===Noun===
+{{sco-noun}}
+
+# A [[look]].
+# An [[examination]], [[inspection]].
+
+===Verb===
+{{sco-verb|lukes|lukin|lukit|lukit}}
+
+# To [[look]].
+# To [[examine]], [[inspect]].
