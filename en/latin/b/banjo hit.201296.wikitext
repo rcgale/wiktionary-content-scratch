@@ -1,0 +1,12 @@
+==English==
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|baseball}} A weakly hit [[fly ball]] which goes just over the infielders.
+
+====Synonyms====
+* {{l|en|blooper}}
+
+====Related terms====
+* {{l|en|banjo hitter}}
