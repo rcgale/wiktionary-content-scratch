@@ -1,0 +1,18 @@
+==German==
+
+===Noun===
+{{de-noun|m|Zentimeters|Zentimeter}}
+
+# [[centimetre]]
+
+====Abbreviations====
+* [[cm]]
+
+====Related terms====
+* {{l|de|Meter}}
+* {{l|de|Dezimeter}}
+* {{l|de|Kilometer}}
+* {{l|de|Millimeter}}
+
+===Further reading===
+* {{R:Duden}}
