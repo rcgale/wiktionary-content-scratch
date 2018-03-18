@@ -1,0 +1,297 @@
+{{also|SOTA|sõta|söta}}
+==Catalan==
+
+===Etymology===
+Ultimately from {{etyl|la|ca}} {{m|la|subtus}}.
+
+===Pronunciation===
+* {{ca-IPA|ó}}
+
+===Preposition===
+{{head|ca|preposition}}
+
+# [[under]], [[underneath]], [[below]], [[beneath]]
+
+===Adverb===
+{{ca-adv}}
+
+# [[below]], [[beneath]], [[underneath]]
+
+====Further reading====
+* {{R:IEC2}}
+
+----
+
+==Finnish==
+
+===Etymology===
+From {{inh|fi|fiu-fin-pro|*sota}}, From {{inh|fi|urj-pro|*śoďa}}. Cognate with Estonian {{m|et|sõda}}, [[Inari Sami]] {{m|smn|soati}}, [[Northern Sami]] {{m|se|soahti}}, [[Livonian]] {{m|liv|soda}}, [[Veps]] {{m|vep|soda}}, [[Võro]] {{m|vro|sõda}}.
+
+===Noun===
+{{fi-noun}}
+
+# [[war]]
+# [[warfare]]
+#* ''asemasota'' = [[trench warfare]]
+# {{qualifier|as modifier in compound terms}} [[military]], [[war|war-]]
+
+====Declension====
+{{fi-decl-koira|so|t|d|a}}
+
+====Synonyms====
+* {{sense|warfare}} {{l|fi|sodankäynti}}
+* {{sense|military}} {{l|fi|sotilas}}-
+
+====Derived terms====
+{{top4}}
+* {{l|fi|sotainen}}
+* {{l|fi|sotaisa}}
+* {{l|fi|sotaisasti}}
+{{mid4}}
+* {{l|fi|sotaisesti}}
+* {{l|fi|sotaisuus}}
+{{mid4}}
+* {{l|fi|sotasilla}}
+* {{l|fi|sotasille}}
+{{mid4}}
+* {{l|fi|sotia}}
+* {{l|fi|sotilas}}
+{{bottom}}
+
+====Compounds====
+{{top4}}
+* [[asemasota]]
+* [[hyökkäyssota]]
+* [[jatkosota]]
+* [[kansalaissota]]
+* [[maailmansota]]
+* [[piirityssota]]
+* [[puolustussota]]
+* [[pyhä sota]]
+* [[rintamasota]]
+* [[rottasota]]
+* [[sissisota]]
+* [[sisällissota]]
+* [[sodanaikainen]]
+* [[sodanjohto]]
+* [[sodanjulistus]]
+* [[sodanjumala]]
+* [[sodanjumalatar]]
+* [[sodanjälkeinen]]
+* [[sodankäynti]]
+* [[sodanlietsoja]]
+* [[sodanuhka]]
+* [[sodanvaara]]
+* [[sodanvastainen]]
+* [[sota-aika]]
+* [[sota-aikainen]]
+* [[sota-alus]]
+* [[sota-asiakirja]]
+* [[sotaakäyvä]]
+* [[sotadokumentti]]
+* [[sotaelokuva]]
+* [[sotaharjoitus]]
+* [[sotaherra]]
+* [[sotahistoria]]
+* [[sotahullu]]
+* [[sotahuuto]]
+* [[sotahysteria]]
+* [[sotaintoinen]]
+* [[sotainvalidi]]
+* [[sotajalka]]
+* [[sotajoukko]]
+* [[sotajuoni]]
+* [[sotajuttu]]
+* [[sotakalusto]]
+{{mid4}}
+* [[sotakassa]]
+* [[sotakirja]]
+* [[sotakirjailija]]
+* [[sotakirjallisuus]]
+* [[sotakirjeenvaihtaja]]
+* [[sotakirves]]
+* [[sotakoira]]
+* [[sotakomissaari]]
+* [[sotakomissariaatti]]
+* [[sotakone]]
+* [[sotakoneisto]]
+* [[sotakorkeakoulu]]
+* [[sotakorvaus]]
+* [[sotakoulu]]
+* [[sotalaina]]
+* [[sotalaitos]]
+* [[sotalaiva]]
+* [[sotalaivasto]]
+* [[sotalaki]]
+* [[sotalapsi]]
+* [[sotaleikki]]
+* [[sotalelu]]
+* [[sotaleski]]
+* [[sotaliike]]
+* [[sotalippu]]
+* [[sotamaalaus]]
+* [[sotamarsalkka]]
+* [[sotamateriaali]]
+* [[sotamestari]]
+* [[sotamiehenotto]]
+* [[sotamies]]
+* [[sotaministeri]]
+* [[sotaministeriö]]
+* [[sotamorsian]]
+* [[sotamuisto]]
+* [[sotanäyttämö]]
+* [[sotaoikeus]]
+* [[sotaonni]]
+* [[sotaoppi]]
+* [[sotaorpo]]
+* [[sotapakolainen]]
+* [[sotapalvelus]]
+{{mid4}}
+* [[sotapeli]]
+* [[sotapoika]]
+* [[sotapoliisi]]
+* [[sotapolitiikka]]
+* [[sotapolku]]
+* [[sotapotentiaali]]
+* [[sotapropaganda]]
+* [[sotapsykoosi]]
+* [[sotapäiväkirja]]
+* [[sotapäähine]]
+* [[sotapäällikkyys]]
+* [[sotapäällikkö]]
+* [[sotaraportti]]
+* [[sotarasitus]]
+* [[sotaratsu]]
+* [[sotaretki]]
+* [[sotarikollinen]]
+* [[sotarikos]]
+* [[sotarikostuomioistuin]]
+* [[sotarintama]]
+* [[sotaromaani]]
+* [[sotaruno]]
+* [[sotasaalis]]
+* [[sotasairaala]]
+* [[sotasalaisuus]]
+* [[sotasankari]]
+* [[sotasatama]]
+* [[sotaseikkailija]]
+* [[sotaseikkailu]]
+* [[sotasensuuri]]
+* [[sotasiirtolainen]]
+* [[sotasokea]]
+* [[sotasuunnitelma]]
+* [[sotasyyllinen]]
+* [[sotasyyllisyys]]
+* [[sotasyyllisyysoikeudenkäynti]]
+* [[sotataidollinen]]
+* [[sotataito]]
+* [[sotatalous]]
+* [[sotatanner]]
+* [[sotatanssi]]
+* [[sotatantere]]
+{{mid4}}
+* [[sotatapahtuma]]
+* [[sotatarvike]]
+* [[sotatarviketeollisuus]]
+* [[sotatekniikka]]
+* [[sotatekninen]]
+* [[sotateollisuus]]
+* [[sotateoreetikko]]
+* [[sotatiede]]
+* [[sotatieteellinen]]
+* [[sotatila]]
+* [[sotatilalaki]]
+* [[sotatoimi]]
+* [[sotatoimialue]]
+* [[sotatoimiyhtymä]]
+* [[sotatoimiyksikkö]]
+* [[sotatuomari]]
+* [[sotatuomioistuin]]
+* [[sotauutinen]]
+* [[sotavahinko]]
+* [[sotavahvuinen]]
+* [[sotavahvuus]]
+* [[sotavalmistelut]]
+* [[sotavalmius]]
+* [[sotavamma]]
+* [[sotavammainen]]
+* [[sotavankeus]]
+* [[sotavanki]]
+* [[sotavankileiri]]
+* [[sotavarustelu]]
+* [[sotavarustus]]
+* [[sotavaunut]]
+* [[sotaveteraani]]
+* [[sotavoimat]]
+* [[sotavuosi]]
+* [[sotaväenosasto]]
+* [[sotaväenotto]]
+* [[sotaväki]]
+* [[sotaväsymys]]
+* [[sotisopa]]
+* [[suursota]]
+* [[talvisota]]
+* [[tyynysota]]
+* [[vapaussota]]
+{{bottom}}
+
+===Anagrams===
+* {{anagrams|fi|Atso|osat|osta|otsa|sato|stoa|taos|taso|tosa}}
+
+----
+
+==Ingrian==
+
+===Noun===
+{{head|izh|noun}}
+
+# [[war]]
+
+----
+
+==Ladin==
+
+===Adverb===
+{{head|lld|adverb}}
+
+# {{alternative form of|sot|lang=lld}}
+
+----
+==Pali==
+
+===Alternative forms===
+{{pi-alt}}
+
+===Etymology 1===
+From {{inh|pi|sa|श्रोत्र}}.
+
+===Noun===
+{{pi-noun|n}}
+
+# [[ear]]
+
+===Etymology 2===
+From {{inh|pi|sa|स्रोतस्}}, from {{inh|pi|iir-pro|*sráwtas}}, from {{inh|pi|ine-pro|*srew-||to flow}}.
+
+===Noun===
+{{pi-noun|n}}
+
+# [[current]]
+# [[flood]]
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{der|es|la|subtus||below}}, which is derived from Latin {{m|la|sub}}. Cognate to French {{m|fr|sous}} and Italian {{m|it|sotto}}.
+
+===Noun===
+{{es-noun|f}}
+
+# {{lb|es|card games}} [[jack]], [[knave]]
+# insolent [[woman]]
+# {{lb|es|archaic}} [[hussy]]; [[harlot]]
+
+===See also===
+{{table:playing cards/es}}
