@@ -1,0 +1,15 @@
+{{also|los|Los|LOS|lös|loš|-los|los'|Appendix:Variations of "los"}}
+==Swedish==
+
+===Etymology===
+Compare {{cog|is|-laus}}.
+
+===Suffix===
+{{head|sv|suffix}}
+
+# Added on a noun to yield an adjective denoting a lack of. Compare English ''[[-less]]''.
+#: ''[[tyngd]]'' -> [[tyngdlös]]
+#: ''[[ljud]]'' -> [[ljudlös]]
+
+====Derived terms====
+{{suffixsee|sv}}
