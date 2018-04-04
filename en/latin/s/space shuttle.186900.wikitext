@@ -1,0 +1,71 @@
+{{also|Space Shuttle}}
+==English==
+
+===Noun===
+{{en-noun}}
+
+# Any [[vehicle]] capable of travelling repeatedly between the [[Earth]]'s [[surface]] and [[outer space]] carrying [[people]] or [[cargo]].
+# Any vehicle capable of repeatedly travelling between destinations in outer space carrying people or cargo.
+
+====Hyponyms====
+* {{l|en|Space Shuttle}}
+
+====Translations====
+{{trans-top|vehicle capable of travelling repeatedly btw Earth and outer space}}
+* Afrikaans: {{t|af|ruimtependeltuig}}
+* Arabic: {{t|ar|مَكُوك فَضَاء|m}}
+* Breton: {{t|br|egorvulzun|f}}, egorvulzunoù {{g|p}}
+* Bulgarian: {{t+|bg|сова́лка|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|航天飛機|sc=Hani}}, {{t+|cmn|航天飞机|tr=hángtiān fēijī|sc=Hani}}
+* Czech: {{t+|cs|raketoplán|m}}
+* Danish: {{t|da|rumfærge}}
+* Dutch: {{t+|nl|ruimteveer|n}}, {{t|nl|space shuttle|m}}
+* Esperanto: {{t|eo|kosmopramo}}
+* Estonian: {{t|et|kosmosesüstik}}
+* Faroese: {{t|fo|rúmdarferja}}
+* Finnish: {{t+|fi|avaruussukkula}}
+* French: {{t+|fr|navette spatiale|f}}
+* German: {{t|de|Space Shuttle|n}}, {{t+|de|Raumfähre|f}}, {{t+|de|Weltraumfähre|f}}
+* Greek: {{t|el|διαστημικό λεωφορείο|n}}
+* Hebrew: {{t+|he|מעבורת חלל|tr=ma‘boret khalal}}
+* Hindi: {{t|hi|अंतरिक्ष यान|sc=Deva}}
+* Hungarian: {{t|hu|űrsikló}}, {{t+|hu|űrrepülőgép}}
+* Icelandic: {{t+|is|geimflaug|f}}
+* Japanese: {{t|ja|スペースシャトル|tr=supēsu shatoru}}
+* Javanese: {{t|jv|pesawat ulang-alik}}
+* Korean: {{t|ko|우주왕복선}} ({{t|ko|宇宙往復船}})
+* Kurdish: {{t+|ku|mekok}}
+* Lao: {{t|lo|ກະສວຍອາວະກາດ|sc=Laoo}}
+* Limburgish: {{t|li|ruimteveer}}
+* Low German:
+*: German Low German: {{t|nds-de|Ruumfähr}}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|Raumfär}}
+* Malagasy: {{t+|mg|sambon-danitra}}
+* Maori: {{t|mi|waka kōpiko tuarangi}}
+* Navajo: {{t|nv|yágháhoníkáángóó ałánátʼahí}}
+* Norwegian: {{t|no|romferge}}
+*: Nynorsk: {{t|nn|romferje}}
+* Persian: {{t|fa|شاتل فضایی|tr=šâtel-e fazâyi|sc=fa-Arab}}
+* Polish: {{t|pl|prom kosmiczny|m}}
+* Portuguese: {{t+|pt|ônibus espacial|m}}
+* Russian: {{t|ru|многора́зовый тра́нспортный косми́ческий кора́бль|m}}, {{t|ru|МТКК|m}}, {{t|ru|косми́ческий челно́к|m}}, {{t|ru|спейс шаттл|m|tr=spɛjs šattl}}, {{t+|ru|шаттл|m}}
+* Saterland Frisian: {{t|stq|Ruumtefeer}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|спејс шатл|m}}
+*: Roman: {{t|sh|spejs šatl|m}}
+* Sinhalese: {{t|si|අභ්‍යවකාශ ෂටල|sc=Sinh}}
+* Slovak: {{t|sk|raketoplán|m}}
+* Spanish: {{t|es|transbordador espacial|m}}
+* Swedish: {{t|sv|rymdfärja|c}}
+* Tagalog: {{t|tl|pangkalawakan}}
+* Tamil: {{t|ta|விண்ணோடம்|sc=Taml}}
+* Thai: {{t|th|กระสวยอวกาศ|tr=gràsŭay àwágàat}}
+* Turkish: {{t+|tr|uzay mekiği}}
+* Uyghur: {{t|ug|ئالەم ئايرۇپىلانى|sc=ug-Arab}}
+* Uzbek: {{t|uz|fazoviy moki}}
+* Vietnamese: {{t|vi|tàu con thoi}}, {{t|vi|tàu con thoi}}
+* Welsh: {{t|cy|gwennol ofod|f}}
+* Yoruba: {{t|yo|ọkọ̀-àlọbọ̀ òfurufú}}
+{{trans-bottom}}
