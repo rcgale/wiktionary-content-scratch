@@ -1,0 +1,76 @@
+==English==
+
+===Etymology===
+From {{etyl|la|en}} {{m|la|prōsecūtus}}, perfect participle of {{m|la|prōsequor}}. Compare {{m|en|persecute}}.
+
+===Verb===
+{{en-verb|prosecut}}
+
+# {{lb|en|transitive|legal}} To [[start]] [[criminal]] [[proceeding]]s against.
+#: ''to '''prosecute''' a man for trespass, or for a riot''
+#* Milton
+#*: To acquit themselves and '''prosecute''' their foes.
+# {{lb|en|transitive|legal}} To [[charge]], [[try]].
+#* '''1959''', William S. Burroughs, ''Naked Lunch'', page 9
+#*: The Vigilante is '''prosecuted''' in Federal Court under a lynch bill and winds up in a Federal Nut House specially designed for the containment of ghosts {{...}}
+# To seek to obtain by legal process.
+#: ''to '''prosecute''' a right or a claim in a court of law''
+# {{lb|en|transitive}} To [[pursue]] something to the [[end]].
+#: ''to '''prosecute''' a scheme, hope, or claim''
+#* Shakespeare
+#*: I am beloved of beauteous Hermia; / Why should not I, then, '''prosecute''' my right?
+
+====Derived terms====
+* {{l|en|prosecutable}}
+
+====Related terms====
+* {{l|en|nolle prosequi}}
+* {{l|en|persecute}}
+* {{l|en|prosecution}}
+* {{l|en|prosecutor}}
+* {{l|en|sequence}}
+
+====Translations====
+{{trans-top|To start civil or criminal proceedings against}}
+* Chinese:
+*: Mandarin: {{t+|cmn|起訴|tr=qǐsù}}, {{t+|cmn|起诉}}
+* Finnish: [[nostaa syyte]]
+* French: {{t|fr|poursuivre en justice}}
+* German: [[strafrechtlich]] [[verfolgen]] {{qualifier|law}}, {{t+|de|gerichtlich}} [[belangen]] {{qualifier|law}}, {{t+|de|belangen}}
+{{trans-mid}}
+* Japanese: {{t|ja|[[起訴]]する|tr=きそ-する, kiso-suru}}
+* Maori: {{t|mi|hāmene }}
+* Norman: {{t|nrf|poursuivre}}
+* Russian: {{t+|ru|пресле́довать|impf}}
+{{trans-bottom}}
+
+{{trans-top|To charge, try}}
+* Finnish: {{t+|fi|syyttää}}
+* German: {{t+|de|anklagen}}, {{t+|de|bestrafen}}, {{t|de|vor Gericht stellen}}
+{{trans-mid}}
+* Scottish Gaelic: {{t|gd|tagair}}
+{{trans-bottom}}
+
+{{trans-top|To pursue something to the end}}
+* Catalan: {{t+|ca|perseguir}}
+* German: {{t+|de|betreiben}}, {{t+|de|verfolgen}}
+{{trans-mid}}
+* Maori: {{t|mi|makawe}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|creeps out}}
+
+----
+
+==Latin==
+
+===Participle===
+{{la-part-form|prōsecūte}}
+
+# {{inflection of|prōsecūtus||voc|m|s|lang=la}}
+hello kitty
