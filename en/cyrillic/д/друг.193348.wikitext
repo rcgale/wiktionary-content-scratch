@@ -1,0 +1,193 @@
+==Belarusian==
+
+===Etymology===
+From {{inh|be|sla-pro|*drugъ}}, from {{inh|be|ine-pro|*dʰrowgʰos}}.
+
+===Noun===
+{{be-noun|g=m|head=друг|a=a}}
+
+# [[friend]]
+
+====Usage notes====
+This word has a vocative form: '''дру́жа'''.
+
+====Synonyms====
+* {{l|be|пры́яцель}}
+* {{l|be|ся́бар}}
+
+----
+
+==Bulgarian==
+
+===Pronunciation===
+* {{IPA|/druk/|lang=bg}}
+
+===Adjective===
+{{head|bg|adjective|g=m|sc=Cyrl|tr=drug}}
+
+# [[other]], [[another]], [[else]]
+# [[different]], [[new]]
+#: '''''друга''' версия - another/different version''
+#: ''Това е съвсем '''друга''' тема. - That's quite a different matter.''
+# [[opposite]], [[reverse]], [[other]]
+#: ''на '''другата''' страна на листа - on the other/reverse side of the page''
+#: ''на '''другата''' страна на стената - on the other side of the wall''
+# [[next]], [[following]]
+#: '''''другата''' седмица - next week, the coming week''
+#: ''на '''другия''' ден - on the next/following day
+
+====Inflection====
+{{bg-decl-adj}}
+
+====Synonyms====
+* {{sense|different}} {{l|bg|разли́чен}}
+* {{sense|opposite}} {{l|bg|противоположен}}, {{l|bg|обратен}}
+* {{sense|next}} {{l|bg|следващ}}, {{l|bg|иден}}
+
+----
+
+==Macedonian==
+
+===Determiner===
+{{head|mk|determiner}}
+
+# [[other]]
+
+====Inflection====
+{{mk-decl-adj|друг}}
+
+----
+
+==Russian==
+
+===Alternative forms===
+* {{l|ru|другъ}} {{ru-PRO}}
+
+===Pronunciation===
+* {{ru-IPA}}
+* {{audio|Ru-друг.ogg|Audio|lang=ru}}
+
+===Etymology 1===
+{{PIE root|ru|dʰrewgʰ|id=serve}}
+From {{inh|ru|sla-pro|*drugъ}}, from {{inh|ru|ine-pro|*dʰrowgʰos}}. Cognate with {{cog|lt|draũgas||friend}}, {{cog|got|𐌲𐌰𐌳𐍂𐌰𐌿𐌷𐍄𐍃||warrior}} and {{cog|ang|drihten}}.
+
+====Noun====
+{{ru-noun+|c||-ья(2)|друз|voc=дру́же|a=an|f=подру́га}}
+
+# close [[friend]]
+#: {{uxi|ru|[[я|Я]] [[хотеть|хочу́]] [[име́ть]] '''друзе́й'''.|I want to have friends.}}
+#:* {{uxi|ru|[[бли́зкий]] '''друг'''|close friend}}
+#:* {{uxi|ru|[[стари́нный]] '''друг'''|very old friend}}
+#:* {{uxi|ru|'''друг''' [[дом|до́ма]]|friend of the family}}
+#:* {{uxi|ru|'''друг''' [[детство|де́тства]]|childhood friend}}
+
+=====Declension=====
+{{ru-noun-table|c||-ья(2)|друз|voc=дру́же|a=an}}
+
+=====Synonyms=====
+* {{l|ru|прия́тель}}
+* {{l|ru|това́рищ}}
+* {{l|ru|френд|tr=frɛnd}} {{qualifier|slang, in social networks or neologism}}
+* {{l|ru|ко́реш}} {{qualifier|slang, especially criminal}}
+
+=====Antonyms=====
+* {{l|ru|враг}}
+
+=====Related terms=====
+{{rel3|lang=ru|{{l|ru|дру́жба||friendship}}
+|{{l|ru|дру́жеский}}
+|{{l|ru|дру́жественный||amiable, friendly}}
+|{{l|ru|дру́жный||friendly, amicable, personable; harmonious, concurrent, unanimous}}
+|{{l|ru|подру́га||female friend}}}}
+
+===Etymology 2===
+Originally, '''друг''' was the predicative (short) form of [[другой]] (“another”).
+
+====Noun====
+{{ru-noun|друг|m-an|дру́га|-}}
+
+# {{qualifier|in pairs}} [[other]], [[another]]
+#:* {{uxi|ru|[[друг в дру́га]]|t=[[one another]]; [[each other]]}}
+#:* {{uxi|ru|[[друг дру́га]]|t=[[one another]]; [[each other]]}}
+#:* {{uxi|ru|[[друг дру́гу]]|t=to one another; to each other}}
+#:* {{uxi|ru|[[друг за дру́гом]]|t=one after another; in [[single file]]}}
+#:* {{uxi|ru|[[друг к дру́гу]]|t=to each other}}
+#:* {{uxi|ru|[[друг на дру́га]]|t=against each other}}
+#:* {{uxi|ru|[[друг от дру́га]]|t=one from another}}
+#:* {{uxi|ru|[[друг под дру́га]]|t=toward each other}}
+#:* {{uxi|ru|[[друг про́тив дру́га]]|t=face to face; [[vis-à-vis]]}}
+#:* {{uxi|ru|[[друг с дру́гом]]|t=with each other}}
+#:* {{uxi|ru|[[друг у дру́га]]|t=at one another; from one another}}
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{inh|sh|sla-pro|*drugъ}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*dʰrowgʰos}}.
+
+===Pronunciation===
+* {{IPA|/drûːɡ/|lang=sh}}
+
+===Noun===
+{{sh-noun|g=m|head=друг}}
+
+# [[friend]]
+# [[comrade]]
+
+====Declension====
+{{sh-decl-noun|sc=Cyrl
+|друг|[[другови]] / [[друзи]]
+|друга|[[другова]] / [[друга]]
+|другу|[[друговима]] / [[друзима]]
+|друга|[[другове]] / [[друге]]
+|друже|[[другови]] / [[друзи]]
+|другу|[[друговима]] / [[друзима]]
+|другом|[[друговима]] / [[друзима]]
+}}
+
+====Synonyms====
+* {{l|sh|sc=Cyrl|при̏јатељ}}
+
+====Derived terms====
+{{top2}}
+* {{l|sh|sc=Cyrl|дру́га}}
+* {{l|sh|sc=Cyrl|дру̀га̄р}}
+* {{l|sh|sc=Cyrl|друго̀вати}}
+* {{l|sh|sc=Cyrl|дру̀шкан}}
+* {{l|sh|sc=Cyrl|дру́штво}}
+* {{l|sh|sc=Cyrl|дру̀жба}}
+{{mid2}}
+* {{l|sh|sc=Cyrl|дру̏жбенӣк}}
+* {{l|sh|sc=Cyrl|дружељу̀бив}}
+* {{l|sh|sc=Cyrl|дру̀жица}}
+* {{l|sh|sc=Cyrl|дру̀жина}}
+* {{l|sh|sc=Cyrl|дру́жити}}
+{{bottom}}
+
+====Related terms====
+* {{l|sh|sc=Cyrl|друга̀рица}}
+* {{l|sh|sc=Cyrl|дру́га}}
+* {{l|sh|sc=Cyrl|дру̀жица}}
+
+----
+
+==Ukrainian==
+
+===Etymology===
+From {{inh|uk|sla-pro|*drugъ}}, from {{etyl|ine-pro|uk}} {{m|ine-pro|*dʰrowgʰos}}.
+
+===Pronunciation===
+* {{uk-IPA|друг}}
+* {{audio|Uk-друг.ogg|Audio|lang=uk}}
+
+===Noun===
+{{uk-noun|друг|m-an|дру́га|дру́зі|f=подру́га}}
+
+# {{l|en|friend}}, {{l|en|companion}}
+
+====Declension====
+{{uk-decl-noun|друг|дру́зі|дру́га|дру́зів|[[дру́гові]], [[дру́гу]]|дру́зям|дру́га|дру́зів|дру́гом|дру́зями|[[дру́гові]], [[дру́гу]]|дру́зях|дру́же|дру́зі}}
+
+===References===
+* {{R:uk:SUM-11}}
