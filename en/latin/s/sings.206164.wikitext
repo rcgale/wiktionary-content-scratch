@@ -1,0 +1,20 @@
+==English==
+
+===Pronunciation===
+* {{enPR|sĭngz}}, {{IPA|/sɪŋz/|lang=en}}
+* {{a|US}} {{IPA|/sɪ̝ŋz/|lang=en}}
+* {{rhymes|ɪŋz|lang=en}}
+* {{audio|en-us-sings.ogg|Audio (US)|lang=en}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-third-person singular of|sing}}
+
+===Noun===
+{{head|en|noun plural form}}
+
+# {{plural of|sing|lang=en}}
+
+===Anagrams===
+* {{anagrams|en|signs|snigs}}
