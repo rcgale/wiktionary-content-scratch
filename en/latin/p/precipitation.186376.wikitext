@@ -1,0 +1,127 @@
+{{also|précipitation}}
+==English==
+
+{{Wikipedia}}
+
+===Etymology===
+From {{etyl|frm|en}} {{m|frm|précipitation}}, from {{etyl|la|en}} {{m|la|praecipitatio}}
+
+===Pronunciation===
+* {{a|US|UK}} {{IPA|/pɹɪˌsɪpɪˈteɪʃən/|lang=en}}
+* {{audio|En-us-precipitation.ogg|Audio (US)|lang=en}}
+* {{rhymes|eɪʃən|lang=en}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|meteorology}} Any or all of the forms of [[water]] [[particles]], whether [[liquid]] or [[solid]], that fall from the [[atmosphere]] (e.g., [[rain]], [[hail]], [[snow]] or [[sleet]]). It is a major class of [[hydrometeor]], but it is distinguished from [[cloud]], [[fog]], [[dew]], [[rime]], [[frost]], etc., in that it must fall. It is distinguished from [[cloud]] and [[virga]] in that it must reach the ground.
+# A [[hurried]] [[headlong]] [[fall]].
+# {{lb|en|countable|chemistry}} A [[reaction]] that leads to the [[formation]] of a [[heavier]] [[solid]] in a [[lighter]] [[liquid]]; the [[precipitate]] so formed at the bottom of the container.
+# {{lb|en|figuratively}} [[unwise|Unwise]] or [[rash]] [[rapidity]]; [[sudden]] [[haste]].
+#* '''1859''', Charles Dickens, ''The Haunted House''
+#*: The young man thanked me, and took his leave with some little '''precipitation''', after declining a glass of liquor.
+#* {{w|Dorothy Sayers}}
+#*: {{...}} had acted with some '''precipitation''' and had probably started out upon a wild-goose chase.
+
+====Synonyms====
+* See also [[Thesaurus:hydrometeor]]
+
+====Derived terms====
+{{der3|lang=en
+|reprecipitation
+|coprecipitation
+|immunoprecipitation
+|postprecipitation
+|precipitation reaction
+|nanoprecipitation
+|aptoprecipitation
+|microprecipitation
+|aptaprecipitation
+|precipitation hardening}}
+
+====Translations====
+{{trans-top|weather: water falling from the atmosphere}}
+* Arabic: {{t|ar|هُطُول|m}}
+* Bashkir: {{t|ba|яуым-төшөм|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|降水量|tr=jiàngshuǐliàng|sc=Hani}} {{t+|cmn|降水|tr=jiàngshuǐ|sc=Hani}}, {{t+|cmn|降雨量|tr=jiàngyǔliàng|sc=Hani}}, {{t+|cmn|降雨|tr=[[jiàngyǔ]]|sc=Hani}}
+* Czech: {{t|cs|srážky|f-p}}
+* Danish: {{t+|da|nedbør|c}}
+* Dutch: {{t+|nl|neerslag|m}}
+* Faroese: {{t|fo|avfall|n}}
+* Finnish: {{t+|fi|sade}}
+* French: {{t+|fr|précipitation|f}}
+* Georgian: {{t|ka|ნალექი|sc=Geor}}
+* German: {{t+|de|Niederschlag|m}}
+* Hawaiian: {{t|haw|kimu}}
+* Hebrew: {{t|he|משקעים}}
+* Hungarian: {{t+|hu|csapadék}}
+* Icelandic: {{t+|is|úrkoma|f}}
+* Japanese: {{t+|ja|降水量|tr=こうすいりょう, kōsuiryō}}, {{t+|ja|降水|tr=こうすい, kōsui}}
+* Korean: {{t+|ko|강수량}} ({{t+|ko|降水量|sc=Hani}}), {{t+|ko|강수}} ({{t+|ko|降水|sc=Hani}})
+* Lao: {{t|lo|ນ້ຳຝົນ|tr=nâm fǒn}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|krytuli|m-p}}
+* Maori: {{t|mi|tōtāwairehu}}
+* Mongolian: {{t-needed|mn}}
+* Norwegian:
+*: Bokmål: {{t+|nb|nedbør|m}}, {{t|no|presipitasjon|m}}
+*: Nynorsk: {{t|nn|nedbør|m}}
+* Persian: {{t+|fa|بارندگی|tr=bārandegi}}, {{t|fa|نزولات|tr=nozulāt}}
+* Polish: {{t|pl|opad atmosferyczny|m}}
+* Portuguese: {{t+|pt|precipitação|f}}
+* Romanian: {{t+|ro|precipitație|f}}
+* Russian: {{t+|ru|оса́дки|m-p}}
+* Serbo-Croatian: {{t+|sh|padaline|n}}
+* Spanish: {{t+|es|precipitación|f}} {{t+|es|lluvia|f}}
+* Swedish: {{t+|sv|nederbörd|c}}
+* Tagalog: {{t|tl|kadanligan}}
+* Thai: {{t|th|หยาดน้ำฟ้า}}
+* Turkish: {{t+|tr|yağış}}
+* Vietnamese: {{t|vi|giáng thủy}}
+{{trans-bottom}}
+
+{{trans-top|A hurried headlong fall}}
+* Icelandic: {{t|is|það að steypast áfram|n}}, {{t|is|það að æða áfram|n}}, {{t|is|það að flæða áfram|n}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|chemistry: chemical reaction forming solid in liquid}}
+* Arabic: {{t|ar|تَرَسُّب|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|沉澱|sc=Hani}}, {{t+|cmn|沉淀|tr=chéndiàn|sc=Hani}}
+* Czech: {{t|cs|srážení|n}}
+* Finnish: {{t+|fi|saostuminen}}
+* French: {{t+|fr|précipitation|f}}
+* German: {{t|de|Präzipitation|f}}
+* Hebrew: {{t|he|שיקוע|m}}
+* Icelandic: [[felling]] ([[efni]]s [[úr]] [[lausn]]) {{g|f}}, [[botnfelling]] ([[efni]]s [[úr]] [[lausn]]) {{g|f}}, [[úrfelling]] ([[efni]]s [[úr]] [[lausn]]) {{g|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|沈殿|tr=ちんでん, chinden}}
+* Latgalian: {{t|ltg|nūsiesšona|f}}
+* Norwegian: {{t|no|utfelling|m|f}}, {{t|no|presipitasjon|m}}
+* Portuguese: {{t+|pt|precipitação|f}}
+* Russian: {{t|ru|выпаде́ние в оса́док|n}}, {{t+|ru|осажде́ние|n}}, {{t+|ru|оса́док|m}}
+* Spanish: {{t+|es|precipitación|f}}
+* Swedish: {{t|sv|utfällning|c}}
+* Tagalog: {{t|tl|sahimuo}}
+* Turkish: {{t+|tr|çökelme}}
+{{trans-bottom}}
+
+{{trans-top|unwise or rash rapidity; sudden haste}}
+* Arabic: {{t|ar|عجلة|f|tr=ʿajala}}
+* French: {{t+|fr|précipitation|f}}
+* Icelandic: {{t|is|flýtir|m}}, {{t|is|óðagot|n}}, {{t|is|bráðræði|n}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|drystuošona|f}}, {{t|ltg|skuba|f}}
+* Portuguese: {{t+|pt|precipitação|f}}
+{{trans-bottom}}
+
+===See also===
+{{projectlinks
+|wikipedia
+}}
+* {{l|en|haste}}
+* {{l|en|rashness}}
+
+{{topics|en|Atmospheric phenomena}}
