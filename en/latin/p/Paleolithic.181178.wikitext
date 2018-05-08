@@ -1,0 +1,80 @@
+{{also|paleolithic}}
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{alter|en|palaeolithic|palæolithic}}
+
+===Etymology===
+From {{affix|en|paleo-|-lith|-ic}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈpeɪl.ɪi.əʊˌlɪθ.ɪk/|lang=en}}
+* {{a|US}} {{enPR|pălēōlĭthīk}}, {{IPA|/ˈpæl.ɪi.oʊˌlɪθ.ɪk/|lang=en}}
+
+===Noun===
+{{en-noun|-}}
+
+# A period that lasted from two and a half million years ago to 10,000 [[BC]]; the [[Old Stone Age]].
+#: {{syn|en|Old Stone Age}}
+
+====Hypernyms====
+* {{l|en|Stone Age}}
+
+====Related terms====
+* {{l|en|lith}}
+
+====Translations====
+{{trans-top|Old Stone Age}}
+* Asturian: {{t|ast|paleolíticu|m}}
+* Catalan: {{t+|ca|paleolític|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|旧石器时代|tr=jiùshíqìshídài}}
+* Czech: {{t|cs|paleolit}}
+* Danish: {{t|da|ældste stenalder}}
+* Dutch: {{t+|nl|paleolithicum|m}}
+* Estonian: {{t|et|paleoliitikum}}
+* Finnish: {{t|fi|paleoliittinen kausi}}
+* French: {{t+|fr|paléolithique|m}}
+* Galician: {{t|gl|paleolítico|m}}
+* German: {{t|de|Altsteinzeit|f}}
+* Greek: {{t|el|Παλαιολιθική|f}}
+* Hungarian: {{t|hu|paleolitikum}}
+* Interlingua: {{t|ia|paleolitho}}
+{{trans-mid}}
+* Interlingue: {{t|ie|paleolite}}
+* Italian: {{t+|it|paleolitico|m}}
+* Japanese: {{t|ja|旧石器時代|tr=きゅうせっきじだい, kyū sekki jidai}}
+* Korean: {{t|ko|구석기시대|tr=舊石器時代, guseokgi sidae}}
+* Latin: {{t|la|palaeolithicus}}
+* Latvian: {{t|lv|paleolīts}}
+* Maltese: {{t|mt|paleolitiku|m}}
+* Polish: {{t+|pl|paleolit|m}}
+* Portuguese: {{t+|pt|paleolítico|m}}
+* Russian: {{t+|ru|палеоли́т|m}}
+* Sicilian: {{t|scn|paleoliticu|m}}
+* Slovene: {{t+|sl|paleolitik|m}}
+* Spanish: {{t+|es|paleolítico|m}}
+* Thai: {{t|th|ยุคหินเก่า|tr=yóok hĭn gào}}
+* Turkish: {{t|tr|Eski Taş Devri}}, {{t|tr|Kaba Taş Devri}}, {{t|tr|Yontma Taş Devri}}
+{{trans-bottom}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Of or referring to the [[Old Stone Age]] (the Paleolithic [[period]] or Paleolithic [[age]]).
+
+====Translations====
+{{trans-top|of or referring to the Old Stone Age}}
+* Finnish: {{t+|fi|paleoliittinen}}
+* Greek: {{t+|el|παλαιολιθικός}}
+{{trans-mid}}
+* Irish: {{t|ga|Pailéiliteach}}
+* Korean: {{t|ko|구석기시대|tr=舊石器時代, guseokgi sidae}}, {{t+|ko|구석기|tr=舊石器, guseokgi}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|Mesolithic}}
+* {{l|en|Neolithic}}
+
+[[Category:en:Time]]
