@@ -1,0 +1,66 @@
+==English==
+[[File:Ptarmigan EB1911 vol.12 p.637.jpg|thumb]]
+
+{{wikipedia}}
+
+===Etymology===
+From {{der|en|gd|tàrmachan}}, of unknown origin. The ''pt-'' comes from a mistaken belief in a Greek origin, as if related to {{m|en|ptero-||wing}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ˈtɑːmɪɡən/|lang=en}}
+
+===Noun===
+{{en-noun|ptarmigan|s}}
+
+# Any of three [[species]] of small [[grouse]] in the [[genus]] ''[[Lagopus]]'' found in [[subarctic]] [[tundra]] areas of [[North America]] and [[Eurasia]].
+
+====Synonyms====
+* {{sense|species of small grouse}} {{l|en|lagopus}} {{qualifier|obsolete}}
+
+====Derived terms====
+* {{l|en|rock ptarmigan}}, ''[[Lagopus muta]]''
+* {{l|en|white-tailed ptarmigan}}, ''[[Lagopus leucura]]''
+* {{l|en|willow ptarmigan}}, ''[[Lagopus lagopus]]''
+
+====Translations====
+{{trans-top|a small grouse, ''Lagopus''}}
+* Aleut: {{t|ale|agdiikax}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鷓鴣|sc=Hani}}, {{t+|cmn|鹧鸪|tr=zhègū|sc=Hani}}, {{t+|cmn|雷鳥|sc=Hani}}, {{t+|cmn|雷鸟|tr=léiniǎo|sc=Hani}}
+* Czech: {{t|cs|bělokur|m}}
+* Danish: {{t+|da|fjeldrype|c}}
+* Dutch: {{t+|nl|sneeuwhoen|n}}
+* Faroese: {{t|fo|fjallarýpa|f}}, {{t|fo|rýpa|f}}
+* Finnish: {{t+|fi|kiiruna}}
+* French: {{t+|fr|ptarmigan|m}}, {{t+|fr|lagopède|m}}
+* German: {{t|de|Schneehuhn|n}}
+* Greenlandic: {{t|kl|aqisseq}}
+* Hungarian: {{t+|hu|hófajd}}
+* Icelandic: {{t+|is|rjúpa|f}}
+* Inari Sami: {{t|smn|kiärun}}
+* Japanese: {{t+|ja|雷鳥|tr=[[ライチョウ]], raichō|sc=Jpan}}
+* Lule Sami: {{t|smj|gierun}}
+* Montagnais: {{t|moe|uapineu}}
+* Northern Sami: {{t|se|giron}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{qualifier|Lagopus}} {{t+|no|rype|f|m}}
+*: Nynorsk: {{qualifier|Lagopus}} {{t|nn|rype|f}}
+* Polish: {{t+|pl|pardwa|f}}
+* Portuguese: {{t|pt|lagópode|m}}, {{t|pt|lagopo|m}}
+* Romanian: {{t|ro|cocoș polar|m}}, {{t+|ro|ptarmigan|m}}, {{t+|ro|potârniche albă|f}}
+* Russian: {{t|ru|бе́лая куропа́тка|f}}, {{t|ru|тундря́ная куропа́тка|f}}
+* Scottish Gaelic: {{t|gd|tàrmachan|m}}
+* Serbo-Croatian: {{t+|sh|snežnica|f}}
+* Skolt Sami: {{t|sms|ǩeâram}}
+* Slovak: {{t|sk|tetrov obyčajný|m}}
+* Southern Sami: {{t|sma|gïerene}}
+* Spanish: {{t|es|lagópodo|m}}, {{t|es|perdiz nival|f}}
+* Swedish: {{t+|sv|fjällripa|c}}
+* Tlingit: {{t|tli|xh'eis'awáa}}
+* Volapük: {{t|vo|nifagok}}
+* Westrobothnian: {{t|gmq-bot|reopfögel|f}}
+* Yup'ik: {{t|esu|qangqiiq}}
+{{trans-bottom}}
+
+[[Category:en:Grouse]]
