@@ -1,0 +1,220 @@
+{{also|fínna}}
+==English==
+
+===Alternative forms===
+* see ''[[fixing to]]''
+
+===Pronunciation===
+* {{IPA|/ˈfɪn(n)ə/|lang=en}}
+* {{rhymes|ɪnə|lang=en}}
+
+===Contraction===
+{{en-cont}}
+
+# {{alternative form of|fixing to|from=AAVE|from2=Southern US|lang=en|nodot=1}}: {{non-gloss definition|used to express a desire or future action.}}
+#* {{quote-book|year=1999 |title=Black Picket Fences: Privilege and Peril Among the Black Middle Class |authorMary Pattillo-McCoy & ‎Mary Pattillo-Mac Coy = |page= |ISBN=0226649288 |passage=Aw, dude, you '''finna''' get yo' ass whooped, mufucka. }}
+#* {{quote-book|year=2012|title=Restless for Retribution: A Series of Short Stories  |author=Cam Rascoe  |page=121 |ISBN=1469125625 |passage=I ain't talkin' about what you did homie, I'm talkin' about what's '''finna''' happen.  }}
+#: ''I'm '''finna''' go to the store.''
+
+===Adverb===
+{{en-adv|-}}
+
+# {{rfv-sense|en}} [[very]]
+
+===Anagrams===
+* {{anagrams|en|Finan}}
+
+----
+
+==Faroese==
+{{wikipedia|lang=fo|Finna (talv)}}
+
+===Etymology 1===
+
+====Noun====
+{{fo-noun|f|finnu|finnur}}
+
+# {{lb|fo|chess}} [[pawn]]
+# small woman
+
+=====Declension=====
+{{fo-decl-noun-f1|finn}}
+
+===Etymology 2===
+From {{der|fo|non|finna}}, from {{der|fo|gem-pro|*finþaną}}, from {{der|fo|ine-pro|*pent-||to go, pass; path, bridge}}.
+
+====Verb====
+{{fo-verb|fann|funnu|funnið}}
+
+# to [[find]]
+# to [[meet]]
+
+=====Conjugation=====
+{{fo-conj-44|f|i|n|u|a}}
+
+----
+
+==Icelandic==
+
+===Etymology===
+From {{der|is|non|finna}}, from {{der|is|gem-pro|*finþaną}}, from {{der|is|ine-pro|*pent-||to go, pass; path, bridge}}.
+
+===Pronunciation===
+* {{IPA|/ˈfɪnːa/|lang=is}}
+* {{rhymes|ɪnːa|lang=is}}
+*: Homophones: {{l|is|Finna}}
+
+===Verb===
+{{is-verb-strong|fann|fundu|fundið}}
+
+# {{lb|is|with accusative}} to [[find]]{{jump|find|s}}
+#* '''1928''', [[w:is:Krummavísa|Krummavísa]] (“Raven Song”, on the [[w:source:Krummavísa|Icelandic Wikisource]]) by [[w:Jón Ásgeirsson|Jón Ásgeirsson]]
+#*: ''Krummi krunkar úti,''
+#*: ''kallar á nafna sinn:''
+#*: ''„Ég '''fann''' höfuð af hrúti''
+#*: ''hrygg og gæruskinn.“''
+#*: ''Komdu nú og kroppaðu með mér,''
+#*: ''krummi nafni minn.''
+#*:: “The raven croaks outside,
+#*:: calling his namesake:
+#*:: ‘I '''found''' the head of a ram,
+#*:: backbone and sheepskin.’
+#*:: Come now and peck with me,
+#*:: Raven, my namesake.”
+#: ''Ég '''fann''' þig!''
+#:: I '''found''' you!
+# {{lb|is|with accusative}} to [[meet]]{{jump|meet|s}}
+# {{lb|is|with accusative}} to [[sense]], to [[feel]] something{{jump|sense|s}}
+
+====Conjugation====
+{{is-conj-s3|f|i|nn|nd=nd}}
+
+====Synonyms====
+* {{jump|s|find}} [[uppgötva]]
+* {{jump|s|meet}} [[hitta]]
+* {{jump|s|sense}} [[skynja]]
+
+====Derived terms====
+{{der-top3}}
+* {{l|is|engan bilbug á sér finna}}
+* {{l|is|finna allt til foráttu}}
+* {{l|is|finna á sér}}
+* {{l|is|finna að}}
+* {{l|is|finna fyrir}}
+* {{l|is|finna í fjöru}}
+{{der-mid3}}
+* {{l|is|finna nýjan flöt á málinu}}, {{l|is|finna nýjan flöt}}
+* {{l|is|finna sig}}
+* {{l|is|finnast}}
+* {{l|is|finna stað}}
+* {{l|is|finna til með}}
+* {{l|is|finna til}} (syn.; [[vera illt]])
+{{der-mid3}}
+* {{l|is|finna upp}}
+* {{l|is|finna upp á}}
+* {{l|is|finna út}}
+* {{l|is|finna útvegi}}
+* {{l|is|fundinn}}
+* {{l|is|láta engan bilbug á sér finna}}
+{{der-bottom}}
+
+===Anagrams===
+* {{l|is|nafni}}
+
+[[Category:Most used Icelandic verbs]]
+
+----
+
+==Norwegian Nynorsk==
+
+===Alternative forms===
+* {{l|nn|finne}}
+
+===Etymology===
+From {{der|nn|non|finna}}, from {{der|nn|gem-pro|*finþaną}}, from {{der|nn|ine-pro|*pent-||to go, pass; path, bridge}}. Cognates include {{cog|da|finde}}, {{cog|sv|finna}}, {{cog|got|𐍆𐌹𐌽𐌸𐌰𐌽}}, {{cog|de|finden}}, {{cog|nl|vinden}}, and {{cog|en|find}}.
+
+===Pronunciation===
+* {{IPA|/²fɪnːɑ/|lang=nn}} {{nn-pronu-note}}
+
+===Verb===
+{{nn-verb-irreg|finn|fann|funne}}
+
+# to [[find]]
+
+===References===
+* {{R:Dokpro|lang=nn}}
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{inh|non|gem-pro|*finþaną}}, from {{der|non|ine-pro|*pent-||to go, pass; path, bridge}}. Cognate with {{cog|ang|findan}}, {{cog|ofs|finda}}, {{cog|osx|findan}}, {{cog|odt|findan}}, {{cog|goh|findan}}, {{cog|got|𐍆𐌹𐌽𐌸𐌰𐌽|sc=Goth}}.
+
+===Verb===
+{{non-verb|fann|fundu|fundinn}}
+
+# to [[find]]
+
+====Conjugation====
+{{non-conj-strong|class=3|finn|fann|fund|3i=fynd|fund}}
+
+====Descendants====
+{{top2}}
+* Danish: {{l|da|finde}}
+* Faroese: {{l|fo|finna}}
+* Icelandic: {{l|is|finna}}
+{{mid2}}
+* Norwegian:
+** Bokmål: {{l|nb|finne}}
+** Nynorsk: {{nn-inf|finn}}
+* Swedish: {{l|sv|finna}}
+{{bottom}}
+
+===References===
+* {{R:Zoega}}
+
+----
+
+==Old Swedish==
+
+===Etymology===
+From {{inh|gmq-osw|non|finna}}, from {{inh|gmq-osw|gem-pro|*finþaną}}.
+
+===Verb===
+{{head|gmq-osw|verb}}
+
+# to [[find]]
+# to [[notice]]
+# to [[deem]], [[consider]]
+
+====Conjugation====
+{{gmq-osw-conj-st|finn|fan|funn|funn|pressg=finder|impsg=fin|mppressg=fins}}
+
+====Descendants====
+* Swedish: {{l|sv|finna}}
+
+----
+
+==Swedish==
+
+===Etymology===
+From {{inh|sv|gmq-osw|finna}}, from {{inh|sv|non|finna}}, from {{inh|sv|gem-pro|*finþaną}}, from {{der|sv|ine-pro|*pent-||to go, pass; path, bridge}}.
+
+===Pronunciation===
+* {{IPA|/ˈfɪnˌa/|lang=sv}}
+* {{audio|Sv-finna.ogg|audio|lang=sv}}
+
+===Verb===
+{{sv-verb-irr|finner|fann|funnit|finn}}
+
+# {{lb|sv|slightly formal or non-slang}} to [[find]], to locate, to discover{{jump|find|s}}
+#: {{ux|sv|Var kan man '''finna''' en kopp kaffe här i närheten?|Where can you '''find''' a cup of coffee near here?}}
+# {{lb|sv|formal}} to have come to the conclusion, or opinion, that..
+#: {{ux|sv|Jag '''finner''' det mycket märkligt att ingen kan ta på sig ansvaret för det inträffade!|I consider it quite remarkable that nobody can take responsibility for what has happened!}}
+
+====Conjugation====
+{{sv-conj-st|class=3|finn|fann|funn}}
+
+====Synonyms====
+* {{jump|s|find}} [[hitta]]
