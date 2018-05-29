@@ -1,0 +1,63 @@
+==English==
+
+===Etymology===
+Late 16th century, from earlier {{m|en|heyda}} (1520s), as exclamation – compare {{m|en|hey}}, {{m|enm|hei}}. Sense “period of success, vigor” from 1751, which respelt as '''heyday''' based on unrelated {{m|en|day}} (as “period of time”) – compare {{m|en|day in the sun}}.<ref>{{R:Online Etymology Dictionary}}</ref>
+
+===Pronunciation===
+* {{IPA|/ˈheɪdeɪ/|lang=en}}
+* {{audio|en-us-heyday.ogg|Audio (US)|lang=en}}
+* {{rhymes|eɪdeɪ|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[period]] of [[success]], [[popularity]], or [[power]]; [[prime]].
+#: ''The early twentieth century was the '''heyday''' of the steam locomotive.''
+# {{lb|en|archaic}} An [[exultation]] of the [[spirit]]s; [[gaiety]]; [[frolic]].
+
+====Synonyms====
+* {{l|en|day in the sun}}
+* {{l|en|golden age}}
+* {{l|en|golden years}}
+
+====Related terms====
+* {{l|en|hey}}
+
+====Translations====
+{{trans-top|a period of success, popularity or power}}
+* Danish: {{t|da|blomstringstid|c}}, {{t|da|storhedstid|c}}, {{t|da|velmagtsdage|c-p}}
+* Dutch: {{t+|nl|hoogtijdag|m}}, {{t+|nl|bloeitijd|m}}
+* Finnish: {{t+|fi|kukoistuskausi}}
+* French: {{t+|fr|âge d’or|m}}
+* German: {{t+|de|Blütezeit|f}}
+* Japanese: {{t+|ja|全盛期|tr=zenseiki|sc=Jpan}}
+* Manx: {{t|gv|ard-laa|m}}
+* Maori: {{t|mi|poutūmārōtanga}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|auge|m}}
+* Russian: {{t+|ru|расцве́т|m}}, {{t+|ru|зени́т|m}}, {{t|ru|лу́чшая пора́|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|про̏цва̄т|m|sc=Cyrl}}, {{t|sh|зла́тнo до̑ба|n|sc=Cyrl}}
+*: Roman: {{t+|sh|prȍcvāt|m}}, {{t|sh|zlátno dȏba|n}}
+* Spanish: {{t|es|auge|m}}
+* Swedish: {{t|sv|glansdag|c}}
+{{trans-bottom}}
+
+===Interjection===
+{{en-interj}}
+
+# A lively [[greeting]].
+#* '''1798''', Jane Austen - ''Northanger Abbey'':
+#*: "'''Heyday''', Miss Morland!" said he. "What is the meaning of this? I thought you and I were to dance together."
+# {{lb|en|obsolete}} An expression of frolic and exultation, and sometimes of wonder.
+#* '''1600''', Ben Jonson - ''Cynthia's Revels'' <!-- Do I need to cite this? http://books.google.co.uk/books?id=ODgJAAAAQAAJ&pg=PA338&lpg=PA338&dq=%22Ben+Jonson%22+%22heyday%22&source=bl&ots=-INggYyqB1&sig=0a0neUn0qGYwzaXUKXllyFZ0kVU&hl=en&sa=X&ei=zXwDUqbkBPDn7AbGyoDoDQ&ved=0CFEQ6AEwBA#v=onepage&q=%22Ben%20Jonson%22%20%22heyday%22&f=false -->:
+#*: "Come follow me, my wags, and say, as I say. There's no riches but in rags; '''hey day, hey day''', &c."
+#* {{RQ:Fielding Tom Jones}}
+#*: Here Jones, having ordered a servant to show a room above stairs, was ascending, when the dishevelled fair, hastily following, was laid hold on by the master of the house, who cried, “'''Heyday''', where is that beggar wench going? Stay below stairs, I desire you.”
+
+====Synonyms====
+* {{sense|greeting}} {{seeSynonyms|hello|sense=1}}
+* {{sense|expression of wonder}} {{seeSynonyms|wow|sense=1}}
+
+===References===
+<references/>
