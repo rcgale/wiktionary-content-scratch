@@ -1,0 +1,80 @@
+{{also|voila}}
+==English==
+
+===Alternative forms===
+* {{l|en|voila}}
+
+===Etymology===
+Borrowed from {{bor|en|fr|voilà}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈvwæ.læ/|lang=en}}
+* {{a|US}} {{IPA|/(v)wɑˈlɑ/|lang=en}}
+
+===Interjection===
+{{en-interj}}
+
+# [[lo|Lo]], there it is; see here; [[ta-da]]; [[presto]]; [[behold]]!
+
+====Translations====
+{{trans-top|behold!}}
+* Arabic:
+*: Egyptian Arabic: {{t|arz|أهو|m|tr=ʔahu|sc=Arab}}, {{t|arz|أهي|f|tr=ʔahe|sc=Arab}}, {{t|arz|أهم|p|tr=ʔahum|sc=Arab}}
+* Chinese:
+*: Cantonese: {{t|yue|睇|tr=tai2|sc=Hani}}
+*: Mandarin: {{t+|cmn|瞧|tr=qiáo|sc=Hani}}
+* Dutch: {{t|nl|voilà}}
+* Finnish: {{t+|fi|noin}}, {{t|fi|kas tässä}}, {{t|fi|no niin}}, {{t|fi|avot}}
+* French: {{t+|fr|voilà}}
+{{trans-mid}}
+* German: {{t+|de|voilà}}
+* Latin: {{t|la|ecce}}
+* Latvian: {{t|lv|lūk}}, {{t|lv|āre}}, {{t+|lv|re}}
+* Portuguese: {{t+|pt|eis}}
+* Russian: {{t|ru|вуаля́}}
+* Spanish: {{t|es|[[he]] [[ahí]]}}, {{t|es|[[he]] [[aquí]]}}, {{t|es|[[helo]] [[ahí]]}}, {{t|es|[[helo]] [[aquí]]}}, {{t+|es|vualá}}
+* Turkish: {{t+|tr|işte}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|Ivalo|Viola|oliva|viola|volia}}
+
+----
+
+==French==
+
+===Etymology===
+From {{m|fr|vois||see!, look!}}, second-person singular imperative of {{m|fr|voir||to see, to look}} and {{m|fr|là||there}}, literally meaning "look there!".
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{homophones|voila|voilât|lang=fr}}
+
+===Verb===
+{{fr-verb}}
+
+# [[there|There]] (it) is.
+#* Beckett, Samuel
+#*: '''''Voilà''' l’homme tout entier, s’en prenant à sa chaussure alors que c’est son pied le coupable.''
+#*:: '''''There is''' man in his entirety, blaming his shoe when his foot is guilty.''
+# [[here|Here]] (it) is.
+#: '''''Voilà''' le fromage''
+#:: '''''Here's''' the cheese''
+# [[that|That]] is.
+#: '''''Voilà''' ce que je lui ai demandé, et voici sa réponse : « ... »''
+#:: '''''That's''' what I asked her and this is her answer: "..."''
+
+====Usage notes====
+* ''voilà'' is a [[defective]] verb. Its only conjugation is in the present indicative tense, even though it can appear in phrases that imply another tense.
+* It is mainly used to introduce a slightly distant person or object, in contrast to {{m|fr|voici}} which is used to designate a person or object near the speaker.
+* In face-to-face conversations where both participants can see the subject of the conversation, ''voilà'' often supersedes {{m|fr|voici}} (thus its additional definition: ''Here is'').
+
+===See also===
+* {{l|fr|revoilà}}
+* {{l|fr|voici}}
+
+===Further reading===
+* {{R:TLFi}}
+
+===Anagrams===
+* {{l|fr|lovai}}, {{l|fr|viola}}, {{l|fr|volai}}
