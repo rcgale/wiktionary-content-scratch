@@ -1,0 +1,76 @@
+==English==
+
+===Etymology===
+{{suffix|positive|ly|lang=en}}
+
+===Pronunciation===
+* {{enPR|pŏzʹĭtĭvli}}, {{IPA|/ˈpɒzɪtɪvli/|lang=en}}
+** {{audio|Positively.wav|Audio (US)|lang=en}}
+
+* {{enPR|pŏzĭtĭv'li}}, {{IPA|/ˌpɒzɪˈtɪvli/|lang=en}}
+** {{audio|en-us-positively.ogg|Audio (US)|lang=en}}
+
+===Adverb===
+{{en-adv}}
+
+# {{lb|en|manner}} In a [[positive]] manner.
+#: {{ux|en|He approached the interview '''positively'''.}}
+# {{lb|en|modal}} With [[certainty]].
+#: {{ux|en|I will '''positively''' be there at 8 a.m.}}
+# {{lb|en|degree}} [[very|Very]].
+#* {{quote-book|year=1963|author={{w|Margery Allingham}}
+|title={{w|The China Governess}}
+|chapter=1|url=http://openlibrary.org/works/OL2004261W
+|passage=The half-dozen pieces {{...}} were painted white and carved with festoons of flowers, birds and cupids. [&hellip;] The bed was the most extravagant piece.&nbsp; Its graceful cane halftester rose high towards the cornice and was so festooned in carved white wood that the effect was '''positively''' insecure, as if the great couch were trimmed with icing sugar.}}
+#* {{quote-web
+|year=2015
+|author=Nancy Jo Sales
+|title=Tinder and the Dawn of the “Dating Apocalypse”
+|work=Vanity Fair
+|url=https://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating
+|passage=In the 90s it was Craigslist and AOL chat rooms, then Match.com and Kiss.com. But the lengthy, heartfelt e-mails exchanged by the main characters in You’ve Got Mail (1998) seem '''positively''' Victorian in comparison to the messages sent on the average dating app today.}}
+#: {{ux|en|I had a '''positively''' wonderful time.}}
+
+====Synonyms====
+* {{sense|with certainty}} {{l|en|definitely}}, {{l|en|categorically}}, {{l|en|decisively}}, {{l|en|unconditionally}}
+
+====Translations====
+{{trans-top|in a positive manner}}
+* Catalan: {{t|ca|positivament}}
+* Czech: {{t|cs|kladně}}, {{t|cs|pozitivně}}
+* Dutch: {{t+|nl|positief}}
+* Finnish: {{t+|fi|myönteisesti}}, {{t+|fi|positiivisesti}}
+{{trans-mid}}
+* Italian: {{t+|it|positivamente}}
+* Portuguese: {{t|pt|positivamente}}
+* Turkish: {{t+|tr|olumlu}}
+* Ukrainian: {{t|uk|позити́вно}}
+{{trans-bottom}}
+
+{{trans-top|with certainty}}
+* Dutch: {{t+|nl|positief}}
+* Finnish: {{t+|fi|varmasti}}
+* German: {{t+|de|definitiv}}, {{t+|de|bestimmt}}, {{t+|de|entschieden}}, {{t+|de|eindeutig}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|certamente}}
+* Serbo-Croatian: {{t|sh|дефинитивно|tr=definitivno|sc=Cyrl}}
+* Spanish: {{t|es|inequívocamente}}, {{t|es|terminantemente}}, {{t|es|de todas maneras}}
+{{trans-bottom}}
+
+{{trans-top|very}}
+* Dutch: {{t+|nl|positief}}
+{{trans-mid}}
+* Finnish: {{t+|fi|erittäin}}, {{t|fi|erinomaisen}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* French: {{t+check|fr|positivement}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|absitively posolutely}}
+
+[[Category:English degree adverbs]]
+[[Category:English manner adverbs]]
+[[Category:English modal adverbs]]
