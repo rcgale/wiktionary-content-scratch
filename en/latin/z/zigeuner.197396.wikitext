@@ -1,0 +1,46 @@
+{{also|Zigeuner}}
+==English==
+
+===Alternative forms===
+* {{l|en|Zigeuner}}
+
+===Etymology===
+Borrowed from {{bor|en|de|Zigeuner}}. See the German entry for further etymological information. {{doublet|en|tzigane}}.
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|offensive}} A [[Gypsy]].
+
+====Usage notes====
+"Zigeuner" is an imprecise term derived from a Greek word for "untouchable".<ref>'''2004''', Viorel Achim, ''The Roma in Romanian History'' (Bucharest), page 9</ref><ref>'''2007''', Jean-Pierre Liégeois, ''Roma In Europe'', page 17</ref><ref>'''1993''', ''Struggling for Ethnic Identity: The Gypsies of Hungary'' (published by Human Rights Watch), page 1</ref> It is considered offensive by many Romani. In Germany, the [[w:Central Council of German Sinti and Roma|Central Council of German Sinti and Roma]] rejects the use of the corresponding German term, "Zigeuner", as a designation for the Roma, regarding it as [[racist]] and as having been discredited by the [[Nazi]]s' use of it.
+
+See also the note about '''''[[Zigeuner]]'''''.
+
+===References===
+<references/>
+
+===Anagrams===
+* {{anagrams|en|Zeringue}}
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|de|Zigeuner}} See the German entry for further etymological information.
+
+===Pronunciation===
+* {{IPA|lang=nl|/ˌziˈɣøː.nər/}}
+* {{audio|Nl-zigeuner.ogg|Audio|lang=nl}}
+* {{hyphenation|lang=nl|zi|geu|ner}}
+* {{rhyme|lang=nl|øːnər}}
+
+===Noun===
+{{nl-noun|m|-s|zigeunertje|f=zigeunerin}}
+
+# {{lb|nl|sometimes|offensive}} [[Gypsy]], member of the [[Roma]]
+# {{lb|nl|sometimes|offensive}} [[gypsy]], person who leads a [[nomadic]] life
+
+====Usage notes====
+Sometimes considered offensive by Romani people. Use of the word for non-Romani people may also be considered offensive, as well as incorrect.
