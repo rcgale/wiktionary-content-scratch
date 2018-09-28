@@ -1,0 +1,84 @@
+{{also|Anilingus}}
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|analingus}}
+
+===Etymology===
+From {{etyl|la|en}} {{m|la|anus||anus}} + {{m|la|lingere||to lick}}. Coined by sexologist Richard von Krafft-Ebing in the book ''Psychopathia sexualis'' (1886).
+
+===Pronunciation===
+* {{a|US}} {{IPA|/ˌeɪnɪˈlɪŋɡəs/|lang=en}}
+* {{audio|anilingus US.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{en-noun|-}}
+
+# A form of [[oral sex]] in which the [[tongue]] and [[lip]]s are used for stimulation of a sexual partner's [[anus]].
+
+====Synonyms====
+* {{l|en|anilinction}}
+* {{l|en|arse-licking}} (''UK taboo slang'')
+* {{l|en|ass-licking}} (''US taboo slang'')
+* {{l|en|reaming}} (''US slang'')
+* {{l|en|rimming}} {{qualifier|slang}}
+* {{l|en|salad tossing}} (''US slang'')
+* See also [[Thesaurus:anilingus]]
+
+====Translations====
+{{trans-top|form of oral sex}}
+* Belarusian: {{t|be|анілінгус|tr=anilínhus}}
+* Bulgarian: {{t|bg|аналингус|tr=analingus}}
+* Chinese:
+*: Mandarin: {{t|cmn|舔肛|tr=tiǎngāng|sc=Hani}}
+* Dutch: {{t|nl|anilingus}}, {{t|nl|rimmen}}, {{t|nl|baffen}}
+* French: {{t+|fr|anulingus}}, {{t+|fr|anilinctus}}
+* German: {{t+|de|Anilingus|m}}, {{t|de|Analingus|m}}
+* Greek: {{t|el|πρωκτολειξία|f}}
+* Irish: {{t|ga|rimeáil|f}}
+* Italian: {{t+|it|anilingus}}
+{{trans-mid}}
+* Japanese: {{t|ja|アニリングス|tr=aniringasu}}
+* Korean: {{t|ko|애닐링구스}}
+* Latin: {{t|la|anilingus}}
+* Lithuanian: {{t|lt|anilingas|m}}
+* Portuguese: {{t|pt|anilingus|m}}, {{t+|pt|cunete}}
+* Russian: {{t+|ru|анили́нгус|m}}, {{t|ru|анили́нкция|f}}, {{t+|ru|ри́мминг|m}}
+* Slovene: {{t|sl|anilingus}}
+* Spanish: {{t|es|anilingus|m}}
+* Vietnamese: {{t|vi|cách liếm đít}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|oral sex}}
+* {{l|en|rusty trombone}}
+* [[w:Anilingus|Wikipedia article on anilingus]]
+
+[[Category:en:Sex]]
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m|anilingus}}
+
+# {{l|en|anilingus}} {{gloss|form of oral sex}}
+
+====Synonyms====
+* {{l|pt|cunete}}
+
+----
+
+==Spanish==
+
+===Noun===
+{{es-noun|m|anilingus}}
+
+# {{l|en|anilingus}} {{gloss|form of oral sex}}
+
+====Synonyms====
+* {{l|es|beso negro}}
+
+[[Category:es:Sex]]
