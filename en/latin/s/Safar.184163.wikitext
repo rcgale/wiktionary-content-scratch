@@ -1,0 +1,71 @@
+{{also|safar|sáfár}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+Borrowed from {{bor|en|ar|صَفَر}}, from {{m|ar|صَفِرَ||to be [[empty]]}}.
+
+===Proper noun===
+{{en-proper noun}}
+
+# The second [[month]] of the [[Islamic calendar]].
+
+====Translations====
+{{trans-top|the second month of the Islamic calendar}}
+* Arabic: {{t+|ar|صَفَر|m}}
+* Hausa: {{t|ha|Safar|m|alt=Safàr̃}}
+* Malay: {{t|ms|Safar}}, {{t|ms|bulan nahas}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сафер|m}}
+*: Roman: {{t+|sh|safer|m}}
+{{trans-mid}}
+* Turkish: {{t+|tr|safer}}
+{{trans-bottom}}
+
+===See also===
+* {{list:Islamic calendar months/en}}
+
+===Anagrams===
+* {{anagrams|en|Saraf|saraf}}
+
+[[Category:en:Islam]]
+
+----
+
+==Hausa==
+
+===Etymology===
+Borrowed from {{bor|ha|ar|صَفَر}}.
+
+===Proper noun===
+{{ha-proper noun|m|Safàr̃}}
+
+# {{l|en|Safar}}
+
+====See also====
+{{list:Islamic calendar months/ha}}
+
+----
+
+==Malay==
+
+===Etymology===
+From {{etyl|ar|ms}} {{m|ar|صَفَر}}.
+
+===Alternative forms===
+* {{l|ms|صفر|sc=Arab}}
+
+===Pronunciation===
+* {{IPA|/safa(r)/|lang=ms}}
+* {{rhymes|fa(r)|a(r)|lang=ms}}
+
+===Proper noun===
+{{head|ms|proper noun|Jawi spelling|صفر}}
+
+# [[#English|Safar]] {{gloss|the second month of the Islamic calendar}}
+
+===See also===
+* {{list:Islamic calendar months/ms}}
+
+===Synonyms===
+* {{l|ms|bulan nahas}} / {{l|ms|بولن ناهس|sc=Arab}}
