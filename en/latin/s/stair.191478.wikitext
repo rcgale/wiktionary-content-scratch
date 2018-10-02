@@ -1,0 +1,153 @@
+{{also|Stair}}
+==English==
+{{slim-wikipedia|dab=Stair}}
+
+===Etymology===
+{{PIE root|en|steygʰ}}
+From {{inh|en|enm|steire}}, {{m|enm|staire}}, {{m|enm|stayre}}, {{m|enm|stayer}}, {{m|enm|steir}}, {{m|enm|steyre}}, {{m|enm|steyer}}, from {{inh|en|ang|stǣġer|t=stair, staircase}}, from {{inh|en|gem-pro|*staigriz|t=stairs, scaffolding}}, from {{der|en|ine-pro|*steygʰ-|t=to walk, proceed, march, climb}}. Cognate with {{cog|nl|steiger||a stair, step, wharf, pier, scaffolding}}, {{cog|gml|steiger}}, {{m|gml|steir||scaffolding}}, German Low German {{m|nds-de|Steiger||a scaffold; trestle}}. Related to {{cog|ang|āstǣġan||to ascend, go up, embark}}, {{cog|ang|stīġan||to go, move, reach; ascend, mount, go up, spring up, rise; scale}}, {{cog|de|Stiege||a flight of stairs}}. More at {{m|en|sty}}.
+
+===Pronunciation===
+[[File:Entrance stairway of persepolis.JPG|thumb]]
+* {{a|GenAm}} {{IPA|/stɛəɹ/|lang=en}}
+* {{a|RP}} {{IPA|/stɛə/|lang=en}}
+* {{audio|En-us-stair.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɛə(ɹ)|lang=en}}
+* {{homophones|lang=en|stare}}
+
+===Noun===
+{{en-noun}}
+
+# A single [[step]] in a [[staircase]].
+# A [[series]] of steps; a staircase.
+#* {{quote-book|year=1899|author={{w|Hughes Mearns}}
+|title={{w|Antigonish (poem)|Antigonish}}
+|passage=Yesterday, upon the '''stair'''&nbsp;/ I met a man who wasn’t there&nbsp;/ He wasn’t there again today&nbsp;/ I wish, I wish he’d go away&nbsp;&hellip;}}
+
+====Usage notes====
+* ''Stairs'' and ''stair'' are used to refer to a single staircase, mostly interchangeably in the UK.
+
+====Derived terms====
+{{rel-top|terms derived from ''stair (noun)''}}
+* {{l|en|above-stairs}}
+* {{l|en|upstairs}}
+* {{l|en|downstairs}}
+* {{l|en|stair-stepping}}
+{{rel-mid}}
+* {{l|en|staircase}}
+* {{l|en|stairs}}
+* {{l|en|stairway}}
+* {{l|en|stairwell}}
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|single step}}
+* Bashkir: {{t|ba|баҫҡыс|sc=Cyrl}}, {{t|ba|баҫма|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|臺階|sc=Hani}}, {{t+|cmn|台阶|tr=táijiē|sc=Hani}}
+* French: {{t+|fr|marche|f}}
+* Georgian: {{t|ka|საფეხური}}
+* German: {{t+|de|Stufe|f}}, {{t+|de|Treppenstufe|f}}
+* Icelandic: {{t|is|trappa}}, {{t+|is|þrep}}
+* Japanese: {{t+|ja|石段|tr=いしだん, ishidan|sc=Jpan}} {{qualifier|on stone steps}}, {{t+|ja|段|tr=だん, dan|sc=Jpan}}
+* Norwegian: {{t|no|trinn|n}}
+{{trans-mid}}
+* Persian: {{t+|fa|پله|tr=pelle|sc=fa-Arab}}
+* Portuguese: {{t+|pt|degrau|m}}
+* Romanian: {{t+|ro|treaptă}}
+* Russian: {{t+|ru|ступе́нька|f}}, {{t+|ru|ступе́нь|f}}
+* Scottish Gaelic: {{t|gd|staidhre|f}}
+* Spanish: {{t+|es|peldaño|m}}
+* Swedish: {{t+|sv|trappsteg|n}}
+* Zazaki: {{t|zza|gam}}
+{{trans-bottom}}
+
+{{trans-top|series of steps}}
+* Arabic: {{t|ar|سَلَالِم|m-p}}
+* Armenian: {{t|hy|աստիճաններ}}, {{t+|hy|սանդուղք}}, {{qualifier|colloquially}} {{t|hy|փիլաքյան}}
+* Aromanian: {{t|rup|scarã|f}}
+* Bashkir: {{t|ba|баҫҡыс|sc=Cyrl}}
+* Basque: {{t-needed|eu}}
+* Burmese: {{t-needed|my}}
+* Chinese:
+*: Mandarin: {{t+|cmn|樓梯|sc=Hani}}, {{t+|cmn|楼梯|tr=lóutī|sc=Hani}}
+* Czech: {{t|cs|schody}}, {{t+|cs|schodiště}}
+* Danish: {{t+|da|trappe}}
+* Dutch: {{t+|nl|trap}}
+* Estonian: {{t|et|trepp}}
+* Faroese: {{t|fo|trappa|f}}
+* Finnish: {{t+|fi|portaat}}, {{t|fi|portaikko}}
+* French: {{t+|fr|escalier}}, {{t+|fr|volée|f}}
+* Georgian: {{t|ka|კიბე}}
+* German: {{t+|de|Treppe|f}}
+* Greek: {{t+|el|σκάλα|f}}, {{t+|el|κλίμακα|f}}
+* Greenlandic: {{t|kl|majuartarfiit|p}}
+* Hebrew: {{t|he|מדרגות}}, {{t+|he|מדרגה|f|tr=madregá}}
+* Hungarian: {{t+|hu|lépcső}}
+* Icelandic: {{t+|is|stigi}}, {{t|is|tröppur|p}}, {{t+|is|þrep|p}}
+* Igbo: {{t|ig|ǹkwà}}
+* Indonesian: {{t+|id|tangga}}
+* Italian: {{t+|it|scala|f}}
+* Japanese: {{t+|ja|階段|tr=かいだん, kaidan}}
+{{trans-mid}}
+* Khmer: {{t|km|កាំជណ្ដើរ|tr=kam cʊəndaə|sc=Khmr}}
+* Korean: {{t+|ko|계단}}
+* Lao: {{t-needed|lo}}
+* Latvian: {{t+|lv|kāpnes|m}}
+* Lithuanian: {{t|lt|laiptinė|f}}
+* Macedonian: {{t|mk|ска́ла|f}}
+* Malay:
+*: Jawi: {{t|ms|تڠݢ|sc=Arab}}
+*: Rumi: {{t|ms|tangga}}
+* Mongolian: {{t+|mn|шат|tr=shat|sc=Cyrl}}
+* Northern Sami: {{t-needed|se}}
+* Norwegian: {{t+|no|trapp|m|f}}
+* Occitan: {{t+|oc|escalièr}}
+* Persian: {{t+|fa|پلکان|tr=pellekân|sc=fa-Arab}}
+* Portuguese: {{t+|pt|escada|f}}
+* Romanian: {{t+|ro|scară|f}}
+* Romansch: {{t|rm|stgala|f}}
+* Russian: {{t+|ru|ле́стница|f}}
+* Sardinian: {{t|sc|iscala|f}}, {{t|sc|issaba|f}}, {{t|sc|scaba|f}}, {{t|sc|iscalera}}
+* Scottish Gaelic: {{t|gd|staidhre|f}}
+* Serbo-Croatian: {{t+|sh|stubište|f}}
+* Spanish: {{t+|es|escalera|f}}
+* Swedish: {{t+|sv|trappa}}
+* Thai: {{t-needed|th}}
+* Venetian: {{t|vec|scała|f}}
+* Vietnamese: {{t+|vi|cầu thang}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|ladder}}
+* {{l|en|landing}}
+
+===Anagrams===
+* {{anagrams|en|ISTAR|Ritsa|Sarti|airts|arist|astir|sitar|stria|tarsi|tiars|tisar}}
+
+----
+
+==Irish==
+
+===Etymology===
+From {{der|ga|la|historia}}. {{doublet|ga|stór}}.
+
+===Pronunciation===
+* {{IPA|[sˠt̪ˠaɾʲ]|lang=ga}}
+
+===Noun===
+{{ga-noun|f|~e|startha}}
+
+# [[history]]
+# [[account]], [[story]]
+# {{lb|ga|literary}} [[repute]], [[fame]]
+
+====Declension====
+{{ga-decl-f2|st|air|aire|pl=artha}}
+
+====Derived terms====
+{{der2|bréagstair|stairiúil|lang=ga}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
