@@ -1,0 +1,51 @@
+==English==
+
+===Etymology===
+From {{inh|en|enm|copweb}}, {{m|enm|coppeweb}}, equivalent to {{compound|en|cop|t1=spider|web}}. Compare {{cog|dum|kopwebbe}}, {{cog|nds-de|Kobbenwebbe}} {{i|Westphalian}}.
+
+===Pronunciation===
+* {{hyphenation|cob|web|lang=en}}
+* {{audio|En-us-cobweb.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# A [[spiderweb]], or the [[remain]]s of one, especially an [[asymmetrical]] one that is woven with an irregular pattern of threads.
+#* '''1865''', Henry David Thoreau, ''Cape Cod'', Chapter X. "Provincetown", page 200.
+#*: {{...|I found him sitting in his front doorway, that Sabbath evening, prepared for me to come in unto him; but unfortunately for his reputation for keeping open house,}} there was stretched across his gateway a circular '''cobweb''' of the largest kind and quite entire. This looked so ominous that I actually turned aside and went in the back way.
+# One of its [[filament]]s; [[gossamer]]
+# {{lb|en|figurative}} Something thin and [[unsubstantial]], or flimsy and worthless; [[valueless]] [[remainder]].
+#* Sir Philip Sidney
+#*: The dust and '''cobwebs''' of that uncivil age.
+#* {{quote-journal
+|date=February 10, 2018
+|author=Phil McNulty
+|title=Tottenham Hotspur 1 - 0 Arsenal
+|work=BBC
+|url=http://www.bbc.com/sport/football/42927831
+|page=
+|passage=Once the '''cobwebs''' of a lack-lustre first half were blown away, Spurs were irresistible and Arsenal were simply unable to cope with the power of Mousa Dembele in midfield and the creation and running of Christian Eriksen and Dele Alli - combined with the inevitable goalscoring prowess of Kane.}}
+# An [[intricate]] [[plot]] to [[catch]] the [[unwary]]
+#* Cowper
+#*: Entangled in the '''cobwebs''' of the schools.
+# {{lb|en|internet|rare|slang}} A [[web page]] that either has not been [[update]]d for a long time, or that is rarely [[visit]]ed
+# The {{vern|European spotted flycatcher}}, {{taxlink|Muscicapa striata|species|noshow=1|ver=161002}}.<!--Webster 1913-->
+
+
+
+====Hypernyms====
+* {{l|en|web}}
+
+====Derived terms====
+* {{l|en|cobwebbed}}
+* {{l|en|cobwebbery}}
+* {{l|en|cobwebby}}
+
+====Related terms====
+* {{l|en|cobweb site}}
+
+====Translations====
+{{trans-see|a spider’s web|spiderweb}}
+
+[[Category:en:Muscicapids]]
