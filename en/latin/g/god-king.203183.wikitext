@@ -1,0 +1,12 @@
+{{also|god king}}
+==English==
+
+===Etymology===
+{{compound|en|god|king}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun|head=[[god]]-[[king]]}}
+
+# A statesman who holds all state's powers and has [[religious]] [[significance]] to his [[constituency]].
+# {{lb|en|pejorative|computing}} A [[tyrannical]] [[maintainer]] of a [[collaborative]] [[project]].
