@@ -1,0 +1,32 @@
+==English==
+
+===Etymology===
+From [[Scottish]] [[pernicky]], of uncertain origin.
+
+===Pronunciation===
+* {{a|British}} {{IPA|/pɜː(ɹ)ˈnɪk.ɪ.ti/|/pɜː(ɹ)ˈnɪk.ə.ti/|lang=en}}
+* {{rhymes|ɪkɪti|lang=en}} ''or'' {{rhymes|ɪkəti|lang=en}}
+
+===Adjective===
+{{en-adj}}
+
+# {{lb|en|chiefly|British}} [[fussy|Fussy]]; paying [[undue]] [[attention]] to [[minor]] [[detail]]s; [[fastidious]].
+# Requiring attention to minor details
+
+====Synonyms====
+# [[niggly]]
+# [[persnickety]] {{qualifier|US}}; more on [[Thesaurus:fastidious]]
+# <!-- sensitive, ticklish, delicate, spiny, tender; thin, fine, subtle -->
+
+====Translations====
+{{trans-top|paying undue attention to minor details}}
+* Russian: {{t+|ru|придирчивый}}, {{t+|ru|разборчивый}}, {{t+|ru|привере́дливый}}, {{t+|ru|въедливый}}, {{t+|ru|суетливый}}
+{{trans-mid}}
+* Spanish: {{t|es|punctilloso}}, {{t+|es|puntilloso}}
+{{trans-bottom}}
+
+{{trans-top|requiring attention to minor details}}
+* Russian: {{t+|ru|щекотливый}}, {{t+|ru|то́нкий}}
+{{trans-mid}}
+* Spanish: {{t+|es|puntilloso}}
+{{trans-bottom}}
