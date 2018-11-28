@@ -1,0 +1,47 @@
+==English==
+
+===Alternative forms===
+* {{l|en|sweety}}
+
+===Etymology===
+From {{suffix|en|sweet|ie}}.
+
+===Pronunciation===
+* {{IPA|/ˈswiːti/|lang=en}}
+* {{audio|en-us-sweetie.ogg|Audio (US)|lang=en}}
+* {{rhymes|iːti|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|often as a term of address}} A person who is much loved.
+# A [[sweetheart]].
+# A [[fruit]] that is a crossbreed between a [[grapefruit]] and a [[pomelo]], originating in [[Israel]].
+# {{lb|en|childish}} A [[sweet]].
+#: ''Can I have a box of '''sweeties''' for being a good boy?''
+
+====Translations====
+{{trans-top|sweetheart}}
+* Finnish: {{t+|fi|kullanmuru}}
+* French: {{t+|fr|ange|m}}
+* Hebrew: {{t+|he|מותק|tr=móteq}}
+* Italian: {{t+|it|dolcezza|f}}
+* Macedonian: {{t|mk|душичка|f|tr=dúšička}}, {{t|mk|срцка|f|tr=s'rcka}}
+{{trans-mid}}
+* Norwegian: {{t|no|søtnos}}
+* Polish: {{t+|pl|kochanie|n}}
+* Slovene: {{t|sl|ljubček|m}}, {{t|sl|ljubica|f}}
+* Spanish: {{t+|es|corazón|m}}
+* Swedish: {{t+|sv|sötnos}}
+{{trans-bottom}}
+
+{{trans-top|type of fruit}}
+* Dutch: {{t|nl|sweetie}}
+* Finnish: {{t+|fi|sweetie}}
+{{trans-mid}}
+* Hebrew: {{t+|he|פומלית|f|tr=pomelit}}
+* Swedish: {{t|sv|sweetie}}
+{{trans-bottom}}
+
+[[Category:English affectionate terms]]
+[[Category:en:Citrus subfamily plants]]
