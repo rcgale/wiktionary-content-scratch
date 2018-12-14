@@ -1,0 +1,28 @@
+==English==
+
+===Etymology===
+Pick-up basketball slang spread by [[w:Manute Bol|Manute Bol]], a [[basketball]] player of [[Sudanese]] origin playing with the [[w:Golden State Warriors|Golden State Warriors]]. Subsequently adopted by teammates.<ref>[http://itre.cis.upenn.edu/~myl/languagelog/archives/002693.html Language Log - Pick-up basketballism reaches Ivy League faculty vocabulary]. Accessed 2010-04-06.</ref>
+
+===Interjection===
+{{en-interj}}
+
+# {{lb|en|colloquial|idiomatic}} My fault; [[mea culpa]].
+#: ''Yes, I realize the humvee isn't supposed to be parked in the heirloom flowerbed. '''My bad'''.''
+
+====Synonyms====
+* {{l|en|mea culpa}}
+
+====Translations====
+{{trans-top|my fault}}
+* French: {{t+|fr|autant pour moi}}
+* German: {{t|de|mein Fehler}}
+{{trans-mid}}
+* Russian: {{t|ru|[[мой]] [[кося́к]]}} {{qualifier|slang}}
+{{trans-bottom}}
+
+===References===
+* {{R:OneLook}}
+<references/>
+
+===Further reading===
+* [http://www.businessballs.com/clichesorigins Businessballs.com cliches and expressions origins]
