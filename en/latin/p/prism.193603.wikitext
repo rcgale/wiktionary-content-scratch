@@ -1,0 +1,102 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{etyl|LL.|en}} {{m|la|prisma}}, from {{etyl|grc|en}} {{m|grc|πρίσμα||something sawed}}, from {{m|grc|πρίζειν||to saw}}.
+
+===Pronunciation===
+* {{audio|en-us-prism.ogg|Audio (US)|lang=en}}
+* {{IPA|/ˈpɹɪzəm/|lang=en}}
+* {{rhymes|ɪzəm|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|geometry}} A [[polyhedron]] with [[parallel]] ends of the same size and shape, the other faces being [[parallelogram]]-shaped sides.
+# A transparent block in the shape of a prism (typically with triangular ends), used to split or reflect light.
+# A crystal in which the faces are parallel to the [[vertical]] [[axis]].
+
+====Hyponyms====
+* {{l|en|cylinder}}
+* {{l|en|pyramid}}
+
+====Derived terms====
+{{top2}}
+* {{l|en|antiprism}}
+* {{l|en|Nicol prism}}
+* {{l|en|prismatic}}
+* {{l|en|prismatically}}
+{{mid2}}
+* {{l|en|prismatoid}}
+* {{l|en|primoid}}
+* {{l|en|prismatoid}}
+* {{l|en|triangular prism}}
+{{bottom}}
+
+====Translations====
+{{trans-top|geometry: polyhedron with parallel ends of the same size and shape}}
+* Armenian: {{t+|hy|պրիզմա}}
+* Catalan: {{t|ca|prisma|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|稜柱|sc=Hani}}, {{t+|cmn|棱柱|tr=léngzhù|sc=Hani}}
+* Czech: {{t+|cs|hranol|m}}
+* Danish: {{t|da|prisme|n}}
+* Dutch: {{t+|nl|prisma|n}}
+* Esperanto: {{t|eo|prismo}}
+* Finnish: {{t+|fi|särmiö}}, {{t+|fi|prisma}}
+* French: {{t+|fr|prisme|m}}
+* German: {{t+|de|Prisma|n}}
+* Greek: {{t+|el|πρίσμα|n}}
+* Ido: {{t+|io|prismato}}
+* Italian: {{t+|it|prisma|m}}
+* Japanese: {{t+|ja|角柱|tr=かくちゅう, kakuchū|sc=Jpan}}, {{t|ja|プリズム|tr=purizumu|sc=Jpan}}
+{{trans-mid}}
+* Korean: {{t|ko|프리즘}}
+* Norwegian:
+*: Bokmål: {{t|nb|prisme|n}}
+*: Nynorsk: {{t|nn|prisme|n}}
+* Persian: {{t+|fa|منشور|tr=manšur|sc=fa-Arab}}
+* Polish: {{t+|pl|graniastosłup|m}}
+* Portuguese: {{t+|pt|prisma|m}}
+* Romanian: {{t+|ro|prismă}}
+* Russian: {{t+|ru|при́зма|f}}
+* Spanish: {{t+|es|prisma|m}}
+* Swedish: {{t+|sv|prisma|n|c}}
+* Tagalog: {{t|tl|balimbing}}
+* Thai: {{t|th|ปริซึม}}
+* Volapük: {{t+|vo|prismat}}
+{{trans-bottom}}
+
+{{trans-top|block used to split or reflect light}}
+* Armenian: {{t+|hy|պրիզմա}}
+* Catalan: {{t|ca|prisma|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|稜鏡|sc=Hani}}, {{t+|cmn|稜镜|tr=léngjìng|sc=Hani}}, {{t+|cmn|棱鏡|sc=Hani}}, {{t+|cmn|棱镜|tr=léngjìng|sc=Hani}}
+* Czech: {{t+|cs|hranol|m}}
+* Danish: {{t|da|prisme|n|c}}
+* Esperanto: {{t|eo|prismo}}
+* Finnish: {{t+|fi|prisma}}
+* French: {{t+|fr|prisme|m}}
+* German: {{t+|de|Prisma|n}}
+* Greek: {{t+|el|πρίσμα|n}}
+* Hungarian: {{t+|hu|prizma}}
+* Ido: {{t+|io|prismato}}
+* Italian: {{t+|it|prisma|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|三稜鏡|tr=さんりょうきょう, sanryōkyō|sc=Jpan}}, {{t|ja|プリズム|tr=purizumu|sc=Jpan}}
+* Maori: {{t|mi|poro}}
+* Norwegian:
+*: Bokmål: {{t|nb|prisme|n}}
+*: Nynorsk: {{t|nn|prisme|n}}
+* Polish: {{t|pl|pryzmat|m}}
+* Portuguese: {{t+|pt|prisma|m}}
+* Romanian: {{t+|ro|prismă|f}}
+* Russian: {{t+|ru|при́зма|f}}
+* Spanish: {{t+|es|prisma|m}}
+* Swedish: {{t+|sv|prisma|n|c}}
+* Thai: {{t|th|ปริซึม}}
+* Volapük: {{t+|vo|prismat}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=imprs|prims}}
