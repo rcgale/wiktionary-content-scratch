@@ -1,0 +1,103 @@
+{{also|imperméable}}
+==English==
+
+===Etymology===
+From {{bor|en|fr|imperméable}}, from {{der|en|la|impermeābilis}}, from {{m|la|in-|im-}} + {{m|la|permeābilis|t=permeable}}.
+
+===Adjective===
+{{en-adj}}
+
+# Impossible to [[permeate]].
+# Not allowing [[passage]], especially of [[liquid]]s; [[waterproof]].
+
+====Synonyms====
+* {{l|en|sealed}}
+
+====Antonyms====
+* {{l|en|permeable}}
+
+====Related terms====
+{{rel3
+|nonpermeable
+|permeability
+|impermeability
+|lang=en}}
+
+====Translations====
+{{trans-top|impossible to permeate}}
+* Bulgarian: {{t+|bg|непроницаем}}, {{t|bg|херметичен}}
+* Catalan: {{t+|ca|impermeable}}
+* French: {{t+|fr|imperméable}}
+* German: {{t+|de|dicht}}
+* Greek: {{t+|el|αδιαπέραστος|m}}
+* Irish: {{t|ga|neamh-thréscaoilteach}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|impermeável}}
+* Russian: {{t+|ru|непроницаемый}}
+* Spanish: {{t+|es|impermeable}}
+* Swedish: {{t|sv|ogenomtränglig}}, {{t+|sv|tät}}
+* Tagalog: {{t|tl|dimatulot}}
+{{trans-bottom}}
+
+{{trans-top|not allowing passage of liquids}}
+* Catalan: {{t+|ca|impermeable}}
+* French: {{t+|fr|imperméable}}
+* German: {{t+|de|dicht}}
+* Greek: {{t+|el|αδιάβροχος|m}}
+* Irish: {{t|ga|neamh-thréscaoilteach}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|impermeável}}
+* Russian: {{t+|ru|непромока́емый}}
+* Spanish: {{t+|es|impermeable}}
+* Swedish: {{t|sv|ogenomtränglig}}, {{t+|sv|tät}}, {{t+|sv|vattentät}}
+* Tagalog: {{t|tl|dimatulot}}
+{{trans-bottom}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{m|ca|impermeābilis}}, equivalent to {{af|ca|in-|alt1=im-|permeable}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|impermeable}}
+#: {{ant|en|permeable}}
+
+===Noun===
+{{ca-noun|m}}
+{{wikipedia|lang=ca}}
+
+# [[raincoat]]
+
+====Related terms====
+* {{l|ca|impermeabilitat}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{der|es|la|impermeābilis}}, equivalent to {{af|es|in-|alt1=im-|permeable}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Adjective===
+{{es-adj}}
+
+# {{l|en|impermeable}}
+#: {{ant|es|permeable}}
+
+===Noun===
+{{es-noun|m}}
+
+# [[raincoat]]
+
+====Related terms====
+* {{l|es|impermeabilidad}}
