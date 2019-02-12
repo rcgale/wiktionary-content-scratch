@@ -1,0 +1,106 @@
+{{also|harddrive}}
+==English==
+[[Image:Hdd od srodka.jpg|thumb|A hard disk drive]]
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# {{lb|en|computing}} A device used for storing large amounts of [[data]] for a [[computer]] that persist while the computer is turned off.
+
+====Synonyms====
+* {{l|en|hard disc}}, {{l|en|hard disk}}
+* {{l|en|hard disc drive}}, {{l|en|hard disk drive}}
+* {{l|en|HD}}, {{l|en|HDD}} {{qualifier|abbreviation}}
+
+====Translations====
+{{trans-top|device used for storing large amounts of data}}
+* Afrikaans: {{t|af|hardeskyf}}
+* Albanian: {{t|sq|hard disk|m}}
+* Arabic: {{t|ar|قُرْص صُلْب|m}}
+* Aragonese: {{t|an|disco duro|m}}
+* Asturian: {{t|ast|discu duru|m}}
+* Basque: {{t|eu|disko gogor}}
+* Belarusian: {{t|be|цвёрды дыск|m}}
+* Bengali: {{t|bn|হার্ড ডিস্ক|sc=Beng|tr=hārḍ ḍisk}}
+* Breton: {{t|br|pladenn galet}}
+* Catalan: {{t|ca|disc dur|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|硬碟|tr=yìngdié|sc=Hani}}, {{t+|cmn|硬盤|sc=Hani}}, {{t+|cmn|硬盘|tr=yìngpán|sc=Hani}}
+* Czech: {{t+|cs|pevný disk|m}}
+* Danish: {{t|da|harddisk}}
+* Dutch: {{t+|nl|harde schijf|f}}
+* Esperanto: {{t|eo|malmola disko}}, {{t|eo|durdisko}}
+* Estonian: {{t|et|kõvaketas}}
+* Faroese: {{t|fo|harðdiskur|m}}
+* Finnish: {{t+|fi|kiintolevy}}, {{t+|fi|kovalevy}}
+* French: {{t+|fr|disque dur|m}}
+* Friulian: {{t|fur|disc dûr}}
+* Galician: {{t|gl|disco ríxido|m}}
+* Georgian: {{t|ka|მყარი დისკი}}, {{t|ka|ხისტი დისკი}}
+* German: {{t+|de|Festplatte|f}}
+* Greek: {{t+|el|σκληρός δίσκος|m}}
+* Hawaiian: {{t|haw|kakena paʻaloko}}
+* Hebrew: {{t+|he|כונן קשיח|m}}
+* Hungarian: {{t+|hu|merevlemez}}
+* Icelandic: {{t|is|harður diskur|m}}, {{t+|is|harðdiskur|m}}
+* Indonesian: {{t|id|cakram keras}}
+* Interlingua: {{t|ia|disco dur}}
+* Irish: {{t|ga|tiomántán crua|m}}
+* Italian: {{t+|it|disco rigido}}
+* Japanese: {{t|ja|ハードディスク|tr=hādodisuku}}
+* Kabyle: {{t|kab|aḍebsi aquran}}
+* Kazakh: {{t+|kk|тұрғылықты дискі|sc=Cyrl}}
+* Korean: {{t|ko|하드 디스크}}
+* Latgalian: {{t|ltg|cītdiskys}}
+* Latvian: {{t|lv|cietais disks}}, {{t|lv|cietnis}}
+* Lingala: {{t|ln|diski ebómbelo enéne}}
+* Lithuanian: {{t|lt|standusis diskas}}
+{{trans-mid}}
+* Lombard: {{t|lmo|disch dür}}
+* Low German:
+*: German Low German: {{t|nds-de|Fastplaat}}
+* Luxembourgish: {{t+|lb|Festplack|f}}
+* Macedonian: {{t|mk|тврд диск|m}}, {{t|mk|хард диск|m}}
+* Malay: {{t|ms|cakera keras}}
+* Malayalam: {{t|ml|ഹാര്‍ഡ് ഡിസ്ക് ഡ്രൈവ്|sc=Mlym}}
+* Mongolian: {{t|mn|хатуу диск|sc=Cyrl}}
+* Norman: {{t|nrf|disque dû|m}}
+* Northern Sami: {{t|se|garraskearru}}
+* Norwegian: {{t|no|platelager}}
+* Persian: {{t|fa|دیسک سخت}}
+* Polish: {{t+|pl|dysk twardy}}
+* Portuguese: {{t+|pt|disco rígido|m}}, {{t|pt|disco duro|m}}
+* Romanian: {{t|ro|Disc dur|m}}
+* Russian: {{t+|ru|жёсткий диск|m}}, {{t+|ru|винче́стер|m}} {{qualifier|colloquial}}, {{t|ru|ха́рддиск|m}} {{qualifier|colloquial}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тврди диск|m|sc=Cyrl}}
+*: Roman: {{t|sh|tvrdi disk|m}}
+* Sicilian: {{t|scn|hard disk|m}}
+* Slovak: {{t|sk|pevný disk|m}}
+* Slovene: {{t|sl|trdi disk|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|twarda plata|f}}, {{t|dsb|kšuta plata|f}}
+* Spanish: {{t+|es|disco duro|m}}
+* Swahili: {{t|sw|kiendeshi diski kuu}}
+* Swedish: {{t+|sv|hårddisk|c}}
+* Tagalog: {{t|tl|hard disk drayb}}
+* Tamil: {{t|ta|வன்தட்டு நிலை நினைவகம்}}
+* Telugu: {{t|te|హార్డ్ డిస్క్ డ్రైవు}}
+* Thai: {{t+|th|ฮาร์ดดิสก์|tr=hâat-dìt}}
+* Turkish: {{t|tr|sabit disk}}
+* Ukrainian: {{t|uk|тве́рдий диск|m}}
+* Urdu: {{t|ur|قرص کثیفی قیادہ|m}}
+* Venetian: {{t|vec|disco duro}}
+* Vietnamese: {{t|vi|ổ đĩa cứng}}
+* West Frisian: {{t|fy|fêste skiif}}
+* Yakut: {{t|sah|кытаанах диск|sc=Cyrl}}
+* Yiddish: {{t|yi|האַרטער דיסק|m|tr=harter disk|sc=Hebr}}
+* Zulu: {{t-needed|zu}}
+{{trans-bottom}}
+
+===See also===
+* Compare with [[floppy drive]].
+
+[[Category:English retronyms]]
+[[Category:en:Computer hardware]]
