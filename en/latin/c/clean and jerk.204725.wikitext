@@ -1,0 +1,25 @@
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|clean-and-jerk}}
+
+===Noun===
+{{en-noun|head=[[clean]] and [[jerk]]}}
+
+# {{lb|en|weightlifting}} The act of lifting the [[barbell]] from the floor to a resting position across the front of the shoulders (the clean phase), [[pause|pausing]], and [[thrust]]ing the barbell over the head to a [[stationary]] position in one movement (the jerk phase). The normal technique for both parts of this act involves propelling the barbell upwards, quickly lowering the torso, and then straightening the legs.
+
+====Translations====
+{{trans-top|in weightlifting}}
+* Armenian: {{t+|hy|հրում|sc=Armn}}
+* Finnish: {{t+|fi|työntö}}
+* French: {{t+|fr|épaulé-jeté|m}}
+* German: {{t|de|Stoßen|n}}
+{{trans-mid}}
+* Polish: {{t|pl|podrzut|m}}
+* Russian: {{t+|ru|толчо́к}}
+* Spanish: {{t|es|dos tiempos|m}}
+{{trans-bottom}}
+
+[[Category:English coordinated pairs]]
+[[Category:English uncountable nouns]]
