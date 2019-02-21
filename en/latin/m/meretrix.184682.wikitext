@@ -1,0 +1,69 @@
+==English==
+
+===Etymology===
+Borrowed from {{bor|en|la|meretrix}}
+
+===Noun===
+{{en-noun|?}}
+
+# A [[prostitute]].
+
+----
+
+==Latin==
+
+===Etymology===
+From {{suffix|mereō|trīx|gloss1=merit, deserve|lang=la}}. Literally "she who earns".
+
+===Pronunciation===
+* {{la-IPA|meretrīx}}
+
+===Noun===
+{{la-noun|meretrīx|meretrīcis|f|third}}
+
+# {{lb|la|slang}} prostitute, female prostitute
+
+====Declension====
+{{la-decl-3rd|meretrīx}}
+
+====Derived terms====
+{{top2}}
+* {{l|la|meretrīcābilis}}
+* {{l|la|meretrīciē}}
+* {{l|la|meretrīcius}}
+{{mid2}}
+* {{l|la|meretrīcor}}
+* {{l|la|meretrīcula}}
+{{bottom}}
+
+====Related terms====
+{{top2}}
+* {{l|la|merenda}}
+* {{l|la|merendārius}}
+* {{l|la|merendō}}
+* {{l|la|merēns}}
+* {{l|la|mereō}}
+{{mid2}}
+* {{l|la|meritō}}
+* {{l|la|meritōrium}}
+* {{l|la|meritōrius}}
+* {{l|la|meritum}}
+* {{l|la|meritus}}
+{{bottom}}
+
+====Descendants====
+* Italian: {{l|it|meretrice}}
+* Old English: {{l|ang|myltestre}}
+* Portuguese: {{l|pt|meretriz}}
+* Spanish: {{l|es|meretriz}}
+
+====See also====
+* {{l|la|lēna}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+* {{R:Peck}}
+
+[[Category:la:Sex]]
