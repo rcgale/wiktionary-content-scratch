@@ -1,0 +1,89 @@
+{{also|erica|Érica}}
+==Translingual==
+[[Image:Erica cinera0.jpg|thumb|''Erica cinerea'']]
+
+===Etymology===
+{{der|mul|NL.|-}}, from {{der|mul|grc|ἐρείκη}}
+
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+
+# {{taxon|genus|family|Ericaceae|the [[heath]]s and [[heather]]s}}
+# {{taxon|genus|family|Salticidae|certain [[jumping spider]]s}}
+
+====Hypernyms====
+* {{sense|genus of heaths etc}} {{Ericaceae Hypernyms}}; [[Ericoideae]]&nbsp;- subfamily; {{taxlink|Ericeae|tribe|noshow=1}}&nbsp;- tribe
+
+====Hyponyms====
+* {{sense|genus of heaths etc}} {{taxlink|Erica subg. Chlamydanthe|subgenus|noshow=1}}, {{taxlink|Erica subg. Ectasis|subgenus|noshow=1}}, {{taxlink|Erica subg. Erica|subgenus|noshow=1}}, {{taxlink|Erica subg. Platystoma|subgenus|noshow=1}}, {{taxlink|Erica subg. Stellanthe|subgenus|noshow=1}}, {{taxlink|Erica subg. Syringodea|subgenus|noshow=1}}&nbsp;- subgenera
+
+===References===
+* {{pedia|i=1}}
+* {{pedia|Erica (jumping spider)|''Erica'' (jumping spider)}}
+* {{specieslite|Erica (Ericaceae)|''Erica'' (Ericaceae)}}
+* {{specieslite|Erica (Salticidae)|''Erica'' (Salticidae)}}
+* {{comcatlite|i=1}}
+* {{R:USDA Plants|ERICA}}
+
+----
+
+==English==
+
+===Alternative forms===
+* {{l|en|Erika}}
+* {{l|en|Ericka}}
+
+===Etymology===
+Feminine form of {{m|en|Eric}}, ultimately from {{der|en|non|-}}. The name has also been associated with the flower genus.
+
+===Pronunciation===
+* {{rhymes|ɛrɪkə|lang=en}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{given name|female|from=Germanic languages}}.
+#* '''1994''' Erica Jong: ''Fear of Fifty'': page 140:
+#*: But '''Erica''' Mann Jong is, alas, just as patriarchal as '''Erica''' Jong. When Thomas Mann's daughter, Erika, was alive, the confusion of names bothered me. My parents had met and admired Thomas Mann. They loved his daughter's name and wished creativity upon me. ''[[Erica]]'' means white flower in German, and queen in old Scandinavian, but to them, it meant ''writer''.
+
+====Translations====
+{{trans-top|female given name}}
+* Czech: {{t|cs|Erika|f}}
+* Danish: {{t|da|Erika}}
+* Estonian: {{t|et|Erika}}
+* Finnish: {{t+|fi|Eerika}}, {{t|fi|Eriika}}, {{t|fi|Eriikka}}, {{t+|fi|Riikka}}
+* German: {{t+|de|Erika}}
+* Hungarian: {{t+|hu|Erika}}
+* Latvian: {{t|lv|Ērika|f}}
+{{trans-mid}}
+* Norwegian: {{t+|no|Erika}}
+* Portuguese: {{t|pt|Érica|f}}
+* Russian: {{t+|ru|Э́рика|f}}
+* Serbo-Croatian: {{t+|sh|Erika|f}}
+* Slovak: {{t|sk|Erika}}
+* Swedish: {{t+|sv|Erika}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aceir|areic|ceria}}
+
+----
+
+==German==
+
+===Pronunciation===
+* {{audio|De-Erica.ogg|Audio|lang=de}}
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{given name|female|lang=de}}, a less common spelling of [[Erika]].
+
+----
+
+==Swedish==
+
+===Proper noun===
+{{sv-proper noun|c}}
+
+# {{given name|female|lang=sv}}, a less common spelling of [[Erika]].
