@@ -1,0 +1,73 @@
+==English==
+{{wp}}
+
+===Alternative forms===
+* {{l|en|Ashlee}}
+* {{l|en|Ashleigh}}
+* {{l|en|Ashlie}}
+* {{l|en|Ashly}}
+
+===Etymology===
+From {{der|en|ang|æsc||[[ash]] tree}} + {{m|ang|leah||[[wood]], [[clearing]]}}.
+
+===Pronunciation===
+* {{a|US}} {{IPA|/ˈæʃli/|lang=en}}
+
+===Proper noun===
+{{en-proper noun|s}}
+
+# One of ten villages in [[England]].
+# {{surname|lang=en|from=Old English|dot=}} derived from the places in England.
+# {{given name|male|from=surnames}} transferred from the surname.
+#* '''1936''' Margaret Mitchell: ''Gone With the Wind'': Chapter III:
+#*: 'There now, Scarlett! You admit it is true. What would you be doing with a husband like '''Ashley'''? 'Tis moonstruck they all are, all the Wilkes.'
+# {{given name|female|from=surnames}} transferred from the surname.
+#* '''1999''' Andrew Pyper: ''Lost Girls'': Chapter Ten:
+#*: But when Krystal McConnell and '''Ashley''' Flynn were named deep in the heart of the '80s the thing was cuteness, feminine delicacy raised to an aesthetic paradigm. --- And everyone named according to a particular version of the pedigree fantasy. ''[[Ashley]]'' : transplanted Southern privilege, a destiny lying in sorority mixers and a marriage of health club memberships, state-of-the-art appliances and night courses in ''nouvelle cuisine''.
+#* '''2013''' {{w|Matt Haig}}, ''The Humans'',Canongate, {{ISBN|978 0 85786 878 7}} page 832:
+#*:I discovered that her full name was Margaret Lowell. I wasn't an expert on Earth names, but I still knew this was wildly inappropriate. She should have been called Lana Bellcurve or '''Ashley''' Brainsex or something.
+# A city in [[Illinois]].
+# A town in [[Indiana]].
+# A village in [[Michigan]].
+# A small city in and the [[county seat]] of {{l|en|McIntosh County}}, [[North Dakota]].
+# A village/town in [[Ohio]].
+# A borough in [[Pennsylvania]].
+
+====Usage notes====
+* Ashley was originally a male given name, but since the sixties it has also been given to women, particularly in the US, where it was the top name for girls in 1991 and 1992.
+
+====Derived terms====
+* {{l|en|Ashley County}}
+
+====Translations====
+{{trans-top|name}}
+* Chinese:
+*: Mandarin: {{t|cmn|阿什利|tr=Āshílì|sc=Hani}}
+{{trans-mid}}
+* Russian: {{t+|ru|Э́шли|f}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aehlsy|Haleys|Halsey|Hasley|Shealy|shaley}}
+
+[[Category:English unisex given names]]
+[[Category:en:Illinois, USA]]
+[[Category:en:Michigan, USA]]
+[[Category:en:North Dakota, USA]]
+[[Category:en:Ohio, USA]]
+[[Category:en:Pennsylvania, USA]]
+[[Category:en:Towns in Indiana]]
+[[Category:en:Villages in England]]
+
+----
+
+==Tagalog==
+
+===Etymology===
+From {{bor|tl|en|Ashley}}.
+===Pronunciation===
+*{{hyphenation|lang=tl|ash|ley}}
+*{{IPA|/ˈaʃ.li/|lang=tl}}
+===Proper noun===
+{{head|tl|proper noun}}
+#{{given name|female|lang=tl|from=English}}, popular in the Philippines from the 2000s onwards.
