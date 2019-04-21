@@ -1,0 +1,20 @@
+{{also|rest|Rest|REST|rešt|Rest.}}
+==English==
+
+===Noun===
+{{en-noun|-}}
+
+# {{abbreviation of|restitution|lang=en}}
+
+===Anagrams===
+* {{anagrams|en|a=erst|-ster|ERTs|SERT|erst|rets|tres}}
+
+----
+
+==German==
+
+===Abbreviation===
+{{rfc-header|Abbreviation}}
+{{head|de|abbreviation}}
+
+# {{lb|de|apartment listing}} Abbreviation of [[restauriert]]
