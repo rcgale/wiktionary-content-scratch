@@ -1,0 +1,249 @@
+{{also|hög|høg}}
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{qualifier|UK|dialectal}} [['og]]
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/hɒɡ/|lang=en}}
+* {{a|US}} {{IPA|/hɑɡ/|/hɔɡ/|lang=en}}
+* {{audio|en-us-hog.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɒɡ|lang=en}}
+* {{homophones|hogg|lang=en}}
+
+===Etymology 1===
+From {{inh|en|enm|hog}}, from {{inh|en|ang|hogg}}, {{m|ang|hocg||hog}}, possibly from {{etyl|non|en}} {{m|non|hǫggva||to strike, chop, cut|sc=Latinx}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hawwaną||to hew, forge}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kowə-||to beat, hew, forge}}. Cognate with Old High German {{m|goh|houwan}}, Old Saxon {{m|osx|hauwan}}, Old English {{m|ang|hēawan}} (English {{m|en|hew}}). "Hog" originally meant a [[castrate]]d male pig, hence a sense of "the cut one". (Compare "[[hogget]]" for a castrated male sheep.) More at {{l|en|hew}}.
+
+====Noun====
+{{en-noun}}
+
+# Any animal belonging to the [[Suidae]] family of mammals, especially the [[pig]], the [[warthog]], and the [[boar]].
+# {{lb|en|specifically}} An adult swine {{qualifier|contrasted with a [[pig]], a young swine}}.
+#* '''2005''' April, ''Live Swine from Canada, Investigation No. 731-TA-1076 (Final), publication 3766, April 2005, U.S. International Trade Commission'' {{ISBN|1457819899}}, page I-9:
+#*: Weanlings grow into feeder pigs, and feeder pigs grow into slaughter '''hogs'''. {{...}} Ultimately the end use for virtually all pigs and '''hogs''' is to be slaughtered for the production of pork and other products.
+# A [[greedy]] person; one who refuses to share.
+# {{lb|en|slang}} A large motorcycle, particularly a [[w:Harley Davidson|Harley-Davidson]].
+# {{lb|en|UK}} A young [[sheep]] that has not been [[shear|shorn]].
+# {{lb|en|nautical}} A rough, flat scrubbing broom for scrubbing a ship's bottom under water.
+#: {{rfquotek|Totten}}
+# A device for mixing and stirring the [[pulp]] from which [[paper]] is made.
+# {{lb|en|UK|historical|archaic|_|slang|countable|and|uncountable}} A [[shilling]] [[coin]]; its [[value]], 12 [[old pence]].
+#* '''1933''', {{w|George Orwell}}, ''{{w|Down and Out in Paris and London}}'', xxix
+#*: ‘[['ere|’Ere]] [[y'|y’]]are, the best [[rig out|rig-out]] you ever [['ad|’ad]]. A [[tosheroon]] [half a crown]<!--sic: in original--> for the coat, two '''[['og|’og]]s''' for the [[trousers]], one and a [[tanner]] for the boots, and a '''[['og|’og]]''' for the cap and scarf. That’s seven [[bob]].’
+#* '''1961''', Eric Partridge, ''The Routledge Dictionary of Historical Slang''
+#*: '''hog''' ([[plural|pl]] '''hog'''). A [[shilling]]: [[originally|orig.]] ([[circa|ca]] 1670), [[cant|c]].; in [[century|C]].19–20, low [[slang|s]].
+# {{lb|en|UK|historical|obsolete|_|slang|countable|_|&|_|uncountable}} A [[tanner]], a [[sixpence]] [[coin]]; its [[value]].
+#* '''1961''', Eric Partridge, ''The Routledge Dictionary of Historical Slang''
+#*: '''hog''' ([[plural|pl]] '''hog''')... 2. In [[century|C]].18–early 19, [[occasionally|occ]]. a [[sixpence]]: also [[cant|c]]., whence the U.S. sense. [[probably|Prob]]. [[from|ex]] the figure of a hog on a small silver coin.
+# {{lb|en|UK|historical|obsolete|_|slang|countable|_|&|_|uncountable}} A [[half-crown]] [[coin]]; its [[value]], 30 old [[pence]].
+#* '''1961''', Eric Partridge, ''The Routledge Dictionary of Historical Slang''
+#*: '''hog''' ([[plural|pl]] '''hog''')... 3. A [[half-crown]]: [[circa|ca]] 1860–1910.
+
+=====Hyponyms=====
+* {{lb|en|shilling coins}} [[white hog]], [[black hog]]
+
+=====Derived terms=====
+{{rel-top3|Terms derived from ''hog'' (noun)}}
+* {{l|en|groundhog}}
+* {{l|en|hedgehog}}
+* {{l|en|high on the hog}}
+* {{l|en|hogback}}, {{l|en|Hog's Back}}
+* {{l|en|hog-baying}}
+* {{l|en|hogcote}}
+* {{l|en|hog heaven}}
+* {{l|en|hog island}}
+* {{l|en|hog waller}} (hog wallow)
+{{rel-mid3}}
+* {{l|en|hog-wallowing}}
+* {{l|en|hog-wild}}
+* {{l|en|hog line}}
+* {{l|en|hog maw}}
+* {{l|en|hog-rubber}}
+* {{l|en|hog town}}
+* {{l|en|hogherd}}
+* {{l|en|hoggish}}
+{{rel-mid3}}
+* {{l|en|hoggishly}}
+* {{l|en|hoggy}}
+* {{l|en|hogshead}}
+* {{l|en|road hog}}
+* {{l|en|sea hog}}
+* {{l|en|whole hog}}, {{l|en|go whole hog}}
+{{rel-bottom}}
+
+=====Translations=====
+{{trans-top|animal of the family Suidae}}
+* Arabic: {{t|ar|خِنْزِير|m}}
+*: Egyptian Arabic: {{t|arz|خنزير|m|tr=xanzīr|sc=Arab}}
+* Armenian: {{t+|hy|խոզ|n}}
+* Belarusian: {{t|be|свіння|f|tr=svinnjá|sc=Cyrl}}
+* Bulgarian: {{t+|bg|свиня|f|tr=svinjá|sc=Cyrl}}, {{t+|bg|прасе|n}}
+* Catalan: {{t|ca|suid|m}}, {{t+|ca|marrà|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|豬|sc=Hani}}, {{t+|cmn|猪|tr=zhū|sc=Hani}}
+* Czech: {{t+|cs|vepř|m}}, {{t+|cs|svině|f}}
+* Danish: {{t+|da|svin|n}}
+* Dutch: {{t+|nl|varken}}
+* Esperanto: {{t-needed|eo}}
+* Estonian: {{t|et|sigalane}}
+* Finnish: {{t+|fi|sika}}
+* French: {{t+|fr|cochon|m}}
+* Georgian: {{t+|ka|ღორი}}
+* German: {{t+|de|Schwein|n}}, {{t+|de|Hausschwein|n}}
+* Greek:
+*: Ancient: {{t|grc|χοῖρος|m}}
+* Hebrew: {{t+|he|חזיר|m|tr=khazir|sc=Hebr}}
+* Hindi: {{t+|hi|सूअर|m|tr=sū'ar|sc=Deva}}
+* Hungarian: {{t+|hu|disznó}}, {{t+|hu|sertés}}
+* Indonesian: {{t+|id|babi}}
+* Irish: {{t+|ga|muc|f}}, {{t|ga|borra|m}}
+* Japanese: {{t+|ja|豚|tr=[[ぶた]], buta}}, {{t+|ja|ブタ|tr=buta|sc=Jpan}}
+* Khmer: {{t+|km|ជ្រូក|tr=jruuk|sc=Khmr}}
+* Korean: {{t+|ko|돼지}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|vepris|m}}
+* Latin: {{t+|la|sūs|c}}
+* Latvian: {{t|lv|vepris}}
+* Lithuanian: {{t|lt|meitėlis|m}}
+* Luxembourgish: {{t|lb|Schwäin|m}}
+* Macedonian: {{t|mk|свиња|tr=svínja|f}}
+* Maori: {{t-needed|mi}}
+* Navajo: {{t|nv|bisóodi}}
+* Norwegian: {{t+|no|svin|n}}
+* Novial: {{t-needed|nov}}
+* Occitan: {{t-needed|oc}}
+* Old French: {{t|fro|bacon}}
+* Polish: {{t+|pl|wieprz|m}}, {{t+|pl|świnia|f}}
+* Portuguese: {{t+|pt|suíno|m}}
+* Romanian: {{t-needed|ro}}
+* Russian: {{t+|ru|свинья́|f}}, {{t+|ru|бо́ров|m}} {{qualifier|boar}}, {{t+|ru|вепрь|m}} {{qualifier|wild boar}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свиња|f}}
+*: Roman: {{t+|sh|svinja|f}}
+* Slovak: {{t+|sk|sviňa|f}}
+* Slovene: {{t+|sl|svinja|f}}
+* Spanish: {{t+|es|puerco|m}}, {{t+|es|cerdo|m}}
+* Swedish: {{t|sv|svindjur|n}}
+* Ukrainian: {{t|uk|свиня|f|tr=svynjá|sc=Cyrl}}
+* Volapük: {{t+|vo|svin}}
+* Welsh: {{t+|cy|mochyn|m}}
+{{trans-bottom}}
+
+{{trans-top|greedy person}}
+* Bulgarian: {{t+|bg|скъперник|m}}
+* Catalan: {{t|ca|tacany|m}}
+* Finnish: {{t|fi|rohmu}}, {{t+|fi|ahnehtija}}, {{t+|fi|kitupiikki}}
+* German: {{t+|de|Vielfraß|m}}, {{t+|de|Sau|f}}
+* Irish: {{t+|ga|muc|f}}
+{{trans-mid}}
+* Portuguese: {{t|pt|ganancioso}}
+* Russian: {{t+|ru|скря́га|m|f}}, {{t+|ru|жа́дина|m|f}} {{qualifier|informal}}
+* Spanish: {{t|es|codicioso|m}}
+* Welsh: {{t|cy|bolgi|m}}
+{{trans-bottom}}
+
+{{trans-top|large motorcycle}}
+* Finnish: {{t|fi|harrikka}} {{qualifier|HD}}
+* Indonesian: {{t|id|moge}} {{qualifier|motor gede}}
+* Russian: {{t|ru|мо́щный мотоци́кл|m}}
+{{trans-mid}}
+* Spanish: {{t|es|motaza|f}}
+* Swedish: {{t+|sv|hoj|c}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb|hogg}}
+
+# {{lb|en|transitive}} To [[greedily]] take more than one's share, to take precedence at the expense of another or others.
+#* '''2000''' DiCamillo, Kate ''Because of Winn-Dixie'', Scholastic Inc., New York, Ch 15:
+#*: The [...] air-conditioning unit didn't work very good, and there was only one fan; and from the minute me and Winn-Dixie got in the library, he '''hogged''' it all.
+#: ''Hey! Quit '''hogging''' all the blankets.''
+# {{lb|en|transitive}} To [[clip]] the [[mane]] of a [[horse]], making it short and bristly.
+#: {{rfquotek|Smart}}
+# {{lb|en|nautical}} To [[scrub]] with a hog, or scrubbing broom.
+# {{lb|en|transitive|nautical}} To cause the [[keel]] of a ship to [[arch]] upwards (the opposite of {{m|en|sag}}).
+
+=====Synonyms=====
+* {{sense|take greedily}} {{l|en|bogart}}
+
+=====Translations=====
+{{trans-top|to greedily take more than one's share, to take precedence at the expense of another or others}}
+* Dutch: {{t|nl|voor zichzelf opeisen}}, {{t+|nl|inpikken}}
+* Finnish: {{t+|fi|rohmuta}}, {{t+|fi|ahnehtia}}, {{t+|fi|ahnehtia}}, {{t+|fi|omia}}
+* German: {{t|de|sich selbstsüchtig aneignen}}, {{t|de|in Beschlag nehmen}}, {{t+|de|raffen}}
+{{trans-mid}}
+* Russian: {{qualifier|colloquial}} {{t+|ru|заграбастывать}}, {{qualifier|colloquial}} {{t+|ru|заграбастать}}, {{qualifier|colloquial}} {{t|ru|прибирать к рука́м}}, {{qualifier|colloquial}} {{t+|ru|прибрать к рука́м}}, {{t+|ru|жадничать|impf}}
+* Spanish: {{t+|es|racanear}}, {{t+|es|acaparar}}, {{t+|es|chupar}}
+* Swedish: {{t|sv|roffa åt sig}}
+{{trans-bottom}}
+
+{{trans-top|to clip the mane of a horse, making it short and bristly}}
+* Russian: {{t|ru|ко́ротко подстригать|tr=}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+{{clipping|en|quahog}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|informal}} A [[quahog]] {{qualifier|clam}}
+
+===Anagrams===
+* {{anagrams|en|a=gho|GOH|GoH|Goh|OHG|OHG.}}
+
+[[Category:English three-letter words]]
+[[Category:en:Pigs]]
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|ogge|hog|hoge|hooge}}
+
+===Etymology===
+From {{inh|enm|ang|hogg}}, {{m|ang|hocg}}; further etymology is disputed.
+
+===Pronunciation===
+* {{IPA|lang=enm|/hɔɡ/|/hɔːɡ/}}
+
+===Noun===
+{{enm-noun}}
+
+# A [[pig]] or [[swine]], especially one that is castrated and male.
+# The meat of [[swine]] or [[pigs]].
+# A [[hogget]] or [[young]] [[sheep]].
+
+====Synonyms====
+* {{l|enm|swine}}
+* {{l|enm|pigge}}
+
+====Descendants====
+* {{desc|en|hog}}
+* {{desc|sco|hog}}, {{l|sco|hogue}}
+
+====References====
+* {{R:MED Online|entry=hogge (n.(1)) |id=MED20954 |accessdate=2018-04-03}}
+
+[[Category:enm:Livestock]]
+[[Category:enm:Mammals]]
+[[Category:enm:Meats]]
+[[Category:enm:Pigs]]
+
+----
+
+==Volapük==
+
+===Pronunciation===
+* {{IPA|/hoɡ/|lang=vo}}
+
+===Noun===
+{{vo-noun}}
+
+# [[hole]]
+
+====Declension====
+{{vo-decl-noun}}
