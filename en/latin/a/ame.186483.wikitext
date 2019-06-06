@@ -1,0 +1,246 @@
+{{also|Appendix:Variations of "ame"}}
+==Afade==
+
+===Alternative forms===
+* {{qualifier|various orthographies:}} ʔâm / ámeh / ameː / hămē / ame̱
+
+===Etymology===
+Ultimately from {{inh|aal|cdc-pro|*ymn}}.
+
+===Noun===
+{{head|aal|noun}}
+
+# [[water]]
+
+===References===
+* {{R:egy:EDE|v=3|p=201}}:
+*: {{...}} we should carefully distinguish the following Ch. roots from AA *m-ˀ "water" [GT]:
+*: (1) Ch. *h-m "water" [GT]: {{...}} Afd. ámeh [ame(ː)] [Stz.] = hămē [Barth] = ame̱ [Lbf.], {{...}}
+
+----
+
+==Chamicuro==
+
+===Noun===
+{{head|ccc|noun}}
+
+# [[axe]], [[hatchet]]
+
+----
+
+==Cheyenne==
+
+===Noun===
+{{head|chy|noun|inanimate}}
+
+# [[pemmican]]
+
+----
+
+==Esperanto==
+
+===Etymology===
+{{suffix|eo|ami|e}}
+
+===Pronunciation===
+* {{audio|Eo-ame.ogg|Audio|lang=eo}}
+
+===Adverb===
+{{eo-head}}
+
+# with [[love]], in love, [[lovingly]]
+#* Edmond Privat, ''Vivo de Zamenhof'', Ĉapitro 11,
+#*: '''''Ame''' ĉirkaŭata, li sidadis en la mezo de la kongresanoj kun edzino.''
+#*:: Surrounded '''with love''', he would sit with his wife in the midst of those attending the congress.
+#* Stellan Engholm, ''Infanoj en Torento'', Dua Parto, Ĉapitro III,
+#*: ''li subite metis sian brakon ĉirkaŭ ŝian kolon kaj '''ame''' rigardis en ŝiajn okulojn.''
+#*:: he suddenly put his arm around her neck and looked '''lovingly''' into her eyes.
+
+----
+
+==Ewe==
+
+===Noun===
+{{head|ee|noun}}
+
+# [[man]] {{gloss|human}}
+
+====Related terms====
+* {{l|ee|amegbetɔ}}
+
+[[Category:ee:Human]]
+
+----
+
+==Galician==
+
+===Verb===
+{{gl-verb-form}}
+
+# {{inflection of|amar||1|s|pres|subj|lang=gl}}
+# {{inflection of|amar||3|s|pres|subj|lang=gl}}
+
+----
+
+==Japanese==
+
+===Romanization===
+{{ja-romaji}}
+
+# {{ja-romanization of|あめ}}
+
+----
+
+==Laurentian==
+
+===Noun===
+{{head|lre|noun}}
+
+# [[water]]
+<!--
+
+===References===
+* Merritt Ruhlen, ''On the Origin of Languages: Studies in Linguistic Taxonomy'' (1994)
+and
+fr.Wikt
+is better sourcing available?
+-->
+
+----
+
+==Middle French==
+
+===Etymology===
+{{etyl|la|frm}} {{m|la|anima}}
+
+===Noun===
+{{frm-noun|f}}
+
+# [[soul]]; [[spirit]]
+
+====Descendants====
+* French: [[âme]]
+
+----
+
+==Mpade==
+
+===Etymology===
+Ultimately from {{inh|mpi|cdc-pro|*ymn}}.
+
+
+===Noun===
+{{head|mpi|noun}}
+
+# [[water]]
+
+===References===
+* S. Allison, ''[https://web.archive.org/web/20111015112617/http://www.silcam.org/documents/MakaryKotokoLexicon.pdf Makary Kotoko Provisional Lexicon]'' (SIL)
+
+----
+
+==Old French==
+
+===Alternative forms===
+* {{l|fro|anima}} {{qualifier|9th and 10th centuries}}
+* {{l|fro|anme}} {{qualifier|11th century}}
+
+===Etymology===
+From {{inh|fro|la|anima}}.
+
+===Noun===
+{{fro-noun|f}}
+
+# [[soul]]; [[spirit]]
+
+====Descendants====
+* French: {{l|fr|âme}}
+* Walloon: {{l|wa|åme}}
+
+===References===
+* {{R:Godefroy|supplement=1}}
+* {{R:Anglo-Norman On-Line Hub}}
+
+----
+
+==Portuguese==
+
+===Pronunciation===
+* {{rhymes|ami|lang=pt}}
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb form of|amar|ar|subjunctive|present|singular|first}}
+# {{pt-verb form of|amar|ar|subjunctive|present|singular|third}}
+# {{pt-verb form of|amar|ar|imperative|affirmative|singular|third|}}
+# {{pt-verb form of|amar|ar|imperative|negative|singular|third|}}
+
+----
+
+==Romani==
+
+===Pronoun===
+{{head|rom|pronoun}}
+
+# [[we]]
+
+----
+
+==Spanish==
+
+===Verb===
+{{head|es|verb form}}
+
+# {{es-verb form of|person=first-person|number=singular|tense=present|mood=subjunctive|ending=ar|amar}}
+# {{es-verb form of|person=third-person|number=singular|tense=present|mood=subjunctive|ending=ar|amar}}
+# {{es-verb form of|formal=yes|person=second-person|number=singular|sense=affirmative|mood=imperative|ending=ar|amar}}
+
+----
+
+==Tarantino==
+
+===Verb===
+{{head|roa-tar|verb form}}
+
+# {{inflection of|avere||1|p|pres|indc|lang=roa-tar}}
+
+----
+
+==Umbundu==
+
+===Pronoun===
+{{head|umb|pronoun}}
+
+# [[I]] {{gloss|first-person singular pronoun}}
+
+====See also====
+{{umb-personal pronouns}}
+
+----
+
+==Uneme==
+
+===Noun===
+{{head|une|noun}}
+
+# [[water]]
+
+===References===
+* ''The History of Ogori'' (1970), in notes<!--
+also, per fr.wikt:
+* AJ Adetayo, ''[//www.unilorin.edu.ng/studproj/arts/0715cb013.doc The Uneme noun phrase]'' (2011), page 122
+* Baruch Elimelech, ''[http://escholarship.org/uc/item/7qd5v492.pdf A Tonal Grammar of Etsako]'' (1976), page 162
+-->
+
+----
+
+==Zirenkel==
+
+===Noun===
+{{head|zrn|noun}}
+
+# [[water]]
+
+===References===
+* Eric Johnson, Calvain Mbernodji, ''[http://www.sil.org/silesr/2006/silesr2006-003.pdf Enquête sociolinguistique de la langue Moubi du Tchad]'', ''SIL Electronic Survey Reports'' (2006), page 24
