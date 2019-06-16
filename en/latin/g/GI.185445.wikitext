@@ -1,0 +1,76 @@
+{{also|Appendix:Variations of "gi"}}
+==Translingual==
+
+===Symbol===
+{{head|mul|symbol}}
+
+# The [[ISO]] 3166-1 two-letter (alpha-2) code for [[Gibraltar]].
+
+[[Category:ISO 3166-1]]
+
+----
+
+==English==
+
+===Alternative forms===
+* {{l|en|G.I.}}
+
+===Etymology===
+'''GI''' was originally an initialism for ''Galvanized Iron''; during the 1930s the usage expanded to stand for ''Government Issue''; by World War II it had become a nickname for the military personnel themselves.
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|military}} {{initialism of|lang=en|[[general]] [[issue]]}} Given to a soldier by the army (''as'' an item), rather than brought from home; ''or'' used by the army (''as'' a procedure), and different from its [[civilian]] counterpart.
+#: {{ux|en|Soldiers counted cadence by chanting: “'''GI''' brush / And '''GI''' comb / Gee, I wish that I was home!”}}
+# {{lb|en|medicine}} {{initialism of|lang=en|gastrointestinal}}
+#: {{ux|en|I was queasy after my upper '''GI''' series, but it far outshone the lower one.}}
+# {{lb|en|US}} {{initialism of|lang=en|government issue}}
+# {{lb|en|US|military}} {{initialism of|lang=en|general infantry}}
+#: {{ux|en|'''GI''' Joe.}}
+
+====Derived terms====
+* {{sense|gastrointestinal}} {{l|en|GI tract}}
+
+===Noun===
+{{en-noun}}
+
+# A member of the U.S. military.
+# One who is [[demanding]] and [[strict]], in the manner of a stereotypical member of the military.
+# {{initialism of|lang=en|[[galvanize|galvanized]] [[iron]]}}
+# {{initialism of|lang=en|geographical indication}}
+# {{initialism of|glycemic index|lang=en}}
+# {{misspelling of|Gl|lang=en}}, the prefix for [[Gliese]] catalog of nearby stars
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|military}} To [[clean]] aggressively.
+#: {{ux|en|Top, get the unit to '''GI''' this AO before the old man arrives.}}
+
+===See also===
+* {{l|en|GI can}}
+
+===Further reading===
+* {{pedia}}
+* {{pedia|GI (military)}}
+* {{pedia|G.I. Joe}}
+
+===Anagrams===
+* {{anagrams|en|a=gi|IG|Ig|ig}}
+
+[[Category:en:People]]
+
+----
+
+==Tagalog==
+
+===Noun===
+{{tl-noun}}
+
+# {{lb|tl|informal}} [[genuine|Genuine]] [[Intsik]]; {{non-gloss definition|a term used generally or exclusively by [[w:Filipino-Chinese|naturalized Chinese people in the Philippines]] to refer to Chinese citizens raised in China.}}
+#: ''Ang lalim ng Chinese (vocabulary) ng '''GI''' na nakilala ko at 'di kami nagkaintindihan kahit sabay kaming gumagamit ng Mandarin.''
+#:: The Chinese (vocabulary) used by the '''GI''' I met was deep and we couldn't understand each other despite both our conversing in Mandarin.
+
+====See also====
+* [[Tsinoy]]
