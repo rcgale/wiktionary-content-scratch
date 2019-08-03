@@ -1,0 +1,161 @@
+{{also|helen|Helén}}
+==English==
+
+===Etymology===
+From {{der|en|fr|Hélène}}, from {{der|en|la|Helena}}, from {{der|en|grc|Ἑλένη|}}.
+
+===Pronunciation===
+* {{audio|en-us-Helen.ogg|Audio (US)|lang=en}}
+* {{IPA|/ˈhɛlən/|lang=en}}
+* {{rhymes|ɛlən|lang=en}}
+
+===Proper noun===
+{{en-proper noun|s}}
+
+# {{lb|en|Greek mythology}} the daughter of [[Zeus]] and [[Leda]], considered to be the most beautiful woman in the world; her abduction by [[Paris]] brought about the Trojan War.
+#* '''1602''' William Shakespeare, ''Troilus and Cressida'', Act I, Scene I
+#*: Fools on both sides! '''Helen''' must needs be fair,
+#*: When with your blood you daily paint her thus.
+# {{given name|lang=en|female|from=Ancient Greek}}.
+#* '''1928''' [[w:Agatha Christie|Agatha Christie]], ''The Mystery of the Blue Train''
+#*: "Is her name Ellen or '''Helen''', Miss Viner? I thought - "
+#*: Miss Viner closed her eyes.
+#*: "I can sound my h's, dear, as well as anyone, but '''Helen''' is ''not'' a suitable name for a servant. I don't know what the mothers in the lower classes are coming to nowadays."
+#* '''1993''' [[w:Oscar Hijuelos|Oscar Hijuelos]], ''The Fourteen Sisters of Emilio Montez O'Brien'', {{ISBN|0-14-023028-9}}, page 6:
+#*: - - - in 1910 she brought '''Helen''' into the world, the little female, or "''mujercita''", as her mother called all the babies, naming her after the glittery label on a facial ointment, The '''Helen''' of Troy Beauty Pomade, said to eradicate wrinkles, to soften and add a youthful glow to the user's skin - a fortuitous choice because, of all the sisters, she would be the most beautiful and, never growing old, would always possess the face of a winsome adolescent beauty.
+#* '''2003''' [[w:Deborah Crombie|Deborah Crombie]], A Share in Death'', HarperCollins, {{ISBN|0060534389}}, page 189
+#*: Gemma followed her, thinking that '''Helen''' seemed rather an old-fashioned and elegant name for this rumpled young mother.
+
+====Derived terms====
+* {{l|en|St Helens}}, {{l|en|St. Helens}}
+
+====Related terms====
+* {{l|en|Elaine}}, {{l|en|Elena}}, {{l|en|Ellen}}, {{l|en|Ellie}}, {{l|en|Helena}}, {{l|en|Helene}}, {{l|en|Ilona}}, {{l|en|Lena}}, {{l|en|Nell}}, {{l|en|Nellie}}
+
+====Descendants====
+* {{desc|bor=1|da|Helen}}
+* {{desc|bor=1|et|Helen}}
+* {{desc|bor=1|haw|Helena}}
+* {{desc|bor=1|no|Helen}}
+* {{desc|bor=1|sv|Helen}}
+
+====Translations====
+{{trans-top|(Greek mythology) the daughter of Zeus and Leda}}
+* Armenian: {{t+|hy|Հեղինե}}
+* Catalan: {{t+|ca|Helena}}
+* French: {{t+|fr|Hélène}}
+* Galician: {{t+|gl|Helena|f}}
+* German: {{t+|de|Helena}}
+* Greek: {{t+|el|Ελένη}}
+*: Ancient: {{t|grc|Ἑλένη}}
+{{trans-mid}}
+* Italian: {{t+|it|Elena}}
+* Latin: {{t|la|Helena}}
+* Portuguese: {{t+|pt|Helena|f}}
+* Russian: {{t+|ru|Еле́на}}
+* Spanish: {{t+|es|Helena}}
+{{trans-bottom}}
+
+{{trans-top|female given name}}
+* Arabic: {{t|ar|هِيلِين|f|tr=hīlin}}, {{t|ar|هِيلِين|f|tr=helen}}
+* Armenian: {{t+|hy|Հեղինե}}
+*: Old Armenian: {{t|xcl|Հեղինէ}}
+* Breton: {{t|br|Elen|f}}
+* Catalan: {{t+|ca|Helena}}, {{t|ca|Elena}}
+* Chinese:
+*: Mandarin: {{t+|cmn|海倫|sc=Hani}}, {{t+|cmn|海伦|tr=Hǎilún|sc=Hani}}
+* Czech: {{t+|cs|Helena}}
+* Danish: {{t|da|Helene}}
+* Dutch: {{t|nl|Eliene}}
+* Esperanto: {{t|eo|Heleno}}
+* Estonian: {{t|et|Helena}}
+* Finnish: {{t+|fi|Helena}}
+* French: {{t+|fr|Hélène}}
+* Galician: {{t+|gl|Helena|f}}
+* German: {{t+|de|Helene}}
+* Greek: {{t+|el|Ελένη|f}}
+* Greenlandic: {{t|kl|Helene}}, {{t|kl|Iiliit}}
+* Hawaiian: {{t|haw|Helena}}
+* Hebrew: {{t+|he|הלני|f|tr=Heléni|alt=הִילְנִי}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|Ilona}}
+* Icelandic: {{t+|is|Elín}}, {{t+|is|Helena}}
+* Inuktitut: {{t|iu|ᐦᐄᓕᓐ|tr=Hiilin|sc=Cans}}
+* Irish: {{t|ga|Léan}}
+* Italian: {{t+|it|Elena}}
+* Japanese: {{t|ja|ヘレン|tr=Heren}}
+* Latvian: {{t|lv|Helēna|f}}
+* Marathi: {{t|mr|हेलेन|f|tr=helena|sc=Deva}}
+* Norwegian: {{t+|no|Helene}}
+* Occitan: {{t|oc|Elena|f}}
+* Occitan: {{t|oc|Alena|f}}
+* Old French: {{t|fro|Helaine}}
+* Persian: {{t+|fa|هلن|tr=helen}}
+* Portuguese: {{t|pt|Elena}}, {{t+|pt|Helena}}
+* Romanian: {{t|ro|Ileana}}
+* Russian: {{t+|ru|Еле́на|f}} {{qualifier|cognate}}, {{t|ru|Хе́лен|f}} {{qualifier|transliteration}}
+* Scottish Gaelic: {{t|gd|Eilidh}}
+* Spanish: {{t+|es|Elena}}
+* Swedish: {{t+|sv|Helena}}
+* Ukrainian: {{t|uk|Олена|f|tr=Oléna}}
+* Vietnamese: {{t|vi|Hêlêna}} {{qualifier|Roman Catholic}}, {{t|vi|Êlêna}} {{qualifier|Roman Catholic}}, {{t|vi|Hà Liên}} {{qualifier|Roman Catholic}}
+* Yakut: {{t|sah|Олооно}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# Any of various [[papilionid]] butterflies of the [[genus]] ''[[Papilio]]''.
+
+===Anagrams===
+* {{anagrams|en|a=eehln|Ehlen}}
+
+[[Category:en:Swallowtails]]
+
+----
+
+==Danish==
+
+===Proper noun===
+{{head|da|proper noun}}
+
+# {{given name|female|lang=da}} borrowed from {{der|da|en|-}}.
+
+----
+
+==Estonian==
+
+===Proper noun===
+{{head|et|proper noun}}
+
+# {{given name|female|lang=et}}, short form of {{m|et|Helena}}, also borrowed from {{der|et|en|Helen}}.
+
+----
+
+==Norwegian==
+
+===Proper noun===
+{{head|no|proper noun}}
+
+# {{given name|female|lang=no}} borrowed from {{der|no|en|-}}.
+
+----
+
+==Swedish==
+
+===Proper noun===
+{{sv-proper noun|c}}
+
+# {{given name|female|lang=sv}} borrowed from {{der|sv|en|-}}.
+
+----
+
+==Tagalog==
+
+===Etymology===
+Borrowed from {{bor|tl|en|Helen}}.
+
+===Proper noun===
+{{tl-proper noun}}
+
+# {{given name|female|lang=tl|from=English}}
