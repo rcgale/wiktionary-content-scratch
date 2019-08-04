@@ -1,0 +1,104 @@
+==English==
+
+===Etymology===
+From {{inh|en|enm|crepere}}, from {{inh|en|ang|crēopere}}, equivalent to {{af|en|creep|-er}}.
+<br>Slang usage derived from phrase {{m|en|give the creeps}} or {{m|en|creep out}} (distinct from merely one who creeps).
+
+===Pronunciation===
+* {{a|US}} {{IPA|/ˈkɹipɚ/|lang=en}}
+* {{audio|En-au-creeper.ogg|Audio (AU)|lang=en}}
+* {{rhymes|iːpə(r)|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A person or a thing that [[crawl]]s or creeps.
+#* {{quote-book|lang=en|1638|Robert Burton|{{w|The Anatomy of Melancholy}}||71|Standing Waters{{...}} are most unwholesome, putrified, and full of mites, '''creepers''', slimy, muddy, uncleane, corrupt, impure, by reason of the Suns heat, and still standing;|origdate=1621|url=https://books.google.com/books?id=hHNVAAAAcAAJ&pg=RA1-PA71}}
+# Often in plural, a one-piece [[garment]] for infants designed to facilitate access to the wearer's diaper.
+# A device which allows a small child to safely roam around a room from a seated or standing position.
+# A metal plate with [[spike|spikes]], designed to be worn with shoes to prevent [[slip|slipping]].
+# A [[spur]]-like device strapped to the [[boot]] to facilitate [[climb]]ing. <!--not same as anti-slip shoe plate above-->
+# {{lb|en|chiefly|in the plural}} A small low [[iron]], or [[dog]], between the [[andiron]]s.
+# An instrument with iron hooks or claws for [[dredge|dredging]] up items from a [[well]] or other water.
+# Any device for causing material to move steadily from one part of a [[machine]] to another, such as an [[apron]] in a [[carding]] machine, or an inner spiral in a grain screen.
+# Any [[plant]] (as [[ivy]] or [[periwinkle]]) that grows by [[creep]]ing; especially a climbing plant of the genus ''[[Parthenocissus]]''.
+#* '''1964''', {{w|William Golding}}, ''{{w|Lord of the Flies}}''
+#*: Then the piglet tore loose from the '''creepers''' and scurried into the undergrowth.
+# A [[treecreeper]].
+# {{lb|en|nautical}} A small four-hooked [[grapnel]] used to recover objects dropped onto the sea bed.
+# The lowest gear of a tractor or truck; also [[creeper gear]], [[creeper shift]].
+# A low-profile wheeled [[platform]] whereupon an [[auto mechanic]] may lie on their back and gain better access to the underbody of a vehicle.
+# {{lb|en|pejorative|slang}} A person who [[creep someone out|creeps people out]]; a [[creepy]] person.
+#: ''Don't go to a nightclub to find a boyfriend. They're all '''creepers''' there.''
+# A kind of [[shoe]], usually with a [[suede]] [[upper]] and a thick [[crepe]] [[sole]], associated with various twentieth-century subcultures.
+
+====Synonyms====
+* {{sense|one who crawls}} {{l|en|crawler}}
+* {{sense|garment}} {{l|en|babygro}}, {{l|en|creepers}}, {{l|en|diaper shirt}}, {{l|en|infant bodysuit}}, {{l|en|snapsuit}}
+* {{sense|climbing plant}} {{l|en|climber}}
+* {{sense|wheeled platform}} {{l|en|cradle}}
+
+====Derived terms====
+* {{sense|shoe}} [[brothel creeper]]
+
+====Translations====
+{{trans-top|person or thing that creeps}}
+* Finnish: {{t|fi|konttaaja}} (''crawler''); {{t|fi|ryömijä}} (''creeper'')
+{{trans-mid}}
+* Italian: {{t|it|persona che si trascina}}, {{t|it|persona che si muove furtivamente}}
+{{trans-bottom}}
+
+{{trans-top|one-piece garment for infants}}
+* Finnish: {{t+|fi|potkupuku}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|device for children}}
+* Greek: {{t+|el|περπατούρα|f}}
+* Italian: {{t+|it|girello}}
+{{trans-mid}}
+* Russian: {{t|ru|крипер|m}}
+{{trans-bottom}}
+
+{{trans-top|metal plate for shoes}}
+* Finnish: {{t+|fi|liukueste}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|plant}}
+* Bulgarian: {{t|bg|пълзящо растение|n}}
+* Egyptian: {{t-egy|rkrk|h=r:k-r:k-M2}}
+* Finnish: {{t+|fi|köynnös}} (''any creeper''); {{t+|fi|villiviini}} (''Parthenocissus'')
+* French: {{t+|fr|plante grimpante|f}}
+* Greek: {{t|el|αναρριχητικό φυτό|n}}, {{t|el|άνερπων|m}}
+* Hungarian: {{t+|hu|kúszónövény}}
+{{trans-mid}}
+* Ido: {{t+|io|liano}}
+* Irish: {{t+|ga|athair|f}}
+* Italian: {{t|it|pianta rampicante}}, {{t|it|pianta strisciante}}
+* Sanskrit: {{t+|sa|लता|f}}
+* Spanish: {{t|es|rastrera}}
+{{trans-bottom}}
+
+{{trans-see|treecreeper}}
+
+{{trans-top|grapnel}}
+* Bulgarian: {{t+|bg|драга|f}}
+* Finnish: {{t+|fi|naara}}
+{{trans-mid}}
+* Hungarian: {{t|hu|kotróhorgony}}
+* Italian: {{t|it|raffio}}, {{t+|it|rampino}}, {{t|it|ancorotto}}
+{{trans-bottom}}
+
+{{trans-top|lowest gear}}
+* Finnish: {{t|fi|ryömintävaihde}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|wheeled platform}}
+{{trans-mid}}
+{{trans-bottom}}
+
+[[Category:English agent nouns]]
+[[Category:en:Certhioid birds]]
+[[Category:en:People]]
