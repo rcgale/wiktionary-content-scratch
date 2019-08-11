@@ -1,0 +1,82 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+Uncertain. It has been recorded in the 17th century in England.<ref>[https://familysearch.org/search/record/results?count=20&query=%2Bgivenname%3Asamantha&birth_year0=1600]</ref>
+
+Most probably a feminine form of {{m|en|Samuel}}, possibly influenced by {{m|en|Anthea}}. Other suggestions include {{m|arc|ܫܡܥܢܬܐ|tr=šemʿanta||[[listener]]|pos=noun}}, from {{m|arc|ܫܡܥ}}.
+
+In India, Samantha can be interpreted as a variant spelling of {{m|en|Samanta}}, from {{der|en|sa|||[[universal]], [[adjacent]]}}.
+
+===Pronunciation===
+* {{IPA|/səˈmænθə/|lang=en}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{given name|lang=en|female|from=Hebrew}}.
+#* '''1876''' Phebe Ann Hanaford, ''Women of the Century'', page 525:
+#*: These country girls, as they were called, had queer names, which added to the singularity of their appearance. '''Samantha''', Triphena, Plumy, Leafy, Ruhamah, Lovey, and Florilla were among them.
+#* '''1888''', {{w|Marietta Holley}}, ''Josiah Allen's Wife as a P.A. and P.I.: Samantha at the Centennial'', page 577:
+#*: "Its name is '''Samantha''' Jo, after Josiah and me. - - - If it had been a boy, we was layin' out to call it Josiah Sam, - Sam for '''Samantha'''."
+#* '''1967''' {{w|Howard Fast}}, ''Samantha'', I Books (2004), {{ISBN|0743479122}}, page 42:
+#*: "Middle of the depression - who's going to give a kid a nutty name like '''Samantha'''? Today's another matter, but around then, from what I hear, people weren't thinking about these stylish names."
+#* '''1985''' {{w|Bobbie Ann Mason}}, ''In Country'', Harper&Row, {{ISBN|0060154691}}, pages 182, 183:
+#*: But here's my favorite name: Samuel. It's from the Bible. If it's a girl, name it '''Samantha'''. That sounds like something in a prayer, doesn't it? I think it's a name in the Chronicles. I've been reading the Bible every night." - - -
+#*: She found the Book of Chronicles and scanned it. - - - There was no '''Samantha''' in either the first or the second book of the Chronicles.
+
+====Usage notes====
+* Popular in the English-speaking world from the 1970s to the 2000s.
+
+====Related terms====
+* {{l|en|Sam}}
+* {{l|en|Sammy}}
+* {{l|en|Sami}}
+* {{l|en|Sammie}}
+
+====Translations====
+{{trans-top|female given name}}
+* Chinese:
+*: Mandarin: {{t|cmn|薩曼莎|sc=Hani}}, {{t|cmn|萨曼莎|tr=Sàmànshā|sc=Hani}}
+* Esperanto: {{t|eo|Samanta}}
+* French: {{t+|fr|Samantha}}
+* German: {{t|de|Samantha}}
+* Hindi: {{t|hi|समैन्था|sc=Deva}}
+{{trans-mid}}
+* Italian: {{t+|it|Samanta}}
+* Japanese: {{t|ja|サマンサ|tr=Samansa|sc=Jpan}}
+* Korean: {{t|ko|사만다|tr=Samanda|sc=Kore}}
+* Latvian: {{t|lv|Samanta|f}}
+* Russian: {{t+|ru|Сама́нта}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Anagrams===
+* {{anagrams|en|a=aaahmnst|manastha}}
+
+----
+
+==German==
+
+===Etymology===
+Borrowed from the {{etyl|en|de}} {{m|en|Samantha}} in the 1960s.
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{given name|female|lang=de}}.
+
+----
+
+==Tagalog==
+
+===Etymology===
+From {{bor|tl|en|-}}, of uncertain origin.
+===Pronunciation===
+*{{hyphenation|lang=tl|Sa|man|tha}}
+*{{IPA|lang=tl|/saˈmanta/}}
+===Proper noun===
+{{head|tl|proper noun}}
+# {{given name|female|lang=tl|from=English}}, popular in the Philippines since the 1990s or 2000s.
