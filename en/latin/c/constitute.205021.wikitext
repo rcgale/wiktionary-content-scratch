@@ -1,0 +1,122 @@
+==English==
+
+===Etymology===
+From {{der|en|la|constitutum}}, past participle of [[constituo|constituere]]<!--which?? please fix this link-->. Constructed from the prefix {{m|la|con-}} and {{m|la|statuere||to place, set}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈkɒnstɪtjuːt/|lang=en}}
+* {{a|US}} {{IPA|/ˈkɑnstɪt(j)uːt/|lang=en}}
+* {{audio|en-uk-constitute.ogg|Audio (UK)|lang=en}}
+
+===Verb===
+{{en-verb|constitut}}
+
+# {{lb|en|transitive}} To [[set up]]; to [[establish]]; to [[enact]].
+#* Jeremy Taylor
+#*: Laws appointed and '''constituted''' by lawful authority.
+# {{lb|en|transitive}} To [[make up]]; to [[compose]]; to [[form]].
+#* Johnson
+#*: Truth and reason '''constitute''' that intellectual gold that defies destruction.
+# {{lb|en|transitive}} To [[appoint]], depute, or elect to an office; to make and empower.
+#* William Wordsworth
+#*: Me didst Thou '''constitute''' a priest of thine.
+
+====Synonyms====
+* {{sense|set up}} {{l|en|establish}}, {{l|en|enact}}
+* {{sense|make up}} {{l|en|make up}}, {{l|en|compose}}, {{l|en|form}}; see also [[Thesaurus:compose]]
+* {{sense|appoint}}
+
+====Related terms====
+* {{l|en|constituent}}
+* {{l|en|constituency}}
+* {{l|en|constitution}}
+* {{l|en|constitutional}}
+* {{l|en|constitutionalization}}
+* {{l|en|constitutive}}
+
+====Translations====
+{{trans-top|to cause to stand; to establish; to enact}}
+* Bulgarian: {{t+|bg|основавам}}, {{t+|bg|учредявам}}
+* Czech: {{t|cs|ustavit}}
+* Finnish: {{t+|fi|perustaa}}
+* German: {{t+|de|gründen}}, {{t+|de|begründen}}, {{t+|de|bilden}}, {{t+|de|einrichten}}, {{t|de|ins Leben rufen}}, {{t+|de|einsetzen}}, {{t+|de|festsetzen}}, {{t+|de|konstituieren}}
+* Hindi: {{t|hi|गठन करना}}
+* Italian: {{t+|it|costituire}}, {{t+|it|creare}}, {{t+|it|formare}}
+{{trans-mid}}
+* Japanese: [[制定する]](せいていする, ''seitei-suru'')
+* Korean: {{t+|ko|설립하다|tr=設立하다, sul-lip_hada}}, {{t+|ko|제정하다|tr=制定하다, djè-djung_hada}}
+* Maori: {{t|mi|whakaū}}
+* Occitan: {{t+|oc|constituir}}
+* Portuguese: {{t+|pt|constituir}}
+* Russian: {{t+|ru|устана́вливать|impf}}, {{t+|ru|учрежда́ть|impf}}, {{t+|ru|установи́ть|pf}}, {{t+|ru|учреди́ть|pf}}
+* Spanish: {{t+|es|constituir}}
+* Turkish: {{t+|tr|meydana getirmek}}, {{t+|tr|oluşturmak}}
+{{trans-bottom}}
+
+{{trans-top|to make up; to compose; to form}}
+* Bulgarian: {{t+|bg|съставям}}, {{t+|bg|образувам}}
+* Chinese:
+*: Mandarin: {{t+|cmn|組成|sc=Hani}}, {{t+|cmn|组成|tr=zǔchéng|sc=Hani}}, {{t+|cmn|构成|tr=gòuchéng}}
+* Czech: {{t+|cs|tvořit}}
+* Finnish: {{t+|fi|olla}}, {{t+|fi|muodostaa}}
+* French: {{t+|fr|constituer}}
+* German: {{t+|de|ausmachen}}, {{t+|de|bilden}}, {{t+|de|darstellen}}, {{t+|de|repräsentieren}}
+* Hebrew: {{t|he|היווה|tr=hivá}}
+* Hindi: {{t|hi|गठन करना}}
+* Italian: {{t+|it|creare}}, {{t+|it|formare}}, {{t+|it|costituire}}, {{t+|it|rappresentare}}
+{{trans-mid}}
+* Japanese: [[構成する]](こうせいする, ''kōsei-suru'')
+* Korean: {{t+|ko|구성하다|tr=構成하다, gü-sung_hada}}, {{t+|ko|이루다|tr=irüda}}
+* Occitan: {{t+|oc|constituir}}
+* Polish: {{t+|pl|stanowić|impf}}
+* Portuguese: {{t+|pt|constituir}}
+* Russian: {{t+|ru|составля́ть}}, {{t+|ru|формирова́ть|impf}}, {{t|ru|явля́ть собо́й|impf}}
+* Scots: {{t|sco|constitute}}
+* Swedish: {{t+|sv|utgöra}}
+* Turkish: {{t+|tr|oluşmak}}, {{t+|tr|teşkil etmek}}
+* Vietnamese: {{t+|vi|cấu thành}}
+{{trans-bottom}}
+
+{{trans-top|to appoint, depute, or elect to an office; to make and empower}}
+* German: {{t+|de|ernennen}}, {{t+|de|einsetzen}}, {{t+|de|konstituieren}}
+* Italian: {{t+|it|nominare}}, {{t+|it|deputare}}, {{t+|it|creare}}
+* Japanese: [[任命する]](にんめいする, ''ninmei-suru'')
+{{trans-mid}}
+* Korean: {{t+|ko|선출하다|tr=選出하다, sun-tchül_hada}}
+* Occitan: {{t+|oc|constituir}}, {{t+|oc|nomenar}}
+* Russian: {{t+|ru|ста́вить|impf}}, {{t+|ru|поста́вить|pf}}
+* Turkish: {{t+|tr|atamak}}, {{t+|tr|seçmek}}, {{t+|tr|tayin etmek}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|obsolete}} An established [[law]].
+#: {{rfquotek|T. Preston}}
+
+{{Webster 1913}}
+
+====Further reading====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+----
+
+==Latin==
+
+===Noun===
+{{la-noun-form|cōnstitūte}}
+
+# {{inflection of|cōnstitūtus||voc|s|lang=la}}
+
+===References===
+* {{R:du Cange}}
+
+----
+
+==Scots==
+
+===Verb===
+{{sco-verb}}
+
+# To {{l|en|constitute}}.
