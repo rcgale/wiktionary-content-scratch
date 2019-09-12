@@ -1,0 +1,85 @@
+{{also|Dermatitis}}
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|dermitis}}
+
+===Etymology===
+From {{der|en|grc|δερματῖτις}}, from {{m|grc|δέρμα|t=skin, hide}}, from {{m|grc|δέρω|t=to skin, flay}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˌdɜː(ɹ)m.əˈtaɪ.tɪs/|lang=en}}
+
+===Noun===
+{{en-noun|es|dermatitides|dermatites}}
+
+# {{lb|en|pathology}} [[inflammation|Inflammation]] of the [[skin]].
+
+====Derived terms====
+{{der3|en
+|acarodermatitis
+|acrodermatitis
+|actinodermatitis
+|angiodermatitis
+|antidermatitis
+|atopic dermatitis
+|chemical dermatitis
+|erythrodermatitis
+|neurodermatitis
+|photodermatitis
+|phytophotodermatitis
+|pododermatitis
+|radiodermatitis
+|seaweed dermatitis
+|dermatitic
+|acroangiodermatitis}}
+
+====Translations====
+{{trans-top|inflammation of the skin}}
+* Catalan: {{t|ca|dermatitis|f}}
+* Chinese:
+*: Cantonese: {{t|yue|皮膚炎}}, {{t|yue|皮肤炎|tr=pei4 fu1 jim4}}
+*: Mandarin: {{t+|cmn|皮炎|tr=píyán}}, {{t+|cmn|皮膚炎}}, {{t+|cmn|皮肤炎|tr=pífūyán}}
+*: Min Nan: {{t+|nan|爛癬}}, {{t|nan|烂癣|tr=nōa-sián}}
+* Czech: {{t+|cs|dermatitida|f}}
+* Finnish: {{t|fi|ihotulehdus}}
+* German: {{t+|de|Dermatitis|f}}, {{t+|de|Ausschlag|m}}
+{{trans-mid}}
+* Greek: {{t+|el|δερματίτιδα|f}}
+* Hungarian: {{t+|hu|bőrgyulladás}}
+* Italian: {{t+|it|dermatite|f}}
+* Malay: {{t|ms|radang kulit}}, {{t|ms|dermatitis}}
+* Portuguese: {{t+|pt|dermatite|f}}
+* Russian: {{t+|ru|дермати́т|m}}
+* Spanish: {{t+|es|dermatitis|f}}, {{t+|es|sarpullido}}
+* Tagalog: {{t|tl|magambalat}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|eczema}}
+* {{l|en|rash}}
+
+----
+
+==Latin==
+
+===Etymology===
+From {{der|la|grc|δερματῖτις}}.
+
+===Noun===
+{{la-noun|dermatītis/dermatītid<3>|g=f}}
+
+# {{lb|la|New Latin|pathology}} {{l|en|dermatitis}}
+
+====Declension====
+{{la-ndecl|dermatītis/dermatītid<3>}}
+
+----
+
+==Spanish==
+
+===Noun===
+{{es-noun|f|-}}
+
+# {{l|en|dermatitis}}
