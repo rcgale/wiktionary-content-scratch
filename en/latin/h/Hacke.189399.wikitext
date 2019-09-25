@@ -1,0 +1,40 @@
+{{also|hacke|hacké}}
+==German==
+
+===Pronunciation===
+* {{IPA|/ˈhakə/|lang=de}}
+
+===Etymology 1===
+From {{etyl|gml|de}} {{m|gml|hakke}}. Also {{etyl|goh|de}} {{m|goh|hakka||animal heel}}, which has no attested continuation in [[w:Middle High German|Middle High German]], however. Compare {{cog|nl|hak}}.
+
+====Noun====
+{{de-noun|f||Hacken}}
+
+# {{lb|de|regional|chiefly|northern and central Germany}} [[heel]] (of the foot)
+# {{lb|de|regional|chiefly|northern and central Germany}} the back of the [[shoe]], which is around the [[heel]] (including or excluding the [[sole]], for which alone {{m|de|Absatz}} is used)
+
+=====Synonyms=====
+* {{l|de|Ferse}}
+
+===Etymology 2===
+From {{etyl|gmh|de}} {{m|gmh|hacke}}. Pertaining to {{m|de|hacken||to chop}}.
+
+====Noun====
+{{de-noun|f||Hacken}}
+
+# [[hoe]]
+
+===Declension===
+{{de-decl-noun-f|n}}
+
+[[Category:de:Anatomy]]
+[[Category:de:Tools]]
+
+----
+
+==Pennsylvania German==
+
+===Noun===
+{{head|pdc|noun form}}
+
+# {{plural of|Hack|lang=pdc}}
