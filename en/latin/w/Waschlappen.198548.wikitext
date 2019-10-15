@@ -1,0 +1,16 @@
+==German==
+
+===Etymology===
+{{affix|de|waschen|Lappen}}
+
+===Noun===
+{{de-noun|m|Waschlappens|Waschlappen}}
+
+# [[flannel]], [[washcloth]]
+# {{lb|de|derogative}} [[pansy]], [[sissy]]
+
+====Declension====
+{{de-decl-noun-m|s}}
+
+===Further reading===
+* {{R:Duden}}
