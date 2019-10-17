@@ -1,0 +1,64 @@
+==English==
+
+===Etymology===
+From {{bor|en|frm|harassement}}; synchronically analyzable as {{af|en|harass|-ment}}.
+
+===Pronunciation===
+* {{IPA|en|/həˈɹæsmənt/|/ˈhæɹəsmənt/}}
+
+===Noun===
+{{en-noun|~}}
+
+# Persistent attacks and criticism causing [[worry]] and [[distress]].
+# Deliberate [[pestering]] or [[annoying]].
+# Excessive [[intimidation]].
+
+====Synonyms====
+* {{l|en|torment}}
+* {{l|en|molestation}}
+
+====Derived terms====
+* {{l|en|verbal harassment}}
+* {{l|en|workplace harassment}}
+* {{l|en|sexual harassment}}
+
+====Translations====
+{{trans-top|persistent attacks and criticism causing worry and distress}}
+* Bengali: {{t|bn|জ্বালাতন|sc=Beng}}
+* Bulgarian: {{t+|bg|тормоз|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|騷擾|sc=Hani}}, {{t+|cmn|骚扰|tr=sāorǎo|sc=Hani}}
+* Danish: {{t+|da|chikane|c}}
+* Finnish: {{t+|fi|ahdistelu}}
+* French: {{t+|fr|harcèlement|m}}
+* German: {{t+|de|Belästigung|f}}
+* Greek: {{t+|el|παρενόχληση|f}}
+* Hebrew: {{t|he|הַטְרָדָה|f|tr=hatradá}}
+{{trans-mid}}
+* Italian: {{t+|it|molestia|f}}, {{t+|it|vessazione|f}}
+* Japanese: {{t|ja|嫌がらせ|tr=いやがらせ, iyagarase|sc=Jpan}}
+* Korean: {{t|ko|괴롭힘}}
+* Portuguese: {{t+|pt|assédio|m}}
+* Romanian: {{t+|ro|distrugere|f}}, {{t+|ro|pustiire}}
+* Russian: {{t+|ru|домогательство|alt=домога́тельства|n-p}}, {{t+|ru|домога́тельство|n|sc=Cyrl}}, {{t+|ru|хара́ссмент|m}} {{qualifier|neologism}}, {{t+|ru|ха́рассмент|m}} {{qualifier|also}}
+* Scottish Gaelic: {{t|gd|sàrachadh|m}}
+* Spanish: {{t+|es|acoso|m}}
+* Swedish: {{t+|sv|trakasseri|n}}
+* Turkish: {{t+|tr|taciz}}
+{{trans-bottom}}
+
+{{trans-top|deliberate pestering or annoying}}
+* Bulgarian: {{t+|bg|дразнене|n}}
+* Danish: {{t+|da|chikane|c}}
+* Dutch: {{t+|nl|pesterij}}
+* Finnish: {{t+|fi|ahdistelu}}, {{t+|fi|häirintä}}
+* French: {{t+|fr|harcèlement|m}}
+* German: {{t+|de|Belästigung|f}}, {{t|de|Aufdringlichkeit|f}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|assédio|m}}, {{t+|pt|incômodo|m}}
+* Romanian: {{t+|ro|deranj|n}}, {{t|ro|imoportunare|f}}
+* Russian: {{t+|ru|беспоко́йство|n}}, {{t+|ru|агре́ссия|f}}, {{t+|ru|оскорбле́ние|n}}, {{t+|ru|притесне́ние|n}}
+* Scottish Gaelic: {{t|gd|sàrachadh|m}}
+* Swedish: {{t+|sv|trakasseri|n}}
+* Turkish: {{t+|tr|taciz}}
+{{trans-bottom}}
