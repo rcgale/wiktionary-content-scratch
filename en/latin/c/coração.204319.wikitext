@@ -1,0 +1,48 @@
+==Portuguese==
+{{wikipedia|lang=pt}}
+[[Image:Surface anatomy of the heart.png|thumb|200px|o coração]]
+
+===Etymology 1===
+From {{inh|pt|roa-opt|coraçon||heart}}, from a derivative of {{inh|pt|la|cor||heart}} with the suffix {{m|pt|-ção|-ação}}, either through a {{inh|pt|VL.|-}} root {{m|la|*corātiō}}, {{m|la|*corātiōne}} or {{m|la||*coraceōne}}. Ultimately from {{inh|pt|itc-pro|*kord}}, from {{inh|pt|ine-pro|*ḱḗr}} ~ {{m|ine-pro||*ḱr̥d-}}.
+
+Cognate with {{cog|an|corazón}}, {{cog|ast|corazón}}, {{cog|gl|corazón}}, {{cog|lad|korasón}}, {{cog|roa-leo|corazón}}, {{cog|mwl|coraçon}}, {{cog|mxi|corachón}} and {{cog|es|corazón}} (Old Spanish {{m|osp|coraçon}}).
+
+====Pronunciation====
+* {{a|Brazil}} {{IPA|pt|/ko.ɾa.ˈsɐ̃w̃/}}
+* {{a|Portugal}} {{IPA|pt|/ku.ɾɐ.ˈsɐ̃w̃/}}
+*: {{audio|pt|pt-pt-coração.ogg|Audio (PT)}}
+*: {{homophones|pt|curação|Curação}}
+* {{hyphenation|pt|co|ra|ção}}
+
+====Noun====
+{{pt-noun|m|corações}}
+
+# {{l|en|heart}} {{gloss|organ of the body}}
+#* '''2003''', [[w:J. K. Rowling|J. K. Rowling]], [[w:Lya Wyler|Lya Wyler]], ''Harry Potter e a Ordem da Fênix'', Rocco, page 434:
+#*: O '''coração''' de Harry batia acelerado agora.
+#*:: Now, Harry's '''heart''' was beating very fast.
+# {{lb|pt|figurative}} {{l|en|heart}}, {{l|en|emotions}}, {{l|en|kindness}}, {{l|en|spirit}}
+# {{lb|pt|figurative}} {{l|en|center}}, {{l|en|core}}
+
+=====Quotations=====
+{{seeCites|pt}}
+
+===Etymology 2===
+{{suffix|pt|corar|ção|alt1=Corar|gloss1=to paint, to dye}}.
+
+====Pronunciation====
+* {{a|Portugal}} {{IPA|pt|/kɔ.ɾɐ.ˈsɐ̃w̃/}}
+* {{hyphenation|pt|co|ra|ção}}
+
+====Noun====
+{{pt-noun|f|corações}}
+
+# {{l|en|blushing}}
+# {{l|en|bleaching}}
+# {{l|en|coloration}}
+
+=====Quotations=====
+{{seeCites|pt}}
+
+[[Category:pt:Anatomy]]
+{{catlangname|pt|terms with multiple etymologies}}
