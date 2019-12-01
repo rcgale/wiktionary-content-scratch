@@ -1,0 +1,29 @@
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ˈɡɛtɪŋ/}}
+** {{a|US}} {{IPA|en|[ˈɡɛɾɪŋ]}}
+** {{a|US}} {{audio|en|en-us-getting.ogg}}
+** {{a|[[Cockney]]|younger speakers in the [[UK]]}} {{IPA|en|[ˈɡeʔɪŋ]}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{present participle of|en|get|nocat=1}}
+
+===Noun===
+{{en-noun}}
+
+# The act of obtaining or acquiring; [[acquisition]].
+#* Bible, Proverbs iv. 7
+#*: With all thy '''getting''', get understanding.
+# That which is got or obtained; [[gain]]; [[profit]].
+#* J. H. Riddell, ''Old Mrs Jones''
+#*: She was always considering how to increase her "'''gettings'''," but she never gave a thought as to how she might save them.
+
+====Translations====
+{{trans-top}}
+* French: {{t+|fr|obtention}}
+{{trans-mid}}
+* Italian: {{t+|it|ottenimento}}, {{t+|it|ottenere}}
+{{trans-bottom}}
