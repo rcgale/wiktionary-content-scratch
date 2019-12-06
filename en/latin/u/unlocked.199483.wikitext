@@ -1,0 +1,46 @@
+==English==
+
+===Pronunciation===
+* {{rhymes|en|ɒkt}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Not secured or protected by a lock.
+#: ''an '''unlocked''' door''
+#: ''an '''unlocked''' computer file''
+# {{lb|en|mobile telephony|of a phone}} Not bound to any particular [[carrier]].
+#: ''an '''unlocked''' iPhone''
+#: {{antonyms|en|locked}}
+
+====Translations====
+{{trans-top|of a door, etc, not locked}}
+* Arabic: {{t-needed|ar}}
+* Armenian: {{t-needed|hy}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Danish: {{t|da|ulåst}}
+* Esperanto: {{t-needed|eo}}
+* French: {{t+|fr|déverrouillé}}
+* German: {{t-needed|de}}
+* Greek: {{t+|el|ακλείδωτος}}
+*: Ancient: {{t|grc|ἄκλειστος}}
+* Hebrew: {{t-needed|he}}
+{{trans-mid}}
+* Icelandic: {{t|is|ólæstur}}
+* Japanese: {{t-needed|ja}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ulåst}}
+*: Nynorsk: {{t|nn|ulåst}}
+* Romanian: {{t+|ro|descuiat}}
+* Russian: {{t-needed|ru}}
+* Spanish: {{t-needed|es}}
+* Thai: {{t-needed|th}}
+* Turkish: {{t-needed|tr}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|unlock}}
+<!--please do not add translations, etc, to this section; add them to the translation section of the infinitive-->
