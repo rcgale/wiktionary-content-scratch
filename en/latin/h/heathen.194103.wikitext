@@ -1,0 +1,151 @@
+{{also|Heathen}}
+==English==
+
+===Etymology===
+From {{inh|en|enm|hethen}}, from {{inh|en|ang|hǣþen}}, from {{inh|en|gem-pro|*haiþinaz}}; akin to {{m|en|heath|t=heathland}}. Cognate with {{cog|nl|heiden}}, {{cog|de|Heide}}, {{cog|da|hedning}}, {{cog|nn|heidning}}, {{cog|is|heiðingi}}. See also Proto-Germanic {{m|gem-pro|*haiduz}}, Old Norse {{m|non|heiðr|tr=honour, bright, moor}}, Icelandic {{m|is|heiður|tr=honour}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈhiːðən/}}
+* {{rhymes|en|iːðən}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Not adhering to [[Christian]] [[religion]]; [[pagan]].
+# {{lb|en|by extension}} Uncultured; uncivilized; savage, [[philistine]].
+# {{alternative case form of|en|Heathen|nodot=1}} {{gloss|pertaining or adhering to the Germanic [[neo-pagan]] faith [[Heathenry]]}}.
+
+====Translations====
+{{trans-top|not adhering to an Abrahamic religion}}
+* Afrikaans: {{t|af|heidens}}, {{t|af|ongelowig}}
+* Armenian: {{t+|hy|հեթանոսական}}
+* Aromanian: {{t|rup|pãngãn}}
+* Bulgarian: {{t|bg|езически|m}}
+* Chinese:
+*: Mandarin: {{t-check|cmn|異教的|tr=yi jiao de}}
+* Danish: {{t|da|hedning|c}}
+* Dutch: {{t+|nl|heidens}}, {{t+|nl|ongelovig}}
+* Finnish: {{t+|fi|pakanallinen}}
+* French: {{t+|fr|païen}}
+* Georgian: {{t|ka|წარმართი}}
+* German: {{t+|de|heidnisch}}
+* Greek: {{t+|el|αλλόθρησκος}}
+* Icelandic: {{t|is|heiðinn|m}}
+* Irish: {{t|ga|págánta}}, {{t|ga|págánach}}
+{{trans-mid}}
+* Italian: {{t+|it|pagano|m}}
+* Latin: {{t|la|gentilis|m}}
+* Low German:
+*: German Low German: {{t|nds-de|heidensch}}
+* Polish: {{t+|pl|pogański|m}}, {{t+|pl|bałwański|m}}
+* Portuguese: {{t+|pt|pagão}}
+* Romanian: {{t+|ro|păgân}}
+* Russian: {{t+|ru|язы́ческий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|по̀ган|m}}, {{t|sh|па̀га̄н|m}}
+*: Roman: {{t+|sh|pògan|m}}, {{t+|sh|pàgān|m}}
+* Spanish: {{t+|es|pagano}}
+* Swedish: {{t+|sv|hednisk}}
+* Turkish: {{t+|tr|putperest}}, {{t+|tr|pagan}}, {{t+|tr|müşrik}}
+{{trans-bottom}}
+
+{{trans-top|savage}}
+* Afrikaans: {{t|af|barbaars}}
+* Bulgarian: {{t+|bg|варварски|m}}, {{t+|bg|дивашки}}
+* Danish: {{t|da|hedning|c}}, {{t+|da|barbar|c}}
+* Dutch: {{t+|nl|barbaars}}, {{t+|nl|heidens}}, {{t+|nl|onbeschaafd}}
+* Finnish: {{t+|fi|pakanallinen}}
+* German: {{t+|de|barbarisch}}, {{t+|de|unzivilisiert}}
+* Icelandic: {{t|is|heiðinn|m}}
+{{trans-mid}}
+* Italian: {{t+|it|pagano}}
+* Russian: {{t+|ru|ди́кий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ба̀рбар|m}}, {{t|sh|ба̏рбарин|m}}, {{t|sh|ба̀рба̄рка|f}}
+*: Roman: {{t+|sh|bàrbar|m}}, {{t|sh|bȁrbarin|m}}, {{t+|sh|bàrbārka|f}}
+* Spanish: {{t+|es|bárbaro}}
+{{trans-bottom}}
+
+{{trans-see|Heathen}}
+
+===Noun===
+{{en-noun|s|heathen}} <!--see 1930 cite: you can have "two heathen"-->
+
+# A person who does not follow a [[Christian]] [[religion]]; a [[pagan]].
+#* V. Knox
+#*: If it is no more than a moral discourse, he may preach it and they may hear it, and yet both continue unconverted '''heathens'''.
+#* '''1930''', H. E. Bolton, ''Anza's California expeditions'' (volume 1, page 403)
+#*: On hearing his cries two '''heathen''' who were hunting on the lagoon ran up, and they were bold enough to try to avenge the injury, making ready to shoot arrows at the soldiers, who fired two gunshots just to frighten them {{...}}
+# {{lb|en|by extension}} An uncultured or uncivilized person, [[philistine]].
+# {{alternative case form of|en|Heathen|nodot=1}} {{qualifier|an adherent of the Germanic [[neo-pagan]] faith of [[Heathenry]]}}.
+
+====Coordinate terms====
+* {{list:religionists/en}}
+
+====Derived terms====
+{{der3
+|en|heathendom
+|heathenish
+|heathenism
+|heathenize
+|heathenness
+}}
+
+====Translations====
+{{trans-top|person who does not follow an Abrahamic religion}}
+* Afrikaans: {{t+|af|heiden}}, {{t|af|heidene|p}}, {{t|af|ongelowige}}, {{t|af|ongelowiges|p}}
+* Armenian: {{t+|hy|հեթանոս}}
+* Bulgarian: {{t+|bg|езичник|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|異教徒|tr=yìjiàotú}}
+* Dutch: {{t+|nl|heiden|m|f}}, {{t+|nl|ongelovige}}
+* Finnish: {{t+|fi|pakana}}
+* Georgian: {{t|ka|წარმართი}}
+* German: {{t+|de|Heide|m}}, {{t+|de|Heidin|f}}
+* Greek: {{t+|el|ειδωλολάτρης|m}}
+* Icelandic: {{t+|is|heiðingi|m}}
+* Irish: {{t|ga|págánach|m}}, {{t|ga|págán|m}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|hedning|m}}
+*: Nynorsk: {{t|nn|heidning|m}}
+* Polish: {{t+|pl|poganin|m}}, {{t+|pl|poganka|f}}
+* Portuguese: {{t+|pt|pagão|m}}, {{t+|pt|pagã|f}}
+* Romanian: {{t+|ro|păgân}}, {{t+|ro|păgână|f}}
+* Russian: {{t+|ru|язы́чник}}, {{t+|ru|язы́чница|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|по̏га̄н|f}}, {{t|sh|по̀ганин|m}}, {{t|sh|по̀га̄нка|f}}
+*: Roman: {{t+|sh|pȍgān|f}}, {{t+|sh|poganin|m}}, {{t+|sh|pògānka|f}}
+* Spanish: {{t+|es|pagano|m}}, {{t+|es|pagana|f}}
+* Swedish: {{t+|sv|hedning|c}}
+{{trans-bottom}}
+
+{{trans-top|uncultured or uncivilized person}}
+* Afrikaans: {{t|af|barbaar}}, {{t|af|barbare|p}}
+* Bulgarian: {{t+|bg|невежа}}
+* Dutch: {{t+|nl|barbaar|m}}, {{t|nl|filistijn|f}}
+* Finnish: {{t+|fi|pakana}}
+* German: {{t+|de|Barbar|m}}, {{t+|de|Wilder|m}}, {{t|de|Unzivilisierter|m}}
+* Greek: {{t+|el|ακαλλιέργητος}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|bárbaro|m}}
+* Russian: {{t+|ru|дика́рь}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ба̀рбар|m}}, {{t|sh|ба̀рба̄рка|f}}, {{t|sh|варварин|m}}, {{t|sh|варварка|f}}
+*: Roman: {{t+|sh|bàrbar|m}}, {{t+|sh|bàrbārka|f}}, {{t+|sh|varvarin|m}}, {{t|sh|varvarka|f}}
+* Swedish: {{t+|sv|barbar|c}}, {{t+|sv|vilde|c}}
+{{trans-bottom}}
+
+{{trans-see|Heathen}}
+
+{{checktrans-top}}
+* French: {{t+check|fr|infidèle}}, {{t+check|fr|païen|m}}
+* Italian: {{t+check|it|pagano|m}}
+{{trans-mid}}
+* Slovak: {{t-check|sk|pohan|m}}
+* Swedish: {{t+check|sv|hedning|c}}
+{{trans-bottom}}
+
+[[Category:English adjectives ending in -en]]
+[[Category:English nouns with irregular plurals]]
+[[Category:en:People]]
