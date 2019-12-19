@@ -1,0 +1,60 @@
+==English==
+
+===Pronunciation===
+* {{IPA|en|/kɹækt/}}
+* {{audio|en|En-au-cracked.ogg|Audio (AU)}}
+
+===Adjective===
+{{en-adj}}
+
+# [[broken|Broken]] so that [[crack]]s appear on, or under, the [[surface]].
+# Broken into coarse pieces.
+# {{lb|en|of a voice}} [[harsh|Harsh]] or [[dissonant]].
+# {{lb|en|slang}} [[crazy|Crazy]]; [[crackpot]].
+
+====Synonyms====
+* {{sense|broken so that cracks appear}} {{l|en|crazed}}
+* {{sense|of a voice}} {{l|en|discordant}}, {{l|en|dissonant}}, {{l|en|harsh}}, {{l|en|inharmonious}}, {{l|en|raspy}}, {{l|en|rough}}
+* {{sense|slang: crazy}} See also [[Thesaurus:insane]]
+
+====Derived terms====
+* {{l|en|cracked up}}
+* {{l|en|cracked wheat}}
+* {{l|en|not all it's cracked up to be}}
+
+====Translations====
+{{trans-top|broken so that cracks appear on, or under, the surface}}
+* Bulgarian: {{t+|bg|напукан}}
+* Finnish: {{t|fi|halkinainen}}, {{t+|fi|murtunut}}, {{t+|fi|säröinen}}
+* Icelandic: {{t|is|brotinn|m}}
+* Latin: {{t|la|rīmōsus}}
+{{trans-mid}}
+* Maori: {{t|mi|pāwhatiwhati}}
+* Portuguese: {{t+|pt|rachado|m}}
+* Quechua: {{t|qu|sipi}}
+{{trans-bottom}}
+
+{{trans-top|broken into coarse pieces}}
+* Bulgarian: {{t+|bg|начупен}}
+{{trans-mid}}
+* Finnish: {{t+|fi|murtunut}}
+* Maori: {{t|mi|mātoetoe}} {{qualifier|of a surface}}
+{{trans-bottom}}
+
+{{trans-top|harsh or dissonant voice}}
+* Bulgarian: {{t+|bg|дрезгав}}
+{{trans-mid}}
+* Finnish: {{t+|fi|murtunut}}, {{t+|fi|säröinen}}
+{{trans-bottom}}
+
+{{trans-top|crazy; crackpot}}
+* Bulgarian: {{t+|bg|побъркан}}
+* Finnish: {{t+|fi|hullu}}, {{t+|fi|sekopäinen}}
+{{trans-mid}}
+* Icelandic: {{t|is|klikkaður|m}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|crack}}
