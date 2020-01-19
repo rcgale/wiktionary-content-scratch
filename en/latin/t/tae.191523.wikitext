@@ -1,0 +1,198 @@
+{{also|t-ae}}
+==Finnish==
+{{Finnish index|t|a}}
+
+===Pronunciation===
+* {{hyphenation|fi|ta|e}}
+* {{rhymes|fi|ɑe}}
+* {{fi-IPA|*}}
+
+===Etymology 1===
+From {{suffix|fi|taata|-e}}.
+
+====Noun====
+{{fi-noun}}
+
+# [[guarantee]]
+
+=====Declension=====
+{{fi-decl-hame|ta||k|a}}
+
+=====Related terms=====
+* {{l|fi|takaaja}}
+* {{l|fi|takaus}}
+
+===Etymology 2===
+From {{suffix|fi|takoa|-e}}.
+
+====Noun====
+{{fi-noun}}
+
+# Something made of [[wrought iron]], a [[forge|forged]] object.
+
+=====Declension=====
+{{fi-decl-hame|ta||k|a}}
+
+=====Synonyms=====
+* {{l|fi|taos}}
+
+====See also====
+* {{l|fi|takorauta}}
+
+===Anagrams===
+* {{anagrams|fi|a=aet|-eta|ETA|Tea}}
+
+----
+
+==Ingrian==
+
+===Noun===
+{{head|izh|noun}}
+
+# [[guarantee]]
+
+----
+
+==Irish==
+
+===Etymology===
+From {{der|ga|en|tea}}, from {{der|ga|nl|thee}}, from {{der|ga|nan|茶|tr=tê}}.
+
+===Pronunciation===
+* {{IPA|ga|/t̪ˠeː/}}
+
+===Noun===
+{{ga-noun|m|g2=f|~|~nna}}
+
+# [[tea]]
+
+====Declension====
+{{ga-decl-m4|t|ae|aenna}}
+
+====Derived terms====
+{{der3
+|ga|{{l|ga|am tae|t=tea-time}}
+|{{l|ga|bean tae|t=tea lady}}
+|{{l|ga|boiscín tae}}, {{l|ga|taebhosca|t=tea-caddy}}
+|{{l|ga|bord tae|t=tea-table}}
+|{{l|ga|cáca tae}}, {{l|ga|cáicín tae|t=tea-cake}}
+|{{l|ga|ceannaí tae|t=tea-merchant}}
+|{{l|ga|cléibhín tae|t=tea-basket}}
+|{{l|ga|cófra tae|t=tea-chest}}
+|{{l|ga|cóisir tae|t=tea-party}}
+|{{l|ga|corcán tae}}, {{l|ga|taephota|t=tea-pot}}
+|{{l|ga|cupán tae|t=tea-cup}}
+|{{l|ga|curadóir tae|t=tea-planter}}
+|{{l|ga|duilleog tae|t=tea-leaf}}
+|{{l|ga|foireann tae|t=tea-service}}
+|{{l|ga|garraí tae}}, {{l|ga|plandáil tae}}, {{l|ga|taeghairdín|t=tea-garden}}
+|{{l|ga|insilteoir tae|t=tea-infuser}}
+|{{l|ga|mála tae|t=tea bag}}
+|{{l|ga|planda tae|t=tea-plant}}
+|{{l|ga|púic tae|t=tea-cosy}}
+|{{l|ga|rós tae}}, {{l|ga|taerós|t=tea-rose}}
+|{{l|ga|scagaire tae|t=tea-strainer}}
+|{{l|ga|scaraoid tae|t=tea-cloth}}
+|{{l|ga|sos tae|t=tea break}}
+|{{l|ga|tae an chnoic}}, {{l|ga|tae maide|t=heart's-ease}}
+|{{l|ga|tae beag|t=afternoon tea}}
+|{{l|ga|tae dubh|t=black tea}}
+|{{l|ga|tae fíogadáin|t=camomile-tea}}
+|{{l|ga|tae geal|t=white tea}}
+|{{l|ga|tae na ngarraithe|t=self-heal}}
+|{{l|ga|taechoire|t=tea-urn}}
+|{{l|ga|taeghréithe|t=tea-things}}
+|{{l|ga|taespúnóg|t=tea-spoon}}
+|{{l|ga|teach tae|t=tea-shop}}
+}}
+
+===Mutation===
+{{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
+
+{{topics|ga|Beverages|Meals}}
+
+----
+
+==Samoan==
+
+===Etymology===
+From {{inh|sm|poz-pol-pro|*taqe}}, from {{inh|sm|poz-oce-pro|*taqe}}, from {{inh|sm|poz-pro|*taqay}}. Compare {{cog|fj|de}}, {{cog|to|taʻe}} and {{cog|haw|kae}}.
+
+===Noun===
+{{head|sm|noun}}
+
+# [[excrement]]
+
+----
+
+==Scots==
+
+===Pronunciation===
+* {{IPA|sco|/teː/}}
+
+===Etymology 1===
+From {{inh|sco|ang|tō}}.
+
+====Preposition====
+{{sco-prep}}
+
+# [[to]]
+
+====Adverb====
+{{sco-adv|-}}
+
+# [[too]]
+
+===Etymology 2===
+{{PIE root|sco|deyḱ}}
+From {{inh|sco|ang|tā}}.
+
+====Noun====
+{{sco-noun}}
+
+# [[toe]]
+
+===Etymology 3===
+
+====Verb====
+{{head|sco|verb}} <!--past participle "taen"-->
+
+# to [[take]]
+
+----
+
+==Tagalog==
+
+===Etymology===
+From {{inh|tl|poz-pro|*taqi}}, from {{inh|tl|map-pro|*Caqi}}. Compare {{cog|id|tahi}}, {{cog|mg|tay}}, {{cog|pau|dach}} and {{cog|sm|tae}}.
+
+===Pronunciation===
+* {{a|noun and interjection}} {{IPA|tl|/ˈtaːʔeː/}}
+* {{a|verb}} {{IPA|tl|/taʔˈeː/}}
+* {{audio|tl|Tl-PH-tae1.ogg|Audio}}
+
+===Noun===
+{{tl-noun}}
+
+# [[feces]]
+# {{lb|tl|vulgar}} [[shit]]; an [[objectionable]] person
+====Synonyms====
+* {{l|tl|dumi}}, {{l|tl|ebak}}, {{qualifier|informal}}, {{l|tl|jebs}} {{qualifier|childish}} {{l|tl|pupu}}
+
+====Derived terms====
+* {{l|tl|pagtae}}
+
+===Interjection===
+{{head|tl|interjection}}'''!'''
+
+#{{lb|tl|vulgar}} [[shit|Shit]]!
+
+==== Derived terms ====
+{{der3|tl|tumae|matae|taihan|}}
+
+{{catlangname|tl|swear words}}
