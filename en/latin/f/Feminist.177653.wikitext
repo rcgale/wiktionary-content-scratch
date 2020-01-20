@@ -1,0 +1,33 @@
+{{also|feminist}}
+==German==
+
+===Pronunciation===
+* {{audio|de|De-Feminist.ogg|Audio}}
+
+===Noun===
+{{de-noun|m|Feministen|Feministen|f=Feministin}}
+
+# [[feminist]] (male or of unspecified sex)
+
+====Declension====
+{{de-decl-noun-m|en|en}}
+
+====Synonyms====
+* {{l|de|Frauenrechtler}}
+
+====Derived terms====
+* {{l|de|Antifeminist}}
+* {{l|de|Extremfeminist}}
+* {{l|de|Nazifeminist}}
+* {{l|de|Ökofeminist}}
+* {{l|de|Profeminist}}
+* {{l|de|Radikalfeminist}}
+
+====Related terms====
+* {{l|de|Feminismus}}
+* {{l|de|feministisch}}
+
+===Further reading===
+* {{R:Duden}}
+
+[[Category:de:People]]
