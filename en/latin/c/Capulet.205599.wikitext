@@ -1,0 +1,20 @@
+{{also|capulet}}
+==English==
+
+===Etymology===
+Surname of the heroine Juliet's family in Shakespeare's ''Romeo and Juliet'', from the {{der|en|it|Capuleti}}.
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|figuratively}} A member or citizen of the family, party, or country of the wife in a [[Romeo and Juliet couple]].
+
+===See also===
+* {{l|en|Montague}}
+
+===References===
+* Moore, Olin H. (July 1930). "The Origins of the Legend of Romeo and Juliet in Italy". Speculum. Medieval Academy of America.
+
+[[Category:English eponyms]]
+[[Category:English terms first attested in Shakespeare]]
+{{topics|en|William Shakespeare}}
