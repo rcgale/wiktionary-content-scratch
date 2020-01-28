@@ -1,0 +1,133 @@
+{{also|Disciple}}
+==English==
+
+===Etymology===
+From {{inh|en|enm|disciple}}, {{m|enm|discipul}}, from {{inh|en|ang|discipul||disciple; scholar|g=m}} and {{m|ang|discipula|g=f||female disciple}}, both from {{der|en|la|discipulus||a pupil, learner}}. Later influenced or superseded in Middle English by {{cog|fro|deciple}}.
+
+===Pronunciation===
+* {{IPA|en|/dɪˈsaɪpl̩/}}
+* {{audio|en|En-us-disciple.ogg|Audio (US)}}
+* {{hyph|en|dis|ci|ple}}
+
+===Noun===
+{{en-noun}}
+
+# A person who learns from another, especially one who then teaches others.
+# An active [[follower]] or [[adherent]] of someone, or some [[philosophy]] etc.
+#* Holy Bible, Matthew 9:10 (King James Version)
+#*: And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his '''disciples'''.
+#* {{quote-book|en|year=1922|author={{w|Ben Travers}}
+|chapter=4|title=[http://openlibrary.org/works/OL1521052W A Cuckoo in the Nest]
+|passage=By some paradoxical evolution rancour and intolerance have been established in the vanguard of primitive Christianity. Mrs. Spoker, in common with many of the stricter '''disciples''' of righteousness, was as inclement in demeanour as she was cadaverous in aspect.}}
+# {{lb|en|Ireland}} A wretched, miserable-looking man.
+
+====Synonyms====
+* {{l|en|student}}
+
+====Related terms====
+* {{l|en|discipleship}}
+* {{l|en|disciplic}}
+* {{l|en|discipline}}
+
+====Translations====
+{{trans-top|person who learns from another}}
+* Armenian: {{t+|hy|աշակերտ}}
+* Bulgarian: {{t+|bg|ученик|m}}
+* Catalan: {{t+|ca|deixeble|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|弟子|tr=dìzǐ|sc=Hani}}
+* Czech: {{t|cs|následovník|m}}, {{t+|cs|žák|m}}
+* Dutch: {{t+|nl|discipel|m}}
+* Esperanto: {{t|eo|disĉiplo}}
+* Finnish: {{t+|fi|oppilas}}
+* French: {{t+|fr|disciple}}
+* Galician: {{t|gl|discípulo|m}}
+* German: {{t+|de|Jünger|m}}, {{t|de|Jüngerin|f}}
+* Hungarian: {{t+|hu|tanítvány}}
+* Indonesian: {{t+|id|murid}}
+* Japanese: {{t+|ja|弟子|tr=でし, deshi}}
+{{trans-mid}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|discipulus}}, {{t|la|discens}}
+* Norman: {{t|nrf|discipl'ye|m}}
+* Old English: {{t|ang|ġingra|m}}, {{t|ang|discipul|m}}
+* Old Saxon: {{t|osx|giungaro|m}}, {{t|osx|jungaro|m}}, {{t|osx|iungaro|m}}
+* Persian: {{t+|fa|شاگرد|tr=šâgerd|sc=fa-Arab}}
+* Portuguese: {{t+|pt|discípulo|m}}
+* Russian: {{t+|ru|учени́к|m}}, {{t+|ru|после́дователь|m}}, {{t+|ru|сторо́нник|m}}
+* Scottish Gaelic: {{t|gd|deisciobal|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wuknik|m}}, {{t|dsb|wuknica|f}}
+* Spanish: {{t+|es|discípulo|m}}
+* Tagalog: {{t|tl|disipulo}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|tidäb}}, {{qualifier|♂}} {{t|vo|hitidäb}}, {{qualifier|♀}} {{t|vo|jitidäb}}
+{{trans-bottom}}
+
+{{trans-top|active follower or adherent}}
+* Bulgarian: {{t+|bg|последовател|m}}
+* Catalan: {{t+|ca|deixeble|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|門徒}}, {{t+|cmn|门徒|tr=méntú}}
+* Czech: {{t+|cs|stoupenec|m}}, {{t|cs|učedník|m}}
+* Dutch: {{t+|nl|leerling|m}}
+* Finnish: {{t+|fi|seuraaja}}
+* French: {{t+|fr|disciple}}
+* Galician: {{t|gl|discípulo|m}}
+* German: {{t+|de|Jünger|m}}, {{t|de|Jüngerin|f}}
+* Hungarian: {{t+|hu|követő}}
+* Irish: {{t|ga|deisceabal|m}}
+*: Old Irish: {{t|sga|deiscipul|m}}
+* Japanese: {{t-needed|ja}}
+{{trans-mid}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|discipulus}}
+* Ngazidja Comorian: {{t|zdj|mna-shioni|c1|c2}}
+* Norman: {{t|nrf|discipl'ye|m}}
+* Old English: {{t|ang|leorningcniht|m}}
+* Persian: {{t+|fa|مرید|tr=morid|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|Jinja|m}}
+* Portuguese: {{t+|pt|discípulo|m}}
+* Russian: {{t+|ru|после́дователь|m}}, {{t+|ru|сторо́нник|m}}, {{qualifier|apostle}} {{t+|ru|апо́стол|m}}
+* Scottish Gaelic: {{t|gd|deisciobal|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wuknik|m}}, {{t|dsb|wuknica|f}}
+* Spanish: {{t+|es|discípulo|m}}
+* Swahili: {{t+|sw|mwanafunzi|c1|c2}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|apostle}}
+
+===Verb===
+{{en-verb|discipl}}
+
+# {{lb|en|religion|transitive}} To convert (a person) into a disciple.
+# {{lb|en|religion|transitive}} To [[train]], [[educate]], [[teach]].
+#* '''1590''', Edmund Spenser, ''The Faerie Queene'', IV.i:
+#*: fraile youth is oft to follie led, / Through false allurement of that pleasing baite, / That better were in vertues '''discipled''' {{...}}
+## {{lb|en|Christianity|certain|_|denominations}} To [[routine#Adjective|routine]]ly [[counsel]] (one's [[peer#Etymology 2|peer]] or [[junior#Noun|junior]]) [[one-on-one]] in their discipleship of Christ, as a fellow [[affirm]]ed disciple.
+
+====Further reading====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+[[Category:en:People]]
+
+----
+
+==French==
+
+===Etymology===
+From {{inh|fr|fro|deciple}}, borrowed from {{der|fr|la|discipulus}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-disciple.ogg|Audio}}
+
+===Noun===
+{{fr-noun|m}}
+
+# [[#English|disciple]]
+
+===Further reading===
+* {{R:TLFi}}
