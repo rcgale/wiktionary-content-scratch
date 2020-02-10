@@ -1,0 +1,220 @@
+{{also|REO|réo|rẻo|re'o|reo-}}
+==Galician==
+
+===Etymology 1===
+Borrowed from {{bor|gl|la|reus|t=accused}}. Compare {{cog|pt|réu}}.
+
+====Pronunciation====
+* {{IPA|gl|/ˈreo̝/}}
+
+====Noun====
+{{gl-noun|m|f=rea}}
+
+# [[convict]]
+# person [[accuse|accused]] of a crime.
+
+===Etymology 2===
+Probably from {{inh|gl|LL.|rhēdō}}, of probable {{der|gl|cel-gau|-}} origin.<ref>{{R:DCECH|reo I}}</ref>
+[[File:Wst meerforelle stoer 001.jpg|thumb|''Reo'']]
+====Pronunciation====
+* {{IPA|gl|/ˈreo̝/}}
+
+====Noun====
+{{es-noun|m}}
+
+# [[sea trout]]
+#* '''1417''', Ángel Rodríguez González (ed.), ''Libro do Concello de Santiago (1416-1422)''. Santiago de Compostela: Consello da Cultura Galega, page 75:
+#*: ''Iten a libra dos corvelos et mugees et robalos et robaliças et '''reos''' et vesugos et douradas [...] a quatro dineiros cada libra''
+#*:: Item, the pound of young pollacks and of mullets and of basses and of young basses and of '''sea trouts''' and of seabreams and of gilt-head breams [...], four ''diñeiros'' each pound
+
+===References===
+* {{R:DDGM}}
+* {{R:gl:CX|reos}}
+* {{R:DDLG}}
+* {{R:TILG|reo (condenado)}}
+* {{R:TILG|reo (peixe)}}
+* {{R:TLPGP}}
+<references/>
+
+----
+
+==Irish==
+
+===Pronunciation===
+* {{a|Munster|Connacht}} {{IPA|ga|/ɾˠoː/}}
+* {{a|Ulster}} {{IPA|ga|/ɾˠɔː/}}
+
+===Etymology 1===
+From {{inh|ga|mga|reód}}, from {{inh|ga|sga|réud}}, from {{inh|ga|cel-pro|*ɸreswos}}, from {{inh|ga|ine-pro|*prews-}}.
+
+====Noun====
+{{ga-noun|m|~|-}}
+
+# {{verbal noun of|ga|reoigh||freeze; congeal, solidify}}
+# [[frost]]
+
+=====Declension=====
+{{ga-decl-m4-nopl|r|eo}}
+
+=====Alternative forms=====
+* {{l|ga|reodh}} {{qualifier|obsolete}}
+* {{l|ga|reódh}} {{qualifier|obsolete}}
+
+=====Derived terms=====
+{{der3|ga|{{l|ga|coinlín reo}}, {{l|ga|coinneal reo|t=icicle}}
+|{{l|ga|gabhairín reo}}, {{l|ga|gabhar reo|t=male snipe}}
+|{{l|ga|frithreo|t=antifreeze}}
+|{{l|ga|reo-chumhscú|t=cryoturbation}}
+|{{l|ga|reoigh|pos=v|t=freeze; congeal, solidify}}
+|{{l|ga|reoite|t=frozen}}
+}}
+
+===Etymology 2===
+
+====Noun====
+{{ga-noun|f|g2=m|~|~anna}}
+
+# {{alternative form of|ga|ré||moon; period; space, intervening distance}}
+
+=====Declension=====
+; Feminine
+{{ga-decl-f4|r|eo|eonna}}
+; Masculine
+{{ga-decl-m4|r|eo|eonna}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|35124|head=reód}}
+
+----
+
+==Italian==
+{{slim-wikipedia|lang=it}}
+
+===Etymology===
+Borrowed from {{bor|it|la|reus|t=defendant, accused}}. Cognate to {{doublet|it|rio|t1=bad|notext=1}}, inherited from the same source.
+
+===Pronunciation===
+* {{IPA|it|/ˈrɛ.o/}}
+* {{rhymes|it|ɛo}}
+* {{hyphenation|it|rè|o}}
+
+===Adjective===
+{{it-adj|re}} (di)
+
+# [[guilty]] (of)
+
+===Noun===
+{{it-noun|m}}
+
+# [[offender]]
+
+===Anagrams===
+* {{l|it|ero}}, {{l|it|Ero}}
+* {{l|it|ore}}
+
+----
+
+==Latin==
+
+===Noun===
+{{la-noun-form|reō}} {{g|m}}
+
+# {{inflection of|la|reus||dat|s}}
+# {{inflection of|la|reus||abl|s}}
+
+----
+
+==Maori==
+
+===Etymology===
+From {{inh|mi|poz-pol-pro|*leo}}.
+
+===Noun===
+{{mi-noun}}
+
+# [[voice]]
+# [[speech]], [[utterance]]
+# [[language]]
+
+====Derived terms====
+* {{l|mi|reo tupu}}
+* {{l|mi|te reo}}
+
+[[Category:mi:Language]]
+
+----
+
+==Old High German==
+
+===Etymology===
+Cognate to {{cog|non|hræ}}.
+
+===Noun===
+{{goh-noun|head=rēo|n}}
+
+# [[corpse]]
+
+----
+
+==Rarotongan==
+
+===Etymology===
+From {{inh|rar|poz-pol-pro|*leo}}.
+
+===Noun===
+{{head|rar|noun}}
+
+# [[voice]]
+# [[speech]]
+# [[language]]
+
+----
+
+==Spanish==
+
+===Etymology 1===
+Borrowed from {{bor|es|la|reus|t=accused}}. Compare {{cog|pt|réu}} .
+
+====Noun====
+{{es-noun|m|f=rea}}
+
+# [[defendant]] (as in a [[trial]])
+# [[delinquent]]
+
+====Adjective====
+{{es-adj|f=rea}}
+
+# [[accuse|Accused]] of a crime.
+# Found [[guilty]] of a crime.
+
+===Etymology 2===
+Uncertain; probably from Celto-{{der|es|la|rhēdo}}, {{m|la||redo}}.
+
+====Noun====
+{{es-noun|m}}
+
+# [[sea trout]]
+
+===Etymology 3===
+Unknown; compare {{cog|ca|reu}}.
+
+====Noun====
+{{es-noun|m}}
+
+# A [[turn]] in a game.
+
+[[Category:Spanish nouns with irregular gender]]
+[[Category:es:Law]]
+
+----
+
+==Tahitian==
+
+===Etymology===
+From {{inh|ty|poz-pol-pro|*leo}}.
+
+===Noun===
+{{head|ty|noun}}
+
+# [[language]]
