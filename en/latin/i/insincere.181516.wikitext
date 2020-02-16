@@ -1,0 +1,46 @@
+{{also|insincère}}
+==English==
+
+===Etymology===
+From {{etyl|la|en}} {{m|la|insincerus}}.
+
+===Pronunciation===
+* {{rhymes|en|ɪə(ɹ)}}
+
+===Adjective===
+{{en-adj}}
+
+# Not genuinely meaning what has been expressed; not [[sincere]]; [[artificial]].
+#: ''Janice's furious glare showed that her apology was '''insincere'''.''
+
+====Antonyms====
+* {{l|en|sincere}}
+
+====Derived terms====
+* {{l|en|insincerely}}
+* {{l|en|insincerity}}
+
+====Translations====
+{{trans-top|not sincere}}
+* Armenian: {{t+|hy|կեղծ}}
+* Bulgarian: {{t+|bg|неискрен}}
+* Czech: {{t+|cs|neupřímný}}
+* Esperanto: {{t|eo|malsincera}}
+* Finnish: {{t+|fi|epärehellinen}}, {{t+|fi|vilpillinen}}
+* German: {{t+|de|unaufrichtig}}
+{{trans-mid}}
+* Greek: {{t+|el|ανειλικρινής}}, {{t+|el|υστερόβουλος}}
+* Maori: {{t|mi|rūkahu}}, {{t|mi|rūpahu}}, {{t|mi|kōpūngahuru}}, {{t|mi|kōpūrau}}
+* Romanian: {{t|ro|nesincer}}
+* Spanish: {{t+|es|falso}}, {{t|es|[[no]] [[sincero]]}}
+* Turkish: {{t+|tr|samimiyetsiz}}
+{{trans-bottom}}
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+
+# {{feminine plural of|it|insincero}}
