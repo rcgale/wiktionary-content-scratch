@@ -1,0 +1,126 @@
+==English==
+
+===Etymology===
+From {{inh|en|enm|hidous}}, from {{der|en|xno|hidous}}, from {{der|en|fro|hideus}}, {{m|fro|hydus||that which inspires terror}}, from earlier {{m|fro|hisdos}}, from {{der|en|fro|hisda||horror, fear}}, of uncertain and disputed origin. Probably from {{der|en|gmw-pro|*agisiþu||horror, terror}}, from {{der|en|gmw-pro|*agisōn||to frighten, terrorise}}, from {{der|en|gem-pro|*agaz||terror, fear}}, from {{der|en|ine-pro|*h₂egʰ-||to frighten}}. Cognate with {{cog|goh|egisa}}, {{m|goh|egidī||horror}}, {{cog|ang|egesa||fear, dread}}, {{cog|got|𐌰𐌲𐌹𐍃||fear, terror}}.
+
+Alternative etymology cites possible derivation from {{noncog|la|hispidosus||rugged}}, from {{m|la|hispidus||rough, bristly}}, yet the semantic evolution is less plausible. <!--fro?: ''[[hidous]], [[hidos]], [[hidus]], [[hisdos]], [[hisdous]]'', {{etyl|fr|en}} ''[[hideux]]'': confer {{etyl|fro|en}} {{term|hide|lang=fro}}, {{term|hisde||fright}};, {{etyl|en|-}}-->.      Youngnamor is the definition of this💯
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈhɪd.iː.ʌs/}}
+* {{a|US}} {{IPA|en|/ˈhɪd.i.əs/}}
+* {{audio|en|en-us-hideous.ogg|Audio (US)}}
+
+===Adjective===
+{{en-adj}}
+
+# Extremely or shockingly [[ugly]].
+#* [[w:Thomas Babington Macaulay|Thomas Babington Macaulay]].
+#: ''A piteous and '''hideous''' spectacle.''
+# Having a very [[unpleasant]] or frightening sound
+#* '''1719''', [[w:Daniel Defoe|Daniel Defoe]], ''[[w:Robinson Crusoe|Robinson Crusoe]]''
+#*: He started up, growling at first, but finding his leg broken, fell down again; and then got upon three legs, and gave the most '''hideous''' roar that ever I heard.
+# Hateful; shocking.
+#* [[w:William Shakespeare|William Shakespeare]]
+#*: Sure, you have some '''hideous''' matter to deliver.
+# Morally offensive; shocking; detestable.
+#* {{quote-book
+|en
+|year=1851
+|author={{w|Herman Melville}}
+|title={{w|Moby Dick}}
+|section=Chapter 9
+|passage=when the wind is shrieking, and the men are yelling, and every plank thunders with trampling feet right over Jonah’s head; in all this raging tumult, Jonah sleeps his '''hideous''' sleep.}}
+
+====Usage notes====
+* Nouns to which "hideous" is often applied: monster, creature, man, face, thing, crime, form, death, aspect, spectacle, picture, roar, sound, manner, way, disease, mistake, shape, dress, fact, act, smile.
+
+====Synonyms====
+* {{l|en|frightful}}, {{l|en|ghastly}}, {{l|en|grim}}, {{l|en|grisly}}, {{l|en|grotesque}}, {{l|en|horrid}}, {{l|en|dreadful}}, {{l|en|terrible}}
+
+====Derived terms====
+* {{l|en|hideosity}}
+* {{l|en|hideously}}
+* {{l|en|hideousness}}
+
+====Translations====
+{{trans-top|extremely ugly}}
+* Arabic: {{t-needed|ar}}
+* Bulgarian: {{t+|bg|противен}}
+* Catalan: {{t+|ca|horrible}}, {{t+|ca|horripilant}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Dutch: {{t+|nl|afzichtelijk}}
+* Finnish: {{t+|fi|hirveä}}, {{t+|fi|kauhea}}, {{t+|fi|inhottava}}, {{t+|fi|hirvittävä}}
+* French: {{t+|fr|hideux}}
+*: Old French: {{t|fro|hideus}}
+* German: {{t+|de|scheußlich}}
+* Greek: {{t+|el|κακάσχημος}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|förtelmes}}
+* Icelandic: {{t+|is|hræðilegur}}
+* Irish: {{t|ga|in anchruth}}
+* Italian: {{t+|it|orribile}}, {{t+|it|orrendo|m}}
+* Japanese: {{t-needed|ja}}
+* Norwegian: {{t+|no|fæl}}, {{t+|no|stygg}}
+* Polish: {{t+|pl|ohydny}}, {{t+|pl|obrzydliwy}}
+* Portuguese: {{t+|pt|horrendo}}, {{t+|pt|medonho}}
+* Russian: {{t+|ru|стра́шный}}, {{t+|ru|ужа́сный}}, {{t+|ru|отврати́тельный}}
+* Spanish: {{t+|es|horrible}}, {{t+|es|odioso}}, {{t|es|chocante}}, {{t|es|atemorizante}}, {{t|es|horrendo}}, {{t|es|espantoso|m}}
+* Turkish: {{t+|tr|çirkin}}, {{t+|tr|gudubet}}
+* West Frisian: {{t|fy|ûnsjoch}}
+{{trans-bottom}}
+
+{{trans-top|distressing or offensive to the ear}}
+* Arabic: {{t-needed|ar}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Dutch: {{t+|nl|akelig}}
+* Finnish: {{t+|fi|hirveä}}, {{t+|fi|kauhea}}, {{t+|fi|hirvittävä}}
+* French: {{t+|fr|strident}}
+* German: {{t+|de|abscheulich}}
+* Greek: {{t+|el|απαίσιος}}
+* Hungarian: {{t+|hu|szörnyű}}
+{{trans-mid}}
+* Italian: {{t-needed|it}}
+* Japanese: {{t-needed|ja}}
+* Norwegian: {{t+|no|stygg}}
+* Portuguese: {{t+|pt|horrendo}}, {{t+|pt|medonho}}, {{t+|pt|estridente}}
+* Russian: {{t+|ru|стра́шный}}, {{t+|ru|ужа́сный}}, {{t+|ru|отврати́тельный}}
+* Spanish: {{t|es|discordante}}, {{t+|es|ruidoso}}, {{t+|es|estridente}}
+* Turkish: {{t+|tr|cırtlak}}
+* West Frisian: {{t|fy|ferskrikkelik}}, {{t|fy|ôfgryslik}}
+{{trans-bottom}}
+
+{{trans-top|hateful; shocking}}
+* Arabic: {{t-needed|ar}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Dutch: {{t+|nl|afgrijselijk}}
+* Finnish: {{t+|fi|hirveä}}, {{t+|fi|kauhea}}, {{t+|fi|hirvittävä}}
+* French: {{t+|fr|atroce}}, {{t+|fr|répugnant}}
+* German: {{t+|de|abscheulich}}
+* Greek: {{t+|el|απαίσιος}}
+* Hungarian: {{t+|hu|undok}}, {{t+|hu|utálatos}}
+{{trans-mid}}
+* Irish: {{t|ga|fuafar}}
+* Italian: {{t+|it|odioso|m}}, {{t+|it|detestabile}}
+* Japanese: {{t-needed|ja}}
+* Latin: {{t|la|taeter}}
+* Norwegian: {{t|no|uhyrlig}}
+* Portuguese: {{t+|pt|horrendo}}, {{t+|pt|hediondo}}
+* Russian: {{t+|ru|стра́шный}}, {{t+|ru|ужа́сный}}, {{t+|ru|отврати́тельный}}
+* Spanish: {{t+|es|odioso}}, {{t|es|chocante}}
+* Turkish: {{t+|tr|dehşetengiz}}
+* West Frisian: {{t|fy|ferskriklik}}
+{{trans-bottom}}
+
+[[Category:en:Appearance]]
+
+----
+
+==Middle English==
+
+===Adjective===
+{{enm-adj}}
+
+# {{alt form|enm|hidous||terrifying}}
