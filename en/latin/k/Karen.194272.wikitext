@@ -1,0 +1,215 @@
+{{also|karen|kåren}}
+==English==
+{{wikipedia}}
+
+===Etymology 1===
+From {{der|en|da|Karen}}, a vernacular form of ''[[Catherine]]'' that arose in medieval Denmark. The sense "middle-aged woman" comes from the popularity of the name among [[baby boomer]]s and [[Gen-Xer]]s.
+
+====Alternative forms====
+* {{l|en|Caryn}}
+* {{l|en|Karin}}
+* {{l|en|Karyn}}
+
+====Pronunciation====
+* {{a|UK}} {{IPA|en|/ˈkæɹən/}}
+* {{a|US}} {{IPA|en|/ˈkæɹən/|/ˈkɛɹən/}}
+* {{rhymes|en|æɹən|ɛɹən|ɛə(ɹ)n}}
+* {{homophones|en|caron}}
+* {{homophones|en|caring}} {{qualifier|weak vowel merger|G-dropping}}
+* {{homophones|en|cairn|carn}} {{qualifier|some American accents}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# {{given name|en|female|from=Ancient Greek}}.
+#* '''1878''' {{w|Celia Thaxter}}, ''Drift-Weed'', Houghton, Osgood,1878, page 28 ("Karen"):
+#*: Left you a lover in that far land, / O '''Karen''' sad, that you pine so long! / Would I could unravel and understand / That sorrowful, sweet Norwegian song!
+#* '''1918''' Cecily Ullman Sidgwick, ''Karen'', W.Collins, 1918, page 12:
+#*: I was not called '''Karen''' after Hans Andersen's dancing girl, but after a Danish friend of my mother's who married an Englishman and was my godmother. So much for our family affairs.
+
+====Usage notes====
+First taken up as a given name in the US, and popular in the English-speaking world from the 1950s to the 1970s.
+
+====Translations====
+{{trans-top|female given name}}
+* Portuguese: {{t|pt|Karen|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|Ка́рен|f|tr=Kárɛn}}
+{{trans-bottom}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|youth|_|slang|originally|AAVE|derogatory}} A [[middle-aged]] [[white]] [[woman]] exhibiting a sense of [[entitlement]] or [[white privilege]].
+
+====See also====
+* [[gammon#Etymology_5|gammon]]
+
+===Etymology 2===
+From {{der|en|xpr|𐭊𐭓𐭍𐭉|tr=krny|ts=Kārēn}}, from {{der|en|ira-old}} {{m|und|*kar-ina-}}. The Armenian name is from {{der|en|hy|Կարեն}}, from the same Parthian name.
+
+====Alternative forms====
+* {{l|en|Garen}} {{qualifier|from Western Armenian}}
+* {{l|en|Kārēn}} {{qualifier|from Middle Iranian}}
+* {{l|en|Qarin}}, {{l|en|Qārin}} {{qualifier|from Arabic}}
+* {{l|en|Karin}}, {{l|en|Kārin}} {{qualifier|from New Iranian}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# {{lb|en|historical}} One of the seven great Parthian feudal families.
+# {{given name|en|male|from=Armenian|A=An Armenian}}
+
+=====Synonyms=====
+* {{l|en|Karen-Pahlav}}, {{l|en|Karen-Pahlaw}}
+
+=====Translations=====
+{{trans-top|one of the seven great Parthian feudal families}}
+* Greek:
+*: Ancient: {{t|grc|Καρανος}}
+* Latin: {{t|la|Carenes}}
+* Middle Persian: {{t|pal|𐭪𐭠𐭫𐭭𐭩|tr=kʾlny}}
+{{trans-mid}}
+* Old Armenian: {{t|xcl|Կարենի պահլաւ}}
+* Parthian: {{t|xpr|𐭊𐭓𐭍𐭉|tr=krny|ts=Kārēn}}
+* Persian: {{t|fa|قارن|tr=qâran}}, {{t+|fa|کارن|tr=kâren}}
+{{trans-bottom}}
+{{trans-top|Armenian male given name}}
+* Armenian: {{t|hy|Կարեն}}
+*: Old Armenian: {{t|xcl|Կարէն}}
+{{trans-mid}}
+* Persian: {{t+|fa|کارن|tr=kâren}}
+* Russian: {{t+|ru|Каре́н|sc=Cyrl}}
+{{trans-bottom}}
+
+====References====
+* http://www.iranicaonline.org/articles/karin
+
+===Etymology 3===
+From {{bor|en|my|ကရင်||wild, low-caste man}}.
+
+====Pronunciation====
+* {{a|GenAm|RP}} {{IPA|en|/kəˈɹɛn/}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# A group of languages of [[Myanmar]] and [[Thailand]].
+
+====Further reading====
+[http://www.ethnologue.com/show_family.asp?subid=90271 Ethnologue report on the Karen languages]
+
+===Anagrams===
+* {{anagrams|en|a=aeknr|anker|knare|naker|ranke}}
+
+[[Category:English unisex given names]]
+[[Category:en:Armenian male given names]]
+[[Category:en:Burma]]
+[[Category:en:Languages]]
+
+----
+
+==Cebuano==
+
+===Etymology===
+From {{der|ceb|en|Karen}}, from {{der|ceb|da|-}}.
+
+===Proper noun===
+{{head|ceb|proper noun}}
+
+# {{given name|ceb|female|from=Danish|A=a}}
+
+===Quotations===
+{{seeCites|ceb}}
+
+{{cln|ceb|female given names from Ancient Greek|female given names from English}}
+
+----
+
+==Danish==
+
+===Etymology===
+A medieval variant of {{m|da|Katharina||[[Catherine]]}}.
+
+===Proper noun===
+{{head|da|proper noun}}
+
+# {{given name|da|female}}.
+
+====Descendants====
+''All are borrowed''.
+* {{desc|en|Karen}}
+* {{desc|de|Karen}}
+* {{desc|is|Karen}}
+* {{desc|no|Karen}}
+
+===References===
+* [http://www.danskernesnavne.navneforskning.ku.dk/ ] Danskernes Navne, based on CPR data: 83 320 females with the given name Karen have been registered in Denmark between about 1890 (=the population alive in 1967) and January 2005, with the frequency peak in the 1910s. Accessed on 19 May 2011.
+
+----
+
+==Finnish==
+
+===Proper noun===
+{{head|fi|proper noun form}}
+
+# {{fi-form of|Kare|case=genitive|pl=singular}} (the given name)
+
+===Anagrams===
+* {{anagrams|fi|a=aeknr|rekan}}
+
+----
+
+==German==
+
+===Etymology===
+Borrowed from {{bor|de|da|Karen}}.
+
+===Pronunciation===
+* {{audio|de|De-Karen.ogg|Audio}}
+
+===Alternative forms===
+* {{alter|de|Caren}}
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{given name|de|female}}.
+
+====Related terms====
+* {{l|de|Karin}} (much more popular in Germany)
+* {{l|de|Katharina}}
+
+----
+
+==Icelandic==
+
+===Pronunciation===
+* {{IPA|is|/ˈkʰaːrɛ(ː)n/}}
+
+===Proper noun===
+{{head|is|proper noun|g=f}}
+
+# {{given name|is|female}}
+
+====Declension====
+{{is-decl-noun-f-s1|Kar|e|n|u=u}}
+Sometimes also ''Karen'' in accusative and dative.
+
+----
+
+==Luxembourgish==
+
+===Noun===
+{{head|lb|noun plural form}}
+
+# {{plural of|lb|Kar||cart}}
+
+----
+
+==Norwegian==
+
+===Proper noun===
+{{head|no|proper noun}}
+
+# {{given name|no|female}} of Danish origin.
