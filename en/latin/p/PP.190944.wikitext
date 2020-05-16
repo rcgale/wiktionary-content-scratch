@@ -1,0 +1,73 @@
+{{also|pp|pp.|p&p|P-P|P&P|p.p.|p. p.|Appendix:Variations of "pp"}}
+==English==
+
+===Noun===
+{{en-noun|~}}
+
+# {{initialism of|en|parish priest}}
+#* '''2013''', {{w|Eimear McBride}}, ''A Girl is a Half-Formed Thing'', Faber & Faber 2014, p. 11:
+#*: Whose is that car? Do you see it she said, parking at the gate? Oh God let it not be the '''PP''' and the state of the place.
+# {{lb|en|organic compound}} {{initialism of|en|polypropylene}}
+# {{initialism of|en|{{w|precocious puberty}}}}
+# {{lb|en|grammar}} {{initialism of|en|prepositional phrase}}
+# {{lb|en|sports}} {{initialism of|en|power play}}
+# {{lb|en|dance}} {{initialism of|en|promenade position}}
+# {{lb|en|internet slang|texting}} {{initialism of|en|pussy pass}}
+# {{lb|en|internet slang|texting}} {{initialism of|en|pee-pee||penis or vagina}}
+# {{initialism of|en|{{w|public parking}}}}
+
+====Translations====
+{{trans-top|prepositional phrase}}
+* German: {{t+|de|PP|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{initialism of|en|PowerPoint}}
+# {{initialism of|en|PayPal}}
+# {{lb|en|video games}} {{initialism of|en|{{w|Puzzle Pirates}}}}
+
+====References====
+* {{lb|en|organic compound}} Bashford, David. [http://books.google.com/books?id=ycLq-EYaE0QC&dq=a.+schulman&source=gbs_navlinks_s Thermoplastics: Directory and databook]; {{ISBN|9780412733505}}. London: Chapman & Hall, 1997.
+
+[[Category:English initialisms]]
+
+----
+
+==Catalan==
+
+===Proper noun===
+{{ca-proper noun|m}}
+
+# {{initialism of|ca|[[w:ca:Partit Popular|Partit Popular]]}}
+
+----
+
+==Spanish==
+
+===Pronunciation===
+* {{es-IPA|pépé}}
+
+===Proper noun===
+{{es-proper noun|m}}
+
+# {{initialism of|es|[[:w:es:Partido Popular|Partido Popular]]|t=People's Party}}
+
+===Further reading===
+* {{pedia|Partido Popular|lang=es}}
+* {{pedia|People's Party (Spain)}}
+
+{{c|es|Politics}}
+
+----
+
+==Swedish==
+
+===Proper noun===
+{{head|sv|proper noun|g=n}}
+
+# {{abbreviation of|sv|Piratpartiet|nodot=1}} {{gloss|[[w:Pirate Party (Sweden)|Pirate Party]]}}
+
+[[Category:sv:Politics]]
