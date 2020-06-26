@@ -1,0 +1,46 @@
+==English==
+
+===Etymology===
+{{affix|en|hypo-|oxygen|-ia|gloss1=under}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|pathology}} A condition in which [[tissue]]s (especially the [[blood]]) are deprived of an adequate supply of [[oxygen]]; [[anoxia]] {{defdate|from 1940s}}
+# A reduced concentration of dissolved oxygen in an [[aquatic]] environment.
+
+====Derived terms====
+* {{l|en|hypoxial}}
+* {{l|en|hypoxic}}
+* {{l|en|pseudohypoxia}}
+
+====Related terms====
+* {{l|en|normoxia}}
+
+====Translations====
+{{trans-top|condition in which tissues are deprived of oxygen}}
+* Bulgarian: {{t|bg|недостиг на кислород}}
+* Catalan: {{t|ca|hipòxia|f}}
+* Czech: {{t+|cs|hypoxie}}
+* Dutch: {{t+|nl|hypoxie|f}}
+* Finnish: {{t|fi|hypoksia}}
+* French: {{t+|fr|hypoxie}}
+* Icelandic: {{t+|is|súrefnisskortur|m}}
+{{trans-mid}}
+* Irish: {{t|ga|hiopocsa|f}}, {{t|ga|hiopocsacht|f}}
+* Italian: {{t+|it|ipossia}}
+* Portuguese: {{t|pt|hipóxia}}
+* Russian: {{t+|ru|гипокси́я|f}}
+* Spanish: {{t|es|hipoxia|f}}
+* Swedish: {{t+|sv|hypoxi|c}}, {{t+|sv|syrebrist|c}}
+* Turkish: {{t+|tr|hipoksi}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|anoxia}}
+* {{l|en|altitude sickness}}
+* {{l|en|hyperoxia}}
+* {{l|en|hypoxemia}}
+
+===Further reading===
+* {{pedia}}
