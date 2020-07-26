@@ -1,0 +1,171 @@
+{{also|Eli|éli|Elí|eli-|èli}}
+==Dilling==
+
+===Etymology===
+{{inh|dil|nub-pro|*il-di}}.
+
+===Noun===
+{{head|dil|noun}}
+
+# [[woman]]
+
+===References===
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100%5Cesu%5Cnub&limit=-1] (as ''eli'')
+* Salem Chaker, ‎Andrzej Zaborski, ''Etudes berbères et chamito-sémitiques: mélanges offerts à Karl-G. Prasse'' (2000) (as ''ǐḷī'')
+
+----
+
+==Eastern Huasteca Nahuatl==
+
+===Verb===
+{{head|nhe|verb}}
+
+# to [[be]].
+
+----
+
+==Finnish==
+
+===Etymology===
+Either from the pronominal stem ''e-'' seen in {{m|fi|että}} or a North Germanic loan (compare {{cog|non|ella}}, {{m|non|ellar}}, from {{cog|gem-pro|*aljaz}}). Also compare {{cog|et|elik}}.
+
+===Pronunciation===
+{{fi-pronunciation|*}}
+
+===Conjunction===
+{{fi-con}}
+
+# {{lb|fi|coordinating}} [[so]]
+# [[a.k.a.]], [[or]]
+# [[i.e.]], [[that is]], [[in other words]]
+# [[as in]] {{gloss|in the sense of}}
+# {{lb|fi|obsolete}} [[or]]
+#: {{syn|fi|tai}}
+
+===Verb===
+{{head|fi|verb form}}
+
+# {{fi-form of|elää|pr=third-person|pl=singular|mood=indicative|tense=past}}
+#: {{ux|fi|Hän '''eli''' täällä.|He '''lived''' here.}}
+
+===Anagrams===
+* {{anagrams|fi|a=eil|lei|lie}}
+
+[[Category:Finnish coordinating conjunctions]]
+
+----
+
+==Ido==
+
+===Etymology===
+{{suffix|io|elu|gloss1=she, her|i|gloss2=-s; plural}}
+
+===Pronoun===
+{{head|io|pronoun|g=p}}
+
+# [[they]], [[them]] {{qualifier|feminine}}
+
+====Related terms====
+* {{l|io|li|gloss=they, them}}
+* {{l|io|ili|gloss=they, them}} {{qualifier|masculine}}
+* {{l|io|oli|gloss=they, them}} {{qualifier|neuter}}
+
+----
+
+==Ingrian==
+
+===Etymology===
+Compare {{cog|fi|eli}}.
+
+===Conjunction===
+{{head|izh|conjunction}}
+
+# [[or]]
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun plural form|g=m}}
+
+# {{plural of|it|elio}}
+
+===Anagrams===
+* {{l|it|lei}}, {{l|it|Lei}}
+
+----
+
+==Kristang==
+
+===Etymology===
+From {{etyl|pt|mcm}} {{m|pt|ele||he}}, from {{etyl|roa-opt|mcm}} {{m|roa-opt|ele}}, from {{etyl|la|mcm}} {{m|la|ille||that}}.
+
+===Pronoun===
+{{head|mcm|pronoun}}
+
+# {{l|en|he}}, {{l|en|she}} or {{l|en|it}} {{gloss|third-person singular personal pronoun}}<ref>'''2010''', Ladislav Prištic, ''Kristang - Crioulo de Base Portuguesa'', Masaryk University, page 26.</ref>
+
+===See also===
+{{Kristang personal pronouns}}
+
+===References===
+<references />
+
+----
+
+==Meänkieli==
+
+===Conjunction===
+{{head|fit|conjunction}}
+
+# [[or]]
+
+----
+
+==Venetian==
+
+===Pronoun===
+{{head|vec|pronoun|g=m}}
+
+# [[they]], [[them]]
+
+----
+
+==Volapük==
+
+===Article===
+{{head|vo|article form}}
+
+# {{inflection of|vo|el||acc|s}}
+
+----
+
+==Welsh==
+
+===Etymology===
+From {{der|cy|la|olīvum}}.
+
+===Noun===
+{{cy-noun|m|elïau}}
+
+# [[ointment]]
+#: {{syn|cy|ennaint}}
+
+===Mutation===
+{{cy-mut-auto}}
+
+----
+
+==Xhosa==
+
+===Etymology===
+{{rfe|xh}}
+
+===Pronunciation===
+* {{IPA|xh|[êːli]}}
+
+===Pronoun===
+{{head|xh|pronoun|cat2=demonstrative pronouns|head=êli}}
+
+# [[this]]; {{n-g|class 5 proximal demonstrative.}}
