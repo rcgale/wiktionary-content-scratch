@@ -1,0 +1,32 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{prefix|en|counter|claim}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|legal}} a [[suit]] filed by a [[defendant]] against a [[plaintiff]] secondary to the original complaint.
+
+====Translations====
+{{trans-top|suit filed by a defendant against a plaintiff}}
+* Afrikaans: {{t|af|teeneis}}
+* Armenian: {{t+|hy|հակընդդեմ հայց}}
+* Dutch: {{t+|nl|tegeneis|m}}, {{t|nl|eis in reconventie|m}}
+* Finnish: {{t|fi|vastakanne}}
+* French: {{t|fr|demande reconventionnelle|f}}
+* German: {{t+|de|Widerklage|f}}
+{{trans-mid}}
+* Greek: {{t+|el|ανταγωγή|f}}
+* Irish: {{t|ga|frithéileamh|m}}
+* Italian: {{t|it|riconvenzione|f}}
+* Portuguese: {{t|pt|reconvenção|f}}
+* Spanish: {{t+|es|reconvención|f}}
+* Tagalog: {{t|tl|ganting-habol}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|intransitive}} To file a counterclaim.
