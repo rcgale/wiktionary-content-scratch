@@ -1,0 +1,59 @@
+{{also|igar|igår|-igar}}
+==Danish==
+
+===Etymology===
+From {{der|da|non|í gær}}, {{m|non|í gjár||yesterday}} (whence {{cog|is|í gær}} and {{cog|fo|í gjár}}).
+
+===Pronunciation===
+* {{IPA|da|[iˈɡ̊ɒˀ]}}
+
+===Phrase===
+{{head|da|phrase|head=[[i]] [[går]]}}
+
+# [[yesterday]] {{gloss|the day before today}}
+
+----
+
+==Norwegian Bokmål==
+
+===Adverb===
+{{head|nb|adverb}}
+
+# [[yesterday]]
+
+====Usage notes====
+Often spelt [[igår]], but this is not an official spelling.
+
+===References===
+* {{R:The Bokmål Dictionary|går}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Adverb===
+{{head|nn|adverb}}
+
+# [[yesterday]]
+
+----
+
+==Swedish==
+
+===Alternative forms===
+* {{l|sv|igår}}
+
+===Etymology===
+From {{der|sv|non|í gær}}, {{m|non|í gjár||yesterday}} (whence {{cog|is|í gær}} and {{cog|fo|í gjár}}).
+
+===Adverb===
+{{sv-adv|-}}
+
+# [[yesterday]] (on the day before today)
+
+====See also====
+* {{l|sv|i övermorgon}}
+* {{l|sv|i morgon}}
+* {{l|sv|i dag}}
+* {{l|sv|i förrgår}}
+* {{l|sv|gårdag}}
