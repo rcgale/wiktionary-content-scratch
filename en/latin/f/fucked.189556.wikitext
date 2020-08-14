@@ -1,0 +1,78 @@
+==English==
+
+===Pronunciation===
+* {{IPA|en|/fʌkt/}}
+* {{audio|en|En-au-fucked.ogg|Audio (AU)}}
+* {{rhymes|en|ʌkt}}
+
+===Adjective===
+{{en-adj}}
+
+# {{lb|en|vulgar}} [[broken|Broken]].
+#: ''I can't repair your computer, it's '''fucked''', mate.''
+# {{lb|en|vulgar}} [[in trouble|In trouble]].
+#: ''He's lost his map in the middle of a desert! He's '''fucked'''.''
+# {{lb|en|vulgar}} Very [[drunk]].
+#: ''Man, I was mixing all sorts of drinks, and by the end of the night I was so '''fucked'''!''
+# {{lb|en|vulgar}} {{clipping of|en|fucked up||disturbing or reprehensible}}
+#: ''I'll be awake all night finishing all the work I had to bring home. That is so '''fucked'''!''
+# {{lb|en|vulgar}} [[tired|Tired]].
+#: ''I'm so '''fucked''' – I didn't get home until 5am.''
+# {{lb|en|slang|vulgar}} [[bothered|Bothered]] to do something.
+#: {{ux|en|I can’t be '''fucked''' to look it up.}}
+
+====Synonyms====
+* {{sense|broken}} {{l|en|Donald Ducked}}; See also [[Thesaurus:out of order]]
+* {{sense|in trouble}} {{l|en|screwed}}, {{l|en|dicked}}, {{l|en|doomed}}; See also [[Thesaurus:in trouble]]
+* {{sense|very drunk}} See also [[Thesaurus:drunk]]
+* {{sense|disturbing or reprehensible}}
+* {{sense|tired}} See also [[Thesaurus:fatigued]]
+* {{sense|bothered}} {{l|en|arsed}}
+
+====Derived terms====
+* {{l|en|fucked up}}
+
+====Translations====
+{{trans-top|broken}}
+* Finnish: {{t+|fi|rikki}}, [[vitullaan]] {{qualifier|vulgar}}, [[päin vittua]] {{qualifier|vulgar}}, [[päin persettä]] {{qualifier|vulgar}}, [[paska]] {{qualifier|vulgar}}
+* French: {{t+|fr|foutu|m}}
+* German: {{t+|de|im Arsch}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|fodido|m}}
+* Russian: {{t+|ru|накры́ться пиздо́й}} {{qualifier|vulgar equivalent phrase, lit.: "to be covered with a cunt"}}
+{{trans-bottom}}
+
+{{trans-top|in trouble}}
+* Czech: {{t+|cs|v prdeli}}
+* Finnish: [[pahassa]] [[pulassa]], {{t|fi|kusessa}}
+* German: {{t+|de|gefickt}}, {{t|de|in der Scheiße}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|fodido}}
+* Russian: {{t+|ru|в жо́пе}}
+* Spanish: {{t+|es|jodido|m}}
+{{trans-bottom}}
+
+{{trans-top|very drunk}}
+* Finnish: {{t+|fi|ympäripäissään}}
+* German: {{t+|de|hackedicht}}
+{{trans-mid}}
+* Norwegian: {{t|no|drita}}, {{t|no|dritings}}
+* Portuguese: {{t+|pt|mamado}}
+* Russian: {{t+|ru|надраться|alt=надра́вшийся}}, {{t+|ru|бухо́й}} {{qualifier|в жо́пу}}
+{{trans-bottom}}
+
+{{trans-top|disturbing or reprehensible}}
+* Russian: {{t+|ru|ёбнутый}} {{qualifier|vulgar}}, {{t+|ru|ебану́тый}} {{qualifier|vulgar}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|tired}}
+* Faroese: {{t|fo|fokkaður}}
+{{trans-mid}}
+* Russian: {{t|ru|заёбанный}} {{qualifier|vulgar}}, {{t+|ru|заебаться|alt=заеба́вшийся}} {{qualifier|vulgar}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|fuck}}
