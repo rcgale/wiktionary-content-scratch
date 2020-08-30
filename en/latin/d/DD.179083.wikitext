@@ -1,0 +1,157 @@
+{{also|dd|Dd|.dd|d.d.|-dd|D.D.|D&D|ḏd}}
+==Translingual==
+
+===Alternative forms===
+* {{sense|roman numeral}} {{l|mul|DD}}, {{l|mul|M}}
+
+===Number===
+{{mul-number}}
+
+# {{lb|mul|informal}} A [[Roman numeral]] representing [[thousand]] ([[1000]]).
+
+====See also====
+* Previous: [[DID]] ([[nine hundred and ninety-nine]], [[999]])
+* Next: [[DDI]] ([[one thousand]] and [[one]], 1001)
+
+[[Category:mul:Thousand]]
+
+----
+
+==English==
+{{wikipedia}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{init of|en|[[designated driver]]}}
+# {{init of|en|[[discharged dead]]|nodot=1}} - official designation of a sailor killed in combat
+# {{init of|en|[[direct debit]]}}
+# {{init of|en|deficit disorder}}
+# {{init of|en|[[doctor]] of [[divinity]]}}
+# {{init of|en|[[Debian]] [[developer]]}}
+# {{label|en|sports}} {{initialism of|en|[[degree]] of [[difficulty]]}}
+# {{lb|en|US|military|nautical}} {{abbr of|en|[[destroyer]]|dot=,}} a type of warship.
+# {{lb|en|automotive}} {{init of|en|[[daily driver]]|dot=;}} a vehicle which is used for everyday commuting, unlike a [[weekend warrior]] / [[Sunday Funday]] vehicle.
+# {{init of|en|dual diagnosis}}
+# {{init of|en|demand draft}}
+# a bra cup size: double-D
+# {{lb|en|Internet}} {{init of|en|[[direct]] [[download]]}}
+# {{init of|en|[[decimal degree]]s}} {{gloss|decimalized instead of sexagesimal values for [[arcdegree]]s}}
+# {{abbr of|en|daddy|nodot=1}} {{n-g|in DD/[[lg]] [[kink]].}}
+#* '''2019''', Cassandra Dee, ''Daddy's Pretty Baby: A '''DD'''/lg Forbidden Romance'':
+#*: ABOUT THIS BOOK {{...}} Hey Readers – Warning: This is a sexy, over the top romance with two folks engaged in age play and the '''DD'''/lg lifestyle.
+
+===Adjective===
+{{head|en|adjective}}
+
+# {{init of|en|[[developmentally]] [[disabled]]}}
+
+===Phrase===
+{{en-phrase}}
+
+# {{init of|en|[[dear]] [[daughter]]}}
+
+====Alternative forms====
+* {{sense|Internet}} [[DDL]]
+
+====Coordinate terms====
+* {{sense|decimal degrees}} [[DMS]], [[HMS]], [[gradian]], [[radian]], [[mil]]
+
+----
+
+==Japanese==
+
+===Pronunciation===
+{{ja-pron|ディー ディー}}
+
+===Noun===
+{{ja-noun|ディー ディー}}
+
+# {{lb|ja|often|_|offensive|subculture}} {{short for|ja|誰でも大好き|tr=daredemo daisuki|t=love everyone}}
+#{{lb|ja|internet slang}} {{short for|ja|どっちもどっち|tr=dotchi mo dotchi|t=neither is great}}
+
+----
+
+==Norwegian Bokmål==
+
+===Alternative forms===
+* {{l|nb|dd}}
+* {{l|nb|d.d.}}
+
+===Etymology 1===
+Short form of {{l|nb|dag}} ("day").
+
+===Pronunciation===
+* {{IPA|nb|/dɑːɡ/}}
+* {{rhymes|nb|ɑːɡ}}
+* {{hyphenation|nb|DD}}
+* {{homophones|nb|dag|dd}}
+
+===Noun===
+{{head|nb|noun}}
+
+# {{abbreviation of|nb|[[dag]]|nodot=1}} ("{{l|en|day}}"), in a two-digit numeric format used for dates
+#: {{syn|nb|dag|dd}}
+
+====See also====
+* {{l|nb|mm}}, {{l|nb|åå}}, {{l|nb|åååå}}
+
+====Related terms====
+* {{l|nb|ddmmåå}}, {{l|nb|ddmmåååå}}, {{l|nb|DDMMÅÅ}}, {{l|nb|DDMMÅÅÅÅ}}, {{l|nb|dd/mm/åå}}, {{l|nb|dd/mm/åååå}}, {{l|nb|DD/MM/ÅÅ}}, {{l|nb|DD/MM/ÅÅÅÅ}}
+
+===Etymology 2===
+Short form of {{l|nb|datamangel}} ("data deficiency").
+
+===Pronunciation===
+* {{IPA|nb|/ˈdɑːtɑ.mɑŋəl/}}
+* {{rhymes|nb|ɑŋəl}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|datamangel}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|Norwegian Red List for Species}} {{abbreviation of|nb|[[datamangel]]||data deficiency}}
+
+===Etymology 3===
+Short form of {{l|nb|dobbel-dobbel}} ("double-double").
+
+===Pronunciation===
+* {{IPA|nb|/ˈdɔbːəl.dɔbːəl/}}
+* {{rhymes|nb|ɔbːəl}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|dobbel-dobbel}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|basketball}} {{abbreviation of|nb|[[dobbel-dobbel]]||double-double}}
+
+===Etymology 4===
+Short form of {{l|nb|D-dag}} or {{l|nb|D-dagen}} ("D-Day").
+
+===Pronunciation===
+* {{IPA|nb|/ˈdeːdɑɡ/|/ˈdeːdɑɡn̩/}}
+* {{rhymes|nb|eːdɑɡ|eːdɑɡn̩}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|D-dag|D-dagen}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|figuratively}} {{abbreviation of|nb|[[D-dag]]||D-Day}} 
+# {{lb|nb|historical}} {{abbreviation of|nb|[[D-dagen]]||D-Day}}
+
+===Etymology 5===
+First initials of the name {{l|nb|Donald Duck}} ("Donald Duck").
+
+===Pronunciation===
+* {{IPA|nb|/ˈduːnɑl.dʉk/}}
+* {{rhymes|nb|ʉk}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|Donald Duck}}
+
+====Proper noun====
+{{no-proper noun}}
+
+# {{initialism of|nb|[[Donald Duck]]}}
