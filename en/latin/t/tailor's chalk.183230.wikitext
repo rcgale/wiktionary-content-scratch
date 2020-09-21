@@ -1,0 +1,22 @@
+==English==
+{{wikipedia|tailor's chalk}}
+
+===Noun===
+{{en-noun|head=[[tailor]]'s [[chalk]]|-}}
+
+# A chalk-like material used for marking [[alteration]]s on [[fabric]] in tailoring and [[dressmaking]]. The marks are brushed or washed off the material when no longer needed.
+
+====Translations====
+{{trans-top|chalk-like material used for marking alterations on fabric}}
+* Bulgarian: {{t+|bg|креда|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|粉片|tr=fěnpiàn|sc=Hani}}, {{t|cmn|划粉|tr=huáfěn|sc=Hani}}
+* Finnish: {{t|fi|räätälinliitu}}
+* French: {{t+|fr|craie de tailleur|f}}, {{t+|fr|craie de couturière|f}}
+{{trans-mid}}
+* German: {{t+|de|Schneiderkreide|f}}
+* Hungarian: {{t|hu|szabókréta}}
+* Macedonian: {{t|mk|кројачки сапун|m}}, {{t|mk|кројачка реда|f}}
+* Polish: {{t|pl|kreda krawiecka|f}}
+* Swahili: {{t+|sw|chaki}}
+{{trans-bottom}}
