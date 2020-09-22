@@ -1,0 +1,45 @@
+==English==
+
+===Etymology===
+From {{suffix|en|warp|ed}}.
+
+===Pronunciation===
+* {{rhymes|en|ɔː(r)pt}}
+
+===Adjective===
+{{en-adj}}
+
+# [[distort|Distorted]] by warping; [[twisted]] out of [[shape]]
+# {{lb|en|figuratively}} Of a person's mind, attitudes, etc, [[perverse]], [[strange]], [[aberrant]] or [[deviant]].
+#: ''a '''warped''' sense of humour''
+
+====Derived terms====
+* {{l|en|warpedness}}
+
+====Translations====
+{{trans-top|distorted by warping}}
+* Finnish: {{t+|fi|vääntynyt}}
+* German: {{t+|de|verzogen}}
+* Irish: {{t|ga|anchumtha}}
+* Italian: {{t+|it|deformato}}
+{{trans-mid}}
+* Latin: {{t|la|pandus}}
+* Maori: {{t|mi|tahatonga}}
+* Portuguese: {{t|pt|empenado}}, {{t|pt|deformado}}
+* Turkish: {{t+|tr|çarpık}}
+{{trans-bottom}}
+
+{{trans-top|in figurative sense}}
+* Finnish: {{t|fi|kieroutunut}}
+* French: {{t+|fr|tordu}}
+{{trans-mid}}
+* Japanese: {{t|ja|ひねくれた|tr=hinekureta}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|warp}}
+
+===Anagrams===
+* {{anagrams|en|a=adeprw|Pardew}}
