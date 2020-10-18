@@ -1,0 +1,72 @@
+==English==
+
+===Alternative forms===
+* {{l|en|mouch}}
+
+===Etymology===
+From {{inh|en|enm|moochen}}, {{m|enm|mouchen|t=to pretend poverty}}, from {{der|en|fro|muchier}}, {{m|fro|mucier}}, {{m|fro|mucer|t=to skulk, hide, conceal}}, from {{der|en|frk|*mukjan|t=to hide, conceal oneself}}, from {{der|en|gem-pro|*mūk-|*mukjaną}}, {{m|gem-pro|*mūk-|*mūkōną|t=to hide, ambush}}, from {{der|en|ine-pro|*(s)mūg-}}, {{m|ine-pro|*(s)mewgʰ-|t=swindler, thief}}. 
+
+Cognate with {{cog|goh|mūhhōn|t=to store, cache, plunder}}, {{cog|gmh|muchen}}, {{m|gmh|mucken|t=to hide, stash}}, {{cog|enm|muchen|müchen}}, {{m|enm|michen|t=to rob, steal, pilfer}}. More at {{l|en|mitch}}.
+
+Alternate etymology derives ''mooch'' from {{inh|en|enm|mucchen|t=to hoard, be stingy|lit=to hide coins in one's nightcap}}, from {{der|en|enm|mucche|t=nightcap}}, from {{der|en|dum|mutse|t=cap, nightcap}}, from {{der|en|ML.|almucia|t=nightcap}}, of unknown origin, possibly Arabic. More at {{l|en|mutch}}, {{l|en|amice}}.
+
+===Pronunciation===
+* {{IPA|en|/muːtʃ/}}
+* {{audio|en|en-us-mooch.ogg|Audio (US)}}
+*: {{rhymes|en|uːtʃ}}
+
+===Verb===
+{{en-verb|es}}
+
+# {{lb|en|British}} To [[wander]] around [[aimlessly]], often causing irritation to others.
+#* '''2019''', Barney Ronay, ''Liverpool’s waves of red fury and recklessness end in joyous bedlam'' (in ''The Guardian'', 8 May 2019)[https://www.theguardian.com/football/2019/may/07/liverpool-fury-recklessness-bedlam-champions-league-barcelona]
+#*: With 79 minutes gone, the most celebrated team of the modern age had been reduced to bunch of '''mooching''', stumbling yellow-shirted spectators.
+#*: These chaps that '''mooch''' about, as Hyde was doing, pick up all sorts of odds and ends. He may have pinched them from a chemist’s shop.
+# To [[beg]], [[cadge]], or [[sponge]]; to [[exploit]] or [[take advantage]] of others for personal gain.
+#* '''1990''', p. 26, Michael L. Frankel & friends, ''Gently with the Tides'', Center for Marine Conservation, Washington (DC), {{ISBN|1879269-007}}, p. 26,
+#*: I managed to '''mooch''' my way up the journalistic ladder to the next, more impressive level of “Interviewer”.
+# {{lb|en|British}} To [[steal]] or [[filch]].
+
+====Derived terms====
+* {{l|en|mooch off}}
+
+====Translations====
+{{trans-top|wander around aimlessly}}
+* French: {{t+|fr|errer}}
+* Maori: {{t|mi|whakatairangi}}
+* Polish: {{t+|pl|snuć się}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|zanzar}}
+* Russian: {{t+|ru|слоня́ться}}
+{{trans-bottom}}
+
+{{trans-top|beg, cadge, or sponge; to exploit or take advantage of others for personal gain.}}
+* German: {{t+|de|schnorren}}
+* Russian: {{t+|ru|попроша́йничать}}, {{t+|ru|побира́ться}}
+{{trans-mid}}
+* Swedish: {{t+|sv|snylta}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|UK}} An [[aimless]] [[stroll]].
+#: ''Jack wouldn't be arriving for another ten minutes, so I had a '''mooch''' around the garden.''
+# One who mooches; a [[moocher]].
+# {{lb|en|US|slang}} A unit of time comprising ten days, used to measure how long someone holds a job.
+#* {{quote-journal|en|date=July 6, 2018|work=The Washington Post|title=|author=Dana Milbank |volume=|number=|passage=If we take Scaramucci’s 10-day figure to be the standard of measurement — one “'''mooch'''” — then Pruitt survived an amazing 50.3 '''mooches''', even while enduring more than a dozen scandals, any one of which would have doomed a lesser man.}}
+#* {{quote-journal|en|date=October 27, 2018|work=Associated Press (press release)-|title=Anthony Scaramucci defends Trump, but doesn't always agree|author=John Carucci|volume=|number=|passage=Scaramucci, who jokingly measures time in '''mooches''', a unit equal to approximately 11 days, said he doesn’t necessarily like the version of himself he often sees on screen, but feels director Andrew J. Moscato was accurate. }}
+#* {{quote-journal|en|date=August 29, 2019|work=The Atlantic|title=Anthony Scaramucci Wants You to Believe Him This Time|author=Peter Nicholas|volume=|number=|passage=I understand it's her job. But I would point out to people that Stephanie has lasted way more “'''Mooches'''” than me.}}
+
+====Synonyms====
+* {{sense|moocher}} See also [[Thesaurus:scrounger]]
+
+====Translations====
+{{trans-see|moocher}}
+
+===Anagrams===
+* {{anagrams|en|a=chmoo|chomo|choom}}
+
+[[Category:en:Ten]]
+[[Category:en:Time]]
+[[Category:en:Units of measure]]
