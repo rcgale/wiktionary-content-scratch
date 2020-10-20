@@ -1,0 +1,59 @@
+==English==
+
+===Etymology===
+{{compound|en|head|master}}.
+
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ˈhɛdˌmæstɚ/}}
+* {{a|RP}} {{IPA|en|/ˈhɛdˌmɑːstə/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-headmaster.wav ‎|Audio (UK)}}
+* {{rhymes|en|æstə(ɹ)|ɑːstə(ɹ)}}
+* {{hyph|en|head|mas|ter}}
+
+===Noun===
+{{head|en|noun|plural|headmasters|feminine|headmistress}}
+
+# {{lb|en|chiefly|UK}} A male school [[principal]].
+
+====Usage notes====
+The term is gender-specific, and refers to a male in the position. A female in the same role would be called a ''[[headmistress]]''. In the United States, the shortened version of 'master' was used in some universities to refer to the faculty leader of a residential space regardless of gender.
+
+====Synonyms====
+* {{l|en|headteacher}} {{qualifier|UK, gender-neutral}}
+* {{l|en|principal|id=school}} {{qualifier|US, gender-neutral}}
+
+====Translations====
+{{trans-top|the most senior master in a school (male)}}
+* Arabic: {{t|ar|مُدِير|m}}
+* Bulgarian: {{t+|bg|директор|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|校長|sc=Hani}}, {{t+|cmn|校长|tr=xiàozhǎng|sc=Hani}}
+* Finnish: {{t+|fi|rehtori}}
+* French: {{t+|fr|directeur|m}}, {{t+|fr|principal|m}} {{qualifier|collège}}, {{t+|fr|proviseur|m}} {{qualifier|lycée}}
+* German: {{t+|de|Schulleiter|m}}
+* Greek: {{t+|el|διευθυντής|m}}
+* Greenlandic: {{t|kl|atuarfiit pisortaat}}, {{t|kl|atuarfiup pisortaa}}
+* Hebrew: {{t|he|מְנַהֵל|m|tr=menahél}}
+* Hungarian: {{t+|hu|igazgató}}
+* Irish: {{t|ga|uachtarán|m}}, {{t|ga|ardmháistir|m}}
+* Japanese: {{t+|ja|校長|tr=こうちょう, kōchō|sc=Jpan}}
+{{trans-mid}}
+* Korean: {{t+|ko|교장}} ({{t+|ko|校長}})
+* Manx: {{t|gv|ard-vainshtyr|m}}, {{t|gv|ard-ynseyder|m}}, {{t|gv|ard-er-ynsee|m}}
+* Portuguese: {{t+|pt|diretor|m}}
+* Romanian: {{t+|ro|director|m}}
+* Russian: {{t+|ru|дире́ктор|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|директор|m}}, {{t|sh|равнатељ|m}}
+*: Roman: {{t|sh|director|m}}, {{t+|sh|ravnatelj|m}}
+* Spanish: {{t+|es|director}}
+* Swedish: {{t+|sv|rektor|c}}
+* Thai: {{t+|th|ครูใหญ่}}
+* Vietnamese: {{t+|vi|hiệu trưởng}} ({{t|vi|校長}})
+* Welsh: {{t+|cy|prifathro|m}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aadeehmrst|headstream}}
+
+[[Category:English endocentric compounds]]
