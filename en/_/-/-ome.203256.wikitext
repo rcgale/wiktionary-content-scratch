@@ -1,0 +1,86 @@
+{{also|ome|omè|òme|'ome}}
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/-oʊm/}}
+* {{a|RP}} {{IPA|en|/-əʊm/}}
+
+===Etymology 1===
+Alteration of {{m|en|-oma}}, removing the {{l|en|case ending}} retained from its {{bor|en|grc}} etymon {{m|grc|-ωμα}}. Partially cognate to {{m|en|-some||body}}, from {{m|grc|σῶμα||body}}, in that both share the case ending {{m|grc|-μα}}, but the ω is unrelated.
+
+====Suffix====
+{{en-suffix}}
+
+# A [[mass]] of something.
+
+=====Derived terms=====
+{{der-top}}
+* {{l|en|biome}}
+* {{l|en|environome}}
+{{der-mid}}
+* {{l|en|genome}}
+* {{l|en|phyllome}}
+{{der-bottom}}
+
+===Etymology 2===
+{{back-form|en|mitome}}, reinforced by {{m|en|chromosome}}. Early examples include {{m|en|biome}} (1916) and {{m|en|genome}}, from {{cog|de|Genom}} (1920).<ref>{{R:OED2}}</ref> Some association with genetics due to occurrence in {{m|en|chromosome}} and {{m|en|genome}}.
+
+====Suffix====
+{{en-suffix}}
+
+# {{lb|en|biology}} The complete whole of a class of substances for a species or an individual.
+
+=====Derived terms=====
+{{suffixsee|en}}
+
+=====Related terms=====
+* {{l|en|-omics}}
+
+===See also===
+* {{l|en|Appendix:Suffixes -ome and -omics}}
+* {{l|en|-some}}
+
+===References===
+<references/>
+
+===Anagrams===
+* {{anagrams|en|a=emo|EOM|Emo|MOE|Meo|MoE|Moe|OEM|emo|moe|moé}}
+
+----
+
+==French==
+
+===Etymology===
+From {{der|fr|grc|-ωμα}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+
+===Suffix===
+{{fr-suffix}}
+
+# {{l|en|-oma}}
+
+====Derived terms====
+{{suffixsee|fr}}
+{{der4|fr
+|adamantinome
+|condylome
+|embryome
+|épitheliome
+|glioblastome
+|hépatome
+|hygrome
+|lépome
+|méningiome
+|mycétome
+|myélome
+|neurome
+|nevrome
+|odontome
+|ostéome
+|papillome
+|pinéalome
+|psammome
+|staphylome}}
