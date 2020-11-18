@@ -1,0 +1,28 @@
+==Russian==
+
+===Etymology===
+From {{m|ru|шля́ться||to gad about, hang around, gallivant, hang about}}.
+
+===Pronunciation===
+* {{ru-IPA|шлю́ха}}
+* {{audio|ru|Ru-шлю́ха.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
+
+===Noun===
+{{ru-noun+|шлю́ха|a=an}}
+
+# {{lb|ru|highly [[Appendix:Glossary#vulgar|vulgar]]|invective}} [[slut]], [[whore]], [[trollop]], [[strumpet]], [[streetwalker]]
+
+====Declension====
+{{ru-noun-table|шлю́ха|a=an}}
+
+====Synonyms====
+* {{l|ru|ку́рва|g=f}}
+* {{l|ru|проститу́тка|g=f}}
+
+===See also===
+* {{sense|vulgar}} {{l|ru|блядь|g=f}}
+* {{l|ru|потаску́ха|g=f}}
+
+===References===
+* {{R:ru:Vasmer|шлюха}}
