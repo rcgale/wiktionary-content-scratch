@@ -1,0 +1,183 @@
+{{also|erik|érik|-erik}}
+==English==
+
+===Alternative forms===
+* {{alter|en|Eric}}
+
+===Etymology===
+A spelling variant of {{m|en|Eric}}, or directly borrowed from modern {{bor|en|sv|Erik}}.
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{given name|en|male|from=Old Norse}}.
+
+===Anagrams===
+* {{anagrams|en|a=eikr|Keir|Keri|Kier|Rike|keir|keri|kier|rike}}
+
+----
+
+==Czech==
+{{wikipedia|lang=cs}}
+
+===Pronunciation===
+* {{cs-IPA}}
+
+===Proper noun===
+{{cs-proper noun|g=m}}
+
+# {{given name|cs|male|eq=Eric}}
+
+----
+
+==Danish==
+{{wikipedia|lang=da}}
+
+===Etymology===
+From {{inh|da|non|Eiríkr}}. Borne by eight kings of Denmark.
+
+===Proper noun===
+{{da-proper noun}}
+
+# {{given name|da|male|from=Old Norse|eq=Eric|f=Erika}}.
+
+====Related terms====
+* {{qualifier|surnames}} {{l|da|Eriksen}}
+
+===References===
+* [http://www.danskernesnavne.navneforskning.ku.dk/ ] Danskernes Navne, based on CPR data: 118 507 males with the given name Erik have been registered in Denmark between about 1890 (=the population alive in 1967) and January 2005, with the last frequency peak in the 1940s. Accessed on 19 June 2011.
+
+----
+
+==Estonian==
+
+===Proper noun===
+{{head|et|proper noun}}
+
+# {{given name|et|male|from=Old Norse|var=Eerik|var2=Eero|var3=Erki|var4=Erko|eq=Eric|f=Erika}}.
+
+----
+
+==Finnish==
+
+===Pronunciation===
+{{fi-p|Eerik|Erik|q1=in imitation of Swedish|h=E.rik}}
+
+===Proper noun===
+{{fi-proper noun}}
+
+# {{given name|fi|male|from=Old Norse|var=Eerik|var2=Eerikki|var3=Eero|var4=Erkki|eq=Eric|f=Erika|f2=Eriika|f3=Eerika}}.
+
+====Declension====
+{{fi-decl-risti|Erik|i=0|||ä}}
+
+===Anagrams===
+* {{anagrams|fi|a=eikr|keri|reki|rike}}
+
+----
+
+==German==
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{given name|de|male|from=Old Norse|var=Erich|eq=Eric|f=Erika|f2=Erica}}.
+
+----
+
+==Norwegian==
+
+===Etymology===
+From {{inh|no|non|Eiríkr}}, from Proto-Norse *Aiwa-rīkiaR ("forever rich/powerful").
+
+===Proper noun===
+{{no-proper noun}}
+
+# {{given name|no|male|var=Eirik|from=Old Norse|eq=Eric|f=Erika}}.
+
+====Usage notes====
+* One of the most common given names in Norway since the Middle Ages.
+
+====Related terms====
+* {{qualifier|surnames}} {{l|no|Eriksen}}
+
+===References===
+* Kristoffer Kruken - Ola Stemshaug: Norsk personnamnleksikon, Det Norske Samlaget, Oslo 1995, {{ISBN|82-521-4483-7}}
+* [http://www.ssb.no/navn/ ] Statistisk sentralbyrå, Namnestatistikk: 20 608 males with the given name Erik (compared to 12 953 named Eirik) living in Norway on January 1st 2011, with a frequency varying between 0.4 - 1.0 percent of the gender group without clear peaks. Accessed on April 29th, 2011.
+
+----
+
+==Slovak==
+
+===Etymology===
+Ultimately, from {{der|sk|non|Eiríkr}}.
+
+===Pronunciation===
+* {{IPA|sk|/ˈɛrik/}}
+
+===Proper noun===
+{{sk-proper noun|g=m|gen=Erika|pl=Erikovia|decl=chlap}}
+
+# {{given name|sk|male|eq=Eric}}
+
+====Declension====
+{{sk-decl-noun|Erik|Erika|Erikovi|Erika|Erikovi|Erikom|Erikovia|Erikov|Erikom|Erikov|Erikoch|Erikmi}}
+
+====Derived terms====
+* {{l|sk|Ero}}
+
+===Further reading===
+* {{R:SDK}}
+
+----
+
+==Slovene==
+
+===Pronunciation===
+* {{sl-IPA|Ȇrik}}
+
+===Proper noun===
+{{sl-proper noun|Ȇrik|m-an}}
+
+# {{given name|sl|male|eq=Eric}}
+
+====Inflection====
+{{sl-decl-noun-m|Êrik|a=1|n=sg}}
+
+----
+
+==Swedish==
+{{wikipedia|lang=sv}}
+
+===Etymology===
+From {{inh|sv|non|Eiríkr}}.
+
+===Proper noun===
+{{sv-proper noun|c}}
+
+# {{given name|sv|male|var=Eric|from=Old Norse|eq=Eric|f=Erika|f2=Erica}}.
+#* '''2014''', [[w:sv:Linda Olsson|Linda Olsson]], ''I skymningen sjunger koltrasten'', Brombergs Bokförlag {{ISBN|9789173376228}}
+#*: E. Blom. Vad stod e:et för? '''Erik'''? Det var egentligen det enda mansnamn för en så pass ung människa som hon kunde komma på. Ingen hette sådant som Evald, Einar eller Evert nuförtiden. Eller gjorde de?
+
+====Usage notes====
+* Traditionally one of the most popular names in [[Sweden]], said to have been borne by 14 kings (out of which 5 are now considered mythological).
+
+====Related terms====
+* {{qualifier|male given names}} {{l|sv|Jerker}}
+* {{qualifier|surnames}} {{l|sv|Eriksson}}
+
+===References===
+* Roland Otterbjörk: Svenska förnamn, Almqvist & Wiksell 1996, {{ISBN|91-21-10937-0}}
+* [https://web.archive.org/web/20100328044612/http://www.scb.se/Pages/NameSearch____259432.aspx] Statistiska centralbyrån and Sture Allén, Staffan Wåhlin, ''Förnamnsboken'', Norstedts 1995, {{ISBN|9119551622}}: 301 941 males with the given name Erik living in Sweden on December 31st, 2010, without a clear frequency peak. Accessed on 19 June 2011.
+
+===Anagrams===
+* {{anagrams|sv|a=eikr|rike}}
+
+----
+
+==Turkish==
+
+===Proper noun===
+{{tr-proper noun}}
+
+# {{given name|tr|male}}
