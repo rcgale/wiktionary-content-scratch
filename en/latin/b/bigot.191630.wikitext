@@ -1,0 +1,217 @@
+==English==
+
+===Etymology===
+From {{bor|en|fr|bigot||a sanctimonious person; a religious hypocrite}}, from {{der|en|frm|bigot}}, from {{der|en|fro|bigot}}, of uncertain origin. It is often thought to derive from an Old French derogatory term applied to the religious {{w|Normans}}, said to be known for frequently swearing {{der|en|enm|bi God||by God}} (compare {{cog|ang||bī god}}, {{cog|gmh||bī got}}, {{cog|dum||bi gode}}), which in any case is thought to be the origin of the surname {{m|en|Bigott}}, {{m|en|Bygott}}. (Compare the French use of {{m|frm|goddams|"goddamns"}} to refer to the English in Joan of Arc's time.) Liberman however thinks this has "too strong a taste of a folk etymological guess invented in retrospect" and prefers Grammont et al.'s theory that it derives from {{m|fro|Albigot||[[Albigensian]] heretic}}.<ref>[http://blog.oup.com/2011/10/bigot-2/ OUP blog]</ref> From meaning someone overly (hypocritically or superstitiously) religious it came to mean someone overly devoted to their own religious opinion, and then to its current sense.<ref>{{R:Etymonline}}</ref>
+
+===Pronunciation===
+* {{IPA|en|/ˈbɪɡət/}}, {{enPR|bĭgʹət}}
+* {{rhymes|en|ɪɡət}}
+
+===Noun===
+{{en-noun}}
+
+# One who is [[narrow-minded]]ly devoted to one's own [[idea]]s and [[group]]s, and [[intolerant]] of (people of) [[differ]]ing ideas, [[race]]s, [[gender]]s, [[religion]]s, [[politics]], etc.
+# {{lb|en|obsolete}} One who is [[overly]] [[pious]] in matters of [[religion]], often [[hypocritically]] or else [[superstitiously]] so.
+#* '''1653''', Urquhart, translating ''Gargantua and Pantagruel'' by François Rabelais, book 1:
+#*: He is no '''bigot''' or hypocrite, he is not torn and divided betwixt reality and appearance, no wretch of a rugged and peevish disposition, but honest, jovial, resolute, and a good fellow.
+#* '''1664''', Henry More, ''A Modest Enquiry Into the Mystery of Iniquity'', page 436:
+#*: Thus one part of their Church becomes Sotts and '''Bigots'''; and the other that behold this Scene of things, though they profess themselves of their Church, become a company of profane Atheists and clancular Deriders of all Religion. {{...}} Nay it is a question whether those that do more superstitiously cleave to them, doe it not rather in a kind of confusion and obstupefaction of mind out of fear and suspicion, then any determinate assurance or firm belief of the things they outwardly profess.
+#* '''1820''', {{w|Charles Maturin}}, ''{{w|Melmoth the Wanderer}}'', volume 3:
+#*: Donna Clara was a woman of a cold and grave temper, with all the solemnity of a Spaniard, and all the austerity of a '''bigot'''.
+
+====Derived terms====
+{{der-top}}
+* {{l|en|bigoted}}
+* {{l|en|bigotly}}
+* {{l|en|bigotness}}
+{{der-mid}}
+* {{l|en|bigotous}}
+* {{l|en|bigotry}}
+* {{l|en|bigoty}}
+{{der-bottom}}
+
+====Translations====
+{{trans-top|one who is narrow-mindedly devoted to their own ideas and groups and intolerant of others}}
+* Arabic: {{t|ar|مُتَعَصِّب}}
+* Azerbaijani: {{t|az|təəssübkeş}}
+* Bulgarian: {{t+|bg|фанатик}}
+* Finnish: [[suvaitsematon]] {{t+|fi|kiihkoilija}}, suvaitsematon {{t+|fi|fanaatikko}}, {{t+|fi|rasisti}}
+* French: {{t+|fr|sectaire}}, {{t+|fr|intolérant}},  {{t|fr|[[fanatique]]|m}} [[intolérant]],  {{t|fr|[[fanatique]]|f}} [[intolérant]]e
+* German: {{t|de|[[intolerant]]er [[Fanatiker]]|m}},  {{t|de|[[intolerant]]e [[Fanatikerin]]|f}}, often with a strongly pejorative noun such as [[Hornochse]] or [[Idiot]] instead of "Mensch": {{t|de|[[engstirnig]]er, [[intolerant]]er [[Mensch]]|m}}, {{t|de|[[borniert]]er [[Mensch]]|m}}, {{t+|de|Kleingeist|m}}, {{t+|de|Rassist|m}}, {{t|de|Piesepampel|m}}, {{t|de|Kantönligeist|m}}
+{{trans-mid}}
+* Greek: {{t+|el|μισαλλόδοξος|m}}
+* Hungarian: {{t+|hu|bigott}}
+* Interlingue: {{t|ie|bigott}}
+* Italian: {{t+|it|fanatico|m}}, {{t+|it|intollerante|m}}, {{t+|it|estremista|m|f}}
+* Polish: {{t+|pl|bigot|m}}, {{t+|pl|bigotka|f}}
+* Russian: {{t+check|ru|фана́тик|m}}, {{t+|ru|шовини́ст|m|tr=šoviníst}}
+* Scottish Gaelic: {{t|gd|dalm-bheachdaiche|m}}
+* Spanish: {{t+check|es|fanático|m}}
+{{trans-bottom}}
+
+{{trans-top|translations to be checked}}
+* Chinese:
+*: Mandarin: {{t-check|cmn|[[盲信]]者|tr=mángxìnzhě|sc=Hani}}, {{t-check|cmn|[[執拗]]的[[人]]|sc=Hani}}, {{t-check|cmn|[[执拗]]的[[人]]|tr=zhíniù de rén|sc=Hani}}, {{t-check|cmn|[[抱]][[偏見]]的[[人]]|sc=Hani}}, {{t-check|cmn|[[抱]][[偏见]]的[[人]]|tr=bào piānjiàn de rén|sc=Hani}}
+* Dutch: {{t+check|nl|fanaat|m}}, {{t+check|nl|fanate|f}}, {{t+check|nl|fanatiekeling|m}}, {{t+check|nl|onverdraagzame}}
+* Esperanto: {{t-check|eo|maltoleremulo}}, {{t|eo|bigoto}}
+* Georgian: {{t-check|ka|ფანატიკოსი}}
+{{trans-mid}}
+* Italian: {{t+check|it|bigotto}}, {{t-check|it|collotorto|m|}}
+* Portuguese: {{t+check|pt|fanático|m}}, {{t+check|pt|intolerante|m}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|holier-than-thou}}
+* {{l|en|hypocrite}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+[[Category:en:Forms of discrimination]]
+[[Category:en:People]]
+
+----
+
+==Catalan==
+
+===Noun===
+{{ca-noun|m}}
+
+# {{alternative form of|ca|bigoti}}
+
+----
+
+==Cebuano==
+
+===Pronunciation===
+* {{hyphenation|ceb|bi|got}}
+
+===Adjective===
+{{head|ceb|adjective}}
+
+# {{lb|ceb|of a woman}} [[buxom]]; having a [[full]], [[voluptuous]] [[figure]], especially possessing large [[breast]]s
+# [[sleek]]; [[slim]] and [[streamlined]]
+
+===Quotations===
+{{seeCites|ceb}}
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|fr|bigot}}, from {{der|nl|frm|bigot}}.
+
+===Pronunciation===
+* {{IPA|nl|/biˈɣɔt/|/biˈʒɔt/}}
+* {{audio|nl|Nl-bigot.ogg}}
+* {{hyphenation|nl|bi|got}}
+* {{rhymes|nl|ɔt}}
+
+===Adjective===
+{{nl-adj|bigotter}}
+
+# [[holier-than-thou]], excessively [[pious]]
+#: {{syn|nl|kwezelachtig}}
+# [[sanctimonious]]
+#: {{syn|nl|schijnheilig}}
+
+====Inflection====
+{{nl-decl-adj|bigotte}}
+
+===Noun===
+{{nl-noun|m|-en|-}}
+
+# A [[holier-than-thou]] person, an extremely pious person.
+#: {{syn|nl|femelaar|kwezel|pilaarbijter}}
+
+----
+
+==French==
+
+===Etymology===
+Maybe from {{inh|fr|frm|bigot}}, from {{inh|fr|fro|bigot}}, a derogatory term applied to Normans for their frequent note of the {{der|fr|ang|-}} oath {{m|ang|[[bī]] [[god]]|t=by God}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-Paris--bigot.ogg|Audio (Paris)}}
+* {{audio|fr|Fr-bigot.ogg|Audio}}
+
+===Noun===
+{{fr-noun|m|f=bigote}}
+
+# {{l|en|bigot}}, [[holier-than-thou]]
+
+===Adjective===
+{{fr-adj}}
+
+# over-[[pious]], [[holier-than-thou]]
+
+===Further reading===
+* {{R:TLFi}}
+
+[[Category:fr:People]]
+
+----
+
+==Polish==
+
+===Etymology===
+From {{bor|pl|fr|bigot}}.
+
+===Pronunciation===
+* {{pl-IPA}}
+* {{audio|pl|Pl-bigot.ogg|Audio}}
+
+===Noun===
+{{pl-noun|m-pr|f=bigotka}}
+
+# {{l|en|[[bigot]], [[holier-than-thou]]}}
+#: {{syn|pl|dewot|nabożniś|pobożniś|religiant|świętoszek}}
+
+====Declension====
+{{pl-decl-noun-m-pr}}
+
+====Derived terms====
+* {{q|noun}} {{l|pl|bigoteria}}
+* {{q|adjective}} {{l|pl|bigoteryjny}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:PWN}}
+
+[[Category:pl:Male people]]
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{der|sh|fr|bigot}}.
+
+===Pronunciation===
+* {{IPA|sh|/bǐɡot/}}
+* {{hyphenation|sh|bi|got}}
+
+===Noun===
+{{sh-noun|g=m|head=bìgot}}
+
+# {{l|en|bigot}}
+
+====Declension====
+{{sh-decl-noun|bìgot|bigoti
+|bigota|bigótā
+|bigotu|bigotima
+|bigota|bigote
+|bigote|bigoti
+|bigotu|bigotima
+|bigotom|bigotima
+}}
+
+===References===
+* {{R:sh:HJP|dltvXQ%3D%3D}}
