@@ -1,0 +1,78 @@
+==English==
+
+===Etymology===
+Borrowed from {{bor|en|frm|grandeur}}, from {{der|en|fro|grandur}}, from {{m|fro|grant}} ({{cog|fr|grand}}), from {{der|en|la|grandis|t=grown up, great}}.
+
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈɡɹæn.dʒɚ/|/ˈɡɹæn.dʒʊɚ/|/ˈɡɹæn.d(j)ʊɚ/|/ˈɡɹæn.d(j)ɚ/}}
+** {{homophones|en|grander|q1=one pronunciation}}
+
+===Noun===
+{{en-noun|~}}
+
+# The state of being [[grand]] or [[splendid]]; [[magnificence]].
+#* {{quote-journal|en|date=2020 August 26|author=Tim Dunn|title=Great railway bores of our time!|journal=Rail|page=44|text=So much of what followed from the drawing boards of others will have been designed with the demands, effort and '''grandeur''' of Primrose Hill <small>[tunnel]</small> in the back of their minds.}}
+# [[nobility|Nobility]] (state of being noble).
+# {{lb|en|archaic|rare}} [[greatness|Greatness]]; [[largeness]]; [[tallness]]; [[loftiness]].
+
+====Translations====
+{{trans-top|state of being grand or splendid; magnificence}}
+* Bulgarian: {{t+|bg|величие|n}}, {{t+|bg|великолепие|n}}
+* Catalan: {{t|ca|grandesa|f}}
+* Finnish: {{t+|fi|upeus}}
+* French: {{t+|fr|splendeur|f}}
+{{trans-mid}}
+* Irish: {{t|ga|ardchéim|f}}
+* Latin: {{t|la|granditās|f}}
+* Portuguese: {{t+|pt|grandeza|f}}
+* Russian: {{t+|ru|великоле́пие}}
+* Swedish: {{t+|sv|storslagenhet|c}}
+{{trans-bottom}}
+
+{{trans-top|nobility}}
+* Bulgarian: {{t|bg|знатност|f}}, {{t+|bg|благородство|n}}
+* Finnish: {{t+|fi|aateluus}}
+{{trans-mid}}
+* Irish: {{t-check|ga|ardnós|m}}
+* Russian: {{t+|ru|знатность}}
+{{trans-bottom}}
+
+{{trans-top|greatness; largeness; tallness; loftiness}}
+* Azerbaijani: {{t|az|böyüklük}}
+* Bulgarian: {{t+|bg|величественост|f}}
+* Finnish: {{t+|fi|suuruus}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|grandeza|f}}, {{t|pt|grandor|m}} {{qualifier|also archaic}}
+* Russian: {{t+|ru|вели́чие}}
+{{trans-bottom}}
+
+===References===
+* {{R:OED2}}
+
+----
+
+==French==
+
+===Etymology===
+{{der|fr|fro|grandur}}, from {{suffix|fr|grand|eur}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-grandeur.ogg|Audio (France, Paris)}}
+* {{homophones|fr|grandeurs}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[size]]
+# {{lb|fr|physics|mathematics}} [[magnitude]], [[quantity]]
+# {{lb|fr|astronomy}} [[magnitude]]
+# [[#English|grandeur]]
+
+===See also===
+* {{l|fr|taille}}
+* {{l|fr|largeur}}
+* {{l|fr|hauteur}}
+
+===Further reading===
+* {{R:TLFi}}
