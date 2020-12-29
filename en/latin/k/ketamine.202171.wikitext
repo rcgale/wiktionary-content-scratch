@@ -1,0 +1,67 @@
+{{also|kétamine}}
+==English==
+[[File:Ketamine2DCSD.svg|thumb|150px|Chemical structure of '''ketamine''']]
+{{wikipedia}}
+
+===Etymology===
+{{blend|en|ketone|amine}}, 1960s.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈkiː.təm.iːn/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-ketamine.wav|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˈkɛt.əˌmiːn/|/ˈkiː.təˌmiːn/}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|pharmaceutical drug}} A [[synthetic]] [[compound]] used as an [[anesthetic]] and [[analgesic]] drug and also ([[illicitly]]) as a [[hallucinogen]].
+#: {{syn|en|Special K|q1=slang}}
+
+====Derived terms====
+* {{l|en|K-hole}}
+* {{l|en|Special K}}
+* {{l|en|esketamine}}
+* {{l|en|S-ketamine|''S''-ketamine}}
+* {{l|en|R-ketamine|''R''-ketamine}}
+* {{l|en|RS-ketamine|''RS''-ketamine}}
+
+====Translations====
+{{trans-top|pain-killing drug}}
+* Chinese:
+*: Mandarin: {{t+|cmn|氯胺酮|tr=lǜ’āntóng|sc=Hani}}, {{t|cmn|克他命|tr=kètāmìng}}, {{q|colloquial}} {{t+|cmn|K粉|tr=kēifěn}}
+* Dutch: {{t+|nl|ketamine|f}}, {{t|nl|keta|c}}
+* Finnish: {{t+|fi|ketamiini}}
+{{trans-mid}}
+* Russian: {{t+|ru|кетами́н|m}}
+* Spanish: {{t|es|ketamina|f}}
+* Swedish: {{t|sv|ketamin|n}}
+{{trans-bottom}}
+
+===References===
+* {{R:Lexico}}
+* {{R:Merriam-Webster Online}}
+
+===Anagrams===
+* {{anagrams|en|a=aeeikmnt|kanemite}}
+
+[[Cat:en:Recreational drugs]]
+[[Cat:English words suffixed with -amine]]
+
+----
+
+==Dutch==
+
+===Alternative forms===
+* {{l|nl|keta}}
+
+===Etymology===
+Borrowed from {{bor|nl|en|ketamine}}.
+
+===Pronunciation===
+* {{audio|nl|Nl-ketamine.ogg|Audio}}
+
+===Noun===
+{{nl-noun|f|-|-}}
+
+# {{l|en|ketamine}}
+{{topics|nl|Recreational drugs}}
