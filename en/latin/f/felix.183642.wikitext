@@ -1,0 +1,59 @@
+{{also|FELIX|Felix|Félix|Fêlix}}
+==Latin==
+
+===Alternative forms===
+* {{alter|la|foelīx||medieval}}
+
+===Etymology===
+{{root|la|ine-pro|*dʰeh₁(y)-}}
+From {{inh|la|itc-pro|*fēlwiks}}, from {{der|la|ine-pro|*dʰeh₁-lw-i-k-s}}, from {{m|ine-pro|*dʰeh₁(y)-||to suckle}}.
+
+===Pronunciation===
+* {{la-IPA|fēlīx}}
+* {{audio|la|La-cls-felix.ogg|Audio (Classical)}}
+
+===Adjective===
+{{la-adj|fēlīx|comp=fēlīcior|sup=fēlīcissimus|adv=fēlīciter}}
+
+# [[happy]], [[lucky]], [[blessed]], [[fortunate]]
+#: {{syn|lt|laetus}}
+# [[fertile]], [[fruitful]], [[prosperous]]
+# [[auspicious]], [[favorable]], of [[good]] [[omen]] or [[luck]]
+# {{lb|la|religion|archaic}} of the [[noble]] [[fruit]]s offered to the [[deity|deities]]
+
+====Declension====
+{{la-adecl|fēlīx}}
+
+====Derived terms====
+* {{l|la|Arabia Fēlīx}}
+* {{l|la|fēlīcitās}}
+* {{l|la|fēlīciter}}
+* {{l|la|fēlīcitō}}
+* {{l|la|Fēlīx}}
+
+====Descendants====
+{{top2}}
+* {{desc|ast|feliz}}
+* {{desc|ca|feliç}}
+* {{desc|eo|feliĉa}}
+* {{desc|fur|feliç}}
+* {{desc|gl|feliz}}
+* {{desc|it|felice}}
+* {{desc|mwl|feliç}}
+{{mid2}}
+* {{desc|roa-opt|fiiz}}
+* {{desc|pt|feliz}}
+* {{desc|ro|ferice}}
+* {{desc|scn|filici}}
+* {{desc|es|feliz}}
+* {{desc|vec|felise}}
+{{bottom}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:M&A}}
+* {{R:Peck}}
+* {{R:Smith's Persons}}
