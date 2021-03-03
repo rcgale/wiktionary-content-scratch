@@ -1,0 +1,95 @@
+==English==
+
+===Etymology===
+From {{suffix|en|shit|y}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈʃɪti/}}
+* {{a|US}} {{IPA|en|/ˈʃɪti/|[ˈʃɪɾi]}}
+* {{audio|en|en-au-shitty.ogg|Audio (AU)}}
+* {{rhymes|en|ɪti}}
+
+===Adjective===
+{{en-adj|er}}
+
+# {{lb|en|vulgar|colloquial}} Very bad; [[unpleasant]]; [[miserable]]; [[insignificant]].
+#: ''The television I bought there was so '''shitty''' that I will never shop there again.''
+#: ''I'm feeling '''shitty''' today; I don't want to go out.''
+#* '''1988''' November, Byron Coley, ''Underground'', ''[[w:Spin (magazine)|Spin]]'', [http://books.google.com.au/books?id=4ffg2qNLJucC&pg=PA101&lpg=PA101&dq=%22shittier|shittiest%22+australia+-intitle:%22%22+-inauthor:%22%22&source=bl&ots=AM18gVBVrc&sig=h1SHYfHQ47W_wML8Wqo7XhLEwKs&hl=en&sa=X&ei=SthEULS0BNHvmAWwzYCIAw&redir_esc=y#v=onepage&q=%22shittier|shittiest%22%20australia%20-intitle%3A%22%22%20-inauthor%3A%22%22&f=false page 101],
+#*: It's a well-known fact that reading is about the '''shittiest''' thing you can do for your eyes.
+#* '''2006''', [[w:Everett True|Everett True]], ''Nirvana: The True Story'', 2009, [http://books.google.com.au/books?id=H89kHhJR4-AC&pg=PT508&lpg=PT508&dq=%22shittier|shittiest%22+australia+-intitle:%22%22+-inauthor:%22%22&source=bl&ots=BvBTWSrcPv&sig=INwoicfh9MJ8kfWiJ1LNaW9G_fE&hl=en&sa=X&ei=SthEULS0BNHvmAWwzYCIAw&redir_esc=y#v=onepage&q=%22shittier|shittiest%22%20australia%20-intitle%3A%22%22%20-inauthor%3A%22%22&f=false unnumbered page],
+#*: The difference is they usually have a '''shittier''' singer, and no originality.
+#* '''2011''', Rik Leaf, ''Four Homeless Millionaires'', [http://books.google.com.au/books?id=OsECnpJIDQEC&pg=PA134&lpg=PA134&dq=%22shittier|shittiest%22+australia+-intitle:%22%22+-inauthor:%22%22&source=bl&ots=TxEi1986KR&sig=JJaQzmjwLY7Skv5Ba1lG6Hi9W1M&hl=en&sa=X&ei=SthEULS0BNHvmAWwzYCIAw&redir_esc=y#v=onepage&q=%22shittier|shittiest%22%20australia%20-intitle%3A%22%22%20-inauthor%3A%22%22&f=false page 134],
+#*: Halfway there we turned off the highway onto possibly the '''shittiest''' gravel road I have ever driven. In Canada, we would call it washboard; in Australia they call it corrugated, but you get the point.
+# {{lb|en|US|vulgar|slang|not comparable}} Under the [[influence]] of [[illicit]] [[drugs]] or [[alcohol]]; [[drunk]]; [[high]].
+# {{lb|en|British|Australia|NZ|vulgar|slang}} Annoyed.
+#: ''Don't get '''shitty''' at me!''
+# {{lb|en|vulgar}} Covered in [[crap]] ([[faeces]]/[[feces]]); [[feculent]].
+# {{lb|en|informal|vulgar}} Of low [[quality]] or [[standard]]; [[inferior]]; not [[up to par]], or failing one's expectations
+#* '''2005''', Curtis Sittenfeld, ''Prep: A Novel - Page 157'':
+#*: “She's a '''shitty''' teacher, but Ault was in a bind.” But she hadn't been a '''shitty''' teacher when she'd been hired. She'd never taught before. And who was Aspeth to decide she was '''shitty''' now? She was still inexperienced.
+
+====Synonyms====
+* {{sense|all senses}} {{l|en|crappy}} {{qualifier|less intense}}, {{l|en|poopy}} {{qualifier|childish}}
+* {{sense|drunk}} See [[Thesaurus:drunk]]
+* {{sense|high}} See [[Thesaurus:stoned]]
+* {{sense|poor quality}} {{l|en|shithouse}} {{qualifier|UK, AU, & NZ}}
+
+====Derived terms====
+* {{l|en|shittiness}}
+
+====Related terms====
+* ''See'' '''{{l|en|shit}}'''
+
+====Translations====
+{{trans-top|very bad, miserable}}
+* Catalan: {{t|ca|merdós}}, {{t|ca|de merda}}
+* Danish: {{t-needed|da}}
+* Esperanto: {{t+|eo|aĉa}}
+* Finnish: {{t+|fi|paska}}
+* French: {{t+|fr|merdique}}, {{t+|fr|dégueulasse}}, {{t+|fr|merde|alt=de merde}}
+* Galician: {{t|gl|merdento}}
+* German: {{t+|de|beschissen}}, {{t+|de|Scheiße|alt=Scheiß-}}
+* Greek: {{t+|el|σκατένιος}}
+* Italian: {{t+|it|merdoso}}, {{t|it|di merda}}
+* Japanese: {{t+|ja|くだらない|tr=kudaranai}}
+{{trans-mid}}
+* Korean: {{t|ko|좆같다}}
+* Persian: {{t+|fa|آشغال|tr=âšğâl|sc=fa-Arab}}
+* Polish: {{t+|pl|gówniany}}, {{t+|pl|chujowy}}
+* Portuguese: {{t|pt|de merda}}, {{t+|pt|merdoso}}, {{t+|pt|escroto}} {{qualifier|Brazil}}
+* Romanian: {{t|ro|de căcat}}
+* Russian: {{t+|ru|сра́ный}}, {{t+|ru|хуёвый}}, {{t+|ru|херо́вый}}, {{t+|ru|говённый}}, {{t+|ru|дерьмо́вый}}
+* Scots: {{t|sco|keechie}}
+* Spanish: {{t|es|mierdoso}}, {{t+|es|de mierda}}
+* Ukrainian: {{t|uk|гівня́ний}}, {{t|uk|гімня́ний}}, {{t|uk|хуйо́вий}}, {{t|uk|сра́ний}}
+{{trans-bottom}}
+
+{{trans-see|under the influence of illicit drugs or alcohol|drunk|high}}
+
+{{trans-see|annoyed}}
+
+{{trans-top|covered in shit}}
+* Finnish: {{t+|fi|paskainen}}, {{t|fi|paskassa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of low quality or standard}}<!-- only expressions somehow related to shit, please -->
+* Danish: {{t-needed|da}}
+* Dutch: {{t+|nl|schijt|alt=schijt-}}, {{t+|nl|stront|alt=stront-}}
+* Esperanto: {{t+|eo|aĉa}}, {{t+|eo|merda}}
+* Finnish: {{t+|fi|paska}}
+* French: {{t+|fr|merdique}}, {{t+|fr|merde|alt=- de merde}}
+* Galician: {{t|gl|de merda}}, {{t|gl|merdento}}
+* German: {{t+|de|Scheiß|alt=Scheiß-}}, {{t+|de|beschissen}}
+{{trans-mid}}
+* Greek: {{t|el|του κώλου}}, {{t|el|για πέταμα}}
+* Polish: {{t+|pl|gówniany}}, {{t+|pl|chujowy}}
+* Romanian: {{t+|ro|căcat|alt=de căcat}}
+* Russian: {{t+|ru|сра́ный}}, {{t+|ru|хуёвый}}, {{t+|ru|херо́вый}}, {{t+|ru|говённый}}, {{t+|ru|дерьмо́вый}}, {{t+|ru|говня́ный}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=histty|stithy}}
+
+[[Category:en:Feces]]
