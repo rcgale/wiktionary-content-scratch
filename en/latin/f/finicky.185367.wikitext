@@ -1,0 +1,44 @@
+==English==
+
+===Etymology===
+From {{m|en|finicking}}, from {{m|en|finical}}, from {{m|en|fine}}. Compare dated {{m|en|finikin}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈfɪnɪki/}}
+
+===Adjective===
+{{en-adj|er|more}}
+
+# {{lb|en|informal|of a person}} [[fastidious|Fastidious]] and [[fussy]]; difficult to [[please]]; [[exacting]], especially about [[detail]]s.
+#: {{syn|en|fastidious|fussy|Thesaurus:fastidious}}
+#: {{ux|en|My editor is very '''finicky''' about punctuation. Every dot and comma has to be just right.}}
+#: {{ux|en|She has a '''finicky''' baby that's hard to feed.}}
+# {{lb|en|informal}} Demanding; requiring above-normal care.
+#: {{ux|en|The lawnmower is a bit '''finicky''' in cold weather.}}
+
+====Usage notes====
+* The forms {{m|en|finickier}} and {{m|en|finickiest}} also exist, but are quite rare, and perhaps nonstandard. The forms {{m|en||more finicky}} and {{m|en||most finicky}} are much more common, and certainly standard.
+
+====Derived terms====
+* {{l|en|finickiness}}
+* {{l|en|finickity}}
+
+====Translations====
+{{trans-top|fastidious and fussy; difficult to please; exacting}}
+* Catalan: {{t+|ca|primmirat}}
+* German: {{t+|de|kleinlich}}, {{t+|de|anspruchsvoll}}, {{t+|de|wählerisch}}, {{t+|de|pedantisch}}, {{t+|de|etepetete}}, {{t+|de|zimperlich}}, {{t+|de|affektiert}}, {{t+|de|pingelig}}, {{t+|de|krütsch}} {{qualifier|regional}}, {{t|de|überkorrekt}}, {{t+|de|übergenau}}, {{t|de|peinlich genau}}
+* Hungarian: {{t+|hu|szőrszálhasogató}}
+{{trans-mid}}
+* Russian: {{t+|ru|привере́дливый}}
+* Spanish: {{t+|es|fastidioso}}, {{t+|es|melindroso}}, {{t+|es|remilgado}}, {{t+|es|puntilloso|m}}, {{t+|es|quisquilloso|m}}, {{t+|es|tiquismiquis}}, {{t+|es|pejiguero}}, {{t|es|esquilimoso|m}}, {{t+|es|pedante}}
+{{trans-bottom}}
+
+{{trans-top|demanding, requiring above-normal care}}
+* German: {{t+|de|anspruchsvoll}}, {{t+|de|heikel}}, {{t+|de|pflegebedürftig}}
+{{trans-mid}}
+* Russian: {{t+|ru|капризный|m}} {{qualifier|informal}}
+{{trans-bottom}}
+
+===Further reading===
+* {{R:Lexico}}
+{{C|en|Personality}}
