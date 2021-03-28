@@ -1,0 +1,167 @@
+{{also|Bailiff}}
+==English==
+{{wikipedia}}
+{{wikipedia|Bailiffs of Jersey and Guernsey}}
+{{wikipedia|High Bailiff of the Isle of Man}}
+{{wikipedia|Landvogt}}
+
+===Etymology===
+From {{inh|en|enm|baillif}}, {{m|enm|baylyf}}, from {{der|en|xno|-}} and {{der|en|fro|bailif}} (plural {{m|fro|bailis}}), probably from reconstructed {{der|en|VL.|*bāiulivus||castellan}}, from {{der|en|la|bāiulus||[[porter]]; [[steward]]}}, whence also {{m|en|bail}}. As a translation of foreign titles, {{semantic loan|en|fr|bailli|nocap=1}}, {{semantic loan|en|sco|bailie|notext=1}}, {{semantic loan|en|nl|baljuw|notext=1}}, etc. Mostly replaced the role of native {{m|en|reeve}}. {{doublet|en|bailo}}.
+
+===Pronunciation===
+* {{enPR|bāʹ-lĭf}}, {{IPA|en|/ˈbeɪlɪf/}}
+* {{audio|en|En-au-bailiff.ogg|Audio (AU)}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|law enforcement}} An [[officer]] of the [[court]], ''particularly'':
+## {{lb|en|historical|[[Norman]] term}} A [[reeve]], {{lb|en|specifically}} the [[chief]] [[officer]] [[execute|executing]] the decisions of any English [[court of law|court]] in the period following the [[Norman Conquest]] or executing the decisions of [[lower]] courts in the late [[medieval]] and [[early modern]] period.
+## {{lb|en|UK}} A [[high bailiff]]: an officer of the [[county]] courts responsible for executing [[warrant]]s and [[court order]]s, appointed by the [[judge]] and removable by the [[Lord Chancellor]].
+## {{lb|en|UK}} A [[bound bailiff]]: a [[deputy]] bailiff [[charge]]d with [[debt collection]].
+## {{lb|en|US}} Any [[law enforcement]] [[officer]] charged with [[courtroom]] [[security]] and order.
+## A [[huissier de justice]] or other foreign officer of the court acting as either a [[process server]] or as courtroom security.
+# A [[public]] [[administrator]], ''particularly:''
+## {{lb|en|obsolete}} A [[king's man]]: any officer [[nominate]]d by the English [[Crown]].
+## {{lb|en|historical}} The [[chief]] [[officer]] of a [[hundred]] in [[medieval]] [[England]].
+## The title of the [[mayor]] of certain English [[town]]s.
+## The title of the [[castellan]] of certain royal castles in England.
+## The [[chief]] [[justice]] and [[president]] of the [[legislature]] on [[Jersey]] and [[Guernsey]] in the [[Channel Islands]].
+##* {{quote-web|en|date=2011-06-29|title=The Bailiff of Jersey|site=States Assembly|url=http://www.statesassembly.gov.je/about/history/Pages/BailiffJersey.aspx|accessdate=2013-03-03|passage=The '''Bailiff''' of Jersey is the President of the States and acts as Speaker of the Assembly in the Westminster tradition. He is responsible for the orderly conduct of the States Assembly and its business. As Presiding Officer he has the right of speech – which is mainly exercised for ensuring the orderly conduct of the proceedings – but he cannot vote.}}
+## The [[High Bailiff]] of the [[Isle of Man]].
+## {{lb|en|obsolete}} A [[bailie]]: an [[alderman]] in certain Scottish towns.
+## {{lb|en|historical}} An [[appointee]] of the French king [[administer]]ing certain [[district]]s of northern France in the [[Middle Ages]].
+## {{lb|en|historical}} A [[head]] of a [[district]] ("[[bailiwick]]") of the [[Knights Hospitaller]]; a head of one of the national [[association]]s ("[[tongue]]s") of the [[Hospitallers]]' [[headquarters]] on [[Rhodes]] or [[Malta]].
+## {{lb|en|historical}} A [[landvogt]] in the medieval German states.
+# A [[private]] [[administrator]], ''particularly'' {{anchor|Steward}}
+## {{lb|en|historical}} A [[steward]]: the [[manager]] of a medieval [[manor]] charged with collecting its [[rent]]s, etc.
+## {{lb|en|historical}} An [[overseer]]: a [[supervisor]] of [[tenant]] farmers, [[serf]]s, or [[slave]]s, usually as part of his role as steward ([[#Steward|''see above'']]).
+##* {{quote-book|en|year=1918|author={{w|W. B. Maxwell}}|chapter=19|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]|passage=Nothing was too small to receive attention, if a supervising eye could suggest improvements likely to conduce to the common welfare. Mr. Gordon Burnage, for instance, personally visited dust-bins and back premises, accompanied by a sort of village '''bailiff''', going his round like a commanding officer doing billets.}}
+## {{lb|en|historical|mining}} The [[foreman]] or [[overman]] of a [[mine]].
+# {{lb|en|UK|slang}} Any [[debt]] [[collector]], regardless of his or her official [[status]].
+
+====Usage notes====
+Although {{l|en|bailiff}} is the most common term in American English for the law-enforcement officers who provide security and maintain order in a courtroom, such officers are often formally known by other titles, which vary by jurisdiction.
+
+====Synonyms====
+* {{sense|British law enforcement officer}} {{l|en|high bailiff}}, {{l|en|high-bailiff}}; {{l|en|warrant officer}}, {{l|en|beadle}} {{qualifier|in role of executing warrants}}; {{l|en|catchpoll}}, {{l|en|bumbailiff}} {{qualifier|in role of arresting debtors}}; {{l|en|process server}} {{qualifier|in role of serving processes and summonses}}
+* {{sense|mayor}} {{l|en|High-bailiff}}, {{l|en|High Bailiff}}; ''see also'' '''{{l|en|mayor}}'''
+* {{sense|castellan}} ''See'' '''{{l|en|castellan}}'''
+* {{sense|officer of the Channel Islands}} {{l|en|bailly}}
+* {{sense|Scottish alderman}} ''See'' '''{{l|en|bailie}}'''
+* {{sense|medieval French magistrate}} {{l|en|consul}} {{qualifier|southern France}}; {{l|en|capitoul}} {{qualifier|Toulouse}}; {{l|en|jurat}} {{qualifier|Bordeaux}}
+* {{sense|medieval German magistrate}} ''See'' '''{{l|en|landvogt}}'''
+* {{sense|medieval administrator}} ''See'' '''{{l|en|steward}}'''
+* {{sense|medieval overseer}} ''See'' '''{{l|en|overseer}}'''
+
+====Hypernyms====
+{{hyp-top|Kinds of bailiff}}
+* {{l|en|bumbailiff}}
+* {{l|en|circuit court}} bailiff
+* {{l|en|district court}} bailiff
+* {{l|en|farm bailiff}}
+* {{l|en|magistrates' bailiff}}
+* {{l|en|jury bailiff}}
+* {{l|en|private bailiff}}
+* {{l|en|provincial bailiff}}
+{{hyp-bottom}}
+
+====Derived terms====
+{{der-top|Terms derived from bailiff}}
+* {{l|en|bailiff-haunted}}
+* {{l|en|bailiff-errant}}
+* {{l|en|bailiff-peer}}
+* {{l|en|bailiffry}}
+* {{l|en|bailiffship}}
+* {{l|en|bailiffwick}}
+* {{l|en|bumbailiff}}, {{l|en|bum-bailiff}}, {{l|en|bum bailiff}}
+* {{l|en|deputy bailiff}}
+* {{l|en|deputy high bailiff}}, {{l|en|Deputy High Bailiff}}
+* {{l|en|farm bailiff}}
+* {{l|en|High-bailiff}}, {{l|en|High Bailiff}}
+* {{l|en|jury bailiff}}
+* {{l|en|private bailiff}}
+* {{l|en|provincial bailiff}}
+* {{l|en|under-bailiff}}
+* {{l|en|water bailiff}}
+{{der-bottom}}
+
+====Related terms====
+{{rel-top|Cognates of bailiff}}
+* {{l|en|bail}}, {{l|en|bailing}}
+* {{l|en|bailee}}
+* {{l|en|bailer}}
+* {{l|en|bailey}}
+* {{l|en|bailie}}
+* {{l|en|bailiery}}, {{l|en|bailiary}}
+* {{l|en|bailiric}}
+* {{l|en|bailivate}}
+* {{l|en|bailiwick}}
+* {{l|en|bailliage}}
+* {{l|en|baillie}}, {{l|en|bailly}}
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|British officer of the court}}
+* Irish: {{t|ga|báille|m}}
+* Latin: {{t|la|ballivus}}, {{t|la|bāiulus|m}}
+* Manx: {{t|gv|baylee|m}}, {{t|gv|meoir|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|бе́йлиф|m|tr=bɛ́jlif}}
+* Scottish Gaelic: {{t|gd|maor|m}}, {{t|gd|bàillidh|m}}
+{{trans-bottom}}
+
+{{trans-top|equivalent officers of the court in foreign contexts}}
+* Arabic: {{t+|ar|مَأْمُور|m}}
+* Armenian: {{t|hy|դատական կարգադրիչ|sc=Armn}}
+* Bulgarian: {{t|bg|съдебен пристав}}
+* Catalan: {{t+|ca|algutzir|m}}, {{t|ca|agutzil|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|法警|tr=fǎjǐng|sc=Hani}}
+* Czech: {{t|cs|soudní exekutor|m}}
+* Dutch: {{t+|nl|baljuw|m}}, {{t+|nl|drost|m}}, {{t+|nl|drossaard|m}}, {{t+|nl|amman|m}}, {{t+|nl|meier|m}}, {{t+|nl|schout|m}}, {{t+|nl|gerechtsdeurwaarder|m}}
+* Faroese: {{t|fo|fúti|m}}
+* Finnish: {{t+|fi|vouti}}, {{t|fi|oikeudenpalvelija}}
+* French: {{t+|fr|huissier|m}}, {{t+|fr|huissier de justice|m}}
+{{trans-mid}}
+* Galician: {{t|gl|bailío|m}}, {{t|gl|meiriño|m}}, {{t+|gl|pertegueiro|m}}
+* German: {{t+|de|Gerichtsvollzieher|m}}, {{t+|de|Büttel|m}} {{qualifier|archaic}}, {{t+|de|Häscher|m}} {{qualifier|archaic}}
+* Hindi: {{t|hi|कारिदा}}
+* Hungarian: {{t+|hu|végrehajtó}}
+* Irish: {{t|ga|maor|m}}, {{t|ga|báille|m}}
+* Japanese: {{t|ja|執達吏|tr=しったつり, shittatsuri|sc=Jpan}}
+* Korean: {{t+|ko|집행관}}
+* Latin: {{t|la|bāiulus|m}}
+* Portuguese: {{t+|pt|oficial de justiça|m}}, {{t+|pt|meirinho|m}}
+* Russian: {{t|ru|[[суде́бный]] [[исполни́тель]]|m}}, {{t|ru|[[суде́бный]] [[при́став]]|m}}
+* Slovak: {{t|sk|exekútor|m}}
+* Spanish: {{t+|es|alguacil|m}} {{qualifier|archaic}}
+* Swedish: {{t+|sv|fogde|c}}, {{t|sv|tillsyningsman|c}}
+{{trans-bottom}}
+
+{{trans-top|a law enforcement officer charged with courtroom security and order}}
+* Hungarian: {{t+|hu|teremőr}}, {{t+|hu|fegyőr}}, {{t|hu|teremszolga}}, {{t+|hu|törvényszolga}}, {{t|hu|[[törvényszéki]] [[szolga]]}}
+{{trans-mid}}
+* Irish: {{t|ga|báille|m}}
+* Latin: {{t|la|bāiulus|m}}
+{{trans-bottom}}
+
+{{trans-top|chief justice of a Channel Island bailiwick}}
+* Norman: {{t|nrf|bailli|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|steward}}
+
+{{checktrans-top}}
+* Walloon: {{t+check|wa|bayî}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|reeve}} {{lb|en|earlier form of office}}
+
+===References===
+* ''Oxford English Dictionary'', 1st ed. "bailiff, ''n.''" Oxford University Press (Oxford), 1885.
+
+{{C|en|Occupations}}
