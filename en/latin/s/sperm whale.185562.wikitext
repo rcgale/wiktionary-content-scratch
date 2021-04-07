@@ -1,0 +1,90 @@
+==English==
+{{wikipedia|Sperm Whale}}
+[[File:Mother_and_baby_sperm_whale.jpg|thumb|Mother and calf sperm whales.]]
+
+===Noun===
+{{en-noun}}
+
+# A [[whale]] (''[[Physeter catodon]]'', syn. ''[[Physeter macrocephalus]]''), the [[largest]] of the [[toothed]] [[whales]].
+# Any whale in the superfamily {{taxlink|Physeteroidea|superfamily|ver=180702}}, which also includes the small whales of genus ''[[Kogia]]''.
+
+====Synonyms====
+* {{l|en|cachalot}}
+* {{vern|common cachalot}}
+
+====Derived terms====
+* [[dwarf sperm whale]]
+* {{l|en|pygmy sperm whale}}
+* {{vern|sperm-whale porpoise}}
+
+====Translations====
+{{trans-top|sperm whale}}
+* Albanian: {{t+|sq|kashalot|m}}
+* Arabic: {{t|ar|حُوتُ الْعَنْبَر|m}}
+* Armenian: {{t+|hy|կաշալոտ}}
+* Assamese: {{t|as|কেছাল’ তিমি}}, {{t|as|কেছাল’}}
+* Azerbaijani: {{t|az|kaşalot}}
+* Belarusian: {{t|be|кашало́т|m}}
+* Bulgarian: {{t|bg|кашало́т|m}}
+* Catalan: {{t+|ca|catxalot}}
+* Cherokee: {{t|chr|ᏓᏆ ᎤᏍᏆᎴᏂ|sc=Cher}}
+* Chinese:
+*: Mandarin: {{t+|cmn|抹香鯨|sc=Hani}}, {{t+|cmn|抹香鲸|tr=mǒxiāngjīng|sc=Hani}}
+* Czech: {{t+|cs|vorvaň|m}}
+* Danish: {{t|da|kaskelot|c}}, {{t+|da|kaskelothval|c}}
+* Dutch: {{t+|nl|potvis|m}}
+* Estonian: {{t+|et|kašelott}}
+* Faroese: {{t|fo|avgustur|m}}, {{t|fo|spermur|m}}
+* Finnish: {{t+|fi|kaskelotti}}
+* French: {{t+|fr|cachalot|m}}
+* Galician: {{t|gl|cachalote|m}}
+* Georgian: {{t|ka|კაშალოტი}}
+* German: {{t+|de|Pottwal|m}}
+* Greenlandic: {{t+|kl|kigutilissuaq}}
+* Hawaiian: {{t|haw|palaoa}}
+* Hindi: {{t|hi|स्पर्म व्हेल}}, {{t|hi|शुक्राणु व्हेल}}
+* Hungarian: {{t|hu|nagy ámbráscet}}, {{t|hu|óriás ámbráscet}}
+* Icelandic: {{t+|is|búrhvalur|m}}
+* Ido: {{t+|io|kashaloto}}
+* Irish: {{t|ga|caisealóid|f}}
+* Italian: {{t+|it|capodoglio|m}}
+* Japanese: {{t|ja|抹香鯨|tr=まっこうくじら, makkōkujira}}, {{t|ja|マッコウクジラ|tr=makkōkujira}}
+* Kazakh: {{t|kk|кашалот}}
+* Korean: {{t|ko|향고래}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|кашалот}}
+* Latin: {{t|la|physeter|m}}
+* Latvian: {{t|lv|kašalots|m}}
+* Lithuanian: {{t|lt|kašalotas|m}}
+* Maori: {{t|mi|parāoa}}
+* Min Nan: {{t|nan|boah-phang-keng}}
+* Mongolian: {{t|mn|кашалот}}
+* Navajo: {{t|nv|łóóʼtsoh bitsiiʼ dikʼání}}
+* Nootka: {{t|nuk|maaʔak}}
+* Norwegian:
+*: Bokmål: {{t|nb|spermhval|m}}, {{t|nb|kaskelott|m}}
+*: Nynorsk: {{t|nn|spermkval|m}}
+* Persian: {{t|fa|کاشالوت|tr=kâšâlot|sc=fa-Arab}}, {{t|fa|نهنگ عنبر|tr=nahang-e-anbar}}
+* Polish: {{t+|pl|kaszalot|m}}
+* Portuguese: {{t|pt|cachalote|m}}
+* Romanian: {{t+|ro|cașalot|m}}
+* Russian: {{t+|ru|кашало́т|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|уљешура|f}}
+*: Roman: {{t+|sh|ulješura|f}}
+* Slovak: {{t|sk|vorvaň|m}}
+* Slovene: {{t+|sl|kit glavač|m}}
+* Spanish: {{t+|es|cachalote|m}}
+* Swahili: {{t|sw|nyangumi-shahawa}}
+* Swedish: {{t+|sv|kaskelot|c}}, {{t|sv|pottval|c}}, {{t|sv|spermacetival|c}}
+* Tajik: {{t|tg|кашалот}}
+* Thai: {{t|th|วาฬสเปิร์ม}}
+* Turkish: {{t+|tr|ispermeçet balinası}}, {{t+|tr|kadırga balığı}}, {{t+|tr|kaşalot}}
+* Turkmen: {{t|tk|kaşalot}}
+* Ukrainian: {{t|uk|кашало́т|m}}
+* Uzbek: {{t+|uz|kashalot}}
+* Vietnamese: {{t|vi|cá nhà táng}}
+* Welsh: {{t|cy|morfil gwyn|m}}
+{{trans-bottom}}
+
+[[Category:en:Whales]]
