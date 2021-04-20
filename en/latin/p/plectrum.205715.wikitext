@@ -1,0 +1,139 @@
+==English==
+{{wikipedia}}
+[[File:Guitar picks DSC06879.jpg|thumb|Plectra alias picks]]
+
+===Alternative forms===
+* {{l|en|plectron}}
+
+===Etymology===
+Borrowed from {{bor|en|la|plēctrum}}, from {{etyl|grc|en}} {{m|grc|πλῆκτρον||anything to strike with, an instrument for striking the lyre, a spear point}}, from {{m|grc|πλήσσειν||to strike, to smite, to sting}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈplɛk.tɹəm/}}
+* {{audio|en|en-us-plectrum.ogg|Audio (US)}}
+
+===Noun===
+{{en-noun|s|plectra}}
+
+# {{lb|en|music}} A small piece of plastic, metal, ivory, etc., for [[pluck]]ing the [[string]]s of a [[guitar]], [[lyre]], [[mandolin]], etc.
+# {{lb|en|anatomy|zoology}} A [[projection]] of bone or other stiff tissue, such as the ridges in some insects' [[stridulatory]] organs.
+
+====Synonyms====
+* {{sense|music}} {{l|en|guitar pick}}; {{l|en|pick}}; {{l|en|plectre}} {{q|obsolete}}
+
+====Translations====
+{{trans-top|music: small piece for plucking strings}}
+* Arabic: {{t|ar|ريشة|f}}
+* Azerbaijani: {{t+|az|mizrab}}
+* Belarusian: {{t|be|пле́ктар|m}}, {{t|be|медыя́тар|m}}
+* Breton: {{t|br|skraberig}}
+* Bulgarian: {{t|bg|перце|n}}
+* Catalan: {{t+|ca|pua|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|撥子|sc=Hani}}, {{t+|cmn|拨子|tr=bōzǐ|sc=Hani}}
+* Czech: {{t+|cs|trsátko|n}}
+* Danish: {{t|da|plekter}}
+* Dutch: {{t+|nl|plectrum|n}}
+* Esperanto: {{t|eo|plektro}}
+* Estonian: {{t|et|plektron}}
+* Faroese: {{t|fo|plektari|m}}
+* Finnish: {{t+|fi|plektra}}; {{t+|fi|kynsi}} {{q|harpsichord}}
+* French: {{t+|fr|plectre|m}}, {{t+|fr|médiator|m}}, {{t+|fr|pick|m}} {{qualifier|Quebec}}, {{t+|fr|onglet|m}} {{qualifier|Belgium}}
+* German: {{t+|de|Plektron|n}}, {{t+|de|Plektrum|n}}
+* Greek: {{t+|el|πέννα|f}}
+*: Ancient: {{t|grc|πλῆκτρον|n}}
+* Hebrew: {{t+|he|מפרט}}
+* Hungarian: {{t+|hu|pengető}}
+* Icelandic: {{t+|is|nögl|f}}
+* Italian: {{t+|it|plettro|m}}
+* Japanese: {{t|ja|ピック|tr=pikku}}
+* Korean: {{t|ko|피크}}
+{{trans-mid}}
+* Latin: {{t|la|plectrum|n}}
+* Latvian: {{t|lv|braucis|m}}
+* Lithuanian: {{t|lt|brauktukas}}
+* Low German:
+*: Dutch Low Saxon: {{t|nds-nl|plektrum}}
+* Macedonian: {{t|mk|плектрум|m}}
+* Malay: {{t|ms|plektrum}}
+* Navajo: {{t|nv|beeʼałtązhí}}
+* Norwegian:
+*: Bokmål: {{t+|nb|plekter|n}}
+*: Nynorsk: {{t|nn|plekter|n}}
+* Occitan: {{t|oc|plèctre|m}}
+* Old English: {{t|ang|næġl|m}}
+* Persian: {{t+|fa|زخمه|tr=zaxme|sc=fa-Arab}}, {{t+|fa|مضراب|tr=mezrâb|sc=fa-Arab}}, {{t+|fa|سکافه|tr=sokâfe|sc=fa-Arab}}
+* Polish: {{t|pl|plektron|m}}, {{qualifier|collective}} {{t+|pl|kostka|f}}
+* Portuguese: {{t|pt|plectro|m}}, {{t+|pt|palheta|f}}
+* Russian: {{t+|ru|плектр|m}}, {{t+|ru|медиа́тор|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|плектрум|m|sc=Cyrl}}, {{t|sh|трзаљка|f|sc=Cyrl}}, {{t|sh|трзалица|f|sc=Cyrl}}
+*: Roman: {{t|sh|plektrum|m}}, {{t|sh|trzaljka|f}}, {{t+|sh|trzalica|f}}
+* Spanish: {{t|es|plectro|m}}, {{t+|es|púa|f}}
+* Swedish: {{t+|sv|plektrum|n}}
+* Tagalog: {{t|tl|puwa}}
+* Thai: {{t+|th|ปิ๊ก|tr=bpík}}
+* Turkish: {{t+|tr|mızrap}}, {{t+|tr|tezene}}, {{t+|tr|pena}}, {{t+|tr|çalgıç}}
+* Ukrainian: {{t|uk|плектр|m}}, {{t|uk|медіа́тор|m}}
+{{trans-bottom}}
+
+{{trans-top|anatomical part}}
+* Greek: {{t+|el|πλήκτρο|n}}
+{{trans-mid}}
+* Turkish: {{t|tr|plektrum}}
+{{trans-bottom}}
+
+[[Category:en:Musical instruments]]
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|la|plēctrum}}, from {{der|nl|grc|πλῆκτρον}}.
+
+===Pronunciation===
+* {{IPA|nl|/ˈplɛk.trʏm/}}
+* {{audio|nl|Nl-plectrum.ogg|Audio}}
+* {{hyphenation|nl|plec|trum}}
+
+===Noun===
+{{nl-noun|n|-s|pl2=plectra|plectrumpje}}
+
+# {{l|en|plectrum}}, [[pick]] {{gloss|object for plucking certain string instruments}}
+
+----
+
+==Latin==
+
+===Etymology===
+Borrowed from {{bor|la|grc|πλῆκτρον}}, from {{m|grc|πλήσσω||to strike, sting}}, also analyzable as {{af|la|plēctō|-trum}}.
+
+===Pronunciation===
+* {{la-IPA|plēctrum}}
+
+===Noun===
+{{la-noun|plēctrum<2>}}
+
+# a [[#English|plectrum]]; tool for playing a stringed instrument
+# a [[lyre]], [[lute]]
+
+====Declension====
+{{la-ndecl|plēctrum<2>}}
+
+====Descendants====
+* {{desc|en|plectrum|bor=1}}
+* {{desc|fr|plectre|bor=1}}
+* {{desc|it|plettro|bor=1}}
+* {{desc|pt|plectro|bor=1}}
+* {{desc|es|plectro|bor=1}}
+
+===Further reading===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:Peck}}
+* {{R:Smith's Antiquities}}
+
+[[Category:la:Musical instruments]]
