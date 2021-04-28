@@ -1,0 +1,310 @@
+{{also|Badminton|bádminton|bàdminton|badmínton}}
+==English==
+[[Image:Badminton Peter Gade.jpg|thumb|right|150px|Badminton player Peter Gade.]]
+
+===Etymology===
+Named after [[Badminton]] House, an estate in [[Gloucestershire]] owned by the {{w|Duke of Beaufort}}, where the game was first played in England. For the house name, see {{m|en|Badminton}}.
+
+===Pronunciation===
+* {{audio|en|en-us-badminton.ogg|Audio (US)}}
+* {{IPA|en|/ˈbæd.mɪn.tən/}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|uncountable}} A [[racquet]] sport played indoors on a [[court]] by two opposing players (singles) or two opposing pairs of players (doubles), in which a [[shuttlecock]] is [[volley]]ed over a net and the competitions are presided by an [[umpire]] in British English and a [[referee]] in American English.
+# {{lb|en|countable}} A cooling [[summer]] [[drink]] made with [[claret]], [[sugar]]{{,}} and [[soda water]].
+
+====Synonyms====
+* {{sense|sport}} {{l|en|badders}} {{qual|UK, informal}}
+
+====Derived terms====
+* {{l|en|badminton court}}
+* {{l|en|badminton player}}
+
+====Translations====
+{{trans-top|a racquet sport}}
+* Afrikaans: {{t+|af|pluimbal}}
+* Arabic: {{t|ar|بَدْمِينْتُون|m|tr=badmintūn}}, {{t|ar|تِنِس اَلرِّيشَة|m|tr=tenis ar-rīša}}
+* Armenian: {{t+|hy|բադմինտոն}}
+* Azerbaijani: {{t|az|badminton}}
+* Belarusian: {{t|be|бадмінто́н|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|бадминто́н|m}}
+* Catalan: {{t+|ca|bàdminton|m}}
+* Central Dusun: {{t|dtp|badminton}}
+* Chinese:
+*: Cantonese: {{t|yue|羽毛球|tr=jyu5 mou4 kau4}}
+*: Mandarin: {{t+|cmn|羽毛球|tr=yǔmáoqiú|sc=Hani}}
+* Czech: {{t+|cs|badminton|m}}
+* Danish: {{t+|da|badminton|c}}
+* Estonian: {{t|et|sulgpall}}
+* Faroese: {{t|fo|badminton|n}}
+* Finnish: {{t+|fi|sulkapallo}}
+* French: {{t+|fr|badminton|m}}
+* Galician: {{t|gl|bádminton|m}}
+* German: {{t+|de|Badminton|n}}, {{t+|de|Federball|m}}
+* Greek: {{t+|el|αντιπτέριση}}
+* Hindi: {{t-needed|hi}}
+* Hungarian: {{t+|hu|tollaslabda}}
+* Icelandic: {{t|is|badminton|n}}, {{t+|is|hnit}}
+* Ido: {{t|io|badmintono}}
+* Indonesian: {{t-needed|id}}
+{{trans-mid}}
+* Italian: {{t|it|badminton|m}}
+* Japanese: {{t+|ja|バドミントン|tr=badominton}}
+* Korean: {{t+|ko|배드민턴}}
+* Latvian: {{t|lv|badmintons|m}}
+* Macedonian: {{t|mk|бадминтон|m}}
+* Malay: {{t|ms|badminton}}
+* Norwegian:
+*: Bokmål: {{t|nb|badminton|m}}
+*: Nynorsk: {{t|nn|badminton|m}}
+* Polish: {{t+|pl|badminton|m}}
+* Portuguese: {{t+|pt|badminton|m}}, {{t+|pt|badmínton|m}}
+* Punjabi: {{t|pa|ਚਿੜੀ-ਛਿੱਕਾ}}
+* Russian: {{t+|ru|бадминто́н|m}}
+* Slovak: {{t|sk|bedminton|m}}
+* Sorbian:
+*: Upper Sorbian: {{t|hsb|pjerobul|m}}
+* Spanish: {{t+|es|bádminton|m}}
+* Tagalog: {{t|tl|badminton}}
+* Thai: {{t+|th|แบดมินตัน}}
+* Turkish: {{t+|tr|badminton}}, {{t|tr|tüylü top}}
+* Ukrainian: {{t|uk|бадмінто́н|m}}
+* Vietnamese: {{t|vi|cầu lông}}
+* Welsh: {{t|cy|badminton|m}}
+* Zhuang: {{t|za|yijmauzgiuz}}
+{{trans-bottom}}
+
+====Further reading====
+* {{pedia}}
+* {{comcatlite}}
+* Mills, A.D., A Dictionary of English Place Names, 2nd ed., Oxford: Oxford University Press, 1998
+
+[[Category:en:Racquet sports]]
+[[Category:en:Sports]]
+
+----
+
+==Czech==
+{{wikipedia|lang=cs}}
+
+===Etymology===
+From {{bor|cs|en|badminton}}.
+
+===Noun===
+{{cs-noun|g=m}}
+
+# [[#English|badminton]]
+
+[[Category:cs:Sports]]
+
+----
+
+==Danish==
+{{wikipedia|lang=da}}
+
+===Etymology===
+From {{bor|da|en|badminton}}.
+
+===Pronunciation===
+* {{IPA|da|/badməntɔn/|[ˈb̥ad̥məntˢʌn]}}
+
+===Noun===
+{{head|da|noun|g=c}}
+
+# [[badminton#English|badminton]]
+
+====Declension====
+{{da-noun-infl|en}}
+
+===References===
+* {{R:Den Danske Ordbog}}
+
+[[Category:da:Sports]]
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|en|badminton}}.
+
+===Pronunciation===
+* {{a|NL}} {{IPA|nl|/ˈbɛt.mɪnˌtɔn/|/ˈbɛt.mɪnˌtən/}}
+* {{audio|nl|Nl-badminton.ogg|Audio}}
+* {{hyphenation|nl|bad|min|ton}}
+
+===Noun===
+{{nl-noun|n|-|-}}
+
+# {{l|en|badminton}}
+
+====Derived terms====
+* {{l|nl|badmintonnen}}
+
+----
+
+==Faroese==
+{{wikipedia|lang=fo}}
+
+===Etymology===
+From {{der|fo|en|badminton}}.
+
+===Pronunciation===
+* {{IPA|fo|[ˈpat.mɪn.tʰɔn]}}
+
+===Noun===
+{{fo-noun|n|badmintons|-}}
+
+# {{l|en|badminton}}
+
+====Declension====
+{{fo-decl-noun-n3-s|badminton}}
+
+[[Category:fo:Sports]]
+
+----
+
+==French==
+{{wikipedia|lang=fr}}
+
+===Etymology===
+From {{bor|fr|en|badminton}}.
+
+===Pronunciation===
+* {{fr-IPA|badmi_ntone}}
+* {{audio|fr|Fr-Paris--badminton.ogg|Audio (Paris)}}
+* {{audio|fr|Fr-badminton.ogg|Audio}}
+
+===Noun===
+{{fr-noun|m|-}}
+
+# {{l|en|badminton}}
+
+===Further reading===
+* {{R:TLFi}}
+
+[[Category:fr:Sports]]
+
+----
+
+==Italian==
+{{wikipedia|lang=it}}
+
+===Etymology===
+From {{bor|it|en|badminton}}.
+
+===Noun===
+{{it-noun|m|-}}
+
+# [[#English|badminton]]
+
+[[Category:it:Badminton]]
+[[Category:it:Sports]]
+
+----
+
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+
+===Etymology===
+From {{bor|nb|en|badminton}}.
+
+===Noun===
+{{nb-noun-mu}}
+
+# {{lb|nb|sports}} {{l|en|badminton}}
+
+====Derived terms====
+* {{l|nb|badmintonbane}}
+* {{l|nb|badmintonspiller}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+
+===Etymology===
+From {{bor|nn|en|badminton}}.
+
+===Noun===
+{{nn-noun-mu}}
+
+# {{lb|nn|sports}} {{l|en|badminton}}
+
+====Derived terms====
+* {{l|nn|badmintonbane}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+[[Category:Norwegian Nynorsk eponyms]]
+
+----
+
+==Polish==
+{{wikipedia|lang=pl}}
+
+===Etymology===
+Borrowed from {{bor|pl|en|badminton}}.
+
+===Pronunciation===
+* {{pl-IPA}}
+* {{audio|pl|Pl-badminton.ogg|audio}}
+
+===Noun===
+{{pl-noun|m-an}}
+
+# {{l|en|badminton}}
+
+====Declension====
+{{pl-decl-noun-m-an|tantum=s}}
+
+====Derived terms====
+* {{q|nouns}} {{l|pl|badmintonista}}, {{l|pl|badmintonistka}}
+* {{q|adjective}} {{l|pl|badmintonowy}}
+
+===Further reading===
+* {{R:PWN}}
+
+[[Category:pl:Badminton]]
+[[Category:pl:Sports]]
+
+----
+
+==Portuguese==
+{{wikipedia|lang=pt}}
+
+===Alternative forms===
+* {{l|pt|badmínton}}
+
+===Etymology===
+From {{bor|pt|en|badminton}}.
+
+===Noun===
+{{pt-noun|m|-}}
+
+# [[#English|badminton]]
+
+===Further reading===
+* {{R:Priberam}}
+
+{{topics|pt|Badminton|Racquet sports|Sports}}
+
+----
+
+==Tagalog==
+
+===Etymology===
+Borrowed from {{bor|tl|en|badminton}}.
+
+===Noun===
+{{tl-noun|bádmintón, badmintón}}
+
+# {{l|en|badminton}}
+
+{{topics|tl|Sports}}
