@@ -1,0 +1,93 @@
+==English==
+{{wikipedia|dab=sustainable}}
+
+===Etymology===
+{{suffix|en|sustain|able}}
+
+===Pronunciation===
+* {{IPA|en|/səˈsteɪnəbəl/}}
+
+===Adjective===
+{{en-adj}}
+
+# Able to be [[sustained]].
+# Able to be produced or sustained for an [[indefinite]] [[period]] without [[damaging]] the [[environment]], or without [[depleting]] a [[resource]]; [[renewable]].
+#* '''2008''', Kate L. Harrison, ''The Green Bride Guide'', {{ISBN|140221345X}}, page 174&nbsp;[http://books.google.com/books?id=O5FyqGQmdpUC&pg=PA174&dq=sustainable]:
+#*: In addition to the resources listed in the organic and local food sections earlier, a good source of '''sustainable''' meat is Heritage Foods USA (heritagefoodsusa.com).
+#* '''2008''' August–October, Dawn Brighid, "A Taste of Hope", in ''Organic Gardening'', ISSN 1536-108X, volume 55, number 6, page 73&nbsp;[http://books.google.com/books?id=S8MDAAAAMBAJ&pg=PA73&dq=%22that+sustainable%22]:
+#*: Some critics have asserted that '''sustainable''' food is "elitist"; that it's too expensive and not widely available.
+#* '''2010''', [[w:Anthony Bourdain|Anthony Bourdain]], [[w:Medium Raw|''Medium Raw'']], {{ISBN|9780061718946}}, page 129&nbsp;[http://books.google.com/books?id=_-Z6Umuq68EC&pg=PA129&dq=sustainable]:
+#*: A city on a hill—or many cities on hills—surrounded by unbroken vistas of beautiful countryside; small, thriving, family-run farms growing organic, seasonal, and '''sustainable''' fruits and vegetables specific to the region.
+#* '''2019''', Jason Hickel, ''[https://www.theguardian.com/commentisfree/2019/mar/05/climate-breakdown-uk-greener-new-deal-cap-consumption Climate breakdown is coming. The UK needs a Greener New Deal]'' in the Guardian.
+#*: Right now, rich nations devour 28 tonnes of material per person per year – including everything from fish to forests, plastics to metals. That’s four times more than ecologists say is '''sustainable'''.
+
+====Related terms====
+* {{l|en|sustainability}}
+
+====Translations====
+{{trans-top|able to be sustained}}
+* Catalan: {{t+|ca|sostenible}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[可持續]][[的]]|sc=Hani}}, {{t|cmn|[[可持续]][[的]]|tr=kěchíxù de|sc=Hani}}
+* Danish: {{t|da|bæredygtig}}, {{t|da|holdbar}}
+* Esperanto: {{t|eo|daŭrebla}}
+* Estonian: {{t|et|jätkusuutlik}}, {{t|et|kestlik}}
+* Finnish: {{t+|fi|pysyvä}}
+* French: {{t+|fr|viable}}
+* Galician: {{t+|gl|sustentábel}}
+* German: {{t+|de|nachhaltig}}
+* Italian: {{t+|it|sostenibile}}
+{{trans-mid}}
+* Japanese: {{t+|ja|持続可能|tr=jizoku-kanō}}
+* Malay: {{t|ms|mampan}}
+* Maori: {{t|mi|whakauka}}
+* Norwegian: {{t|no|bærekraftig}}
+* Polish: {{t|pl|możliwy do utrzymania}}, {{t|pl|podtrzymywalny}}
+* Portuguese: {{t+|pt|sustentável}}
+* Russian: {{t+|ru|жизнеспособный}}, {{t+|ru|усто́йчивый}}
+* Spanish: {{t|es|sostenible}}
+* Swedish: {{t+|sv|hållbar}}
+* Turkish: {{t|tr|surdurulebilir}}
+{{trans-bottom}}
+
+{{trans-top|able to be sustained: environmental term}}
+* Catalan: {{t+|ca|sostenible}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[可持續]][[的]]|sc=Hani}}, {{t|cmn|[[可持续]][[的]]|tr=kěchíxù de|sc=Hani}}
+* Czech: {{t+|cs|udržitelný|m}}
+* Danish: {{t|da|bæredygtig}}
+* Dutch: {{t+|nl|duurzaam}}, {{t+|nl|verantwoord}}, {{t+|nl|verantwoord}}
+* Esperanto: {{t|eo|daŭripova}}
+* Estonian: {{t|et|jätkusuutlik}}, {{t|et|säästev}}, {{t|et|kestlik}}
+* Finnish: {{t+|fi|kestävä}}, {{t|fi|ympäristöä säästävä}}
+* French: {{t+|fr|durable}}
+* Galician: {{t+|gl|sustentábel|m|f}}
+* German: {{t+|de|nachhaltig}}
+{{trans-mid}}
+* Hebrew: {{t|he|בר־קיימא|alt=בר-קיימא}}
+* Hungarian: {{t+|hu|fenntartható}}
+* Italian: {{t+|it|sostenibile}}
+* Japanese: {{t+|ja|持続可能|tr=jizoku-kanō}}
+* Malay: {{t|ms|mampan}}, {{t|ms|lestari}}
+* Maori: {{t|mi|toitū }}
+* Norwegian: {{t|no|bærekraftig}}
+* Polish: {{t|pl|możliwy do utrzymania}}, {{t|pl|podtrzymywalny}}
+* Portuguese: {{t+|pt|sustentável}}
+* Russian: {{t+|ru|экологичный}}, {{t+|ru|возобновля́емый}}, {{t+|ru|усто́йчивый}}
+* Spanish: {{t|es|sostenible}}
+* Swedish: {{t+|sv|hållbar}}
+* Tagalog: {{t|tl|likas-kaya}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{t-check|nl|vernieuwbaar}}, {{t+check|nl|toelaatbaar}}, {{t+check|nl|duurzaam}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+* {{R:OneLook}}
+* {{R:Keywords 21st}}
+* {{R:Century 1911}}
+
+===Anagrams===
+* {{anagrams|en|a=aabeilnsstu|balaustines}}
