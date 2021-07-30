@@ -1,0 +1,185 @@
+{{also|dd|Dd|.dd|d.d.|-dd|D.D.|D&D|ḏd}}
+==Translingual==
+
+===Alternative forms===
+* {{sense|roman numeral}} {{l|mul|DD}}, {{l|mul|M}}
+
+===Number===
+{{mul-number}}
+
+# {{lb|mul|informal}} A [[Roman numeral]] representing [[thousand]] ([[1000]]).
+
+====See also====
+* Previous: [[DID]] ([[nine hundred and ninety-nine]], [[999]])
+* Next: [[DDI]] ([[one thousand]] and [[one]], 1001)
+
+[[Category:mul:Thousand]]
+
+----
+
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{IPA|en|/ˌdiː ˈdiː/}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{init of|en|[[designated driver]]}}
+# {{init of|en|[[discharged dead]]|nodot=1}} - official designation of a sailor killed in combat
+# {{init of|en|[[direct debit]]}}
+# {{init of|en|deficit disorder}}
+# {{init of|en|[[doctor]] of [[divinity]]}}
+# {{init of|en|[[Debian]] [[developer]]}}
+# {{label|en|sports}} {{initialism of|en|[[degree]] of [[difficulty]]}}
+# {{lb|en|US|military|nautical}} {{abbr of|en|[[destroyer]]|dot=,}} a type of warship.
+# {{lb|en|automotive}} {{init of|en|[[daily driver]]|dot=;}} a vehicle which is used for everyday commuting, unlike a [[weekend warrior]] / [[Sunday Funday]] vehicle.
+# {{init of|en|dual diagnosis}}
+# {{init of|en|demand draft}}
+# a bra cup size: double-D
+# {{lb|en|Internet}} {{init of|en|[[direct]] [[download]]}}
+# {{init of|en|[[decimal degree]]s}} {{gloss|decimalized instead of sexagesimal values for [[arcdegree]]s}}
+# {{abbr of|en|[[daddy]] [[dom]]|nodot=1}} {{n-g|in [[DD/LG]] [[kink]].}}
+#* '''2019''', Cassandra Dee, ''Daddy's Pretty Baby: A '''DD'''/lg Forbidden Romance'':
+#*: ABOUT THIS BOOK {{...}} Hey Readers – Warning: This is a sexy, over the top romance with two folks engaged in age play and the '''DD'''/lg lifestyle.
+# {{init of|en|[[due diligence]]}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{abbreviation of|en|Daman and Diu}}
+# {{abbreviation of|en|Dadra and Nagar Haveli and Daman and Diu}}
+
+===Adjective===
+{{head|en|adjective}}
+
+# {{init of|en|[[developmentally]] [[disabled]]}}
+
+===Phrase===
+{{en-phrase}}
+
+# {{init of|en|[[dear]] [[daughter]]}}
+
+====Alternative forms====
+* {{sense|Internet}} [[DDL]]
+
+====Coordinate terms====
+* {{sense|decimal degrees}} [[DMS]], [[HMS]], [[gradian]], [[radian]], [[mil]]
+
+----
+
+==Japanese==
+
+===Pronunciation===
+{{ja-pron|ディーディー}}
+
+===Noun===
+{{ja-noun|ディー%ディー}}
+
+# {{lb|ja|often|_|offensive|subculture}} {{short for|ja|誰でも大好き|tr=daredemo daisuki|t=love everyone}}
+#{{lb|ja|internet slang}} {{short for|ja|どっちもどっち|tr=dotchi mo dotchi|t=neither is great}}
+
+----
+
+==Norwegian Bokmål==
+
+===Alternative forms===
+* {{l|nb|dd}}
+* {{l|nb|d.d.}}
+
+===Etymology 1===
+{{root|nb|ine-pro|*dʰegʷʰ-}}
+Short form of Norwegian {{m|nb|dag||day}}, from {{inh|nb|non|dagr||day}}, from {{inh|nb|gem-pro|*dagaz||day}}, from {{inh|nb|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+
+====Pronunciation====
+* {{IPA|nb|/deːdeː/|/dɑːɡ/}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «DD».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «dag».ogg|Audio}}
+* {{rhymes|nb|eː|ɑːɡ}}
+* {{hyphenation|nb|DD}}
+* {{homophones|nb|dd|dag}}
+
+===Noun===
+{{head|nb|noun}}
+
+# {{alternative spelling of|nb|dd}}
+
+=====See also=====
+* {{l|nb|mm||mm}}, {{l|nb|åå||yy}}, {{l|nb|åååå||yyyy}}
+
+=====Related terms=====
+* {{l|nb|ddmmåå||ddmmyy}}, {{l|nb|ddmmåååå||ddmmyyyy}}, {{l|nb|DDMMÅÅ||DDMMYY}}, {{l|nb|DDMMÅÅÅÅ||DDMMYYYY}}, {{l|nb|dd/mm/åå||dd/mm/yy}}, {{l|nb|dd/mm/åååå||dd/mm/yyyy}}, {{l|nb|DD/MM/ÅÅ||DD/MM/YY}}, {{l|nb|DD/MM/ÅÅÅÅ||DD/MM/YYYY}}
+
+===Etymology 2===
+{{root|nb|ine-pro|*deh₃-}} 
+Short form of Norwegian {{m|nb|datamangel||data deficiency}}, first part {{m|nb|data||data}} from {{der|nb|la|data}}, plural of {{m|la|datum||gift, present}}, neuter past participle of {{m|la|dō||I give, offer}}, from {{der|nb|itc-pro|*didō||give}}, from {{der|nb|ine-pro|*dédeh₃ti||to be giving}}, from {{m|ine-pro|*deh₃-||give}}. Last part {{m|nb|mangel||lack, absence, deficiency}} from {{der|nb|de|Mangel||lack, deficiency}}, from {{m|de|mangeln||to lack}}, from {{der|nb|goh|mangolōn}}, from {{der|nb|la|mancare}}.
+
+====Pronunciation====
+* {{IPA|nb|/deːdeː/|/ˈdɑːtamaŋəl/}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «DD».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «datamangel».ogg|Audio}}
+* {{rhymes|nb|eː|ɑŋəl}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|dd|datamangel}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|Norwegian Red List for Species}} {{abbreviation of|nb|[[datamangel]]||data deficiency}}
+
+===Etymology 3===
+Short form of Norwegian {{m|nb|dobbel-dobbel||double-double}}.
+
+====Pronunciation====
+* {{IPA|nb|/deːdeː/|/ˈdɔbːəl.dɔbːəl/}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «DD».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «dobbel-dobbel».ogg|Audio}}
+* {{rhymes|nb|eː|ɔbːəl}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|dd|dobbel-dobbel}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|basketball}} {{abbreviation of|nb|[[dobbel-dobbel]]||double-double}}
+
+===Etymology 4===
+{{root|nb|ine-pro|*dʰegʷʰ-}}
+Short form of Norwegian {{m|nb|D-dag}} and {{m|nb|D-dagen}} ("D-Day"), both from {{bor|nb|en|D-Day}}, where the '''''D''''' refers to the word {{m|nb|dag||day}}, from {{inh|nb|non|dagr||day}}, from {{inh|nb|gem-pro|*dagaz||day}}, from {{inh|nb|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+
+====Pronunciation====
+* {{IPA|nb|/deːdeː/|/ˈdeːdɑːɡ/|/ˈdeːdɑːɡn̩/}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «DD».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «D-dag».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «D-dagen».ogg|Audio}}
+* {{rhymes|nb|eː|ɑːɡ|ɑːɡn̩}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|dd|D-dag|D-dagen}}
+
+====Noun====
+{{head|nb|noun}}
+
+# {{lb|nb|figuratively}} {{abbreviation of|nb|[[D-dag]]||D-Day}}
+# {{lb|nb|historical}} {{abbreviation of|nb|[[D-dagen]]||D-Day}}
+
+===Etymology 5===
+First initials of the name {{m|nb|Donald Duck||Donald Duck}}.
+
+====Pronunciation====
+* {{IPA|nb|/deːdeː/|/ˈduːnɑl.dʉk/}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «DD».ogg|Audio}}
+* {{audio|nb|NB - Pronunciation of Norwegian Bokmål «Donald Duck».ogg|Audio}}
+* {{rhymes|nb|eː|ʉk}}
+* {{hyphenation|nb|D|D}}
+* {{homophones|nb|dd|Donald Duck}}
+
+====Proper noun====
+{{head|nb|proper noun}}
+
+# {{initialism of|nb|[[Donald Duck]]}}
+
+[[Category:nb:Fictional characters]]
+[[Category:nb:Military]]
+[[Category:nb:Sports]]
+[[Category:nb:Television]]
