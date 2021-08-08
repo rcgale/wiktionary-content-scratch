@@ -1,0 +1,54 @@
+==English==
+
+===Pronunciation===
+* {{IPA|en|/kənˈtɹaɪvd/}}
+* {{audio|en|en-us-contrived.ogg|Audio (US)}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|contrive}}
+
+===Adjective===
+{{en-adj}}
+
+# Created in a [[deliberate]], rather than [[natural]] or [[spontaneous]], way.
+# [[unnatural|Unnatural]], [[forced]]; [[artificial]], or [[unrealistic]].
+
+====Synonyms====
+* {{l|en|staged}}
+
+====Antonyms====
+* {{l|en|spontaneous}}
+
+====Translations====
+{{trans-top|created in a deliberate way}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|tahallinen}}
+{{trans-mid}}
+* Hungarian: {{t|hu|megrendezett}}, {{t+|hu|beállított}}, {{t|hu|kiagyalt}}, {{t|hu|kieszelt}}
+* Spanish: {{t|es|intencionalmente}}
+* Swedish: {{t+|sv|krystad}}
+{{trans-bottom}}
+
+{{trans-top|unnatural, forced}}
+* Catalan: {{t+|ca|artificial}}, {{t+|ca|forçat}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[不自然]][[的]]|tr=bùzìrán de}}, {{t|cmn|[[做作]][[的]]|tr=zuòzuo de}}, {{t|cmn|[[人為]][[的]]}}, {{t|cmn|[[人为]][[的]]|tr=rénwéi de}}, {{t|cmn|[[矯揉造作]][[的]]}}, {{t|cmn|[[矫揉造作]][[的]]|tr=jiǎoróuzàozuò de}}
+* Dutch: {{t+|nl|gekunsteld}}, {{t+|nl|slinks}}, {{t+|nl|bedrieglijk}}, {{t|nl|bij de haren getrokken}}
+* Finnish: {{t+|fi|väkinäinen}}, {{t+|fi|teennäinen}}, {{t+|fi|epäaito}}
+* French: {{t+|fr|artificiel}}, {{t+|fr|forcé}}, {{t+|fr|affecté}}, {{t+|fr|feint}}
+* Georgian: {{t|ka|არაბუნებრივი}}, {{t|ka|ნაძალადევი}}
+{{trans-mid}}
+* Greek: {{t+|el|σχεδιασμένος|m}}, {{t|el|σκηνοοθετημένος|m}}
+* Hungarian: {{t+|hu|mesterkélt}}, {{t+|hu|erőltetett}}, {{t|hu|művi}}, {{t+|hu|keresett}}
+* Irish: {{t|ga|tacair}}
+* Norwegian:
+*: Bokmål: {{t|nb|oppkonstruert}}, {{t+|nb|kunstig}}
+* Polish: {{t|pl|wydumany}}, {{t+|pl|sztuczny}}, {{t|pl|przekombinowany}}
+* Romanian: {{t+|ro|forțat}}, {{t+|ro|artificial}}
+* Russian: {{t+|ru|неестественный}}
+* Spanish: {{t+|es|forzado}}, {{t+|es|artificial}}
+* Swedish: {{t+|sv|krystad}}
+{{trans-bottom}}
