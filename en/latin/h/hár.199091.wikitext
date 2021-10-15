@@ -1,0 +1,264 @@
+{{also|Appendix:Variations of "har"}}
+==Faroese==
+
+===Etymology===
+From {{der|fo|non|hár}}, from {{der|fo|gem-pro|*hērą}}, from {{der|fo|ine-pro|*keres-||rough hair, bristle}}.
+
+===Pronunciation===
+* {{IPA|fo|/hɔaːɹ/}}
+* {{rhymes|fo|ɔaːɹ}}
+
+===Noun===
+{{fo-noun|n|hárs|hár}}
+
+# [[hair]]
+
+====Declension====
+{{fo-decl-noun-n3|hár}}
+
+[[Category:fo:Anatomy]]
+
+----
+
+==Icelandic==
+
+===Pronunciation===
+* {{IPA|is|/hauːr/}}
+* {{rhymes|is|auːr}}
+
+===Etymology 1===
+From {{der|is|non|hár}}, {{m|non|hór}}, from {{der|is|gem-pro|*hauhaz}}.
+
+====Adjective====
+{{is-adj|hærri|hæstur}}
+
+# [[high]]
+#: [[múr|Múrinn]] er '''hár'''.
+#:: The wall is '''high'''
+# [[tall]]
+#: Guð minn almáttugur! Þú ert orðinn svo '''hár'''!
+#:: My god almighty! You've gotten so '''tall'''!
+
+=====Derived terms=====
+* {{l|is|há-}}
+
+===Etymology 2===
+From {{der|is|non|hár}}, from {{der|is|gem-pro|*hērą}}.
+
+====Noun====
+{{is-noun|n|hárs|hár}}
+
+# {{senseid|non|hair}} [[hair]]
+#: {{usex|non|Þú hefur fallegt '''hárin'''.|You have pretty hairs.}}
+
+=====Declension=====
+{{is-decl-noun-n-s|h|á|r}}
+
+=====Derived terms=====
+* {{l|is|hárgreiðsla}}
+* {{l|is|hárþurrka}}
+* {{l|is|í húð og hár}}
+* {{l|is|skapahár}}
+* {{l|is|skírnarhár}}
+
+=====Related terms=====
+* {{l|is|hæra}}
+
+===Etymology 3===
+Cognate with the {{cog|fo|háur}}, {{m|fo|hávur}},<ref>{{R:Íslensk orðsifjabók 1989}}</ref> {{cog|nb|hai}} and {{cog|sv|haj}}.
+
+{{etystub|is}}
+
+====Noun====
+{{is-noun|m|hás|hávar}}
+
+# {{lb|is|archaic}} a [[dogfish]]
+
+=====Declension=====
+{{rfinfl|is|noun}}
+
+=====Synonyms=====
+* {{sense|dogfish}} {{l|is|háfiskur}}, {{l|is|háfur}}
+
+=====Related terms=====
+* {{l|is|há-}}
+
+===Anagrams===
+* {{l|is|hrá}}
+
+===References===
+<references/>
+
+{{topics|is|Anatomy|Hair}}
+
+----
+
+==Irish==
+
+===Pronunciation===
+* {{a|Munster|Connacht}} {{IPA|ga|/hɑːɾˠ/}}
+* {{a|Ulster}} {{IPA|ga|/hæːɾˠ/}}
+
+===Noun===
+{{head|ga|mutated noun}}
+
+# {{h-prothesis of|ga|ár}}
+
+----
+
+==Old Norse==
+
+===Etymology 1===
+{{root|non|ine-pro|*kewk-}}
+From {{inh|non|gem-pro|*hauhaz|t=high}}, from {{der|non|ine-pro|*kewk-|t=to bend, curve, arch, vault}}. Cognate with {{cog|ang|hēah}}, {{cog|ofs|hāch}}, {{cog|osx|hōh}}, {{cog|goh|hōh}}, {{cog|got|𐌷𐌰𐌿𐌷𐍃}}.
+
+====Alternative forms====
+* {{alter|non|hór}}
+* {{alter|non|*haugʀ||oen}}
+
+====Adjective====
+{{non-adj|hærri|hæstr}}
+
+# [[high]], [[tall]]
+#* ''[[w:Völuspá|Vǫluspá]]'', verse 19, lines 1-4, in '''1867''', S. Bugge, ''Norrœn fornkvæði: Sæmundar Edda hins fróða''. Christiania, page [http://books.google.com/books?id=Dd0FAAAAQAAJ&pg=PA4 4]:
+#*: {{quote|non|Ask veit ek standa / heitir Yggdrasill<br>'''hár''' baðmr, ausinn / hvíta auri; {{...}}|I know an ash stands / named Yggdrasill<br>a '''high''' tree, washed / with white mud; {{...}}}}
+
+=====Declension=====
+{{non-decl-adj|há|há|háv|háv|hárr|nsm=hár|nsn=hátt|comp=hærr|sup=hæst}}
+
+=====Derived terms=====
+{{der3|non|{{l|non|háaltari|g=m||high altar}}
+|{{l|non|hábeinn||high-legged}}
+|{{l|non|hábjarg|g=n||high rock}}
+|{{l|non|hábogaðr||high-curved}}
+|{{l|non|hádegi|g=n||noon}}
+|{{l|non|hádegiskeið|g=n||noon-tide}}
+|{{l|non|háfjall|g=n||high mountain}}
+|{{l|non|háfleygr||high-flying}}
+|{{l|non|háflœðr|g=f||full flood}}
+|{{l|non|háfœttr||high-legged}}
+|{{l|non|háleikr|g=m||highness}}
+|{{l|non|háleitligr||sublime}}
+|{{l|non|háleitr||looking upwards}}
+|{{l|non|hálæti|g=n||shouting, noise}}
+|{{l|non|hámessa|g=f||high mass}}
+|{{l|non|hámælgi|g=f||loud talking}}
+|{{l|non|hámæli|g=n||loud-voicedness}}
+|{{l|non|hámæltr||loud-voiced}}
+|{{l|non|hánefjaðr||high-nosed}}
+|{{l|non|hápallr|g=m||dais}}
+|{{l|non|háreysti|g=n||noise, clamour}}
+|{{l|non|háreystr||noisy}}
+|{{l|non|hásegl|g=n||top sail}}
+|{{l|non|háseti|g=m||oarsman}}
+|{{l|non|hásin|g=f||Achilles tendon}}
+|{{l|non|háskeptr||long-shafted}}
+|{{l|non|hástaðr|g=m||high place}}
+|{{l|non|hástafir|g=m-p}}
+|{{l|non|hásteint||full of high boulders}}
+|{{l|non|hástóll|g=m||high seat}}
+|{{l|non|hásumar|g=n||midsummer}}
+|{{l|non|hásæti|g=n||high-seat}}
+|{{l|non|hátalaðr||high-voiced}}
+|{{l|non|hátimbra||to build high}}
+|{{l|non|hátíð|g=f||festival}}
+|{{l|non|hátún|g=n||high place}}
+|{{l|non|hávaði|g=m||noise, tumult}}
+|{{l|non|hávetr|g=m||midwinter}}
+|{{l|non|hávetri|g=n||midwinter}}
+}}
+
+=====Descendants=====
+* {{desc|is|hár}}
+* {{desc|fo|háur}}
+* {{desc|nrn|hjog}}, {{l|nrn|høg}}
+* {{desc|nn|håg}} (< pl. ''hávir''), {{l|nn|hå}} (in compound place names only)
+* {{desc|gmq-bot|haug}}
+* {{desc|gmq-osw|høgher|hø̄gher}}
+** {{desc|sv|hög}}
+** {{desc|gmq-mno|høg|bor=1}} (from ca. 1400)
+*** {{desc|nn|høg}}
+**** {{desc|nb|høg|bor=1}}
+* {{desc|da|høj}}
+** {{desc|nb|høy}}
+** {{desc|fo|høgur|bor=1}}
+* {{desc|non-ogt|haur}}
+** {{desc|gmq-gut|haugar}}, {{l|gmq-gut|haug}}, {{l|gmq-gut|hau}}
+
+===Etymology 2===
+From {{inh|non|gem-pro|*hērą}}, from {{der|non|ine-pro|*keres-||rough hair, bristle}}. Compare Old Saxon and {{cog|goh|hār}}, {{cog|ang|her}}, {{m|ang|hǣr}}.
+
+====Noun====
+{{non-noun|n}}
+
+# [[hair]]
+
+=====Declension=====
+{{non-decl-n-a|hár}}
+
+=====Descendants=====
+{{top2}}
+* {{desc|da|hår|g=n}}
+* {{desc|is|hár|g=n}}
+* {{desc|fo|hár|g=n}}
+* {{desc|nb|hår|g=n}}
+* {{desc|nn|hår|g=n}}
+* {{desc|gmq-osw|hār|g=n}}
+** {{desc|sv|hår|g=n}}
+{{bottom}}
+
+===Etymology 3===
+{{rfe|non}}
+
+====Noun====
+{{non-noun|m|hás|háir}}
+
+# [[thole]], [[rowlock]]
+
+=====Declension=====
+{{non-decl-m-i1|há|dsd=hánum|dp=hám|dpd=hánum|gp=há}}
+
+=====Descendants=====
+* {{desc|nn|hå}}
+
+===Etymology 4===
+Probably from a derivative of {{der|non|gem-pro|*hawwaną|t=to hew, cut}}, related to {{cog|frk|*hauwan}}.
+
+====Noun====
+{{non-noun|m}}
+
+# [[spiny dogfish]]
+#: {{Q|non|First Grammatical Treatise|84|22|quote=''Har'' vex á kykvendum, en '''''hȧr''''' er fiskr.|trans=''Hair'' grows on living things, but ''har'' is a fish.}}
+
+=====Usage notes=====
+The {{w|First Grammarian}} says that this word had a long nasalized vowel, marked with an overdot, and contrasts it with {{m|non|hár|t=hair|id=hair}}, which does not.
+
+=====Declension=====
+{{non-decl-m-a|há|dsi=há, hái|dsd=hánum, háinum|np=hár|ap=há|dpi=hám|dpd=hánum|gp=há}}
+
+=====Descendants=====
+{{top2}}
+* {{desc|is|hár}}
+* {{desc|fo|háur}}, {{l|fo|hávur}}
+* {{desc|nn|hå}}
+* {{desc|nb|hå}}
+{{bottom}}
+
+===Etymology 5===
+{{nonlemma}}
+
+====Adjective====
+{{head|non|adjective form}}
+
+# {{inflection of|non|hárr||posd|str|f|nom|s|;|posd|str|n|nom//acc|p}}
+
+====Noun====
+{{head|non|noun form}}
+
+# {{inflection of|non|há|id=aftergrass||indef|gen|s|;|indef|nom//acc|p}}
+
+===References===
+* [https://archive.org/stream/concisedictionar001857#page/187 hár] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
+
+[[Category:non:Anatomy]]
+[[Category:non:Hair]]
