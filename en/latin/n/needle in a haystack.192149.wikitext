@@ -1,0 +1,48 @@
+{{also|needle-in-a-haystack}}
+==English==
+
+===Alternative forms===
+* {{l|en|needle-in-a-haystack}}
+
+===Pronunciation===
+* {{audio|en|En-au-needle in a haystack.ogg|Audio (AU)}}
+
+===Noun===
+{{en-noun|needles in a haystack|needles in haystacks}}
+
+# {{lb|en|idiomatic}} something that is [[difficult]] or [[impossible]] to locate; something impossibly [[complex]] or [[intractable]]
+#: {{ux|en|You'll never find the paper you need on her desk. You're looking for a '''needle in a haystack'''.}}
+#: {{syn|en|needle in a straw poll}}
+
+====Translations====
+{{trans-top|idiomatic}}
+* Arabic: {{t|ar|إِبْرَةٌ فِي كَوْمَةِ قَشٍّ|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|大海撈針}}, {{t+|cmn|大海捞针|tr=dàhǎilāozhēn}} {{q|verb or verbal noun}},  {{t+|cmn|海底撈針}}
+* Czech: {{t|cs|jehla v kupce sena|f}}
+* Dutch: {{t|nl|naald in een hooiberg}}
+* Finnish: {{t|fi|neula heinäsuovassa}}
+* French: {{t+|fr|chercher une aiguille dans une botte de foin}} {{q|verb}}
+* German: {{t|de|Nadel im Heuhaufen|f}}
+* Greek: {{t|el|βελόνα στ' άχυρο|f}}, {{t|el|ψύλλους στ' άχυρο|m-p}}
+* Hebrew: {{t+|he|מַחַט בַּעֲרֵמָת שַׁחַת|tr=máẖat ba'aremát sháẖat}}
+* Hungarian: {{t|hu|tű a szénakazalban}}
+* Icelandic: {{t|is|saumnál í heystakki|f}}
+* Italian: {{t|it|cercare un ago in un pagliaio|alt=ago in un pagliaio|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|干し草の山の針|tr=ほしくさのやまのはり, hoshikusa-no yama-no hari}}
+* Macedonian: {{t|mk|и́гла во стог се́но}}
+* Polish: {{t|pl|igła w stogu siana|f}}
+* Portuguese: {{t|pt|agulha num palheiro}}
+* Russian: {{t|ru|иго́лка в сто́ге се́на|f}}, {{t+|ru|иска́ть иго́лку в сто́ге се́на}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ѝгла у пла̑сту сије̑на|f}} / {{t|sh|ѝгла у пла̑сту се̑на|f}}
+*: Roman: {{t|sh|ìgla u plȃstu sijȇna|f}} / {{t|sh|ìgla u plȃstu sȇna|f}}
+* Spanish: {{t+|es|aguja en un pajar}}
+* Swedish: {{t|sv|nål i en höstack}}
+* Turkish: {{t|tr|samanlıkta iğne}}
+{{trans-bottom}}
+
+===References===
+* [http://www.usingenglish.com/reference/idioms/n.html usingenglish.com idioms reference]
+* [http://idioms.thefreedictionary.com/needle+in+a+haystack thefreedictionary.com definition]
