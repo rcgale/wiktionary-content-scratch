@@ -1,0 +1,31 @@
+==English==
+
+===Interjection===
+{{en-interj|head=[[man]] [[overboard]]!}}
+
+# {{lb|en|nautical}} {{n-g|A cry used to announce that one of the [[crew]] has fallen over the side of the vessel.}}
+
+====Translations====
+{{trans-top|cry indicating someone has fallen over the side}}
+* Catalan: {{t|ca|home a l'aigua}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Dutch: {{t|nl|man overboord}}
+* Finnish: {{t|fi|mies yli laidan}}
+* French: {{t+|fr|un homme à la mer}}
+* German: {{t|de|Mann über Bord}}
+* Greek: {{t|el|άνθρωπος στη θάλασσα}}
+{{trans-mid}}
+* Hebrew: {{t+|he|אדם בים|m|tr=adám bayám}}
+* Hungarian: {{t|hu|ember a vízben}}
+* Irish: {{t|ga|fear i bhfarraige}}
+* Italian: {{t|it|un uomo in mare}}, {{t|it|uomo in mare}}
+* Polish: {{t|pl|człowiek za burtą}}
+* Portuguese: {{t|pt|homem ao mar}}
+* Spanish: {{t|es|hombre al agua}}
+* Swedish: {{t|sv|man över bord}}
+* Welsh: {{t|cy|dyn yn y môr}}
+{{trans-bottom}}
+
+[[Category:English phrasebook]]
+[[Category:English phrasebook/Emergencies]]
