@@ -1,0 +1,148 @@
+{{also|AIDS|Aids|aïds|Aïds}}
+==English==
+
+===Pronunciation===
+* {{a|RP|US}} {{IPA|en|/eɪdz/}}
+* {{homophones|en|aides|AIDS}}
+* {{rhymes|en|eɪdz|s=1}}
+
+===Noun===
+{{head|en|noun form}}
+
+# {{plural of|en|aid}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-third-person singular of|aid}}
+
+===Anagrams===
+* {{anagrams|en|a=adis|AISD|Dais|IADS|IADs|Said|Saïd|dais|daïs|sadi|said|sida}}
+
+----
+
+==Albanian==
+{{wikipedia|lang=sq|HIV/AIDS}}
+
+===Etymology===
+Borrowed from {{der|sq|en|AIDS}} ({{m|en|acquired immune deficiency syndrome}}).
+
+===Noun===
+{{sq-noun|m|-|aidsi (AIDS-i)|-|head=aids/AIDS}}
+
+# {{l|en|AIDS}} ({{l|en|acquired immune deficiency syndrome}})
+#: {{ux|sq|'''sindromi i mungesës së imunitetit të fituar'''|'''acquired immune deficiency syndrome'''}}
+
+====Declension====
+{{sq-noun-m-unc}}
+
+====Synonyms====
+* {{l|sq|sindromi i mungesës së imunitetit të fituar}}
+
+* {{l|sq|SIDA|g=f}}, {{l|sq|sida|g=f}}
+* {{l|sq|AIDS|g=m}}
+
+====Further reading====
+* [https://fjalorthi.com/aids] noun ''aids'' • Fjalor Shqip (Albanian Dictionary)
+
+----
+
+==Czech==
+
+===Pronunciation===
+* {{IPA|cs|[ˈajts]|[ˈɛjts]}}
+* {{audio|cs|Cs-AIDS.ogg|Audio}}
+
+===Noun===
+{{cs-noun|g=m-in}}
+
+# {{alternative form of|cs|AIDS}}
+
+====Declension====
+{{cs-decl-noun|aids|aidsu|aidsu|aids|aidsi|aidsu|aidsem|aidsy|aidsů|aidsům|aidsy|aidsy|aidsech|aidsy}}
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|en|AIDS}}.
+
+===Pronunciation===
+* {{IPA|nl|/eːts/}}
+* {{audio|nl|Nl-aids.ogg|Audio}}
+
+===Noun===
+{{nl-noun|m|-|-}}
+
+# [[AIDS]]
+
+===See also===
+* {{l|nl|HIV}}
+
+{{topics|nl|Sexually transmitted diseases}}
+
+----
+
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+
+===Etymology===
+From {{der|nb|en|AIDS}}, "acquired immune deficiency syndrome".
+
+===Noun===
+{{nb-noun-mu}}
+
+# {{l|en|AIDS}} {{topics|nb|Sexually transmitted diseases}}
+
+====Related terms====
+* {{l|nb|hiv}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+
+===Etymology===
+From {{bor|nn|en|AIDS}}, "acquired immune deficiency syndrome".
+
+===Noun===
+{{nn-noun-mu}}
+
+# {{l|en|AIDS}} {{topics|nn|Sexually transmitted diseases}}
+
+====Related terms====
+* {{l|nn|hiv}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
+
+==Slovak==
+
+===Etymology===
+From {{der|sk|en|AIDS}}, "acquired immune deficiency syndrome".
+
+===Pronunciation===
+* {{IPA|sk|/aː iː dɛː ɛs/|/ajt͡s/|/ɛjt͡s/}}
+
+===Noun===
+{{sk-noun|g=m|gen=aidsu|decl=dub}}
+
+# [[AIDS]]
+
+====Declension====
+{{sk-decl-noun-sg|aids|aidsu|aidsu|aids|aidsi|aidsom}}
+
+====Derived terms====
+* {{l|sk|aidsový}}
+
+====Related terms====
+* {{l|sk|HIV|g=m}}
+
+===References===
+* {{R:SDK}}
