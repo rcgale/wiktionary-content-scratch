@@ -1,0 +1,87 @@
+{{also|Appendix:Variations of "goa"}}
+==English==
+[[File:Procapra picticaudata.jpg|thumb|A '''goa''']]
+[[File:Procapra picticaudata map.png|thumb|The geographic range of the '''goa'''.]]
+
+===Etymology===
+{{rfe|en}}
+
+===Noun===
+{{en-noun}}
+
+# The {{vern|Tibetan gazelle}}, {{taxlink|Procapra picticaudata|species|noshow=1}}, a species of [[antelope]] that inhabits the {{w|Tibetan Plateau}}.
+
+====Translations====
+{{trans-top|''Procapra picticaudata''}}
+* Mandarin: {{t|cmn|藏原羚|sc=Hani}}
+* Romanian: {{t|ro|gazelă tibetană|f}}
+{{trans-mid}}
+* Russian: {{t|ru|тибе́тский дзере́н|m|tr=tibétskij dzɛrɛ́n}}
+* Tibetan: {{t-needed|bo}}
+{{trans-bottom}}
+
+===Further reading===
+* {{pedia|Goa (antelope)}}
+* {{specieslite|Procapra picticaudata|i=1}}
+* {{comcatlite|Procapra picticaudata|i=1}}
+
+===Anagrams===
+* {{anagrams|en|a=ago|AGO|AOG|GAO|Gao|ago|oga}}
+
+[[Category:en:Antilopine antelopes]]
+
+----
+
+==Abenaki==
+
+===Noun===
+{{head|abe|noun|plural|goak}}
+
+# the [[white pine]], ''[[Pinus strobus]]''
+
+[[Category:abe:Plants]]
+
+----
+
+==Italian==
+
+===Etymology===
+From {{bor|it|ML.|goa}}.
+
+===Pronunciation===
+{{it-pr|gòa}}
+
+===Noun===
+{{it-noun|f}}
+
+# {{tlb|it|historical}} a [[unit of measure]] of [[length]], equivalent to 0.7442 m
+
+===References===
+* {{R:it:Trec}}
+
+===Anagrams===
+* {{anagrams|it|a=ago|ago}}
+
+{{C|it|Units of measure}}
+
+----
+
+==Lindu==
+
+===Noun===
+{{head|klw|noun}}
+
+# [[corn]]
+
+----
+
+==Plautdietsch==
+
+===Adjective===
+{{head|pdt|adjective}}
+
+# [[cooked]]
+# [[done]]
+# [[baked]]
+
+[[Category:Plautdietsch one-syllable adjectives]]
