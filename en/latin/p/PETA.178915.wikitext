@@ -1,0 +1,19 @@
+{{also|Appendix:Variations of "peta"}}
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ˈpiːtə/}}
+* {{rhymes|en|iːtə|s=2}}
+* {{homophones|en|pita|Peter}} {{qualifier|in nonrhotic accents}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{acronym of|en|{{w|People for the Ethical Treatment of Animals}}}}
+# {{acronym of|en|{{w|People Eating Tasty Animals}}}}
+# {{acronym of|en|[[Philippine]] [[education|Education]] [[theater|Theater]] [[association|Association]]}}
+
+===Anagrams===
+* {{anagrams|en|a=aept|Paet|Pate|Peat|epta-|pate|peat|pâté|tape|tepa}}
+
+[[Category:en:Organizations]]
