@@ -1,0 +1,24 @@
+==English==
+
+===Etymology===
+{{rfe|en}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|basketball}} The achievement of a two-digit number of all five of points scored, assists, rebounds, blocks, and steals in a single game.
+
+===See also===
+* {{l|en|double double}}
+* {{l|en|triple double}}
+* {{l|en|quadruple double}}
+
+====Descendants====
+* {{desc|nb|femdobbel-dobbel}}
+
+====Translations====
+{{trans-top}}
+* Norwegian:
+*: Bokmål: {{t|nb|femdobbel-dobbel|m}}
+{{trans-mid}}
+{{trans-bottom}}
