@@ -1,0 +1,110 @@
+{{also|Stalker}}
+==English==
+{{wikipedia|dab=stalker}}
+
+===Etymology===
+From {{inh|en|enm|stalkere}}, equivalent to {{af|en|stalk|-er|id2=agent noun}}.
+
+===Pronunciation===
+* {{rhymes|en|ɔːkə(ɹ)|s=2}}
+* {{homophones|en|stocker}} {{qualifier|in accents with the [[cot-caught merger]]}}
+
+===Noun===
+{{en-noun}}
+
+# A person who engages in [[stalk]]ing, i.e. quietly approaching animals to be hunted; a [[tracker]] or [[guide]] in hunting [[game]].
+# A person who [[secretly]] [[follow]]s someone, sometimes with [[unlawful]] [[intention]]s.
+# Any of various devices for removing the [[stalk]] from plants during harvesting.
+# Any [[bird]] that walks with a stalking motion. <!-- formerly Gradatores -->
+# {{lb|en|obsolete}} A kind of [[fishing net]]. <!--Webster 1913-->
+
+====Synonyms====
+* {{sense|a person who stalks game}} {{l|en|tracker}}
+* {{sense|a person who secretly follows someone}} {{l|en|prowler}}
+
+====Translations====
+{{trans-top|a person who stalks game}}
+* Czech: {{t+|cs|stopař|m}}
+* Finnish: {{t+|fi|vaanija}}
+* French: {{t+|fr|traqueur|m}}
+* German: {{t|de|Pirschjäger|m}}
+* Greek: {{t+|el|κυνηγός|m|f}}
+{{trans-mid}}
+* Italian: {{t+|it|cacciatore|m}}
+* Polish: {{t+|pl|obserwator|m}} {{qualifier|literally}}
+* Portuguese: {{t+|pt|perseguidor|m}}
+* Russian: {{t+|ru|ло́вчий|m}}, {{t+|ru|следопы́т|m}}, {{t+|ru|охо́тник|m}}
+* Spanish: {{t+|es|acechador|m}}
+{{trans-bottom}}
+
+{{trans-top|a person who secretly follows someone, sometimes with unlawful intentions}}
+* Arabic: {{t|ar|مُطَارِد|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|潛行者|sc=Hani}}, {{t|cmn|潜行者|tr=qiánxíngzhě|sc=Hani}}
+* Dutch: {{t+|nl|stalker|m}}
+* Finnish: {{t+|fi|ahdistelija}}
+* French: {{t+|fr|rôdeur|m}}
+* German: {{t+|de|Stalker|m}}, {{t+|de|Verfolger|m}}
+* Greek: {{t+|el|κυνηγός|m|f}}
+* Hebrew: {{t|he|מטריד כפייתי|m}}
+* Italian: {{t+|it|stalker}}, {{t|it|molestatore|m}}, {{t+|it|vessatore|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|ストーカー|tr=sutōkā}}
+* Korean: {{t|ko|스토커}}
+* Norwegian: {{t|no|stalker}}
+* Polish: {{t+|pl|prześladowca|m}}, {{t|pl|prześladowczyni|f}}, {{t+|pl|stalker|m}}, {{t+|pl|stalkerka|f}}
+* Portuguese: {{t+|pt|perseguidor|m}}
+* Russian: {{t+|ru|пресле́дователь|m}}, {{t+|ru|пресле́довательница|f}}, {{t+|ru|ста́лкер|m}}, {{t+|ru|сто́кер|m}}
+* Slovak: {{t|sk|prenasledovateľ|m}}
+* Spanish: {{t+|es|acosador}}
+* Turkish: {{t+|tr|takipçi}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aeklrst|talkers}}
+
+[[Category:en:People]]
+
+----
+
+==Czech==
+
+===Etymology===
+Borrowed from {{bor|cs|en|stalker}}.
+
+===Pronunciation===
+* {{cs-IPA}}
+* {{hyphenation|cs|stal|ker}}
+
+===Noun===
+{{cs-noun|g=m-an}}
+
+# A {{l|en|stalker}} {{gloss|person who secretly follows someone, sometimes with unlawful intentions}}.
+
+====Declension====
+{{cs-decl-noun|stalker|stalkera|[[stalkerovi]], [[stalkeru]]|stalkera|stalkere|[[stalkerovi]], [[stalkeru]]|stalkerem|[[stalkerové]], [[stalkeři]]|stalkerů|stalkerům|stalkery|[[stalkerové]], [[stalkeři]]|stalkerech|stalkery}}
+
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+
+----
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|en|stalker}}.
+
+===Pronunciation===
+* {{IPA|nl|/ˈstɑl.kər/}}
+* {{audio|nl|Nl-stalker.ogg|Audio}}
+* {{hyphenation|nl|stal|ker}}
+
+===Noun===
+{{nl-noun|m|-s|stalkertje}}
+
+# A {{l|en|stalker}} {{gloss|person who secretly follows someone, sometimes with unlawful intentions}}.
+
+====Related terms====
+* {{l|nl|stalken}}
+* {{l|nl|stalking}}
