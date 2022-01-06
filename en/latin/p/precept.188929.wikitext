@@ -1,0 +1,119 @@
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|præcept}} {{q|obsolete}}
+
+===Etymology===
+{{root|en|ine-pro|*keh₂p-}}
+Borrowed from {{bor|en|LL.|praeceptum}}, form of {{m|la|praecipiō||to teach}}, from {{der|en|la|prae||pre-}} + {{m|la|capiō||take}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈpɹiːsɛpt/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-precept.wav|Audio (RP)}}
+
+===Noun===
+{{en-noun}}
+
+# A [[rule]] or [[principle]], especially one governing [[personal]] [[conduct]].
+#* '''2006''': [[w:Anthony Daniels (psychiatrist)|Theodore Dalrymple]], [http://www.city-journal.org/html/16_4_urbanities-language.html The Gift of Language]
+#*: I need hardly point out that Pinker doesn't really believe anything of what he writes, at least if example is stronger evidence of belief than '''precept'''.
+#* {{quote-book|en|year=1891|last=Hale|first=Susan|title=Mexico|series=The Story of the Nations|volume=27|location=London|publisher=T. Fisher Unwin|page=80|passage=He found a people in the extreme of barbarism living in caves, feeding upon the bloody flesh of animals they killed in hunting; he taught them many things, so that by his example, and for generations after he left them by his '''precepts''', they advanced to high civilization.}}
+# {{lb|en|legal}} A [[written]] [[command]], especially a [[demand]] for [[payment]].
+# {{lb|en|UK}}  An order issued by one local authority to another specifying the rate of tax to be charged on its behalf.
+## A rate or tax set by a precept.
+##* {{ux|en|The Parish Council is financed by raising a small levy - the '''precept''' - on all residential properties within the parish. [http://www.medsteadpc.org/community/medstead-parish-council-12575/home]}}
+
+====Translations====
+{{trans-top|rule or principle governing personal conduct}}
+* Bulgarian: {{t+|bg|предписание|n}}, {{t+|bg|наставление|n}}
+* Catalan: {{t+|ca|precepte|m}}
+* Chinese:
+*: Cantonese: {{t|yue|戒律|tr=gaai3 leot6}}, {{t|yue|準則|tr=zeon2 zak1}}
+* Czech: {{t+|cs|zásada|f}}
+* Dutch: {{t+|nl|regel|m}}, {{t+|nl|gedragsregel|m}}, {{t+|nl|principe}}
+* Finnish: {{t+|fi|sääntö}}, {{t+|fi|ohje}}, {{t|fi|ohjenuora}}
+* French: {{t+|fr|précepte|m}}
+* Friulian: {{t|fur|precet|m}}
+* Georgian: {{t|ka|პრინციპი}}, {{t|ka|წესი}}, {{t|ka|მცნება}}
+* German: {{t+|de|Gebot}}, {{t+|de|Vorschrift}}, {{t+|de|Grundsatz|m}}, {{t+|de|Maxime|f}}
+* Greek: {{t+|el|κανόνας|m}}, {{t+|el|εντολή|f}}
+*: Ancient: {{t|grc|ἔνταλμα|f}}
+{{trans-mid}}
+* Hungarian: {{t-needed|hu}}
+* Italian: {{t+|it|precetto|m}}
+* Latin: {{t|la|praeceptum|n}}
+* Plautdietsch: {{t|pdt|Väaschreft|f}}
+* Portuguese: {{t+|pt|preceito}}
+* Romanian: {{t+|ro|precept|n}}
+* Russian: {{t+|ru|при́нцип|m}}, {{t+|ru|за́поведь|f}}, {{t+|ru|заве́т|m|sc=Cyrl}}
+* Sanskrit: {{t+|sa|उपदेश|m}}
+* Spanish: {{t+|es|precepto|m}}
+* Swedish: {{t+|sv|föreskrift}}, {{t+|sv|regel|c}}, {{t+|sv|rättesnöre|n}}
+* Tagalog: {{t|tl|sawikain}}
+* Thai: {{t+|th|ศีล}}
+* Turkish: {{t|tr|ta'lim}}, {{t|tr|ögreti}}, {{t|tr|ta'lim buyurmak}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|obsolete}} To teach by precepts.
+#* {{RQ:Bacon Of The Interpretation of Nature}}
+#*: the axioms of sciences are '''precepted''' to be made convertible
+
+===References===
+* {{R:Lexico}}
+
+===Anagrams===
+* {{anagrams|en|a=ceepprt|percept}}
+
+[[Category:en:Directives]]
+
+----
+
+==Old Irish==
+
+===Etymology===
+{{root|sga|ine-pro|*keh₂p-}}
+Borrowed from {{bor|sga|LL.|praeceptum}}, form of {{m|la|praecipiō||to teach}}, from {{m|la|prae||pre-}} + {{m|la|capiō||take}}.
+
+===Pronunciation===
+* {{IPA|sga|/ˈpʲrʲeɡʲept/}}
+
+===Noun===
+{{sga-noun|f|precepte}}
+
+# {{verbal noun of|sga|pridchaid}}
+#* {{RQ:sga-gloss|Wb|10|d|23}}
+#*: {{quote|sga|Mad ar lóg pridcha-sa, .i. ar m’étiuth {{m|la||et}} mo thoschith, ním·bia fochricc dar hési mo '''precepte'''.|If I preach for pay, that is, for my clothing and my sustenance, I shall not have a reward for my preaching.}}
+#* {{RQ:sga-gloss|Wb|21|c|19}}
+#*: {{quote|sga|Is oc '''precept''' soscéli at·tó.|I am preaching the gospel.}}
+#* {{RQ:sga:Glosses|Wb|23|b|7}}
+#*: {{quote|sga|Hóre am essamin-se '''precepte''' asmo chuimriug, is lia de creitfess.|Since I am fearless in preaching out of my captivity, the more it is who will believe.}}
+#* {{RQ:sga:Glosses|Wb|28|d|16}}
+#*: {{quote|sga|cách rot·chechladar oc '''precept'''|everyone who will hear you preaching}}
+
+====Inflection====
+{{sga-decl-a-fem|precept|acc_sg2=preceupt|gen_sg2=preceptae}}
+
+===Mutation===
+{{sga-mutation|p|recept}}
+
+===Further reading===
+* {{R:DIL|34520}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{bor|ro|fr|précepte}}, from {{der|ro|la|praeceptum}}.
+
+===Noun===
+{{ro-noun|n|precepte}}
+
+# {{l|en|precept}}
+
+====Declension====
+{{ro-noun-n}}
