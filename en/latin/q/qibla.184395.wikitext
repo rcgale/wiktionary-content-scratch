@@ -1,0 +1,80 @@
+==English==
+
+===Alternative forms===
+* {{l|en|qiblah}}
+
+===Etymology===
+From {{bor|en|ar|قِبْلَة||which is opposite}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈkɪblə/}}, {{IPA|en|/ˈqibla/}} {{qualifier|as Arabic}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|Islam}} The [[direction]] in which [[Muslim]]s face while [[praying]], currently determined as the direction of the [[Kaaba]] in [[Mecca]].
+#* '''1990''', Michael E. Bonine, ''Sacred Direction and City Structure'', {{w|Oleg Grabar}} (editor), ''{{w|Muqarnas (journal)|Muqarnas: An Annual on Islamic Art and Architecture}}'', Volume 7, [https://books.google.com.au/books?id=P4cXo_cMIDAC&pg=PA68&dq=%22qiblas%22&hl=en&sa=X&ved=0ahUKEwjS64uKxdzPAhWFUZQKHTqJBqcQ6AEIHTAA#v=onepage&q=%22qiblas%22&f=false page 68],
+#*: The other mosques' '''qiblas''' are also in the 150°'s range, except for the Andalusian Mosque which has a '''qibla''' of 148° (table 7, fig. 17).
+#* '''1999''', David A. King, ''World Maps for Finding the Direction and Distance of Mecca'', [https://books.google.com.au/books?id=J3G4quReeVcC&pg=PA56&dq=%22qibla%22%7C%22qiblas%22&hl=en&sa=X&ved=0ahUKEwiY1pSQsNzPAhXLFpQKHdg7DBUQ6AEIHTAA#v=onepage&q=%22qibla%22%7C%22qiblas%22&f=false page 56],
+#*: Muslim astronomers from the 8th century onwards concerned themselves with the determination of the '''qibla''' as a problem of mathematical geography.
+#* '''2002''', Andrew Petersen, ''Dictionary of Islamic Architecture'', [https://books.google.com.au/books?id=eIaEAgAAQBAJ&pg=PA218&dq=%22qibla%22%7C%22qiblas%22&hl=en&sa=X&ved=0ahUKEwiY1pSQsNzPAhXLFpQKHdg7DBUQ6AEIODAF#v=onepage&q=%22qibla%22%7C%22qiblas%22&f=false page 218],
+#*: The original portico was on the west side (i.e. at right angles to the '''qibla''') and consisted of three bays resting on two marble columns.
+
+====Usage notes====
+Inside a mosque, the '''qibla''' is indicated by the location of the {{l|en|mihrab}} and the orientation of the prayer wall. The '''qibla''' (as determined at the time of construction) is therefore reflected in the construction of the building. For this reason, and especially in the case of historical buildings, the mosque itself is sometimes said to have a '''qibla''' (or {{m|en|qibla direction}}), possibly different from the independently calculated direction or from that of other nearby mosques.
+
+====Synonyms====
+* {{sense|direction in which Muslims pray}} {{l|en|qibla direction}}
+
+====Derived terms====
+* {{l|en|qibla compass}}
+
+====Related terms====
+* {{l|en|ghibli}}
+
+====Translations====
+{{trans-top|direction of praying}}
+* Arabic: {{t+|ar|قِبْلَة|f}}
+* Bashkir: {{t|ba|ҡибла|sc=Cyrl}}
+* Catalan: {{t+|ca|alquibla|f}}
+* Esperanto: {{t|eo|kiblo}}, {{t|eo|Kiblo}}
+* French: {{t+|fr|qibla|f}}, {{t+|fr|kibla|f}}, {{t+|fr|kiblat|f}}, {{t+|fr|kiblet|f}}
+* German: {{t|de|Qibla|f}}
+* Hindi: {{t+|hi|किबला|m}}
+* Indonesian: {{t+|id|kiblat}}
+* Italian: {{t|it|qibla|f}}
+{{trans-mid}}
+* Malay: {{t|ms|kiblat}}
+* Persian: {{t+|fa|قبله|tr=qeble}}
+* Spanish: {{t+|es|alquibla|f}}
+* Swahili: {{t|sw|kibla}}
+* Turkish: {{t+|tr|kıble}}
+* Urdu: {{t|ur|قبلا|tr=qiblā}}
+* Uyghur: {{t|ug|قىبلە}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|mihrab}}
+* {{l|en|salat}}
+
+===Anagrams===
+* {{anagrams|en|a=abilq|Iqbal}}
+
+----
+
+==Maltese==
+
+===Etymology===
+From {{inh|mt|ar|قِبْلة|t=direction of prayer towards Mekka}}. The geographically peculiar use for “south” is also found in some dialects of Maghrebi Arabic.
+
+===Pronunciation===
+* {{IPA|mt|/ʔɪb.la/}}
+
+===Noun===
+{{mt-noun|g=f}}
+
+# {{lb|mt|archaic|or|obsolete}} [[south]]
+#: {{syn|mt|nofsinhar}}
+
+====Coordinate terms====
+* {{list:compass points/mt}}
