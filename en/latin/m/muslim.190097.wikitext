@@ -1,0 +1,187 @@
+{{also|Muslim}}
+==Czech==
+
+===Noun===
+{{cs-noun|g=m}}
+
+# [[Muslim]]
+
+====Declension====
+{{cs-decl-noun
+|muslim|muslima|[[muslimovi]], [[muslimu]]|muslima|muslime|[[muslimovi]], [[muslimu]]|muslimem
+|muslimové|muslimů|muslimům|muslimy|muslimové|muslimech|muslimy
+}}
+
+====Synonyms====
+* {{l|cs|mohamedán}}
+
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+
+[[Category:cs:Islam]]
+
+----
+
+==Danish==
+{{wikipedia|lang=da}}
+
+===Etymology===
+From {{bor|da|ar|مُسْلِم}}, the {{ar-form|IV}} {{ar-active participle|noderived=1|nocat=1}} of the [[triliteral]] root ''[[w:S-L-M|S-L-M]]'' "to be whole, intact".
+
+===Noun===
+{{da-noun|en|er}}
+
+# [[Muslim]]
+
+====Inflection====
+{{da-noun-infl|en|er}}
+
+====Synonyms====
+* {{l|da|muhamedaner}} {{qual|antiquated}}
+* {{l|da|muselmand}} {{qual|also antiquated}}
+
+[[Category:da:Islam]]
+
+----
+
+==Estonian==
+{{wikipedia|lang=et}}
+
+===Noun===
+{{et-noun|muslimi|muslimit}}
+
+# [[Muslim]]
+
+====Declension====
+{{et-decl-õpik|muslim|i}}
+
+====Synonyms====
+* {{l|et|moslem}}
+* {{l|et|muhameedlane}}
+
+[[Category:et:Islam]]
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+From {{der|nb|ar|مُسْلِم|}}
+
+===Pronunciation===
+* {{IPA|nb|/mʉsliːm/|/mʉʂliːm/}}
+* {{rhymes|nb|iːm}}
+
+===Noun===
+{{nb-noun-m1}}
+
+# a [[Muslim]]
+
+====Derived terms====
+* {{l|nb|muslimisme}}
+* {{l|nb|muslimsk}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+[[Category:nb:Religion]]
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology===
+From {{der|nn|ar|مُسْلِم|}}
+
+===Pronunciation===
+* {{IPA|nn|/mʉːsliːm/}}
+* {{rhymes|nn|iːm}}
+
+===Noun===
+{{nn-noun-m1}}
+
+# a [[Muslim]]
+
+====Derived terms====
+* {{l|nn|muslimsk}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+[[Category:nn:Religion]]
+
+----
+
+==Polish==
+
+===Pronunciation===
+* {{pl-IPA}}
+
+===Noun===
+{{pl-noun|m-pr}}
+
+# {{lb|pl|derogatory|ethnic slur}} [[Muslim]]
+
+====Declension====
+{{pl-decl-noun-m-pr|||muslimowie/muslimy}}
+
+====Synonyms====
+* {{sense|non-derogatory}} {{l|pl|muzułmanin}}
+
+{{c|pl|Male people}}
+
+----
+
+==Portuguese==
+
+===Alternative forms===
+* {{alter|pt|mosleme||dated|rare}}
+
+===Etymology===
+Borrowed from {{bor|pt|ar|مُسْلِم}}.
+
+===Noun===
+{{pt-noun|m}}
+
+# {{lb|pt|chiefly|dated}} {{l|en|Muslim}} {{gloss|follower of the Islamic religion}}
+#: {{syn|pt|muçulmano|maometano|islamita}}
+
+===Adjective===
+{{pt-adj|musli|m}}
+
+# {{lb|pt|chiefly|dated}} {{l|en|Muslim}}; {{l|en|Islamic}} {{gloss|relating to the Islamic religion}}
+#: {{syn|pt|muçulmano|maometano|islâmico}}
+
+{{topics|pt|Islam}}
+
+----
+
+==Romanian==
+
+===Noun===
+{{ro-noun|m|muslimi}}
+
+# {{alternative form of|ro|moslim}}
+
+====Declension====
+{{ro-noun-m}}
+
+----
+
+==Swedish==
+{{wikipedia|lang=sv}}
+
+===Pronunciation===
+* {{IPA|sv|/mɵsliːm/}}
+* {{rhymes|sv|iːm|s=2}}
+
+===Noun===
+{{sv-noun|c}}
+
+# [[Muslim]]
+
+====Declension====
+{{sv-infl-noun-c-er}}
+
+[[Category:sv:Religion]]
