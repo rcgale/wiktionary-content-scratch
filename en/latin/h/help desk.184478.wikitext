@@ -1,0 +1,34 @@
+{{also|helpdesk|help-desk}}
+==English==
+
+===Alternative forms===
+* {{l|en|helpdesk}}
+* {{l|en|help-desk}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# A section of an [[organization]] offering [[specialist]] [[advice]] to [[customer]]s or [[user]]s who have [[problem]]s, especially with [[computer]] [[equipment]] or [[systems]].
+
+====Translations====
+{{trans-top|a section of an organization to help customers or users}}
+* Arabic: {{t|ar|دَعْم فَنِّيّ|m}}, {{t|ar|مَكْتَب اَلْمَسَاعَدَة|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|服務台|sc=Hani}}, {{t+|cmn|服务台|tr=fúwùtái|sc=Hani}}, {{t|cmn|問訊台|sc=Hani}}, {{t|cmn|问讯台|tr=wènxùntái|sc=Hani}}
+* Finnish: {{t+|fi|neuvonta}}
+* French: {{t+|fr|centre d'assistance|m}}
+* Georgian: {{t|ka|ტექნიკური დახმარების სამსახური}}, {{t|ka|დახმარების სამსახური}}, {{t|ka|მხარდაჭერის გუნდი}}
+* German: {{t|de|Help-Desk|m|n}}, {{t+|de|Helpdesk|m|n}}
+* Greek: {{t|el|γραφείο πληροφοριών|n}}
+* Hungarian: {{t|hu|ügyfélszolgálat}}, {{t+|hu|vevőszolgálat}}
+{{trans-mid}}
+* Indonesian: {{t|id|pelayanan pelanggan}}
+* Japanese: {{t|ja|ヘルプデスク|tr=herupudesuku}}
+* Malay: {{t|ms|perkhidmatan pelanggan}}
+* Polish: {{t|pl|obsługa klienta|f}}
+* Portuguese: {{t|pt|balcão de informações|m}}
+* Russian: {{t+|ru|техподде́ржка|f}}, {{t|ru|слу́жба техни́ческой подде́ржки|f}}, {{t|ru|спра́вочная слу́жба|f}}
+* Spanish: {{t|es|mesa de ayuda|f}}
+* Turkish: {{t|tr|yardım masası}}, {{t|tr|danışma masası}}
+{{trans-bottom}}
