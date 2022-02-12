@@ -1,0 +1,61 @@
+==English==
+
+===Etymology===
+From {{etyl|fr|en}} {{m|fr|bigoterie}}, from {{m|fr|bigot}}.
+
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈbɪɡ.ə.tɹi/}}
+* {{audio|en|en-us-bigotry.ogg|Audio (US)}}
+
+===Noun===
+{{en-noun|~}}
+
+# Characteristic qualities of a [[bigot]]: (especially [[religious]], [[anti-religious]] or [[racial]]) [[intolerant]] [[prejudice]], [[opinionatedness]], or [[fanaticism]]; fanatic intolerance.
+#* '''1979''', Ted Robert Gurr, ''Violence in America: Protest, Rebellion, Reform'' (page 131)
+#*: The remarkable resilience of the Ku Klux Klan is a sad reminder of the persistence of racial and religious '''bigotry''' in the United States. No terrorist organization can match the Klan's mystique or long history, and few can match its success.
+# {{lb|en|dated}} [[obstinate|Obstinate]] prejudice or opinionatedness.
+
+====Usage notes====
+Bigotry is stronger than {{m|en|prejudice}} or {{m|en|intolerance}}, though it is often confused with these.
+
+====Synonyms====
+* {{l|en|bigotness}}
+
+====Related terms====
+* {{l|en|bigot}}
+:* [[bigoted]]
+
+====Translations====
+{{trans-top|intolerant prejudice, opinionatedness, or fanaticism; fanatic intolerance}}
+* Arabic: {{t-needed|ar}}
+* Azerbaijani: {{t|az|təəssübkeşlik}}, {{t|az|təəssüb}} {{qualifier|archaic}}
+* Catalan: {{t+|ca|fanatisme|m}}, {{t|ca|intolerància|f}}, {{t|ca|falsa beateria|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|偏見}}, {{t+|cmn|偏见|tr=piānjiàn}}, {{t+|cmn|偏執}}, {{t+|cmn|偏执|tr=piānzhí}}
+* Czech: {{t|cs|úzkoprsost|f}}, {{t|cs|omezenost|f}}, {{t|cs|nesnášenlivost|f}}
+* Dutch: {{t|nl|bigotterie|f}}, {{t|nl|kwezelarij|f}}, {{t+|nl|fanatisme|n}}
+* Finnish: {{t|fi|[[suvaitsematon]] [[ennakkoluuloisuus]]}}, {{t|fi|[[suvaitsematon]] [[dogmaattisuus]]}}, {{t|fi|[[suvaitsematon]] [[kiihkoilu]]}}, {{t+|fi|fanaattisuus}}, {{t|fi|[[kiihkoileva]] [[suvaitsemattomuus]]}}
+* French: {{t+|fr|bigoterie|f}}
+* Georgian: {{t|ka|ფანატიზმი}}
+* German: {{t+|de|Bigotterie|f}}
+* Greek: {{t+|el|μισαλλοδοξία|f}}
+{{trans-mid}}
+* Korean: {{t|ko|편협한 신앙}}
+* Norwegian: {{t|no|trangsynthet}}
+* Portuguese: {{t+|pt|preconceito|m}}, {{t+|pt|fanatismo|m}}
+* Russian: {{t+|ru|фанати́зм|m}}, {{t+|ru|нетерпи́мость|f}}, {{t+|ru|ха́нжество|n}} {{qualifier|sanctimony}}, {{t+|ru|мракобе́сие|n}} {{qualifier|obscurantism}}
+* Scottish Gaelic: {{t|gd|dalm-bheachd|m}}
+* Serbo-Croatian: {{t+|sh|bigotnost|f}}, {{t+|sh|bigoterija|f}}
+*: Cyrillic: {{t|sh|мрачњаштво|n}}
+*: Roman: {{t+|sh|mračnjaštvo|n}}
+* Spanish: {{t+|es|discriminación|f}}
+* Swedish: {{t+|sv|bigotteri|n}}
+* Turkish: {{t+|tr|bağnazlık}}
+{{trans-bottom}}
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+[[Category:en:Forms of discrimination]]
