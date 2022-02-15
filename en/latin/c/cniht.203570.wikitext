@@ -1,0 +1,41 @@
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{tlb|enm|Early ME}} {{alt form|enm|knyght}}
+
+----
+
+==Old English==
+
+===Alternative forms===
+* {{alter|ang|cneoht|cnyht|cneht|cnieht}}
+
+===Etymology===
+From {{inh|ang|gmw-pro|*kneht}}.
+
+===Pronunciation===
+* {{ang-IPA|cniht}}
+
+===Noun===
+{{ang-noun|m}}
+
+# [[boy]]
+# (male) [[servant]], [[attendant]]
+# male of high military rank, ranking below a [[baron]], usually previously having worked as a [[page]] or [[squire]]
+
+====Declension====
+{{ang-decl-noun-a-m|cniht|cneoht}}
+
+====Antonyms====
+* {{l|ang|mæġden}}
+
+====Derived terms====
+{{der2|ang|cnihthād|cnihtlīċ|cnihtwesende|incniht|leornungcniht}}
+
+====Descendants====
+* {{desctree|enm|knyght|noalts=1}}
+
+{{topics|ang|Military}}
+{{topics|ang|People}}
