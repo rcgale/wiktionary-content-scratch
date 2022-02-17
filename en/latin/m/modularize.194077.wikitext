@@ -1,0 +1,24 @@
+==English==
+
+===Alternative forms===
+* {{l|en|modularise}}
+
+===Etymology===
+{{suffix|en|modular|ize}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|transitive}} To make [[modular]].
+
+====Related terms====
+* {{l|en|module}}
+* {{l|en|modular}}
+* {{l|en|modularized}}
+
+====Translations====
+{{trans-top}}
+* French: {{t+|fr|modulariser}}
+{{trans-mid}}
+* German: {{t|de|modularisieren}}
+{{trans-bottom}}
