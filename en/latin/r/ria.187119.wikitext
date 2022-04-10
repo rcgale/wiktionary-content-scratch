@@ -1,0 +1,187 @@
+{{also|RIA|Ria|ría|rĩa|rià}}
+==English==
+[[File:PortHacking-Sydney-Ria.jpg|thumb|{{w|Georges River}} '''ria''']]
+{{wikipedia}}
+
+===Etymology===
+From {{der|en|gl|ría}}, from {{m|gl|río||river}}, from {{der|en|la|-}}.
+
+===Noun===
+{{en-noun}}
+
+# A [[submergent]] [[coastal]] [[landform]], often known as a [[drowned]] [[river]] [[valley]]
+
+====Translations====
+{{trans-top|a coastal inlet formed by the partial submergence of an unglaciated river valley}}
+* Breton: {{t+|br|aber|m|f}}
+* Finnish: {{t+|fi|rias}}
+{{trans-mid}}
+* French: {{t+|fr|aber|m}}, {{t+|fr|ria|f}}
+* Spanish: {{t+|es|ría|f}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=air|'air|ARI|Ari|IAR|IRA|Ira|Rai|air|rai|raï}}
+
+[[Category:en:Landforms]]
+
+----
+
+==Esperanto==
+
+===Etymology===
+{{suffix|eo|ri|a}}
+
+===Pronunciation===
+* {{audio|eo|LL-Q143 (epo)-Robin van der Vliet-ria.wav|Audio}}
+{{eo-IPA}}
+
+===Determiner===
+{{eo-det}}
+
+# {{lb|eo|possessive|neologism|proscribed}} [[their]] {{qualifier|singular}}
+
+----
+
+==French==
+
+===Etymology===
+From {{der|fr|gl|-}}
+
+===Pronunciation===
+* {{audio|fr|LL-Q150 (fra)-0x010C-ria.wav|Audio}}
+
+===Noun===
+{{fr-noun|f}}
+
+# {{l|en|ria}}
+
+====Synonyms====
+* {{l|fr|aber}}
+
+===Further reading===
+* {{R:TLFi}}
+
+[[Category:fr:Landforms]]
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form|g=f}}
+
+# {{feminine singular of|it|rio}}
+
+===Anagrams===
+* {{anagrams|it|a=air|-ari|-irà|Ari|RAI|Rai|ari|ira|rai}}
+
+----
+
+==Portuguese==
+{{slim-wikipedia|lang=pt}}
+
+===Pronunciation===
+* {{a|PT|Brazil}} {{IPA|pt|/ˈʁi.ɐ/}}
+* {{hyphenation|pt|ri|a}}
+
+===Etymology 1===
+Alteration of {{m|pt|rio||river}}, or borrowed from {{bor|pt|es|ría}}.
+
+====Noun====
+{{pt-noun|f|s}}
+
+# {{lb|pt|hydrography}} {{l|en|ria}} {{gloss|rugged coastal inlet}}
+# {{lb|pt|hydrography}} {{l|en|branch}}; {{l|en|inlet}} {{gloss|body of water extending from or flowing into a larger one}}
+
+===Etymology 2===
+
+====Verb====
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|rir|a}}
+# {{pt-verb-form-of|rir|ia}}
+
+----
+
+==Swedish==
+
+===Etymology===
+Probably from {{der|sv|fi|riihi||kiln, grain drying cabin}}.
+
+===Noun===
+{{sv-noun|c}}
+
+# a [[dryer]], a [[kiln]] to dry [[corn]]; a traditional Finnish/Scandinavian wooden [[building]] used for indoor drying of [[corn]]
+
+====Declension====
+{{sv-infl-noun-c-or|ri}}
+
+===Verb===
+{{sv-verb-reg}}
+
+# to [[dry]] [[corn]] in a [[kiln]]
+#: {{ux|sv|Den finska rågen stod högt i anseende till utsäde, beroende på att den fick stå ute att eftermogna i skyl, innan den '''riades''', under det att den svenska vanligen '''riades''' omedelbart efter skärningen.|The Finnish rye was highly regarded as seedcorn because it was left outdoors to ripen in ricks before being taken to be '''dried''', while the Swedish rye was usually '''dried''' immediately after harvest.}}
+
+====Conjugation====
+{{sv-conj-wk}}
+
+----
+
+==Ternate==
+
+===Pronunciation===
+* {{IPA|tft|[ˈɾi.a]}}
+
+===Verb===
+{{tft-verb}}
+
+# {{lb|tft|transitive}} to [[admonish]]
+
+====Conjugation====
+{{tft-conj}}
+
+===References===
+* {{R:tft:Hayami-Allen:2001}}
+
+----
+
+==Vietnamese==
+
+===Pronunciation===
+{{vi-IPA}}
+
+===Noun===
+{{vi-noun|cls=bộ|[[挗]], [[髭]], [[𣭯]], [[𩮭]]}}
+
+# a {{l|en|mustache}}
+
+===See also===
+* {{vi-l|râu}}
+
+{{topics|vi|Face|Hair}}
+
+----
+
+==Woi==
+
+===Noun===
+{{head|wbw|noun}}
+
+# [[blood]]
+
+----
+
+==Yoruba==
+
+===Alternative forms===
+*{{l|yo|ra}}
+
+===Pronunciation===
+*{{yo-IPA|ría}}
+
+===Determiner===
+{{yo-pos|determiner|ria}}
+# {{lb|yo|Èkìtì}} [[our]], [[ours]], [[us]]
+#: {{syn|yo|tìwa}}
+[[Category:Ekiti Yoruba]]
