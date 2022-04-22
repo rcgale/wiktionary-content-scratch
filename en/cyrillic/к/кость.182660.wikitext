@@ -1,0 +1,82 @@
+==Old Church Slavonic==
+
+===Alternative forms===
+* Glagolitic: {{l|cu|sc=Glag|ⰽⱁⱄⱅⱐ}}
+
+===Etymology===
+From {{inh|cu|sla-pro|*kostь}}, from {{der|cu|ine-pro|*kost-}}, compare {{m|ine-pro|*h₃ost-}}.
+
+===Noun===
+{{cu-noun|f}}
+
+# [[bone]]
+
+====Declension====
+{{cu-decl-noun-i-f|кост}}
+
+[[Category:cu:Skeleton]]
+
+----
+
+==Old East Slavic==
+
+===Etymology===
+From {{inh|orv|sla-pro|*kostь}}, from {{der|orv|ine-pro|*kost-}}, compare {{m|ine-pro|*h₃ost-}}.
+
+===Pronunciation===
+* {{a|Early East Slavic}} {{IPA|orv|/ˈkosʲtʲɪ/}}
+** {{hyph|orv|ко|сть}}
+* {{a|Late East Slavic}} {{IPA|orv|/ˈkosʲtʲ/}}
+** {{hyph|orv|кость}}
+
+===Noun===
+{{orv-noun|f}}
+
+#[[bone]]
+
+====Declension====
+{{cu-decl-noun-i-f|кост}}
+
+====Descendants====
+* {{desc|be|косць}}
+* {{desc|ru|кость}}
+* {{desc|rue|кість}}
+* {{desc|uk|кість}}
+
+===References===
+* {{R:orv:Sreznevsky|кость|1297|1}}
+
+----
+
+==Russian==
+
+===Etymology===
+{{inh+|ru|orv|кость}}, from {{inh|ru|sla-pro|*kostь}}, from {{inh|ru|ine-pro|*kost-}}, compare {{m|ine-pro|*h₃ost-}}. Compare {{cog|en|coast}} and {{cog|en|costa||rib-like structure}}.
+
+===Pronunciation===
+* {{ru-IPA}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
+
+===Noun===
+{{ru-noun+|e||f|loc=+|ins_pl=костя́ми,костьми́*|notes=<nowiki>*</nowiki> Antiquated, used only in a few set phrases|adj=ко́стный|adj2=костяно́й|dim=ко́сточка|dim2=костя́шка}}
+
+# [[bone]]
+#: {{uxi|ru|[[локтевой|локтева́я]] '''кость'''|[[funny bone]], [[ulna]]}}
+#: {{uxi|ru|[[перело́м]] ко́сти|bone [[fracture]]}}
+#: {{uxi|ru|[[рыбий|ры́бья]] '''кость'''|fish bone}}
+# {{lb|ru|games}} [[die]]
+#: {{uxi|ru|[[игра́ть]] [[в]] ко́сти|to play [[dice]]}}
+
+====Declension====
+{{ru-noun-table|e||f|loc=+|ins_pl=костя́ми,костьми́*|notes=<nowiki>*</nowiki> Antiquated, used only in a few set phrases}}
+{{ru-noun-table|old=1|e||f|loc=+|ins_pl=костя́ми,костьми́}}
+
+====Derived terms====
+* {{l|ru|бе́лая кость}}
+* {{l|ru|костопра́в}}
+* {{l|ru|костя́нка}}
+* {{l|ru|лечь костьми́}}
+* {{l|ru|костяно́й}}
+* {{l|ru|кости́стый}}
+
+{{topics|ru|Skeleton}}
