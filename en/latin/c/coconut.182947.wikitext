@@ -1,0 +1,317 @@
+==English==
+[[Image:Beached coconut.JPG|thumb|200px|Beached '''coconut'''.]]
+[[Image:Coconut.png|thumb|200px|[[Ivory Coast|Ivorian]] '''coconut'''.]]
+
+===Alternative forms===
+* {{l|en|cocoanut}} {{qual|dated}}
+
+===Etymology===
+From {{compound|en|coco|nut}}.
+
+===Pronunciation===
+* {{a|GenAm}} {{IPA|en|/ˈkoʊ.kə.nʌt/|[ˈkʰoʊ̯.kə.nʌt]}}
+* {{a|RP}} {{IPA|en|/ˈkəʊ.kə.nʌt/|[ˈkʰəʉ̯.kə.nʌt]}}
+* {{audio|en|En-au-coconut.ogg|Audio (AU)}}
+* {{rhymes|en|ʌt|s=3}}
+
+===Noun===
+{{en-noun|~}}
+
+# A [[fruit]] of the [[coconut palm]] (not a true nut), ''[[Cocos nucifera]]'', having a [[fibrous]] [[husk]] surrounding a large [[seed]].
+#* {{quote-book|en|author=William Dampier|authorlink=William Dampier|chapter=X|title=A New Voyage Round the World.{{nb...|Describing Particularly, the Isthmus of America, Several Coasts and Islands in the West Indies, the Isles of Cape Verd, the Passage by Terra del Fuego, the South Sea Coasts of Chili, Peru, and Mexico; the Isle of Guam One of the Ladrones, Mindanao, and other Philippine and East India Islands, near Cambodia, China, Formosa, Luconia, Celebes, &c. New Holland, Sumatra, Nicobar Isles; the Cape of Good Hope, and Santa Hellena. Their Soil, Rivers, Harbours, Plants, Fruits, Animals, and Inhabitants. Their Customs, Religion, Government, Trade, &c.}}|edition=4th corrected|location=|London|publisher=Printed for James Knapton,{{nb...|at the Crown in St Pauls Church-yard.}}|year=1699|volume=I|page=291|pageurl=https://archive.org/details/newvoyageroundwo01damp/page/290/|oclc=1049891899|passage=The '''Coco-nut''' Trees grow by the Sea, on the Weſtern ſide in great Groves, 3 or 4 Miles in length, and a Mile or two broad. This tree is in ſhape like the Cabbage-tree, and at a diſtance they are not to be known each from other, only the '''Coco-nut''' Tree is fuller of Branches ; but the Cabbage-tree generally is much higher, tho' the '''Coco-nut''' Trees in ſome places are very high.}}
+# A hard-shelled [[seed]] of this fruit, having white flesh and a [[fluid]]-filled central [[cavity]].
+# {{lb|en|uncountable}} The [[edible]] white flesh of this fruit.
+# The [[coconut palm]].
+# {{lb|en|pejorative|ethnic slur}} A [[Hispanic]] or dark-skinned person who acts “white” ([[Caucasian]]), [[allude|alluding]] to the fact that a coconut is brown on the outside and white on the inside.
+#* {{quote-book|en|last=Rodriguez|first=Richard|authorlink=Richard Rodriguez|chapter=Profession|title=[[w:Hunger of Memory|Hunger of Memory: The Education of Richard Rodriguez]]|url=https://archive.org/details/hungerofmemory00rich|city=[[w:Boston|Boston]]|publisher=[[w:David R. Godine, Publisher|David R. Godine, Publisher]]|year=1982|oclc=741720494|isbn=0879234180|lccn=81081810|page=162|passage=After that I was regarded as comic. I became a ‘'''coconut'''’—someone brown on the outside, white on the inside.  I was the bleached academic—more white than the ''[[anglo]]'' professors. In my classes several students glared at me, clearly seeing in me the person they feared ever becoming.  Who was I, after all, but some comic [[Queequeg]], holding close to my breast a [[reliquary]] containing the white powder of a dead European civilization?}}
+# {{lb|en|South Africa|Australia|pejorative}} A [[black]] person who thinks or acts "white" (European).
+#* {{quote-av|en|date=8 June 2016|episode=Containment|title=Cleverman|number=2|role=Waruu West [speaking to half-brother Koen West]|passage=Your mum is a white whore, you '''coconut'''.}}
+# {{lb|en|New Zealand|pejorative}} A [[Pacific]] [[islander]].
+# {{lb|en|slang}} A female [[breast]].
+# {{lb|en|slang}} The [[human]] [[head]].
+#* '''2007''', ''{{w|Marvel Zombies vs. Army of Darkness}}'' #2, page 19
+#*: [''Ashley J. Williams shoots a zombified version of the Winter Soldier in the head.'']
+#*: Dazzler: Oh my God...thank you! I-i-is he--
+#*: Ashley J. Williams: A double-barrel boomstick blast straight through the '''coconut'''? Trust me, babe--he's not comin' back from that one.
+
+====Coordinate terms====
+* {{sense|acting white}} {{l|en|banana}}, {{l|en|Oreo}}, {{l|en|Twinkie}}
+
+====Derived terms====
+{{der4|en|coconutty| coconut milk| coconut water| coconut oil| coconut butter| creamed coconut| [[coconut palm]] (''{{ll|mul|Cocos nucifera}}'')| coconut vinegar| coconut apple| coconut embryo| sprouted coconut| coconut cotyledon| coconut sprout| coconut sap| coconut wine| coconut jelly| jelly coconut| [[coconut geranium]] ({{taxlink|Pelargonium grossularioides|species}} et al.)| [[coconut crab]] (''{{ll|mul|Birgus latro}}'')| use one's coconut| double coconut|[[coconut octopus]] ({{taxlink|Amphioctopus marginatus|species|ver=161117}})| desiccated coconut| dried coconut| cream of coconut| coconut cream| coconut extract| coconut kernel| coconut soup| cream of coconut soup| flaked coconut| coconut flake| shredded coconut| coconut heart| coconut pearl| coconut meat| coconut shy| coconut tree (''{{ll|mul|Cocos nucifera}}'')| coconut curd| coconut pudding| dwarf coconut| Golden Malay coconut| Green Malay coconut| Nawassi coconut| dwarf green coconut| dwarf orange coconut| {{vern|forest coconut}} ({{taxlink|Voanioala gerardii|species|ver=211228}})| yellow coconut| dwarf yellow coconut| red coconut| king coconut| macapuno coconut| Maypan coconut| Malayan dwarf coconut| golden Malayan dwarf coconut| Fiji dwarf coconut| coconut roll| green coconut| that accounts for the milk in the coconut| coconut bowl| east coast tall coconut| west coast tall coconut| common tall coconut| coconut shrimp |coconut macaroon| coconut cadang-cadang viroid| coconut tinangaja viroid| coconut money| death by coconut<!--not more SOP than death by cop-->| cocovore}}
+
+====Descendants====
+* {{desc|ja|ココナッツ|tr=kokonattsu|bor=1}}
+
+====Translations====
+{{trans-top|fruit of coco palm}}
+* 'Are'are: {{t|alu|niu}}
+* Acehnese: {{t|ace|u}}
+* Afrikaans: {{t|af|kokosneut}}
+* Aklanon: {{t|akl|niyog}}
+* Albanian: {{t|sq|kokosit}}
+* Anuta: {{t|aud|niu}}
+* Arabic: {{t|ar|جَوْزَةُ اَلْهِنْد|f}}, {{t|ar|نَارْجِيل|f}}, {{t|ar|جَوْز الْهِنْد}}
+*: Moroccan Arabic: {{t|ary|كوك|tr=kūk}}
+*: Dhofari Arabic: {{t|adf|جزيب|tr=gezīb}}
+* Armenian: {{t+|hy|կոկոս|sc=Armn}}, {{t|hy|հնդկական ընկույզ|sc=Armn}}, {{t+|hy|հնդկընկույզ|sc=Armn}}
+* Arosi: {{t|aia|niu}}
+* Assamese: {{t|as|নাৰিকল}} {{q|dry skinned}}, {{t|as|ডাব|tr=dab}} {{q|not dry skinned}}
+* Assyrian Neo-Aramaic: {{t|aii|ܢܲܪܓܝܼܠܵܐ|tr=nārgīla|m}}
+* Asturian: {{t|ast|cocu|m}}
+* Azerbaijani: {{t|az|hind qozu}}
+* Banjarese: {{t|bjn|nyiur}}
+* Basque: {{t|eu|koko}}
+* Belarusian: {{t|be|како́савы арэ́х|m|sc=Cyrl}}, {{t|be|како́с|m|sc=Cyrl}}
+* Bikol Central: {{t+|bcl|niyog}}
+* Brunei Malay: {{t|kxd|piasau}}, {{t|kxd|kelapa}}
+* Bughotu: {{t|bgt|niu}}
+* Bulgarian: {{t|bg|коко́с|m|sc=Cyrl}}, {{t|bg|коко́сов оре́х|m|sc=Cyrl}}
+* Burmese: {{t+|my|အုန်း|sc=Mymr}}
+* Bwanabwana: {{t|tte|niu}}
+* Casiguran Dumagat Agta: {{t|dgc|niyóg}}
+* Catalan: {{t+|ca|coco|m}}
+* Cebuano: {{t|ceb|lubi}}
+* Central Bontoc: {{attention|lbk|check that this is used in Central and not eg Eastern Bontoc}} {{t|lbk|ʔinyug}}
+* Central Melanau: {{t|mel|benyoh}}
+* Chamicuro: {{t|ccc|koko}}
+* Chamorro: {{t|ch|niyok}}
+* Chichewa: {{t|ny|kokonati}}
+* Chinese:
+*: Cantonese: {{t|yue|椰子|tr=je4 zi2}}
+*: Hakka: {{t|hak|椰仔|tr=yà-é}}
+*: Mandarin: {{t+|cmn|椰子|tr=yēzi}}
+*: Min Nan: {{t|nan|椰仔|tr=iâ-á}}, {{t+|nan|椰子|tr=iâ-chí}}, {{t|nan|鱟薸}}, {{t|nan|鲎薸|tr=hǎu-phiô}} {{qualifier|Lugang}}
+* Cree: {{t|cr|poskwahwew|sc=Cans}}
+* Crimean Tatar: {{t|crh|İndistan cevizi}}
+* Czech: {{t|cs|kokos|m}}, {{t|cs|kokosový ořech|m}}
+* Dagbani: {{t|dag|kpaakpa}}
+* Danish: {{t+|da|kokosnød|c}}
+* Dhivehi: {{t|dv|ކުރުނބާ|sc=Thaa}}
+* Dupaningan Agta: {{t|duo|niyóg}}
+* Dutch: {{t+|nl|kokosnoot|f}}
+* Dzongkha: {{t|dz|བེ་ཏ}}
+* East Futuna: {{t|fud|niu}}
+* Esperanto: {{t|eo|kokoso}}, {{t|eo|kokosnukso}}
+* Estonian: {{t+|et|kookospähkel}}
+* Faroese: {{t|fo|kokusnøt|f}}
+* Fijian: {{t+|fj|niu}}
+* Finnish: {{t+|fi|kookospähkinä}}
+* French: {{t+|fr|noix de coco|f}}
+* Gedaged: {{t|gdd|niu}}
+* Gela: {{t|nlg|niu}}
+* Georgian: {{t|ka|ქოქოსი|sc=Geor}}
+* German: {{t+|de|Kokosnuss|f}}
+* Gilbertese: {{t|gil|uaa ni}}
+* Greek: {{t+|el|καρύδα|f}}
+* Greenlandic: {{t|kl|qaqqortariarsuaq}}
+* Hanunoo: {{t|hnn|niyúg}}
+* Haitian Creole: {{t|ht|kokoye}}, {{t|ht|kòk}}
+* Hawaiian: {{t|haw|niu}}
+* Hebrew: {{t+|he|קוקוס|m|tr=kokus|sc=Hebr}}
+* Hiligaynon: {{t|hil|niyúg}}
+* Hindi: {{t+|hi|नारिकेल}}
+* Hungarian: {{t+|hu|kókusz}}
+* Hunsrik: {{t|hrx|Kokes|n}}
+* Icelandic: {{t+|is|kókoshneta|f}}
+* Ida'an: {{t|dbj|niug}}
+* Ido: {{t+|io|kokoso}}
+* Ilocano: {{t|ilo|nióg}}
+* Indonesian: {{t+|id|kelapa}}, {{t+|id|nyiur}}
+* Italian: {{t+|it|noce di cocco|f}}
+* Ivatan: {{t|ivv|niyoy}}
+* Japanese: {{t+|ja|ココナッツ|tr=kokonattsu}}, {{t|ja|椰子の実|tr=やしのみ, yashi no mi}}
+* Javanese: {{t|jv|klapa}}, {{t|jv|krambil}}, {{t|jv|kambil}}
+* Jingpho: {{t|kac|mă-un}}
+* Kairiru: {{t|kxa|niu}}
+* Kannada: {{t+|kn|ತೆಂಗು|sc=Knda}}, {{t+|kn|ತೆಂಗಿನಕಾಯಿ|sc=Knda}}, {{t+|kn|ನಾರಿಕೇಳ|sc=Knda}}
+* Kapampangan: {{t|pam|ngungut}}
+* Kapingamarangi: {{t|kpg|niu}}
+* Kelabit: {{t|kzi|butan}}
+* Khmer: {{t+|km|ដូង}}
+* Kilivila: {{t|kij|nuya}}
+* Korean: {{t+|ko|코코넛}}
+* Kumyk: {{t|kum|гьинд къоз}}
+* Kuna: {{t|cuk|ogup}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|گوێزی ھیندی}}
+* Kwaio: {{t|kwd|niu}}
+* Lao: {{t|lo|ນາລິກາ}}, {{t|lo|ພ້າວ}}, {{t+|lo|ໝາກພ້າວ}}
+{{trans-mid}}
+* Lithuanian: {{t|lt|kokosas}}
+* Low German: {{t|nds|Kokosnööt|f}}
+* Lun Bawang: {{t|lnd|fiasau}}
+* Lusi: {{t|khl|niu}}
+* Luxembourgish: {{t|lb|Kokosnoss|f}}
+* Macedonian: {{t|mk|ко́кос|m|sc=Cyrl}}, {{t|mk|ко́косов о́рев|m|sc=Cyrl}}
+* Malagasy: {{t+|mg|voaniho}}
+* Malay: {{t+|ms|kelapa}}, {{t+|ms|nyiur}}, {{t|ms|kerambil}}, {{t|ms|kelambir}}
+* Malayalam: {{t+|ml|തെങ്ങ്|sc=Mlym}}
+* Maltese: {{t|mt|kokonat}}, {{t|mt|ġewża ta' l-Indi}}
+* Manam: {{t|mva|niu}}
+* Mansaka: {{t|msk|iyog}}
+* Manx: {{t|gv|cro bainney|m}}
+* Maori: {{t|mi|kokonati}}, {{t|mi|niu}}
+* Mapun: {{t|sjm|niyug}}
+* Maranao: {{t|mrw|niog}}
+* Marshallese: {{t|mh|ni}}
+* Mbula: {{t|mna|ni}}
+* Minangkabau: {{t+|min|karambia}}, {{t+|min|kalapo}}
+* Mokilese: {{t|mkj|ni}}
+* Mon: {{t+|mnw|သတ်ဗြဴ}}
+* Mongolian: {{t+|mn|наргил|sc=Cyrl}}, {{t+|mn|бэт}}
+* Motu: {{t|meu|niu}}
+* Navajo: {{t|nv|mágí bichʼiyąʼ}}
+* Niuean: {{t|niu|niu}}
+* Norman: {{t|nrf|cocannette|f}}
+* Norwegian:
+*: Bokmål: {{t|nb|kokosnøtt|m|f}}
+*: Nynorsk: {{t|nn|kokosnøtt|f}}
+* Ojibwe: {{t|oj|gichi-mitigwaabaagomin}}
+* Old Javanese: {{t|kaw|kalapa}}
+* Palauan: {{t|pau|lius}}
+* Palawan Batak: {{t|bya|niyóg}}
+* Pali: {{t|pi|nāḷikeraphala|n}}
+* Pangasinan: {{t|pag|nióg}}
+* Persian: {{t+|fa|نارگیل|tr=nârgêl|sc=fa-Arab}}
+* Pohnpeian: {{t|pon|nih}}
+* Polish: {{t+|pl|kokos|m}}, {{t|pl|orzech kokosowy|m}}
+* Portuguese: {{t+|pt|coco|m}}
+* Pukapukan: {{t|pkp|niu}}
+* Rapa Nui: {{t|rap|niu}}
+* Rennellese: {{t|mnv|niu}}
+* Romanian: {{t+|ro|nucă de cocos|f}}
+* Romansch: {{t|rm|nusch da cocos|m}}, {{t|rm|nusch cocos|m}}, {{t|rm|cocos}}, {{t|rm|nousch da cocos|m}}
+* Rotuman: {{t|rtm|niu}}
+* Russian: {{t+|ru|коко́с|m}}, {{t+|ru|коко́совый оре́х|m}}
+* Sa: {{t-needed|sax}}
+* Sa'a: {{t|apb|niu}}
+* Samoan: {{t+|sm|niu}}
+* Sanskrit: {{t+|sa|खानोदक}}
+* Sebop: {{t|sib|bunyo}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|кокос|m|sc=Cyrl}}, {{t|sh|кокосов орах|m|sc=Cyrl}}
+*: Roman: {{t+|sh|kokos|m}}, {{t|sh|kokosov orah|m}}
+* Shan: {{t+|shn|ဢုၼ်}}, {{t+|shn|မၢၵ်ႇဢုၼ်}}
+* Sinhalese: {{t+|si|පොල්|sc=Sinh}}
+* Slovak: {{t|sk|kokos|m}}, {{t|sk|kokosový orech|m}}
+* Slovene: {{t|sl|kokosov oreh|m}}, {{t+|sl|kokos|m}}
+* Somali: {{t|so|qumbe|n}}, {{t|so|qumbaha|p}}, {{t|so|qumbe}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|kokosowy wórjech|m}}
+*: Upper Sorbian: {{t|hsb|kokosowy worjech|m}}
+* Spanish: {{t+|es|coco|m}}
+* Sundanese: {{t+|su|kalapa}}
+* Swahili: {{t+|sw|nazi}}, {{t|sw|dafu}}
+* Swedish: {{t+|sv|kokosnöt|c}}
+* Sylheti: {{t|syl|ꠘꠣꠁꠇꠟ}}
+* Tagal Murut: {{t|mvv|piasau}}, {{t|mvv|nizuw}}
+* Tagalog: {{t|tl|niyog}}
+* Tahitian: {{t|ty|niu}}
+* Tajik: {{t|tg|норҷил}}, {{t|tg|норьил}}
+* Tamil: {{t+|ta|தேங்காய்}}
+* Tausug: {{t|tsg|niyug}}
+* Telugu: {{t+|te|కొబ్బరి|sc=Telu}}
+* Tetum: {{t|tet|nuu}}, {{t|tet|fuan|alt=nuu-fuan}}
+* Thai: {{t+|th|มะพร้าว}}
+* Tigrinya: {{t|ti|ኮኮናት}}
+* To'abaita: {{t|mlu|niu}}
+* Tombonuo: {{t|txa|niuw}}
+* Tongan: {{t|to|niu}}
+* Turkish: {{t+|tr|Hindistan cevizi}}
+* Tuvaluan: {{t|tvl|niu}}
+* Ukrainian: {{t|uk|коко́с|m|sc=Cyrl}}, {{t|uk|коко́совий горі́х|m|sc=Cyrl}}
+* Vietnamese: ({{l|vi|trái}} / {{l|vi|quả}}) {{t+|vi|dừa}}
+* Volapük: {{t+|vo|kokot}}
+* Waray-Waray: {{t|war|lubí}}
+* Welsh: {{t+|cy|cneuen goco|f}}
+* West Coast Bajau: {{t|bdr|soka'}}
+* Woleaian: {{t|woe|liu}}
+* Wolof: {{t+|wo|koko}}
+* Yapese: {{t|yap|niiw}}
+* Yiddish: {{t|yi|קאָקאָסנוט|m|tr=kokosnut}}
+* Yoruba: {{t|yo|àgbọn}}
+{{trans-bottom}}
+
+{{trans-top|shelled seed}}
+* Armenian: {{t+|hy|կոկոս|sc=Armn}}, {{t|hy|հնդկական ընկույզ|sc=Armn}}, {{t+|hy|հնդկընկույզ|sc=Armn}}
+* Basque: {{t|eu|koko}}
+* Bikol Central: {{t+|bcl|niyog}}
+* Bulgarian: {{t|bg|коко́с|m|sc=Cyrl}}, {{t|bg|коко́сов оре́х|m|sc=Cyrl}}
+* Chamicuro: {{t|ccc|koko}}
+* Chinese:
+*: Mandarin: {{t|cmn|椰種|sc=Hani}}, {{t|cmn|椰种|tr=yēzhǒng|sc=Hani}}
+* Danish: {{t+|da|kokosnød|c}}
+* Esperanto: {{t|eo|kokoso}}
+* Finnish: {{t+|fi|kookospähkinä}}
+* Georgian: {{t|ka|ქოქოსი|sc=Geor}}
+* Indonesian: {{t+|id|kelapa}}
+* Javanese: {{t|jv|krambil}}, {{t|jv|klapa}}
+* Kannada: {{t+|kn|ತೆಂಗು|sc=Knda}}, {{t+|kn|ತೆಂಗಿನಕಾಯಿ|sc=Knda}}, {{t+|kn|ನಾರಿಕೇಳ|sc=Knda}}
+* Khmer: {{t+|km|ដូង}}
+* Korean: {{t+|ko|코코넛}}
+{{trans-mid}}
+* Lao: {{t|lo|ກະນານ}}
+* Macedonian: {{t|mk|ко́кос|m|sc=Cyrl}}, {{t|mk|ко́косов о́рев|m|sc=Cyrl}}
+* Manx: {{t|gv|cro bainney|m}}
+* Persian: {{t+|fa|نارگیل|tr=nârgil|sc=fa-Arab}}
+* Portuguese: {{t+|pt|coco|m}}
+* Russian: {{t+|ru|коко́с|m}}, {{t+|ru|коко́совый оре́х|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|кокос|m|sc=Cyrl}}, {{t|sh|кокосов орах|m|sc=Cyrl}}
+*: Roman: {{t+|sh|kokos|m}}, {{t|sh|kokosov orah|m}}
+* Swedish: {{t+|sv|kokosnöt|c}}
+* Thai: {{t+|th|มะพร้าว}}
+* Ukrainian: {{t|uk|коко́с|m|sc=Cyrl}}, {{t|uk|коко́совий горі́х|m|sc=Cyrl}}
+* Vietnamese: ({{l|vi|sọ}}) {{t+|vi|dừa}}
+* Welsh: {{t+|cy|cneuen goco|f}}
+{{trans-bottom}}
+
+{{trans-top|edible flesh of coconut fruit}}
+* Afrikaans: {{t|af|klapper}}
+* Armenian: {{t+|hy|կոկոս|sc=Armn}}
+* Basque: {{t|eu|koko}}
+* Bikol Central: {{t+|bcl|niyog}}
+* Bulgarian: {{t|bg|коко́с|m|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[椰子]][[肉]]|tr=yēziròu}}
+* Danish: {{t|da|kokos|c}}
+* Dutch: {{t+|nl|kokos}}
+* Esperanto: {{t|eo|kokoso}}
+* Finnish: {{t+|fi|kopra}}, {{t+|fi|kookospähkinä}}
+* Greek: {{t|el|ινδική καρύδα|f}}
+* Kannada: {{t+|kn|ತೆಂಗಿನಕಾಯಿ|sc=Knda}}, {{t+|kn|ನಾರಿಕೇಳ|sc=Knda}}
+* Macedonian: {{t|mk|ко́кос|m|sc=Cyrl}}
+* Manx: {{t|gv|cro bainney|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|kokos|m}}
+*: Nynorsk: {{t|nn|kokos|m}}
+{{trans-mid}}
+* Persian: {{t+|fa|نارگیل|tr=nârgil|sc=fa-Arab}}
+* Portuguese: {{t+|pt|coco|m}}
+* Russian: {{t+|ru|коко́с|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|кокос|m|sc=Cyrl}}
+*: Roman: {{t+|sh|kokos|m}}
+* Swedish: {{t+|sv|kokos}}
+* Thai: {{t|th|เนื้อมะพร้าว}}
+* Ukrainian: {{t|uk|коко́с|m|sc=Cyrl}}
+* Vietnamese: {{l|vi|cơm}} {{t+|vi|dừa}}
+* Welsh: {{t+|cy|cnau coco|p}}
+{{trans-bottom}}
+
+{{trans-see|coconut palm}}
+
+{{checktrans-top}}
+* Kuna: {{t-check|cuk|okob}}, {{t-check|cuk|ogob}}
+{{trans-mid}}
+* Southern Thai: {{t-check|sou|พร้าว}}
+{{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
+
+[[Category:en:Culture]]
+[[Category:en:Fruits]]
+[[Category:en:Nuts]]
+[[Category:en:Palm trees]]
