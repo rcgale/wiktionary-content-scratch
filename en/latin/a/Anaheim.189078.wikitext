@@ -1,0 +1,41 @@
+{{also|anaheim}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+Borrowed from {{bor|en|de|Anaheim}}, literally "Home of Ana". Likely a reference to the local Santa Ana River.
+
+===Pronunciation===
+* {{IPA|en|/ˈænəhaɪm/}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{place|en|city|co/Orange County|in southern|s/California|c/USA}}; the home of [[w:Disneyland|Disneyland]].
+
+====Translations====
+{{trans-top|city in Orange County}}
+* Chinese:
+*: Mandarin: {{t+|cmn|安那翰|tr=Ānnàhàn|sc=Hani}}, {{t|cmn|安納海姆|sc=Hani}}, {{t|cmn|安纳海姆|tr=Ānnàhǎimǔ|sc=Hani}}
+* Finnish: {{t|fi|Anaheim}}
+{{trans-mid}}
+* Portuguese: {{t|pt|Anaheim|f}}
+* Turkish: {{t|tr|Anaheim}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A [[cultivar]] of the [[green]] or [[red]] [[pepper]], ''[[Capsicum annuum]]'', having long, tapering [[fruit]].
+
+[[Category:en:Peppers]]
+[[Category:en:Spices and herbs]]
+
+----
+
+==Portuguese==
+
+===Proper noun===
+{{pt-proper noun|f}}
+
+# {{place|pt|city|s/California|c/United States|t1=Anaheim}}
