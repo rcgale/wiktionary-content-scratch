@@ -1,0 +1,142 @@
+{{also|jantár}}
+==Czech==
+
+===Etymology===
+Borrowed from {{bor|cs|ru|янта́рь}}.
+
+===Noun===
+{{cs-noun|g=m}}
+
+# [[amber]]
+
+====Derived terms====
+* {{l|cs|jantarový}}
+
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+
+----
+
+==Galician==
+
+===Noun===
+{{gl-noun|m|es}}
+# {{alternative form of|gl|xantar}}
+
+===Verb===
+{{gl-verb|jant|ar}}
+# {{alternative form of|gl|xantar}}
+
+====References====
+1. https://estraviz.org/jantar
+
+----
+
+==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+From {{der|pl|lt|gintàras}},<ref>{{R:pl:Bruckner|entry=bursztyn}}</ref> possibly via {{bor|pl|ru|янтарь}}.
+
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Poemat-jantar.wav}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# [[amber]] {{gl|fossil resin}}
+#: {{syn|pl|bursztyn}}
+#: ''Szedł do rozkopujących ławice piaskowe i brodzących wśród mielizn, żeby na bryłę bladego '''jantaru''' natrafić.''
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+{{col3|pl|title=adjective|jantarowy}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{C|pl|Minerals}}
+
+----
+
+==Portuguese==
+{{wikipedia|lang=pt}}
+
+===Etymology===
+From {{der|pt|roa-opt|jantar}}, {{m|roa-opt|jentar||lunch, to have lunch}}, from {{der|pt|VL.|*ianto|*iantāre|to eat lunch}}, from {{der|pt|la|ientāre}}, present active infinitive of {{m|la|ientō||I breakfast}}. See {{m|la|iēntāculum||the first meal of the day}}.
+
+===Pronunciation===
+{{pt-IPA}}
+* {{hyphenation|pt|jan|tar}}
+
+===Noun===
+{{pt-noun|m|es}}
+
+# [[dinner]] {{gloss|evening meal}}
+
+====Quotations====
+{{seeCites|pt}}
+
+===Verb===
+{{pt-verb|jant|ar}}
+
+# to [[dine]]
+
+====Conjugation====
+{{pt-conj|jant|ar}}
+
+====Quotations====
+{{seeCites|pt}}
+
+{{topics|pt|Meals}}
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+Borrowed from {{bor|sh|ru|янта́рь}}.
+
+===Noun===
+{{sh-noun|g=m|head=jȁntār}}
+
+# [[amber]]
+
+====Declension====
+{{sh-decl-noun
+|jantar|jantari
+|jantara|jantara
+|jantaru|jantarima
+|jantar|jantare
+|jantaru|jantari
+|jantaru|jantarima
+|jantarom|jantarima
+}}
+
+----
+
+==Slovene==
+
+===Etymology===
+Borrowed from {{bor|sl|ru|янта́рь}}.
+
+===Pronunciation===
+* {{sl-IPA|jāntar}}
+
+===Noun===
+{{sl-noun|jāntar|m-in}}
+
+# [[amber]]
+
+====Inflection====
+{{sl-decl-noun-m|jántar|jántarj|n=sg}}
+
+===Further reading===
+* {{R:Fran}}
