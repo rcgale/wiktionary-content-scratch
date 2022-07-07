@@ -1,0 +1,447 @@
+{{also|graaf|Graf|gráf|-graf}}
+==English==
+
+===Pronunciation===
+* {{audio|en|En-au-graf.ogg|Audio (AU)}}
+
+===Etymology 1===
+From {{bor|en|de|Graf||count}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|uncommon|now|_|historical}} A [[German]] or [[Austria]]n [[count]].
+#* '''1843''' February, "Graf de Tropp", in ''Fraser's Magazine for Town and Country'', {{nowrap|volume 27}}, [books.google.com/books?id=9ZUtAAAAYAAJ&pg=PA200 page&nbsp;200]:
+#*: Without ceremony, the '''Graf''', on his entering the drawing-room, seated himself at the [[piano-forte]], and proposed affording his new friends "a leetle example" how music was performed in Hungary.
+
+===Etymology 2===
+Phonetic respelling of {{abbreviation of|en|paragraph|nocap=1}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|journalism|slang}} A [[paragraph]].
+
+===Etymology 3===
+
+====Noun====
+{{en-noun|-}}
+
+# {{short for|en|graffiti}}; {{alt sp|en|graff}}
+#* '''2002''', Janice Rahn, ''Painting Without Permission: Hip-hop Graffiti Subculture'' (page 7)
+#*: For example, a current trend in '''graf''' is to simulate a three-dimensional effect (see Figure 1.2). No one '''graf''' artist is associated with having developed this method.
+#* '''2012''', P. D. Smith, ''City: A Guidebook for the Urban Age'' (page 84)
+#*: Naar had been photographing the 'palimpsest of writings and marks on walls' since 1955 and he says his interest in '''graf''' is 'political, in the Greek sense of engagement with the life of the "polis", or city-state'.
+
+===Anagrams===
+* {{anagrams|en|a=afgr|frag}}
+
+----
+
+==Afrikaans==
+
+===Etymology===
+From {{inh|af|nl|graf}} and {{m|nl|graft}} (see the plural).
+
+===Pronunciation===
+* {{IPA|af|/χraf/}}
+
+===Noun===
+{{af-noun|grafte}}
+
+# [[grave]]
+
+----
+
+==Albanian==
+
+===Alternative forms===
+* {{alter|sq|grah||Standard|Tosk}}
+
+===Verb===
+{{sq-verb|grafa|grafë}}
+
+# {{alt form|sq|from=[[Gheg]]|grah||to incite; bellow, roar; rattle}}<ref>{{R:sq:Orel|head=graf ~ grah|page=121}}</ref>
+
+===References===
+{{reflist}}
+
+----
+
+==Czech==
+[[File:Arbitrary function graph.png|thumb|graf]]
+[[File:Frucht graph.neato.svg|thumb|graf]]
+
+===Etymology===
+{{der|cs|grc|γράφω}}
+
+===Pronunciation===
+* {{cs-IPA}}
+* {{rhymes|cs|af|s=1}}
+
+===Noun===
+{{cs-noun|g=m}}
+
+# [[graph]] {{gloss|mathematical diagram}}
+# {{lb|cs|graph theory}} [[graph]] {{gloss|nodes and edges connecting the nodes}}
+# [[chart]] {{gloss|graphical presentation}}
+
+====Derived terms====
+* {{l|cs|grafový}}
+* {{l|cs|podgraf}}
+* {{l|cs|koláčový graf}}
+* {{l|cs|orientovaný graf}}
+* {{l|cs|neorientovaný graf}}
+* {{l|cs|úplný graf}}
+* {{l|cs|teorie grafů}}
+
+====See also====
+* [[diagram]]
+
+====Related terms====
+{{suffixsee|cs|-graf}}
+{{suffixsee|cs|-grafie}}
+{{rel-top}}
+<!-- from AGr. γράφω -->
+* {{l|cs|-graf}}
+* {{l|cs|-grafie}}
+* {{l|cs|grafický}}
+* {{l|cs|grafik}}
+* {{l|cs|grafika}}
+* {{l|cs|grafikon}}
+* {{l|cs|grafoman}}
+{{rel-bottom}}
+
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+
+----
+
+==Danish==
+
+===Etymology===
+From {{bor|da|en|graph}}
+
+===Noun===
+{{da-noun}}
+
+# [[graph]], visualization of an [[equation]] or a [[function]]
+# {{lb|da|graph theory}} [[graph]]
+
+====Declension====
+{{da-decl|en|er}}
+
+====Derived terms====
+* {{l|da|grafteori}}, {{l|da|grafisk}}
+
+----
+
+==Dutch==
+{{wikipedia|lang=nl}}
+
+===Pronunciation===
+* {{IPA|nl|/ɣrɑf/}}
+* {{rhymes|nl|ɑf|s=1}}
+* {{audio|nl|Nl-graf.ogg|audio}}
+
+===Etymology 1===
+From {{inh|nl|dum|graf}}, from {{inh|nl|odt|*graf}}, from {{inh|nl|gem-pro|*grabą}}, {{m|gem-pro|*grabō||grave, trench, ditch}}.
+
+====Noun====
+{{nl-noun|n|-:ven|grafje}}
+
+# {{l|en|grave}}
+
+=====Derived terms=====
+* {{l|nl|familiegraf}}
+* {{l|nl|grafgift}}
+* {{l|nl|graflucht}}
+* {{l|nl|grafmongool}}
+* {{l|nl|grafsteen}}
+* {{l|nl|graftak}}
+* {{l|nl|massagraf}}
+
+=====Descendants=====
+* {{desc|af|graf}}
+* {{desc|dcr|graf}}
+* {{desc|pap|graf|bor=1}}
+
+=====Related terms=====
+* {{l|nl|graven}}
+
+===Etymology 2===
+From {{der|nl|fr|grave||serious, grave}}. Most likely influenced by Dutch {{m|nl|erg}} which can mean "serious, grave" as well as "very". The alternative form {{m|nl|graaf||very}}, also slang, has the same origin and meaning, but stays closer to the original French pronunciation.
+
+====Adverb====
+{{nl-adv}}
+
+# {{lb|nl|slang|Belgium}} [[very]]
+#: ''Dat is graf duur'' &mdash; That's very expensive
+
+----
+
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# {{lb|fr|slang}} {{clipping of|fr|graffiti}}
+#: ''L'usage du tag et du '''graf''' s'affirme d'autant plus comme un pouvoir de communication tribale constituant un code secret.''
+
+===Further reading===
+* {{R:TLFi}}
+
+----
+
+==Icelandic==
+
+===Noun===
+{{is-noun|n|grafs|gröf}}
+
+# [[graph]], [[chart]]
+
+====Declension====
+{{is-decl-noun-n-s|gr|a|f}}
+
+----
+
+==Irish==
+
+===Etymology===
+Borrowed from {{bor|ga|en|graph}}.
+
+===Noun===
+{{ga-noun|m|graif|graif}}
+
+# [[graph]], [[chart]]
+
+====Declension====
+{{ga-decl-m1|g|raf|raif}}
+* Alternative plural: {{l|ga|grafanna}}
+
+====Derived terms====
+{{der4|ga|{{l|ga|grafach|pos=a|t=graphic(al)}}
+|{{l|ga|grafeolaíocht|g=f|t=graphology}}
+|{{l|ga|grafpháipéar|g=m|t=graph paper}}
+|{{l|ga|graiftheoiric|g=f|t=graph theory}}
+}}
+
+====Related terms====
+* {{l|ga|grafachas|g=m|t=graphism}}
+
+===Verb===
+{{ga-verb|pres=~ann|fut=grafaidh|vn=~adh|pp=grafa}}
+
+# {{lb|ga|ambitransitive|literary}} [[write]]; [[draw]], [[sketch]]
+# {{lb|ga|transitive|math|statistics}} graph, [[plot]], chart
+
+====Conjugation====
+{{ga-conj-1a|g|ra|f|broad}}
+
+===Mutation===
+{{ga-mut}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+
+----
+
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{alternative form of|enm|grave}}
+
+----
+
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+
+===Etymology===
+Borrowed from {{bor|nb|en|graph}}.
+
+===Noun===
+{{nb-noun-m1}}
+
+# {{l|en|graph}} (''diagram'')
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+
+===Etymology===
+Borrowed from {{bor|nn|en|graph}}.
+
+===Noun===
+{{nn-noun-m1}}
+
+# {{l|en|graph}} (''diagram'')
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
+
+==Old English==
+
+===Etymology===
+Uncertain, lacking cognates in other Germanic languages. Perhaps from {{m|ang|grafan|t=to dig}}, similar to {{m|ang|drāf|t=drove}} and {{m|ang|drifan}}.<ref>Puppel, S. (2010). Language History and Linguistic Modelling: A Festschrift for Jacek Fisiak on His 60th Birthday. Germany: De Gruyter., p. 134-135</ref>
+
+===Pronunciation===
+* {{ang-IPA|grāf}}
+
+===Noun===
+{{ang-noun||head=grāf}}
+
+# [[grove]]
+
+====Declension====
+{{rfinfl|ang|noun}}
+
+====Descendants====
+* {{desctree|enm|grove}}
+
+===References===
+<References/>
+
+----
+
+==Old Spanish==
+
+===Pronunciation===
+* {{IPA|osp|/ˈɡraf/}}
+
+===Adjective===
+{{head|osp|adjective|g=m|g2=f|plural|graves}}
+
+# {{apocopic form of|osp|grave}}; [[serious]]; [[grave]]; [[major]]
+#* '''c. 1200:''' Almerich, ''[[w:Fazienda de Ultramar|Fazienda de Ultramar]]'', f. 17v.
+#*: e la coſa '''graf''' q̇ nȯ podrȧ iudgar adugȧ la aty. e iudgar laas.
+#*:: And any '''grave''' matter they cannot judge themselves they will bring to you, so that you may judge it.
+
+----
+
+==Polish==
+
+===Pronunciation===
+{{pl-p|a=Pl-graf.ogg}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# {{lb|pl|mathematics}} [[graph]]
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+----
+
+==Romanian==
+
+===Etymology 1===
+From {{bor|ro|fr|graph}}
+
+====Noun====
+{{ro-noun|n|grafuri}}
+
+# [[graph]]
+
+=====Declension=====
+{{ro-noun-n-uri}}
+
+===Etymology 2===
+From {{bor|ro|de|Graf}}
+
+====Noun====
+{{ro-noun|m|grafi}}
+
+# [[count]]
+
+=====Declension=====
+{{ro-noun-m}}
+
+----
+
+==Scottish Gaelic==
+
+===Noun===
+{{gd-noun|g=m|gen=grafa|pl=grafaichean}}
+
+# [[graph]]
+
+====Derived terms====
+* {{l|gd|clò-ghrafachd}}
+
+----
+
+==Serbo-Croatian==
+
+===Noun===
+{{sh-noun|g=m|head=grȁf}}
+
+# {{lb|sh|mathematics}} [[graph]]
+# {{lb|sh|graph theory}} graph
+
+====Declension====
+{{sh-decl-noun
+|grȁf|gràfovi
+|grafa|grafova
+|grafu|grafovima
+|graf|grafove
+|grafe|grafovi
+|grafu|grafovima
+|grafom|grafovima
+}}
+
+----
+
+==Swedish==
+
+===Etymology===
+From {{bor|sv|en|graph}}, shortened from {{m|en|graphic}} {{m|en|formula}}.
+
+===Noun===
+{{sv-noun|c}}
+
+# {{lb|sv|mathematics}} [[graph]], the set <math>\left\{(x, F({x}))\right\}</math>
+# {{lb|sv|graph theory}} graph; an ordered set (''V'',''E'') of edges which joins to the vertices such that each of the edge's ends is located at a vertex
+# {{obsolete spelling of|sv|grav}}
+
+====Declension====
+{{sv-infl-noun-c-er|definitions=1, 2}}
+{{sv-infl-noun-c-ar|2=grafv|definitions=3}}
+
+====Related terms====
+{{rel3|sv|grafik|grafiker|grafisk|grafteori|telegraf}}
+
+====See also====
+* {{l|sv|diagram}}
+* {{l|sv|grav}}
+* {{l|sv|gravyr}}
+* {{l|sv|greve}}
+* {{l|sv|ritning}}
+
+----
+
+==Volapük==
+
+===Noun===
+{{vo-noun}}
+
+# [[count]] (ruler of a county)
+
+====Declension====
+{{vo-decl-noun}}
+
+====Derived terms====
+* [[grafän]]
