@@ -1,0 +1,12 @@
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{sh-IPA|dȍbar dȃn}}
+
+===Phrase===
+{{sh-phrase|head=[[dȍbar]] [[dȃn]]}}
+
+# [[good day]]
+# [[good afternoon]]
+
+[[Category:Serbo-Croatian phrasebook]]
