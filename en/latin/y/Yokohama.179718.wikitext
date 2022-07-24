@@ -1,0 +1,48 @@
+==English==
+
+===Proper noun===
+{{wikipedia}}
+{{en-proper noun}}
+[[File:Tokyo 23 wards Yokohama Kawasaki Saitama Chiba.png|thumb|The 23 Wards of [[Tokyo]] (blue), [[Yokohama]] (red), [[Kawasaki]] (purple), [[Saitama]] (pink), [[Chiba]] (green).]]
+
+# {{place|en|capital city|pref/Kanagawa|c/Japan}}, near [[Tokyo]].
+
+====Translations====
+{{trans-top|a city of Japan}}
+* Arabic: {{t|ar|يُوكُوهَامَا|f}}, {{t|ar|يُوكُوهَامَا|tr=yokohamā|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|橫濱}}, {{t+|cmn|横滨|tr=Héngbīn}}
+* Esperanto: {{t|eo|Jokohamo}}
+* Finnish: {{t|fi|Jokohama}}
+* German: {{t+|de|Yokohama}}
+* Hebrew: {{t|he|יוקוהמה|tr=yokohama}}
+* Japanese: {{t+|ja|横浜|tr=よこはま, Yokohama}}
+{{trans-mid}}
+* Korean: {{t+|ko|^요코하마}}, {{t|ko|^요꼬하마}} {{qualifier|North Korea}}
+* Macedonian: {{t|mk|Јокоха́ма|f}}
+* Marathi: {{t|mr|योकोहामा}}
+* Polish: {{t+|pl|Jokohama|f}}
+* Russian: {{t+|ru|Иокога́ма|f}}, {{t|ru|Йокоха́ма|f}} {{qualifier|rare}}
+* Uyghur: {{t|ug|يوكوخاما}}
+{{trans-bottom}}
+
+----
+
+==Japanese==
+
+===Romanization===
+{{ja-romaji}}
+
+# {{ja-romanization of|よこはま}}
+
+----
+
+==Portuguese==
+
+===Proper noun===
+{{pt-proper noun|f}}
+
+# {{place|pt|capital city|pref/Kanagawa|c/Japan|t1=Yokohama}}
+
+====Quotations====
+{{seeCites|pt}}
