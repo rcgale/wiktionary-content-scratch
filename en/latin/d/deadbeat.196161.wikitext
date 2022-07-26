@@ -1,0 +1,52 @@
+{{also|dead beat}}
+==English==
+
+===Etymology===
+See [[Talk:deadbeat|discussion page]] <!--{{compound|dead|beat|lang=en}}. See {{m|en|beat||a cheat, a swindler}}.-->
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈdɛdbiːt/}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|pejorative}} A [[lazy]] and/or [[irresponsible]] person who is often [[unemployed]], often depending upon wealthy or otherwise financially independent people for support.
+#*'''2016''' Eric Andrew-Gee [https://www.theglobeandmail.com/news/national/why-and-how-ontarians-change-their-names-in-the-21stcentury/article31799805/ Why and how Ontarians change their names in the 21st century] ''The Globe and Mail''
+#*: With a few exceptions, all those changes were published in the Ontario Gazette, a little-read compendium of government business that comes out every week. The province requires this by law, as do most Canadian jurisdictions, nominally to thwart fraudsters and '''deadbeat'''s.
+# A person who [[default]]s on [[debt]]s.
+
+====Related terms====
+*[[fraudster]]
+
+====Synonyms====
+* {{sense|lazy person}} see [[Thesaurus:idler]]
+* {{sense|person who defaults on debts}} {{l|en|shirker}}, {{l|en|welcher}}
+
+====Translations====
+{{trans-top|lazy person, depending upon financially independent people for support}}
+* Armenian: {{t|hy|ծույլ մարդ|sc=Armn}}
+* Bulgarian: {{t+|bg|безделник|m}}
+* German: {{t+|de|Faulpelz|m}}, {{t+|de|Gammler|m}}, {{t+|de|Schnorrer|m}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|naplopó}}, {{t+|hu|semmittevő}}, {{t|hu|léhűtő}}, {{t|hu|[[pumpol]][[-ó|ó]]}}, {{t|hu|[[tarhál]][[-ó|ó]]}}, {{t|hu|[[adósság]][[-ai|ai]][[-t|t]] [[nem]] [[fizet]][[-ő|ő]] [[ember]]}}
+* Russian: {{t+|ru|тунеядец}}, {{t+|ru|дармоед}}
+* Spanish: {{t|es|incumplidor|m}}, {{t+|es|fracasado|m}}, {{t+|es|holgazán|m}}
+{{trans-bottom}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|of an instrument}} having a [[damped]] [[needle]] that [[stop]]s without [[oscillation]]
+# defaulting on one's debts
+# [[defeated]] or [[exhausted]]
+# {{lb|en|pejorative}} [[lazy]] or [[irresponsible]]
+# [[dead tired]]
+
+====Translations====
+{{trans-top|exhausted, dead tired}}
+* Bulgarian: {{t|bg|капнал от умора}}
+* Hungarian: {{t+|hu|holtfáradt}}
+{{trans-mid}}
+{{trans-bottom}}
+
+[[Category:en:People]]
