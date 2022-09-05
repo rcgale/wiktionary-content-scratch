@@ -1,0 +1,122 @@
+{{also|Appendix:Variations of "?"}}
+{{character info}}
+{{character info|❓}}
+{{character info|❔}}
+{{character info|︖}}
+{{character info|﹖}}
+{{character info|？}}
+{{character info|⸮}}
+
+==Translingual==
+{{emojibox|❓}}
+{{emojibox|❔}}
+
+===Etymology===
+? may derive from Qo, with the Q written over the o, an abbreviation of Latin {{m|la|quaestio||question}}, placed at the end of a question to mark it as such.<ref>Alexander Humez, 1987, ''A B C et cetera: the life & times of the Roman alphabet''</ref>
+
+===Punctuation mark===
+{{mul-punctuation mark|name=question mark}}
+
+# {{n-g|Used in various left-to-right scripts, including notably the [[Appendix:Latin script|Latin script]], to mark the preceding sentence as a [[question]].}}
+# {{lb|mul|comics|Internet slang}} {{n-g|Used [[by oneself|by itself]] to convey that a [[character]] is [[confused]].}}
+#: Character #1: "I have no time to explain! Have you seen a Big Bad Wolf blowing down various houses?"
+#: Character #2: "'''?'''"
+# {{lb|mul|linguistics}} {{n-g|Marks the following word or phrase as questionable for a grammatical or semantic-pragmatic reason.}}
+#* '''2006''', Renaat Declerck, Susan Reed, Bert Cappelle, ''The Grammar of the English Verb Phrase'', vol. 1, ''The Grammar of the English Tense System'', {{ISBN|9783110185898}}, page 6:
+#*: A superscript question mark will be used similarly to indicate that a sentence or constituent is questionable for a grammatical or semantic-pragmatic reason. A double superscript question mark indicates an even higher degree of questionability.<br>I have never { worked / <sup>'''?'''</sup>been working } on a dissertation<br>This time tomorrow I { will / <sup>??</sup>am going to } be driving to London.
+
+====See also====
+* For the reversed question mark used in some right-to-left scripts, such as the Arabic script, see {{m|mul|؟|sc=Zsym}}.
+
+===Symbol===
+{{mul-symbol}}
+
+# A [[placeholder]] for an unknown [[word]], [[phrase]], [[text]], or numerical [[value]].
+#* {{quote-book
+|en
+|termlang=mul
+|year=2009
+|author=Terry Stickels
+|title=Math Puzzles and Brainteasers, Grades 3-5: Over 300 Puzzles that Teach Math and Problem-Solving Skills
+|pageurl=http://books.google.com.br/books?id=ceZaQbH2y4AC&pg=PA6#v=onepage&q&f=false
+|isbn=9780470564677
+|page=6
+|publisher=John Wiley & Sons}}
+#*: What is the next number in the sequence below?
+#*: 1 &nbsp;&nbsp; 4 &nbsp;&nbsp; 9 &nbsp;&nbsp; 16 &nbsp;&nbsp; 25 &nbsp;&nbsp; 36 &nbsp;&nbsp; <u>&nbsp;'''?'''&nbsp;</u>
+# {{lb|mul|chess}} In [[algebraic notation]], marks a [[bad]] move.
+# {{lb|mul|programming}} A [[wildcard]] for one [[character]] in [[query language]].
+# {{lb|mul|programming}} The [[ternary operator]] in some programming languages.
+# {{lb|mul|regex}} Detects [[zero]] or [[one]] occurrences of the preceding element.
+#: ''The string <code>colou?r</code> matches both "color" and "colour".''
+# {{lb|mul|networking}} In a [[URL]], begins a [[query string]] (a series of [[data]] formatted as field-value pairs).
+#: ''[https://en.wiktionary.org/w/index.php?title=Wiktionary:Word_of_the_day&action=view&useskin=monobook <code>https://en.wiktionary.org/w/index.php'''?'''title=Wiktionary:Word_of_the_day&action=view&useskin=monobook</code>]''
+
+====Usage notes====
+* Its English name is variously [[question mark]], [[interrogation mark]], [[interrogation point]], [[eroteme]].
+
+====Quotations====
+{{seeCites|mul}}
+
+====Derived terms====
+* {{l|mul|(?)}}
+
+====See also====
+* {{l|es|%C2%BF_%3F|¿ ?}} (Spanish)
+* {{l|mul|??}}
+* {{l|mul|?!}}
+* {{l|mul|!}}
+* {{l|mul|!?}}
+* {{l|mul|‽}}
+* {{l|mul|!!}}
+* {{l|mul|sc=Arab|؟}} (Arabic/Persian)
+* {{l|mul|？}} (CJK)
+* {{l|mul|;}} (Greek)
+* {{l|mul|՞}} ([[Armenian]])
+* {{l|mul|⸮}}
+{{punctuation}}
+
+===References===
+<references/>
+
+[[Category:Translingual terms spelled with ?]]
+
+----
+
+==English==
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|text messaging}} A [[question]].
+#: ''i hav a '''?''' 4 u'' (I have a question for you)
+# objects seen/shaped as the [[question mark]]
+#: ''a '''?''' block'' (a question-mark block)
+
+----
+
+==Lushootseed==
+
+===Letter===
+{{head|lut|letter}}
+
+# ''The first [[letter]] of the [[Lushootseed]] alphabet, pronounced as a [[glottal stop]]''
+# ''alternative of [[ʔ]] letter''
+
+----
+
+==Spanish==
+
+===Punctuation mark===
+{{head|es|punctuation mark|head=[[¿]] [[?]]}}
+
+# Used in [[¿ ?]]
+# {{lb|es|nonstandard}} Marks a preceding passage as a [[question]], without the starting ¿, as in English and other languages
+#: {{uxi|es|Cómo estás'''?'''|How are you'''?'''}}
+
+====Coordinate terms====
+* {{l|es|%C2%BF %3F|¿ ?}}
+* {{l|es|%C2%A1 %21|¡ !}}
+
+====Usage notes====
+* As [[SMS]] messaging and other forms of electronic communication have become more common, some Spanish-speakers use only ? for questions and ! for exclamations, leaving out the initial typographical mark. This is considered non-standard usage.
