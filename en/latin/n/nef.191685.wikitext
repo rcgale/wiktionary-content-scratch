@@ -1,0 +1,240 @@
+{{also|nèf|nêf}}
+==English==
+
+===Pronunciation===
+* {{IPA|en|/nɛf/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-nef.wav |Audio (Southern England)}}
+* {{rhymes|en|ɛf|s=1}}
+
+===Etymology 1===
+Borrowed from {{bor|en|fr|nef}}. {{doublet|en|nave|nau}}.
+
+====Noun====
+{{en-noun}}
+
+# An extravagant table [[ornament]] and [[container]] used in the [[Middle Ages]] and [[Renaissance]], made in the shape of a [[ship]].
+
+====See also====
+* {{l|enm|cadenas}}
+* {{l|en|navicula}}
+
+===Etymology 2===
+Short for ''[[numerically]] [[effective]]''; introduced by Miles Reid.
+
+====Adjective====
+{{en-adj|-}}
+{{wikipedia|Nef line bundle}}
+
+# {{lb|en|algebraic geometry}} Of a [[line bundle]] on a complete algebraic variety over a [[field]]: such that the [[degree]] of its [[restriction]] to every algebraic curve in the [[variety]] is non-negative.
+#* {{quote-journal|en|title=Minimal Models of Canonical 3-Folds|author=Miles Reid|journal=Advanced Studies in Pure Mathematics|volume=1|year=1983|page=131|passage={{...}} this condition is the numerical consequence of the condition that for some <math>m > 0</math>, the linear system <math>|mD|</math> is effective and free; thus '''nef''' = "numerically (effective and free)".}}
+
+=====Derived terms=====
+* [[nefness]]
+
+===Anagrams===
+* {{anagrams|en|a=efn|ENF|fen}}
+
+{{cln|en|three-letter words}}
+
+----
+
+==French==
+
+===Etymology===
+From {{inh|fr|frm|nef}}, from {{inh|fr|fro|nef}}, from {{inh|fr|la|navis|nāvis, nāvem}}, ultimately from {{der|fr|ine-pro|*néh₂us}}. Displaced by {{m|fr|bateau}} and {{m|fr|navire}} in the sense of "boat".
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-DSwissK-nef.wav|Audio (Switzerland)}}
+
+===Noun===
+{{fr-noun|f}}
+
+# {{lb|fr|obsolete|_|or|_|poetic}} [[barque]], [[boat]]
+# {{lb|en|architecture}} [[nave]]
+
+====Derived terms====
+{{col3|fr|
+|aéronef
+|porte-aéronefs
+|astronef
+}}
+
+====Related terms====
+{{col3|fr|
+|nacelle
+|naval
+|navire
+}}
+
+====Descendants====
+* {{desc|br|nev|bor=1}}
+* {{desc|en|nef|bor=1}}
+
+====See also====
+* {{l|fr|barque}}
+* {{l|fr|vaisseau}}
+
+===Further reading===
+* {{R:TLFi}}
+
+----
+
+==Icelandic==
+
+===Etymology===
+From {{inh|is|non|nef}}, from {{inh|is|gem-pro|*nabją}}. Cognate with {{cog|en|neb}}.
+
+===Pronunciation===
+* {{IPA|is|/nɛːv/}}
+* {{rhymes|is|ɛːv|s=1}}
+
+===Noun===
+{{is-noun|n|nefs|nef}}
+
+# [[nose]]
+# [[beak]]
+
+====Declension====
+{{is-decl-noun-n-s|n|e|f|j=j}}
+
+====Derived terms====
+* {{l|is|taka í nefið}} (to take [[snuff]])
+* {{l|is|fitja upp á nefið}} (to [[turn up one's nose]])
+* {{l|is|með nefið ofan í hvers manns koppi}} ([[nosy]])
+* {{l|is|stökkva upp á nef sér}} (to [[flare up]], to [[get angry]])
+* {{l|is|neflaus}}
+* {{l|is|hafa bein í nefinu}}
+
+----
+
+==Mauritian Creole==
+{{cardinalbox|mfe|8|9|10|wit|dis|ord=neviem}}
+
+===Etymology===
+From {{der|mfe|fr|neuf}}.
+
+===Numeral===
+{{head|mfe|numeral}}
+
+# {{cln|mfe|cardinal numbers}} [[nine]]
+
+===Adjective===
+{{head|mfe|adjective}}
+
+# [[new]]
+
+----
+
+==Middle French==
+
+===Alternative forms===
+* {{alter|frm|nau}}
+
+===Etymology===
+From {{inh|frm|fro|nef}}, from {{inh|frm|la|navis|nāvis, nāvem}}.
+
+===Noun===
+{{frm-noun|f|pl2=nefz}}
+
+# [[boat]]; [[ship]]; [[watercraft]]
+
+====Descendants====
+* {{desctree|fr|nef|qq=obsolete or poetic}}
+* {{desc|nrf|nef}}
+
+----
+
+==Old Cornish==
+
+===Etymology===
+from {{inh|oco|cel-bry-pro|*neβ̃}}, from {{inh|oco|cel-pro|*nemos}}, from {{inh|oco|ine-pro|*nébʰos||cloud}}.
+
+===Noun===
+{{head|oco|noun}}
+
+# [[Heaven]], [[Sky]]
+
+----
+
+==Old French==
+
+===Alternative forms===
+* {{alter|fro|naf|nau}}
+
+===Etymology===
+From {{inh|fro|la|navis|nāvis, nāvem}}.
+
+===Noun===
+{{fro-noun|f|nés||nés}}
+
+# [[boat]]; [[ship]]; [[watercraft]]
+
+====Related terms====
+* {{l|fro|nacele}}
+
+====Descendants====
+* {{desctree|frm|nef|qq=Parisian dialect}}
+* {{desc|roa-poi|nau}}
+
+[[Category:fro:Nautical]]
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{inh|non|gem-pro|*nabją}}.
+
+===Noun===
+{{non-noun|n|nefs|nef}}
+
+# [[nose]]
+# [[beak]]
+
+====Declension====
+{{non-decl-n-ja|nef}}
+
+====Descendants====
+* {{desc|is|nef}}; {{l|is|nebbi}}
+* {{desc|fo|nev|nebb|nebbi}}
+* {{desc|nrn|nev}}
+* {{desc|no|nebb}}
+* {{desc|gmq-bot|näf|nev}}
+* {{desc|gmq-osw|næf}}
+** {{desc|sv|näv}} {{qualifier|dialectal}}
+* {{desc|da|næb}}
+
+----
+
+==Volapük==
+
+===Noun===
+{{vo-noun}}
+
+# [[nephew]]
+# [[niece]]
+
+====Declension====
+{{vo-decl-noun}}
+
+[[Category:vo:Family]]
+
+----
+
+==Welsh==
+
+===Etymology===
+From {{inh|cy|wlm|new}}, from {{inh|cy|owl|nem}}, from {{inh|cy|cel-bry-pro|*neβ̃}}, from {{inh|cy|cel-pro|*nemos}}, from {{inh|cy|ine-pro|*nébʰos||cloud}}. Cognate with {{cog|br|neñv}}, {{cog|kw|nev}} and {{cog|ga|neamh}}.
+
+===Pronunciation===
+* {{IPA|cy|/neːv/}}
+* {{rhymes|cy|eːv|s=1}}
+
+===Noun===
+{{cy-noun|f|nefoedd}}
+
+# {{lb|cy|frequently|in the plural|_|with singular meaning}} [[heaven]]
+
+====Synonyms====
+* {{l|cy|nen}}
