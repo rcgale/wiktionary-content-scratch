@@ -1,0 +1,41 @@
+{{also|pro tem.}}
+==English==
+
+===Alternative forms===
+* {{l|en|pro tempore}}
+
+===Etymology===
+Clipping of {{uder|en|la|[[prō]] [[tempus|tempore]]|lit=for a time}}
+
+===Pronunciation===
+* {{IPA|en|/pɹəʊˈtɛm/|nocount=1}}
+
+===Adverb===
+{{en-adv|-|head=pro tem}}
+
+# {{lb|en|chiefly|US}} [[temporarily]]; for the time being
+
+====Translations====
+{{trans-top|temporarily}}
+* Danish: {{t+|da|p.t.}}, {{t+|da|fungerende}}
+* German: {{t|de|auf Zeit}}, {{t+|de|vorübergehend}}
+* Japanese: {{t|ja|仮に|tr=かりに, karini}}, {{t|ja|一時的に|tr=いちじてきに, ichijiteki ni}}
+* Polish: {{t+|pl|ad hoc}}, {{t+|pl|doraźnie}}
+{{trans-bottom}}
+
+===Adjective===
+{{en-adj|-|head=pro tem}}
+
+# {{lb|en|chiefly|US}} [[temporary]]
+# {{lb|en|chiefly|US}} [[acting]] {{q|of a job or role}}, serving temporarily
+
+====Translations====
+{{trans-top|temporary}}
+* Danish: {{t+|da|fungerende}}
+* German: {{t|de|auf Zeit}}, {{t+|de|vorübergehend}}
+* Japanese: {{t|ja|仮の|tr=かりの, karino}}, {{t|ja|一時的な|tr=いちじてきな, ichijiteki na}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=emoprt|emptor|trompe}}
+[[Category:English clippings]]
