@@ -1,0 +1,90 @@
+==English==
+{{wp}}
+
+===Alternative forms===
+* {{l|en|Ashlee}}
+* {{l|en|Ashleigh}}
+* {{l|en|Ashlie}}
+* {{l|en|Ashly}}
+
+===Etymology===
+From {{inh|en|ang|*Æsċlēah}}, composed of {{m|ang|æsċ|t=[[ash]] tree}} + {{m|ang|lēah|t=[[wood]], [[clearing]]}}. Equivalent to {{suf|en|ash|alt1=Ash|-leigh|alt2=-ley}}.
+
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈæʃli/}}
+* {{audio|en|LL-Q1860 (eng)-Back ache-Ashley.wav|Audio}}
+
+===Proper noun===
+{{en-proper noun|~|s}}
+
+# One of ten villages and hamlets in England:
+## {{place|en|village|county/Cambridgeshire}}.
+## {{place|en|village/and/civil parish|in|uauth/Cheshire East|co/Cheshire}} {{q|[[OS]] grid ref SJ7784}}. {{C|en|Civil parishes of England}}
+## {{place|en|village|county/Gloucestershire}}.
+## {{place|en|hamlet|district/East Hampshire|county/Hampshire}}.
+## {{place|en|village|district/New Forest|county/Hampshire}}.
+## {{place|en|village|district/Test Valley|county/Hampshire}}.
+## {{place|en|hamlet|county/Kent}}.
+## {{place|en|village|county/Northamptonshire}}.
+## {{place|en|village|county/Staffordshire}}.
+## {{place|en|village|county/Wiltshire}}.
+# {{surname|en|from=Old English}} derived from the places in England.
+# {{given name|en|male|from=surnames}}.
+#* '''1936''' Margaret Mitchell: ''Gone With the Wind'': Chapter III:
+#*: 'There now, Scarlett! You admit it is true. What would you be doing with a husband like '''Ashley'''? 'Tis moonstruck they all are, all the Wilkes.'
+# {{given name|en|female|from=surnames}}.
+#: {{syn|en|Ash}}
+#* '''1999''' Andrew Pyper: ''Lost Girls'': Chapter Ten:
+#*: But when Krystal McConnell and '''Ashley''' Flynn were named deep in the heart of the '80s the thing was cuteness, feminine delicacy raised to an aesthetic paradigm. --- And everyone named according to a particular version of the pedigree fantasy. ''[[Ashley]]'' : transplanted Southern privilege, a destiny lying in sorority mixers and a marriage of health club memberships, state-of-the-art appliances and night courses in ''nouvelle cuisine''.
+#* {{quote-book|en|year=2013|author={{w|Matt Haig}}|title=The Humans|publisher=Canongate|isbn=9780857868787|page=832
+|passage=I discovered that her full name was Margaret Lowell. I wasn't an expert on Earth names, but I still knew this was wildly inappropriate. She should have been called Lana Bellcurve or '''Ashley''' Brainsex or something.}}
+# A number of places in the United States of America:
+## {{place|en|city|s/Illinois|;|named for railroad official Col. L. W. Ashley}}.
+## {{place|en|city/county seat|co/McIntosh County|s/North Dakota|;|named for railroad official Ashley E. Morrow}}.
+## {{place|en|town|s/Indiana}}.
+## {{place|en|borough|s/Pennsylvania}}.
+## {{place|en|village|s/Michigan}}.
+## {{place|en|village|s/Ohio|;|named for Col. L. W. Ashley}}.
+## {{place|en|CDP|s/Missouri|;|named for the state's first lieutenant governor, {{w|William Henry Ashley}}}}.
+## {{place|en|unincorporated community|s/West Virginia|;|named for the local Ash family}}.
+## {{place|en|unincorporated community|s/Wisconsin}}.
+# {{place|en|locality|s/New South Wales|c/Australia|;|named for one of the settlements in England}}.
+
+====Usage notes====
+* Ashley was originally a male given name, but since the sixties it has also been given to women, particularly in the US, where it was the top name for girls in 1991 and 1992.
+
+====Derived terms====
+* {{l|en|Ashley County}}
+* {{l|en|Ashley Down}}
+* {{l|en|Ashley Heath}}
+
+====Translations====
+{{trans-top|name}}
+* Bulgarian: {{t|bg|Ашли}}
+* Chinese:
+*: Mandarin: {{t|cmn|阿什利|tr=Āshílì|sc=Hani}}
+* Russian: {{t+|ru|Э́шли|f}}
+* Thai: {{t|th|แอชลีย์|tr=ɛ́ɛch-lîi}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aehlsy|Haleys|Halsey|Hasley|Healys|Shealy|haysel|shaley}}
+
+[[Category:English unisex given names]]
+{{cln|en|eponyms}}
+
+----
+
+==Tagalog==
+
+===Etymology===
+From {{bor|tl|en|Ashley}}.
+
+===Pronunciation===
+* {{hyphenation|tl|ash|ley}}
+* {{IPA|tl|/ˈaʃ.li/}}
+
+===Proper noun===
+{{head|tl|proper noun}}
+
+# {{given name|tl|female|from=English|usage=2000s and later Philippines}}
