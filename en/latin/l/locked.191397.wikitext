@@ -1,0 +1,82 @@
+==English==
+
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/lɑkt/}}
+* {{a|RP}} {{IPA|en|/lɒkt/}}
+* {{audio|en|En-us-locked.ogg|Audio (US)}}
+* {{rhymes|en|ɒkt|s=1}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|lock}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Having undergone [[locking#Noun|locking]]; [[secure#Verb|secured]] by a [[lock#Noun|lock]].
+#: {{ux|en|A '''locked''' door barred the way.}}
+#: {{ux|en|You can't delete a '''locked''' computer file.}}
+# {{lb|en|Ireland}} Very [[drunk#Adjective|drunk]].
+#* {{quote-book|en|year=2021|author=Samantha Shannon|title=The Mask Falling|publisher=Bloomsbury Publishing|isbn=9781526643087|page=99
+|passage='Drunk. Battered. Ar meisce. In a state of alcohol-induced intoxication.' {{...}} Nadine and I once watched the news and had a shot of absinthe every time someone said ''unnatural''. We were absolutely '''locked'''.'}}
+# {{lb|en|mobile telephony|of a phone}} Bound to a [[carrier]].
+#: {{antonyms|en|unlocked}}
+
+====Synonyms====
+* {{sense|secured by a lock}}
+* {{sense|drunk}} See [[Thesaurus:drunk]]
+* {{sense|bound to a carrier}} {{l|en|dedicated}}
+
+====Derived terms====
+* {{l|en|sealocked}}
+
+====Translations====
+{{trans-top|that has been locked (with a key)}}
+* Albanian: {{t-needed|sq}}
+* Arabic: {{t|ar|مُقْفَل}}
+* Armenian: {{t-needed|hy}}
+* Azerbaijani: {{t|az|qıfıllı}}
+* Bashkir: {{t|ba|бикле|sc=Cyrl}}, {{qualifier|Eastern Bashkir}} {{t|ba|бикте|sc=Cyrl}}
+* Basque: {{t-needed|eu}}
+* Bulgarian: {{t+|bg|заключен|m}}
+* Catalan: {{t-needed|ca}}
+* Czech: {{t-needed|cs}}
+* Esperanto: {{t-needed|eo}}
+* Finnish: {{t+|fi|lukittu}}
+* French: {{t|fr|fermé à clé}}, {{t|fr|fermé à clef}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|abgesperrt}}, {{t+|de|abgeschlossen}}, {{t+|de|zugeschlossen}}
+* Greek: {{t-needed|el}}
+* Hebrew: {{t-needed|he}}
+* Hungarian: {{t-needed|hu}}
+* Italian: {{t|it|chiuso a chiave|m}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t-needed|ko}}
+* Kyrgyz: {{t|ky|бекилген}}, {{t+|ky|жабылган}}
+* Latvian: {{t-needed|lv}}
+* Lithuanian: {{t-needed|lt}}
+* Maori: {{t|mi|raka}}
+* Polish: {{t+|pl|zamknięty}}, {{t|pl|zakluczony}} {{qualifier|regional, colloquial}}
+* Portuguese: {{t|pt|trancado}}
+* Romanian: {{t+|ro|încuiat}}
+* Russian: {{t-needed|ru}}
+* Scottish Gaelic: {{t|gd|glaiste}}
+* Slovak: {{t|sk|zamknutý}}
+* Southern Altai: {{t|alt|бектӱ}}, {{t|alt|јабылу}}
+* Spanish: {{t|es|cerrado con llave}}
+* Swedish: {{t+|sv|låst}}
+* Thai: {{t-needed|th}}
+* Turkish: {{t-needed|tr}}
+* Vietnamese: {{t-needed|vi}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* ''A Dictionary of Hiberno-English: The Irish Use of English, Terence Patrick Dolan'', page 142
+* Eric Partridge, Tom Dalzell, ''The New Partridge Dictionary of Slang'' (2006)
+
+===Anagrams===
+* {{anagrams|en|a=cdeklo|cloked}}
