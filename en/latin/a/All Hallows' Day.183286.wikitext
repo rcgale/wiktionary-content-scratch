@@ -1,0 +1,21 @@
+==English==
+
+===Alternative forms===
+* {{l|en|All Hallows Day}}
+
+===Proper noun===
+{{en-proper noun|head=[[all|All]] [[hallow|Hallows']] [[day|Day]]}}
+
+# A [[Christian]] [[feast day]], 1st [[November]], honouring the [[saint]]s (or, as the name implies, "[[hallows]]"); the day after [[Halloween]].
+
+====Synonyms====
+* {{l|en|All Saints' Day|All Saints’ Day}}
+
+====Translations====
+{{trans-see|All Saints' Day}}
+
+====See also====
+* {{l|en|All Souls’ Day}}
+
+[[Category:en:Calendar terms]]
+[[Category:en:Holidays]]
