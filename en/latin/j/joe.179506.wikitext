@@ -1,0 +1,109 @@
+{{also|Joe|Joe.|joë}}
+==English==
+
+===Pronunciation===
+* {{enPR|jō}}
+** {{a|RP}} {{IPA|en|/d͡ʒəʊ/}}
+** {{a|GenAm}} {{IPA|en|/d͡ʒoʊ/}}
+* {{homophones|en|Jo|Joe}}
+* {{rhymes|en|əʊ|s=1}}
+
+===Etymology 1===
+From the proper name {{m|en|Joe}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|informal}} A [[male]]; a [[guy]]; a [[fellow]].
+#: ''I'm just an ordinary '''joe'''.''
+# {{lb|en|UK|slang}} A [[spy]], especially a [[double agent]].
+#* {{quote-book|en|year=2001| title=Le Carré's Landscape |author=Tod Hoffman | page=193| passage=Name me a '''joe''' in a bad country ... who doesn't fall for a pretty face if she's on his side against the world.}}
+#* {{quote-book|en|year=2004| title=Counterspy|author=Richard W. Cutler | page=96| passage=Soviet troops were permitted to enter the American sector, where they could easily capture and torture an agent to confirm the existence of a '''Joe''' house, then cripple American espionage efforts by kidnapping a nest of spies in one fell swoop.}}
+#* {{quote-book|en|year=2009| title=Stoppard's Theatre: Finding Order amid Chaos |author=John Fleming | page=178| passage=Then Hapgood turned him into a '''joe''' — that is, he works for the British.}}
+#* {{quote-book|en|year=2010| title=Slow Horses|author=Mick Herron| page=215| passage=Lamb didn't look any different, was still a soft fat rude bastard, still dressed like he'd been thrown through a charity shop window, but Jesus, River thought—Lamb was a '''joe'''.}}
+# {{lb|en|historical}} {{synonym of|en|johannes||An old [[Portuguese]] [[gold]] [[coin]] bearing a figure of {{w|John V of Portugal}}.}}
+#* {{RQ:Melville Moby-Dick|Chapter XCIX. The Doubloon|481|I have seen doubloons before now in my voyagings; your doubloons of old Spain, your doubloons of Peru, your doubloons of Chili, your doubloons of Bolivia, your doubloons of Popayan; with plenty of gold moidores and pistoles, and '''joes''', and half '''joes''', and quarter '''joes'''.}}
+#* {{quote-book |en |title=Eighty Years’ Progress of the United States:{{nb...|Showing the Various Channels of Industry and Education Through Which the People of the United States Have Arisen from a British Colony to Their Present National Importance; Giving, in a Historical Form, the Vast Improvements Made in Agriculture, Commerce, and Trade, Banking, Insurance, Manufacturing, Machinery, Mining Interests, Modes of Travel and Transportation, Telegraphing, Fine Arts, Educational, Benevolent, and Humane Institutions, &C., &C. With a Large Amount of Statistical Information, Showing the Comparative Progress of the Different States with Each Other, and to Some Extent This Country with Other Nations.}} |volume=I |year=1861 |publisher=New York:{{nb...|51 John Street}}. Worcester, Mass.: L. Stebbins |chapter=United States Mint”, “Chapter I. Establishment of Mint—Standard of Coins—Laws Regulating Coinage—Progress of Coinage—Precious Metals in the Country |page=213 |column=1 |text=Guineas, '''joes''', half '''joes''', doubloons, and pistoles of various origin constituted the gold currency, while the silver was mostly the Spanish American dollar and its fractions: the half, quarter, eighth, and sixteenth, with the pistareen and half pistareen.}}
+#* {{quote-book |en |title=The Historical Magazine, and Notes and Queries Concerning the Antiquities, History and Biography of America |volume=VII |issue=8 |year=1863 |month=August |publisher=New York: Charles B. Richardson,{{nb...|594 & 596 Broadway}}. London: [[w:Routledge|Trübner & Co.]] |page=245 |column=2 |text=In the olden time the currency, you know, was a&nbsp;l{{sic}} in gold and silver, '''joes''', half-'''joes''' (Johannes), pistoles, moidores, doubloons, pistareens, ninepences ({{frac|12|1|2}} cents), and fourpence-half-pennies ({{frac|6|1|4}} cents) or “fippenny-bits.”}}
+
+=====Alternative forms=====
+* {{alter|en|Joe}}
+
+=====Derived terms=====
+* {{l|en|half joe}}
+* {{l|en|joe job}}
+
+=====Translations=====
+{{trans-see|stereotypical male given name|Joe}}
+
+===Etymology 2===
+{{unc|en}}. See {{m|en|cup of joe}} for more.
+
+====Noun====
+{{en-noun|~}}
+
+# {{lb|en|chiefly|US|informal}} [[coffee|Coffee]].
+#* {{quote-journal|en|year=2008|month=January–February|title=70 Ways to Improve Every Day of the Week|journal={{w|Men's Health}}|volume=23|issue=1|issn=1054-4836|page={{gbooks|6ccDAAAAMBAJ|135|joe}}|passage='''45 {{smallcaps|have some joe}}''' Week's almost over—now bring it home. Austrian researchers found that a cup of java resulted in a 45-minute boost of brain activity in the regions responsible for attention, concentration, and short-term memory.}}
+#* '''2010''', Melody Carlson, ''A Mile in My Flip-Flops'' (page 221)
+#*: Some people say I make the best '''joe''' in town. But you know there's a kiosk over on Eighteenth Avenue, not that far from here.
+
+=====Related terms=====
+* {{l|en|cup of joe}}
+
+=====Translations=====
+{{trans-top|coffee}}
+* German: {{t+|de|Kaffee|m}}
+{{trans-bottom}}
+
+===Etymology 3===
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|Scotland}} {{alt form|en|jo||a darling or sweetheart}}
+#* '''1836''' {{w|Joanna Baillie}} ''The Phantom'', Act 2. Provost, to a maidservant.
+#*: I fear, my '''joe''', the good that I can do him,<br>Or ev'n the minister, if he were here,<br>Would be but little.
+
+[[Category:en:Coffee]]
+{{c|en|Coins}}
+
+==Dalmatian==
+
+===Pronoun===
+{{head|dlm|pronoun|g=f|plural|jai}}
+
+# {{lb|dlm|third-person feminine singular pronoun|oblique case}} [[her]]
+
+====Related terms====
+* {{l|dlm|jala}}
+* {{l|dlm|joi}} {{qualifier|masculine}}
+* {{l|dlm|jai}}
+
+==Dutch==
+
+===Interjection===
+{{head|nl|interjection}}
+
+# {{lb|nl|colloquial}} [[bye]]
+#: ''Joe!'' - Bye!
+
+[[Category:nl:Farewells]]
+
+==Old French==
+
+===Noun===
+{{fro-noun|f}}
+
+# [[cheek]]
+
+====Descendants====
+* {{desc|fr|joue}}
+
+[[Category:fro:Anatomy]]
+
+==Sranan Tongo==
+
+===Pronoun===
+{{head|srn|pronoun}}
+
+# {{superseded spelling of|srn|yu}}
