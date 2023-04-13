@@ -1,0 +1,81 @@
+{{also|zakât}}
+
+==English==
+
+===Alternative forms===
+* {{l|en|zakah}}, {{l|en|zakaah}}, {{l|en|zakāh}}, {{l|en|zikat}}/[[Zikat]], {{l|en|Zikât}}
+
+===Etymology===
+Borrowed from {{bor|en|fa|زکات|tr=zakât}}, from {{derived|en|ar|زَكَاة}}, from earlier Arabic {{m|ar|زَكَوٰة|tr=zakāh}}. {{root|en|ar|ز ك و}}
+
+===Pronunciation===
+{{IPA|en|/zəˈkɑːt/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-zakat.wav|Audio (Southern England)}}
+* {{rhymes|en|ɑːt|s=2}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|Islam}} [[almsgiving|Almsgiving]], one of the [[five pillars]] of [[Islam]].
+#* '''1958-1994''', {{w|Hamilton Gibb}} & CF Beckingham, in ''The Travels of Ibn Battutah'', Folio Society 2012, p. 27:
+#*: Amongst these stations is the well-known place called Qatya, where '''''zakat''''' is collected from the merchants, their goods are examined and their baggage most rigorously searched.
+
+====Translations====
+{{trans-top|One of the Five Pillars of Islam/Submission}}
+* Armenian: {{t|hy|զաքաթ}}
+* Arabic: {{t|ar|زَكَاة|f}}
+* Azerbaijani: {{t|az|zəkat}}
+* Chinese:
+*: Mandarin: {{t|cmn|天課|tr=tiānkè}}
+* French: {{t+|fr|zakât|f}}
+* Georgian: {{t|ka|ზაქათი}}
+* German: {{t|de|Zakāt|f}}
+* Hindi: {{t|hi|ज़कात|f}}
+* Indonesian: {{t+|id|zakat}}
+* Kazakh: {{t|kk|зекет}}
+* Persian: {{t|fa|زکات}}
+* Russian: {{t+|ru|закя́т|m}}
+* Tajik: {{t|tg|закот}}
+* Thai: {{t|th|ซะกาต}}
+* Turkish: {{t+|tr|zekât}}
+*: Ottoman Turkish: {{t|ota|زكات}}
+* Uzbek: {{t+|uz|zakot}}
+{{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
+
+===Anagrams===
+* {{anagrams|en|a=aaktz|Kaatz}}
+
+==Indonesian==
+
+===Etymology===
+From {{inh|id|ms|zakat}}, from {{inh|id|ms-cla|زكاة|tr=zakat}}, from {{der|id|ar|زَكَوٰة|tr=zakāh}}.<ref>{{cite-book|author=Erwina Burhanuddin|author2=Abdul Gaffar Ruskhan|author3=R.B. Chrismanto|title=Penelitian kosakata bahasa Arab dalam bahasa Indonesia|trans-title=Research on Arabic vocabulary in Indonesian|date=1993|publisher=Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan|location=Jakarta|url=https://www.worldcat.org/oclc/29420936|isbn=979-459-296-X|oclc=29420936}}</ref>
+
+===Pronunciation===
+* {{IPA|id|/ˈzakat̚/}}
+* {{rhymes|id|kat|at|t|s=2}}
+* {{hyphenation|id|za|kat}}
+
+===Noun===
+{{id-noun|pl=duplication}}
+
+# {{lb|id|Islam}} {{l|en|zakat}}: [[almsgiving]], one of the [[five pillars]] of [[Islam]].
+
+====Derived terms====
+{{der4|id|
+| berzakat
+|}}
+{{der4|id|
+| zakat fitrah
+| zakat mal
+| zakat penghasilan
+| zakat profesi
+|}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:KBBI Daring}}
