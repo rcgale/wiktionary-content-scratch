@@ -1,0 +1,194 @@
+==English==
+
+===Etymology===
+From {{der|en|la|cōnstituēns}}, present participle of {{m|la|cōnstituō|t=I establish}}, from {{m|la|com-|t=together}} + {{m|la|statuo|t=I set, place, establish}}; see [[statute]] or [[statue]], and compare [[institute]] and [[restitute]].
+
+===Pronunciation===
+* {{IPA|en|/kənˈstɪtjuənt/|/kənˈstɪt͡ʃuənt/}}
+* {{audio|en|en-uk-constituent.ogg|Audio (UK)}}
+* {{audio|en|en-us-constituent.ogg|Audio (US)}}
+{{wikipedia}}
+
+===Adjective===
+{{en-adj|-}}
+
+# being a [[part]], or [[component]] of a [[whole]]
+#* {{RQ:Du Fresnoy Dryden Painting|passage=Body, soul, and reason are the three parts necessarily '''constituent''' of a man.}}
+# [[constitutive]] or [[constitute|constituting]]; {{lb|en|politics}} [[authorized]] to make a [[constitution]]
+#: {{usex|en|the '''Constituent''' Assembly}}
+#* '''1769''', {{w|Junius}}, letter on 19 December, 1769, (part of ''{{w|Letters of Junius}}'')
+#*: A question of right arises between the '''constituent''' and representative body.
+
+====Related terms====
+{{rel3|en
+|constitute
+|constituency
+|constitution
+|constitutional
+|constitutive}}
+
+====Translations====
+{{trans-top|being a part, or component of a whole}}
+* Armenian: {{t+|hy|բաղադրիչ}}
+* Bulgarian: {{t|bg|съставен от}}
+* Catalan: {{t|ca|constituent}}
+* Chinese:
+*: Mandarin: {{t+|cmn|成分}}
+* Finnish: {{t|fi|[[aines|aineksena]] [[oleva]]}}
+* French: {{t+|fr|constituant}}
+* Galician: {{t|gl|constituínte}}
+* German: {{t+|de|ausmachend}}, {{t+|de|fest}}, {{t|de|Bestand-}}
+* Hungarian: {{t+|hu|alkotó}}, {{t+|hu|összetevő}}
+* Italian: {{t+|it|costituente}}
+* Norwegian:
+*: Bokmål: {{t|no|konstituerende}}
+*: Nynorsk: {{t|nn|konstituerande}}
+* Portuguese: {{t+|pt|constituinte}}
+{{trans-bottom}}
+
+{{trans-top|authorized to make a constitution}}
+* Bulgarian: {{t+|bg|учредителен}}
+* Catalan: {{t|ca|constituent}}
+* Finnish: {{t|fi|[[perustuslaki|perustuslakia]] [[säätää|säätävä]]}}
+* French: {{t+|fr|constituant}}
+* German: {{t+|de|verfassunggebend}}, {{t|de|satzungsgebend}}, {{t+|de|konstituierend}}
+* Hungarian: {{t+|hu|alkotmányozó}}
+* Italian: {{t+|it|costituente}}
+* Portuguese: {{t+|pt|constituinte}}
+* Spanish: {{t|es|constituyente}}
+* Swedish: {{t+|sv|konstituerande}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A part, or component of a whole
+#* '''1865''', {{w|John Tyndall}}, ''The Constitution of the Universe'' (1869), [https://books.google.com/books?id=1jBbAAAAcAAJ&pg=PA11&dq=%22We+know+how+to+bring+these+constituents+together,+and+to+cause+them+to+form+water%22+Tyndall&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjD5fvgm8joAhUDhXIEHegVB5MQ6AEwAXoECAMQAg#v=onepage&q=%22We%20know%20how%20to%20bring%20these%20constituents%20together%2C%20and%20to%20cause%20them%20to%20form%20water%22%20Tyndall&f=false page 11]
+#*: We know how to bring these '''constituents''' together, and to cause them to form water.
+# A person or thing which [[constitute]]s, [[determine]]s, or [[construct]]s
+#* {{RQ:Hale Mankind|passage=whose first composure and origination requires a higher and nobler '''Constituent''' than either Chance or the ordinary method of meer Natural causes.}}
+# A [[resident]] of an area [[represented]] by an [[elected]] [[official]], particularly in relation to that official.
+#* {{RQ:Macaulay History of England|chapter=25|passage=To appeal from the representatives to the '''constituents'''.}}
+#* {{quote-journal|en|date=April 19, 2012|author=Josh Halliday| title=Free speech haven or lawless cesspool – can the internet be civilised?| work=the Guardian| url=http://www.guardian.co.uk/technology/2012/apr/19/free-speech-haven-lawless-cesspool| passage=But the purported rise in violent videos online has led some MPs to campaign for courts to have more power to remove or block material on YouTube. The Labour MP Heidi Alexander said she was appalled after a '''constituent''' was robbed at knifepoint, and the attackers could be found brandishing weapons and rapping about gang violence online.}}
+# A voter who supports a (political) [[candidate]]; a supporter of a cause.
+# {{lb|en|law}} One who [[appoint]]s another to act for him as [[attorney]] in fact<ref>{{R:Burrell LD}}</ref>
+# {{lb|en|grammar}} A [[functional]] [[element]] of a [[phrase]] or [[clause]]
+#* {{quote-book|en|year=1988|author=Andrew Radford| title=Transformational grammar: a first course| location=Cambridge, UK| publisher=Cambridge University Press| page=65| isbn=0-521-34750-5| passage=Thus, the postulation of a ''Noun Phrase'' '''constituent''' is justified on morphological grounds, since it is not obvious how we could describe the grammar of the genitive '''s''' inflection in English without saying that it's a ''Noun Phrase'' inflection.}}
+
+====Related terms====
+{{der2|en|title=terms derived from adjective or noun (unsorted)|constituent assembly|constituent country|core constituent|non-constituent}}
+
+====Translations====
+{{trans-top|part, or component of a whole}}
+* Arabic: {{t|ar|مُكَوِّن|m}}
+* Armenian: {{t+|hy|բաղադրիչ}}
+* Bulgarian: {{t|bg|съставна част}}
+* Czech: {{t+|cs|složka|f}}
+* Dutch: {{t+|nl|bestanddeel|n}}
+* Finnish: {{t|fi|aineosa}}, {{t+|fi|ainesosa}}, {{t+|fi|rakenneosa}}
+* French: {{t+|fr|composant|m}}
+* Georgian: {{t|ka|შემადგენელი ნაწილი}}
+* German: {{t+|de|Bestandteil|m}}, {{t|de|[[formbildend]]er [[Bestandteil]]|m}}
+* Hebrew: {{t+|he|מרכיב|m|tr=markiv}}
+* Hungarian: {{t+|hu|összetevő}}, {{t+|hu|alkotóelem}}, {{t+|hu|alkotórész}}
+* Italian: {{t+|it|elemento|m}}, {{t+|it|costitutivo|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bestanddel|m}}
+* Polish: {{t+|pl|składnik|m}}
+* Portuguese: {{t+|pt|constituinte|m}}
+* Romanian: {{t+|ro|constituent|m}}, {{t+|ro|component|m}}
+* Russian: {{t+|ru|соста́вная часть|f}}
+* Swedish: {{t+|sv|beståndsdel|c}}
+{{trans-bottom}}
+
+{{trans-top|resident of a place represented by an elected official}}
+* Bulgarian: {{t+|bg|избирател|m}}
+* Finnish: {{t+|fi|äänestäjä}}
+* French: {{t+|fr|électeur|m}}, {{t+|fr|administré}}, {{t+|fr|commettant}}
+* Georgian: {{t|ka|ამომრჩეველი}}
+* German: {{t|de|Wahlkreisbewohner|m}}, {{t|de|Wahlkreisbewohnerin|f}}
+* Hungarian: {{t+|hu|választó}}, {{t+|hu|választópolgár}}
+* Italian: {{t+|it|elettore|m}}
+* Polish: {{t+|pl|wyborca|m}}
+* Russian: {{t+|ru|избира́тель|m}}
+{{trans-bottom}}
+
+{{trans-top|functional element of a phrase or clause}}
+* Arabic: {{t-needed|ar}}:
+* Finnish: {{t+|fi|lauseenjäsen}}
+* French: {{t+|fr|constituant|m}}
+* German: {{t+|de|Konstituente|f}}, {{t+|de|Bestandteil|m}}, {{t|de|sprachliche Einheit|f}}
+* Hungarian: {{t+|hu|összetevő}}, {{t|hu|konstituens}}
+* Italian: {{t+|it|elemento|m}}
+* Japanese: {{t|ja|構成素}}
+* Korean: {{t-needed|ko}}:
+* Mongolian: {{t|mn|бүрэлдүүлэгч бүрдүүлбэр|}}
+* Polish: {{t+|pl|element|m}}
+* Portuguese: {{t+|pt|constituinte|m}}
+* Russian: {{t+|ru|составля́ющая|f}}
+* Spanish: {{t|es|constituyente|m}}
+* Swedish: {{t+|sv|konstituent|c}}
+{{trans-bottom}}
+
+====See also====
+* {{pedia|Constituent (linguistics)}}
+
+===Further reading===
+<references/>
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+[[Category:en:People]]
+
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|constituens}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|constituent}} {{gloss|being a part of a whole}}
+
+====Related terms====
+* {{l|ca|constituir}}
+
+===Further reading===
+* {{R:IEC2}}
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA|pos=v}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-constituent.wav|Audio}}
+
+===Verb===
+{{head|fr|verb form}}
+
+# {{inflection of|fr|constituer||3|p|pres//subj}}
+
+==Latin==
+
+===Pronunciation===
+* {{la-IPA|cōnstituent}}
+
+===Verb===
+{{la-verb-form|cōnstituent}}
+
+# {{inflection of|la|cōnstituō||3|p|futr|actv|indc}}
+
+==Romanian==
+
+===Etymology===
+From {{bor|ro|fr|constituant}}.
+
+===Noun===
+{{ro-noun|n|constituenți}}
+
+# {{l|en|constituent}}
+
+====Declension====
+{{ro-noun-n|pl=constituenți}}
