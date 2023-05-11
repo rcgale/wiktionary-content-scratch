@@ -1,0 +1,67 @@
+==Esperanto==
+
+===Pronunciation===
+{{eo-IPA|a=Eo-naturo.ogg}}
+
+===Noun===
+{{eo-head}}
+
+# [[nature]]
+
+{{eo BRO|4}}
+[[Category:eo:Nature]]
+
+==Ido==
+
+===Etymology===
+{{io-bor|eo=naturo|nature|nature|Natur|natura|нату́ра|natura|nodot=1}}, all ultimately from {{der|io|la|natura}}.
+
+===Pronunciation===
+{{io-IPA}}
+
+===Noun===
+{{io-noun|natur}}
+
+# [[nature]]
+
+====Derived terms====
+{{der3
+|io|{{l|io|naturala|t=natural}}
+|{{l|io|naturale|t=naturally}}
+|{{l|io|naturaleso|t=naturalness}}
+|{{l|io|naturalismo|t=naturalism}}
+|{{l|io|naturalisto|t=naturalist}}
+}}
+
+[[Category:io:Nature]]
+
+==Latin==
+
+===Etymology===
+From [[naturus]].
+
+===Pronunciation===
+* {{la-IPA|nātūrō}}
+
+===Verb===
+{{la-verb|1+|nātūrō}}
+
+# I [[produce]] [[naturally]]; I [[nature]]
+
+====Conjugation====
+{{la-conj|1+|nātūrō}}
+
+===Participle===
+{{la-part-form|nātūrō}}
+
+# {{inflection of|la|nātūrus||dat//abl|m//n|s}}
+
+===References===
+* Joseph D. Lesser (2018), [https://books.google.com/books?id=46txDwAAQBAJ&dq=latin+naturo+naturare&source=gbs_navlinks_s Latin-English Dictionary]
+
+==Occitan==
+
+===Noun===
+{{oc-noun|f}}
+
+# {{lb|oc|Mistralian}} [[nature]]; {{alternative form of|oc|natura|nocap=1}}
