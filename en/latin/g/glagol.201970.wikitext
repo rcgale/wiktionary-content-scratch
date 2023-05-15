@@ -1,0 +1,91 @@
+==English==
+
+===Etymology===
+From {{der|en|cu|глаголъ}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{non-gloss definition|Name of the [[letter]] ''g'' in [[Cyrillic]] and [[Glagolitic]] [[alphabet]]s.}}
+
+====Translations====
+{{trans-top|name of the letter g in the Cyrillic and Glagolitic alphabets}}
+* Belarusian: {{t|be|глаго́л|m}}
+* Bulgarian: {{t+|bg|глаго́л|m}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|глаголъ|m}}
+*: Roman: {{t+|sh|glȁgol|m}}
+*: Glagolitic: {{t|cu|ⰳⰾⰰⰳⱁⰾⱏ|m}}
+* Russian: {{t+|ru|глаго́л|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|гла̏гол|m}}
+* Ukrainian: {{t|uk|глаго́л|m}}
+{{trans-bottom}}
+
+===Further reading===
+* {{pedia|Early Cyrillic alphabet}}
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{der|sh|cu|глаголъ}}/{{m|cu|ⰳⰾⰰⰳⱁⰾⱏ}}.
+
+===Pronunciation===
+* {{IPA|sh|/ɡlâɡol/}}
+* {{hyphenation|sh|gla|gol}}
+* {{audio|sh|Hr-glagol.ogg|audio}}
+
+===Noun===
+{{sh-noun|g=m|head=glȁgol}}
+
+# [[verb]]
+
+====Declension====
+{{sh-decl-noun|sc=Latn
+|glagol|glagoli
+|glagola|glagola
+|glagolu|glagolima
+|glagol|glagole
+|glagole|glagoli
+|glagolu|glagolima
+|glagolom|glagolima
+}}
+
+====Hyponyms====
+* {{l|sh|modalni glagol}}
+* {{l|sh|neprelazni glagol}}
+* {{l|sh|neprijelazni glagol}}
+* {{l|sh|pomoćni glagol}}
+
+====Derived terms====
+* {{l|sh|sc=Latn|glagòljati}}
+* {{l|sh|sc=Latn|glȁgolskī}}
+
+===References===
+* {{R:sh:Gluhak|page=229f}}
+
+[[Category:sh:Parts of speech]]
+
+==Slovene==
+
+===Etymology===
+From {{inh|sl|sla-pro|*golgolъ}}.
+
+===Pronunciation===
+* {{sl-IPA|glágol}}
+
+===Noun===
+{{sl-noun|glágol|m-in}}
+
+# [[verb]]
+
+====Inflection====
+{{sl-decl-noun-m|glágol}}
+
+====Derived terms====
+* {{l|sl|glágolnik}}
+
+===Further reading===
+* {{R:sl:Fran}}
+
+[[Category:sl:Parts of speech]]
