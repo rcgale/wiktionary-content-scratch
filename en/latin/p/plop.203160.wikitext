@@ -1,0 +1,104 @@
+{{also|PLoP|plöp}}
+==English==
+
+===Etymology===
+Imitative of the sound, or perhaps a variant of {{m|en|plap}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/plɒp/}}
+* {{audio|en|en-us-plop.ogg|Audio (US)}}
+* {{rhymes|en|ɒp|s=1}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|countable}} A sound or action like [[liquid]] hitting a hard surface, or an object falling into a body of water.
+#: ''He heard the '''plops''' of rain on the roof.''
+# {{lb|en|British|slang}} [[excrement|Excrement]].
+
+====Translations====
+{{trans-top|A sound or action like liquid hitting a hard surface}}
+* Bulgarian: {{t+|bg|цопване|n}}, {{t|bg|плясване|n}}
+* Danish: {{t|da|dryp}}
+* Polish: {{t|pl|pluśnięcie|n}}
+* Russian: {{t+|ru|плеск}}
+* Thai: {{t|th|จ๋อม|tr=jɔ̌m}}
+* Turkish: {{t+|tr|cumburtu}}, {{t+|tr|cumburlop}}, {{t+|tr|cup}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# To make the sound of an object dropping into a body of liquid.
+#* {{quote-text|en|year=2012|author=Augusta Trobaugh|title=Music From Beyond The Moon|page=43
+|passage=Stooping, she picked up another pebble, sounded out the word again, and tossed it into the shallow water near the path, where it '''plopped''' into the water, sending out circles from where it fell.}}
+# {{lb|en|ambitransitive}} To [[land]] [[heavily]] or [[loosely]].
+#: ''He '''plopped''' down on the sofa to watch TV.''
+#* {{quote-book|en|year=2009|author=Reif Larson|title=The Selected Works of T.S. Spivet|publisher=Pinguin Books|page=37
+|passage=There was a world inside that tall grass. You could '''plop''' yourself down in the middle of it with the scraggly stems against the back of your neck and the endless grasses rising up and jackknifing against the bigbluesky, and the ranch and all of its players would fade into a distant dream.}}
+#* {{quote-journal|en|date=2022-10-19|author=J. Kenji López-Alt|title=What Kenji López-Alt Makes His Family for Dinner|journal={{w|The New York Times}}|url=https://www.nytimes.com/2022/10/19/dining/what-kenji-lopez-alt-cooks-family-dinner-udon.html|passage=The first time I had niku udon was at a Japanese convenience store, now long closed, near Columbia University in the mid-1990s. For about $5, the attendants would '''plop''' a handful of freshly boiled udon into a Styrofoam cup and add a ladle of dashi broth seasoned with soy sauce and mirin.}}
+# {{lb|en|British}} To [[defecate]].
+
+====Translations====
+{{trans-top|Sounding of liquid}}
+* Bulgarian: {{t+|bg|цопвам}}
+* Danish: {{t|da|dryppe}}
+* German: {{t+|de|ploppen}}
+* Russian: {{t+|ru|плю́хнуться}}, {{t+|ru|булты́хнуться}} {{qualifier|colloquial}}
+{{trans-bottom}}
+
+{{trans-top|Heavy landing}}
+* Catalan: {{t|ca|caure, amb un so com d'aigua}}
+* Danish: {{t|da|plumpe}}
+* Finnish: {{t|fi|rojahtaa}}
+* German: {{t+|de|plumpsen}}
+* Russian: {{t|ru|плюхнулся|m|pf}}, {{t|ru|плюхнулась|f|pf}}
+* Spanish: {{t|es|dejar caer}}
+{{trans-bottom}}
+
+===Interjection===
+{{en-interj}}
+
+# {{non-gloss definition|Indicating the sound of something plopping.}}
+#* {{quote-book|1=en|year=1900|author=Joseph Conrad|authorlink=Joseph Conrad|title={{w|Lord Jim}}|page=xiii. 110 |passage="[A]fter a bit the old ship went down all on a sudden with a lurch to starboard---'''plop'''. The suck in was something awful."}}
+
+===Anagrams===
+* {{anagrams|en|a=lopp|Lopp}}
+
+[[Category:English onomatopoeias]]
+{{c|en|Sounds}}
+
+==Aromanian==
+
+===Alternative forms===
+* {{alt|rup|plopu|plup|plupu|pljop|pljopu|pliop|pliopu}}
+
+===Etymology===
+From {{inh|rup|VL.|*ploppus}} from classical {{inh|rup|la|pōpulus}}. Compare {{cog|ro|plop}}.
+
+===Noun===
+{{head|rup|noun|g=m|plural|plochi}}
+
+# [[poplar]]
+
+==Romanian==
+
+===Alternative forms===
+* {{alt|ro|pleop}}
+
+===Etymology===
+{{inh+|ro|VL.|*ploppus}}, from classical {{inh|ro|la|pōpulus}}. Compare {{cog|it|pioppo}}.
+
+===Noun===
+{{ro-noun|m|plopi}}
+
+# [[poplar]]
+#: {{ux|ro|[[pe|Pe]] [[lângă]] '''plopii''' [[fără]] [[soț]], [[adesea]] [[am]] [[trecut]].|By '''the''' pairless '''poplars''', often have I passed.}}
+
+====Declension====
+{{ro-noun-m}}
+
+===References===
+* {{R:DEX}}
+
+{{C|ro|Trees|Plants}}
