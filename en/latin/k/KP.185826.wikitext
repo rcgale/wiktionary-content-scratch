@@ -1,0 +1,66 @@
+{{also|k̓p|.kp}}
+==Translingual==
+
+===Etymology===
+{{der+|mul|en|DPRK}}.
+
+===Symbol===
+{{mul-symbol}}
+
+# {{ISO 3166|1|2|North Korea}}
+#: {{syn|mul|PRK|qq1={{w|ISO 3166-1 alpha-3|alpha-3}}}}
+
+{{c|mul|North Korea}}
+
+==English==
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|Pakistan}} {{init of|en|{{w|Khyber Pakhtunkhwa}}}}
+# {{lb|en|countable}} {{init of|en|{{w|Knight of St. Patrick}}}}
+# {{lb|en|military}} {{init of|en|[[kitchen]] [[police]]/[[patrol]]|nodot=1}} {{q|enlisted person assigned to assist in the kitchen, or the role itself}}
+# {{lb|en|uncountable}} {{initialism of|en|[[child porn|kiddy porn]]}}
+# {{lb|en|uncountable|medicine}} {{initialism of|en|keratosis pilaris}}
+# {{lb|en|countable|India|Hinduism}} {{init of|en|{{w|Kashmiri Pandit}}}}
+
+====Translations====
+{{trans-top|kitchen police}}
+* Russian: {{t|ru|наря́д на ку́хню|m}}
+{{trans-bottom}}
+
+====Translations====
+{{trans-top|Kashmiri Pandit}}
+* Hindi: {{t|hi|कश्मीरी पंडित|m}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=kp|PK|pk}}
+
+==German==
+
+===Pronunciation===
+* {{audio|de|De-KP.ogg|Audio}}
+
+===Noun===
+{{head|de|noun}}
+
+# {{init of|de|[[Kaufpreis]]}}
+
+===Proper noun===
+{{head|de|proper noun}}
+
+# {{init of|de|[[Kommunistische Partei]]}}
+
+==Indonesian==
+
+===Pronunciation===
+* {{IPA|id|[ˈkape]|qual1=}}
+
+===Noun===
+{{id-noun|pl=-}}
+
+# {{lb|id|education}} {{initialism of|id|kerja praktik|t=}}
+# {{initialism of|id|[[kartu]] [[pengawasan]]|t=}}
+
+[[Category:Indonesian two-letter abbreviations]]
