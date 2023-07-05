@@ -1,0 +1,158 @@
+{{also|UG|Ug|.ug}}
+==Translingual==
+
+===Symbol===
+{{mul-symbol}}
+
+# {{ISO 639|1}}
+# {{lb|mul|typography}} {{SI-unit-abb|micro|gram|[[mass]]}} {{alternative form of|mul|µg}}
+#: {{syn|mul|mcg|µg}}
+
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ʌɡ/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-ug.wav|Audio (Southern England)}}
+* {{rhymes|en|ʌɡ|s=1}}
+
+===Etymology 1===
+From {{inh|en|enm|ugge}}, from {{der|en|non|uggr||fear, apprehension, dread}}, related to {{cog|non|ógn||terror, threat, dispute}} and {{m|non|agi||terror, strife, fear, punishment}}. More at {{l|en|awe}}.
+
+====Alternative forms====
+* {{l|en|ugg}}, {{l|en|oug}}
+
+====Noun====
+{{en-noun|~}}
+
+# {{lb|en|North England|and|Scotland|obsolete}} A feeling of [[fear]], [[horror]] or [[disgust]].
+#: {{usex|en|He took an '''ug''' at's meht.}}<!-- as used in The English Dialect Dictionary -->
+# {{lb|en|North England|and|Scotland|obsolete}} An object of [[disgust]].
+#: {{usex|en|What an '''ug''' ye've myed yorsel.}}<!-- as used in The English Dialect Dictionary -->
+# {{lb|en|North England|and|Scotland|obsolete}} [[vomit|Vomited]] matter.
+# {{lb|en|Northumbria}} A [[surfeit]].
+
+=====Synonyms=====
+* {{sense|fear; horror}} {{l|en|dread}}, {{l|en|fright}}; see also [[Thesaurus:fear]]
+* {{sense|digust}} {{l|en|distaste}}, {{l|en|loathsomeness}}, {{l|en|revulsion}}
+* {{sense|object of disgust}} {{l|en|abomination}}
+* {{sense|vomit}} {{l|en|chunder}}, {{l|en|sick}}; see also [[Thesaurus:vomit]]
+* {{sense|surfeit}} {{l|en|glut}}, {{l|en|surplus}}; see also [[Thesaurus:excess]]
+
+=====Derived terms=====
+* {{l|en|ugfou}}
+* {{l|en|uggin}}
+* {{l|en|ugsome}}
+* {{l|en|ugsomely}}
+* {{l|en|ugsomeness}}
+
+=====Related terms=====
+* {{l|en|ugly}}
+
+====References====
+* {{R:Wright|volume=6|page=298}}
+
+===Etymology 2===
+From {{inh|en|enm|uggen}}, from {{der|en|non|ugga||to fear}}, see above.
+
+====Alternative forms====
+* {{l|en|ugg}}, {{l|en|oug}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|North England|and|Scotland|obsolete}} To [[dread]], [[loathe]] or [[disgust]].
+#* {{quote-book
+|en
+|year=1822
+|title=Poems, Chiefly in the Scottish Dialect
+|first=Robert|last=Wilson
+|chapter=Answer to an Epistle from a Friend
+|pageurl=https://books.google.com/books?id=iJxgAAAAcAAJ&pg=PA71
+|page=71
+|passage=Wha weds a cankert thriftless wife, / Weds to his days eternal strife, / For, like the Tron-Kirk bell, / She ever hammers on his lugs, / Till her an' hame at last he '''uggs''' / As the dire door o' hell!
+}}
+# {{lb|en|North England|and|Scotland|obsolete}} To fear, be [[horrified]]; [[shudder]] with horror.
+# {{lb|en|North England|and|Scotland|obsolete}} To [[vomit]].
+# {{lb|en|Northumbria|obsolete}} To give a [[surfeit]] to.
+
+=====Synonyms=====
+* {{sense|feel abhorrence}} {{l|en|abhor}}, {{l|en|loathe}}; see also [[Thesaurus:hate]].  Alternatively: {{l|en|nauseate}}, {{l|en|sicken}}.
+* {{sense|vomit}} {{l|en|heave}}, {{l|en|pray to the porcelain god}}, {{l|en|throw up}}; see also [[Thesaurus:regurgitate]]
+
+====References====
+* {{R:Century 1914}}
+* {{R:Wright|volume=6|page=298}}
+
+===Etymology 3===
+Derived from the similarity between the letter [[u]] and the Greek letter [[µ]].
+
+====Symbol====
+{{head|en|symbol}}
+
+# {{alternative spelling of|en|µg}}
+
+===Etymology 4===
+[[File:Kopie van DSC00282.JPG|thumb|right|The ugs (circled) of a ''koi'' carp.]]
+From {{der|en|is|uggi||fin}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|Caithness|Scotland}} The [[pectoral fin]] of a [[fish]].
+
+=====Synonyms=====
+* {{l|en|pectoral}}
+
+====References====
+* {{R:Wright|volume=6|page=298}}
+
+===Anagrams===
+* {{anagrams|en|a=gu|GU|Gu|gu}}
+
+[[Category:Symbols for SI units]]
+[[Category:English two-letter words]]
+
+==Cebuano==
+
+===Etymology 1===
+Akin to {{cog|mrw|ago}}.
+
+====Conjunction====
+{{head|ceb|conjunction}}
+
+# [[and]]
+
+===Etymology 2===
+
+====Article====
+{{head|ceb|article}}
+
+# {{nonstandard form of|ceb|og}}
+
+==Sumerian==
+
+===Romanization===
+{{sux-rom}}
+
+# {{romanization of|sux|𒊌|tr=ug}}
+
+==Waray-Waray==
+
+===Conjunction===
+{{head|war|conjunction}}
+
+# [[and]]
+
+==Yola==
+
+===Etymology===
+{{bor+|yol|ga|ag}}
+
+===Preposition===
+{{head|yol|preposition}}
+
+# [[for]], [[at]].
+#* {{quote-book|yol|year=1867|chapter=SONG|number=1|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=Zing '''ug''' a mor fane a zour a ling.|translation=——————————————————}}
+
+===References===
+* {{R:Poole 1867|page=108}}
