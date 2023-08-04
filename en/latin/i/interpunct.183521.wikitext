@@ -1,0 +1,37 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{root|en|ine-pro|*pewǵ-}}
+From {{uder|en|la|interpunctus}}, from {{m|la|inter-||between, mid-}} + {{m|la|punctus||point}}.
+
+===Noun===
+{{en-noun}}
+
+# {{label|en|typography}} The [[punctuation mark]] ⟨[[·]]⟩.
+
+====Synonyms====
+* {{l|en|middot}}, {{l|en|centered dot}}, {{l|en|middle dot}}, {{l|en|space dot}}, {{l|en|interpoint}}; {{l|en|decimal point}} {{qualifier|UK}}; {{l|en|[[come#Etymology_2|come]]}} {{qualifier|obsolete}}
+
+====Translations====
+{{trans-top|punctuation mark}}
+* Catalan: {{t+|ca|punt volat|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|间隔号|tr=jiāngéhào}}
+* Dutch: {{t|nl|hoge punt}}, {{t|nl|halfhoge punt|m}}
+* Esperanto: {{t|eo|meza punkto}}
+* French: {{t+|fr|point médian|m}}, {{t|fr|point en haut|m}}
+* German: {{t+|de|Mittelpunkt|m}}
+* Hungarian: {{t|hu|középső pont}}
+* Japanese: {{t|ja|中黒|tr=なかぐろ, nakaguro}}
+* Korean: {{t+|ko|가운뎃점}}
+* Polish: {{t|pl|kropka środkowa|f}}
+* Portuguese: {{t+|pt|ponto mediano|m}}
+* Swedish: {{t|sv|halvhög punkt|c}}
+* Ukrainian: {{t|uk|інтерпункт|m}}
+{{trans-bottom}}
+
+===See also===
+{{punctuation}}
+
+[[Category:en:Punctuation marks]]
