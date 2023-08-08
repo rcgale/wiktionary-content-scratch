@@ -1,0 +1,69 @@
+==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|fœderalism}} {{qualifier|archaic}}
+
+===Etymology===
+From {{uder|en|fr|fédéralisme}}, equivalent to {{suffix|en|federal|ism}}.
+
+===Noun===
+{{en-noun|~}}
+
+# A {{l|en|system}} of {{l|en|national}} {{l|en|government}} in which {{l|en|power}} is {{l|en|divided}} between a {{l|en|central}} {{l|en|authority}} and a number of {{l|en|regions}} with [[delimited]] [[self-governing]] authority.
+# The [[belief]] that [[such]] a [[system]] is [[superior]] to [[other]] [[form]]s of [[government]].
+# {{lb|en|theology}} [[covenantalism|Covenantalism]].
+
+====Synonyms====
+* {{sense|belief in the superiority of wide regional autonomy}} {{l|en|regionalism}}, {{l|en|provincialism}}, {{l|en|statism}}
+
+====Derived terms====
+{{der2|en|anti-federalism|cooperative federalism|dual federalism|layer cake federalism|marble cake federalism|federalist}}
+
+====Translations====
+{{trans-top|system of government}}
+* Burmese: {{t|my|ဖက်ဒရယ်ပြည်ထောင်စုစနစ်}}
+* Catalan: {{t|ca|federalisme|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|聯邦制|tr=liánbāngzhì}}, {{t|cmn|聯邦主義|tr=liánbāngzhǔyì}}
+* Dutch: {{t+|nl|federalisme|m}}
+* Finnish: {{t+|fi|federalismi}}
+* French: {{t+|fr|fédéralisme|m}}
+* Georgian: {{t|ka|ფედერალიზმი}}
+* German: {{t+|de|Föderalismus|m}}
+* Ido: {{t+|io|federalismo}}
+* Indonesian: {{t+|id|federalisme}}, {{t+|id|perserikatan}}
+* Irish: {{t|ga|cónaidhmeacht|f}}
+* Japanese: {{t|ja|連邦主義|tr=れんぽうしゅぎ, renpōshugi}}
+* Kannada: {{t+|kn|ಸಂಯುಕ್ತ ವ್ಯವಸ್ಥೆ}}
+* Kapampangan: {{t|pam|pederalismu}}
+* Kazakh: {{t|kk|федерализм}}
+* Korean: {{t|ko|[[연방]][[주의]](聯邦主義)}}
+* Portuguese: {{t+|pt|federalismo|m}}
+* Romanian: {{t+|ro|federalism|n}}
+* Russian: {{t+|ru|федерали́зм|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|федералѝзам|m}}
+*: Roman: {{t+|sh|federalìzam|m}}
+* Spanish: {{t+|es|federalismo|m}}
+* Tagalog: {{t|tl|pederalismo}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Irish: {{t-check|ga|feidearálachas|m}} {{q|principle}}
+{{trans-bottom}}
+
+[[Category:English hybridisms suffixed with -ism]]
+
+==Romanian==
+
+===Etymology===
+{{bor+|ro|fr|fédéralisme}}.
+
+===Noun===
+{{ro-noun|n|-}}
+
+# {{l|en|federalism}}
+
+====Declension====
+{{ro-noun-n|n=sg}}
