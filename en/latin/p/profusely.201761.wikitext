@@ -1,0 +1,39 @@
+==English==
+
+===Etymology===
+{{suffix|en|profuse|ly}}
+
+===Pronunciation===
+* {{a|US}} {{IPA|en|/pɹəˈfjusli/}}
+* {{audio|en|en-us-profusely.ogg|Audio (US)}}
+
+===Adverb===
+{{en-adv}}
+
+# In great [[quantity]] or [[abundance]]; in a [[profuse]] manner.
+#: ''The run left him sweating '''profusely'''.''
+#* {{RQ:Doyle Land of Mist|passage="Oh, I say! By Jove! What!" was his oration, after which he resumed his seat and perspired '''profusely'''.}}
+
+====Collocations====
+Some verbs commonly collocating with profusely: 
+* {{coi|en|sweat '''profusely'''}}
+* {{coi|en|apologise '''profusely'''}}
+* {{coi|en|bleed '''profusely'''}}
+* {{coi|en|thank '''profusely'''}}
+* {{coi|en|cry '''profusely'''}}
+
+====Translations====
+{{trans-top|in great quantity or abundance; in a profuse manner}}
+* Afrikaans:  {{t-needed|af}}
+* Armenian:  {{t-needed|hy}}
+* Dutch:  {{t-needed|nl}}
+* Finnish: {{t+|fi|runsaasti}}, {{t+|fi|vuolaasti}}
+* Galician:  {{t-needed|gl}}
+* German: {{t+|de|übermäßig}}, {{t|de|über alle Maßen}}, {{t+|de|außerordentlich}}, {{t+|de|extrem}}
+* Hungarian: {{t+|hu|bőségesen}}, {{t+|hu|bőven}}, {{q|gush profusely, e.g. of sweat}} {{t+|hu|ömlik}}, {{t+|hu|dől}}, {{t+|hu|szakad}} {{q|the origin of the liquid is expressed with {{m|hu|-ról}}/{{m|hu|-ről}} or {{m|hu|-ból}}/{{m|hu|-ből}}}}
+* Norwegian:  {{t-needed|no}}
+* Polish: {{t+|pl|bogato}}
+* Russian: {{t+|ru|обильно}}
+* Swedish:  {{t-needed|sv}}
+* Welsh:  {{t-needed|cy}}
+{{trans-bottom}}
