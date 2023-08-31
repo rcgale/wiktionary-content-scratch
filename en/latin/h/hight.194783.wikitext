@@ -1,0 +1,142 @@
+{{also|Hight}}
+==English==
+
+===Alternative forms===
+* {{alt|en|highte}}
+
+===Pronunciation===
+* {{rhymes|en|aɪt|s=1}}
+* {{IPA|en|/haɪt/}}
+* {{audio|en|en-us-height.ogg|Audio (US)}}
+* {{homophones|en|height}}
+
+===Etymology 1===
+From {{der|en|enm|hight||to be named, be called}} (alternative past participle of {{m|enm|hoten}}, see also {{m|en|hote}}), from {{der|en|ang|hēht||pos=preterite of {{m|ang|hātan}}|was named, was called}}, from *''hehait-'', reduplicate preterite base of {{der|en|gmw-pro|*haitan}}, from {{der|en|gem-pro|*haitaną||to call, command, summon}}. Akin to {{cog|de|heißen}}.
+
+====Verb====
+{{en-verb|-|-|hight|pres_3sg2=hote|pres_3sg2_qual=obsolete|pres_ptc2=hoting|pres_ptc2_qual=obsolete}}
+''hight'' is only the [[preterite]] or past participle, not the infinitive or present.
+
+# {{lb|en|obsolete}} {{infl of|en|hote||spast}}
+# {{lb|en|archaic|transitive}} To [[call]], [[name]].
+#* {{quote-book|en|year=c. 1515|year_published=1568|author={{w|John Skelton}}|title=Againſt venemous tongues enpoyſoned with ſclaunder and falſe detractions &c.|text=But if that I knewe what his name '''hight''',<br>For clatering of me I would him ſone quight;<br>For his falſe lying, of that I ſpake never,<br>I could make him ſhortly repent him forever: {{…}}}}
+#* {{RQ:Byron Childe Harold|canto=I|stanza=III|passage=Childe Harold was he '''hight'''.}}
+#* {{RQ:Pyle Round Table|page=66|chapter=The Story of Launcelot|passage=“Lord,” said Sir Launcelot, “I am '''hight''' Launcelot, and am surnamed ‘He of the Lake.’”}}
+# {{lb|en|archaic|intransitive}} To be called or named.
+#* {{quote-book|en|year=c. 1547|author={{w|Henry Howard, Earl of Surrey}}|title=The faithful Lover declareth his Pains and his uncertain Joys, and with only Hope recomforteth somewhat his woful Heart|text=Bright was her hue, and Geraldine she '''hight'''.}}
+#* {{RQ:Shakespeare Love's Labour's Lost Q1|act=I|scene=i|page=15|passage={{...}} I did incounter that obſeene and moſt prepoſterous euent that draweth frõ my ſnowhite pen the ebon coloured Incke, which here thou vieweſt, beholdeſt, ſuruayeſt, or ſeeſt. {{...}} There did I ſee that low ſpirited Swaine, {{...}} '''hight''' ''Coſtard'', (Clow[ne]. O mee) ſorted and conſorted contrary to thy eſtabliſhed proclaymed Edict and continent Cannon; Which with, o with, but with this I paſſion to ſay wherewith: / ''Clo''[''wne'']. With a Wench.}}
+# {{lb|en|archaic|dialectal}} To [[command]]; to [[enjoin]].
+#: {{ux|en|I '''hight''' ye take me wi' ye. I ne can no lenger her b'live.}}
+#* {{quote-book|en|year=1872|author={{w|John Stuart Blackie}}|url=https://books.google.com/books?id=9nACAAAAQAAJ&printsec=frontcover&dq=Lays+of+the+Highlands+and+Islands&hl=en&sa=X&ved=0ahUKEwjZvtHBhtPWAhVPFMAKHf4ACQMQ6AEIKDAA#v=snippet&q=%20I%20obey.&f=false|title=Lays of the Highlands and Islands|text=Malaise priest of Innishmurry / '''Hights ''' me go, and I obey.}}
+
+=====Usage notes=====
+*The verb ''hight'' has many different forms in many different regions. For the present tense the form {{m|en|het}} is rather common. The usage example for the sense "to command or to enjoin" can be rendered in standard English in the following manner:
+*: {{ux|en|I '''hight''' ye take me wi' ye. I ne can no lenger her b'live|I '''bid''' you take me with you. I can no longer stay here.}}
+* Moreover, in the sense "to enjoin", the word is mainly used for emphasis, and as such is untranslatable into standard English. For example: 
+*: {{ux|en|I '''het''' ye leit mee men ga. 'Ey ne dyde nathing te na ane. 'Ey ar wyteless.|Please, let my men go. They did not do anything to any one. They are blameless.}}
+* The word survives only as part of the [[oral tradition]] in rural Scotland and Northern England. It is no longer used in common speech.
+
+=====Translations=====
+{{trans-see|call}}
+
+{{trans-top-see|be called|be called}}
+* Belarusian: {{t|be|называ́цца|impf|sc=Cyrl}}
+* Bulgarian: {{t|bg|ка́звам се|impf}}, {{t+|bg|нари́чам|impf|alt=нари́чам се|sc=Cyrl}}
+* Burmese: {{t+|my|ခေါ်|sc=Mymr}}
+* Catalan: {{t+|ca|dir-se}}
+* Chinese:
+*: Mandarin: {{t+|cmn|叫|tr=jiào}}, {{t+|cmn|稱為|tr=chēngwéi}}
+* Czech: {{t+|cs|jmenovat|impf|alt=jmenovat se}}
+* Danish: {{t+|da|hedde}}
+* Dutch: {{t+|nl|heten}}
+* Esperanto: {{t|eo|nomiĝi}}
+* Faroese: {{t+|fo|eita}}
+* Finnish: {{t|fi|kutsutaan}}
+* French: {{t+|fr|s'appeler}}, {{t+|fr|nommer|alt=se nommer}}
+* Galician: {{t|gl|chamarse}}
+* German: {{t+|de|heißen}}, {{t+|de|nennen|alt=sich nennen}}
+* Gothic: {{t|got|𐌷𐌰𐌹𐍄𐌰𐌽}}
+* Greek: {{t+|el|λέγομαι|sc=Grek}}
+* Icelandic: {{t+|is|heita}}
+* Italian: {{t|it|chiamarsi}}
+* Japanese: {{t+|ja|言う|tr=...という, ... to iu|alt=...と言う|sc=Jpan}}, {{t+|ja|いう|tr=...という, ... to iu|alt=...という|sc=Jpan}}, {{t+|ja|申す|tr=...ともうす, ... to mōsu|alt=...と申す|sc=Jpan}} {{qualifier|humble}}
+* Khmer: {{t+|km|ឈ្មោះ|tr=chmʊəh|sc=Khmr}}
+* Korean: {{t+|ko|부르다|alt=...(이)라고 부르다|sc=Kore}}
+* Lao: {{t|lo|ຊື່}}
+* Macedonian: {{t|mk|вика|alt=се ви́ка|sc=Cyrl}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hete}}
+*: Nynorsk: {{t|nn|heita}}
+* Old English: {{t|ang|hātan}}
+* Old Norse: {{t|non|heita}}
+* Persian: {{t|fa|گفته شدن|tr=gofte šodan}}
+* Polish: {{t+|pl|nazywać|impf|alt=nazywać się}}, {{t+|pl|zwać|impf|alt=zwać się}} {{qualifier|dated}}
+* Portuguese: {{t|pt|[[chamar]]-[[se]]}}
+* Russian: {{t+|ru|называ́ться|impf}}, {{t+|ru|именова́ться|impf}}
+* Serbo-Croatian: {{qualifier|reflexive}} {{t+|sh|zvati}}, {{t|sh|звати}}
+* Slovak: {{t|sk|volať|impf|alt=volať sa}}
+* Slovene: {{t+|sl|imenovati|impf|alt=imenovati se}}
+* Spanish: {{t+|es|llamarse}}
+* Swedish: {{t+|sv|heta}}
+* Thai: {{t+|th|ชื่อ}}
+* Tibetan: ''use'' {{t|bo|ཟེར}}, {{t|bo|ཞུ}} {{q|honorific}} + possessor: {{t|bo|ལ་དོན}} ([[oblique case|oblique]]/[[dative case|dative]]-[[locative case|locative]] case) ({{t|bo|[[ལ]]/[[ལ|-ར]]}})
+* Turkish: {{t|tr|çağrılabilir}}
+* Ukrainian: {{t|uk|назива́тися|impf|sc=Cyrl}}
+* Vietnamese: {{t+|vi|gọi là|alt=được gọi là}}
+* Volapük: {{t+|vo|panemön}}
+{{trans-bottom}}
+
+====Adjective====
+{{en-adj|-}}
+
+# {{lb|en|archaic}} [[called|Called]], [[named]].
+#: {{syn|en|yclept}}
+#* {{RQ:R. F. Burton Arabian Nights|passage={{...}}there dwelt in a city of the cities of China a man which was a tailor, withal a pauper, and he had one son, Alaeddin '''hight'''.|night=514|supp=1}}
+
+=====Translations=====
+{{trans-top|called, named}}
+* Russian: {{t+|ru|называ́емый}}, {{t+|ru|имену́емый}}
+{{trans-bottom}}
+
+===Etymology 2===
+''See [[height]]''
+
+====Noun====
+{{en-noun}}
+
+# {{obsolete form of|en|height}}
+#* {{RQ:Milton Paradise Lost|3|passage=High thron'd above all '''hights'''}}
+
+{{Webster 1913}}
+
+===Anagrams===
+* {{anagrams|en|a=ghhit|thigh}}
+
+{{cln|en|defective verbs}}
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|huht|hihht|hihte|hiȝte|hiht}}
+
+===Etymology===
+{{dercat|enm|gem-pro|inh=1}}
+From {{inh|enm|ang|hyht}}.
+
+===Pronunciation===
+* {{IPA|enm|/hixt/}}
+* {{rhymes|enm|ixt|s=1}}
+
+===Noun===
+{{head|enm|noun}}
+
+# [[hopefulness]], [[expectedness]]
+# [[gladness]], [[satisfaction]]
+
+====Descendants====
+* {{desc|en|hight}} {{q|obsolete}}
+
+====References====
+* {{R:MED Online|entry=hight |pos=n |id=MED20772 |accessdate=2018-05-24}}
+
+[[Category:enm:Emotions]]
