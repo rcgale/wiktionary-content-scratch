@@ -1,0 +1,173 @@
+{{also|Hord|hörd}}
+==Hungarian==
+
+===Etymology===
+From {{inh|hu|urj-ugr-pro|*kurɜ-||to draw, tug, drag, carry}}<ref>{{R:Uralonet|1784}}</ref> + {{af|hu|-d|pos1=frequentative suffix|pos=verb}}.<ref>{{R:Zaicz 2006}}</ref>
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{homophones|hu|hordd}}
+* {{rhymes|hu|ord|s=1}}
+
+===Verb===
+{{hu-verb}}
+
+# {{lb|hu|transitive}} to {{l|en|carry}} {{gloss|repeatedly, regularly, and/or continuously}}
+#: {{syn|hu|hordoz}}
+#: {{cot|hu|visz|szállít}} {{gloss|at the moment}}
+# {{lb|hu|transitive|of clothes}} to {{l|en|wear}}  {{gloss|regularly}}
+#: {{syn|hu|visel|[[van]] [[rajta]]}} {{gloss|at the moment}}
+
+====Conjugation====
+{{hu-conj-ok|ho|r|d|in-past=t}}
+
+====Derived terms====
+{{col4|hu
+|hordalék
+|hordár
+|hordás
+|hordó
+|hordoz
+}}
+{{col4|hu|title=Compound words
+|hordágy
+|horderejű
+|horderő
+}}
+{{hu-verbpref|sep=3|hord|át|be|el|előre|fel|félre|föl|ki|le|össze|széjjel|szét|vissza}}
+{{col2|hu|title=Expressions
+|az asszony hordja a nadrágot
+|fenn hordja az orrát
+|tenyerén hord
+|vizet hord a Dunába
+}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:ErtSz}}
+
+==Irish==
+
+===Noun===
+{{head|ga|mutated noun}}
+
+# {{h-prothesis of|ga|ord}}
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|hoord|horde|hurd|hurde}}
+
+===Etymology===
+From {{inh|enm|ang|hord}}, from {{inh|enm|gmw-pro|*hoʀd}}, from {{inh|enm|gem-pro|*huzdą}}.
+
+===Pronunciation===
+* {{IPA|enm|/hɔrd/|/hoːrd/}}
+
+===Noun===
+{{enm-noun|hordes}}
+
+# A [[hoard]] or [[cache]] of hidden valuables.
+# A [[location]] or [[room]] of hidden non-valuables.
+# A [[storehouse]] of (non-hidden) valuables or [[presents]].
+# {{lb|enm|figurative}} A [[supply]] or [[stock]] of abstract valuables.
+# {{lb|enm|rare}} The act of putting away for safekeeping.
+
+====Related terms====
+* {{l|enm|horden}}
+* {{l|enm|hordere}}
+
+====Descendants====
+* {{desc|en|hoard}}
+* {{desc|sco|huird|hurd|hurde}}
+
+====References====
+* {{R:MED Online|entry=hō̆rd|part of speech=n.(1)|id=MED21182 |accessdate=2019-03-25}}
+
+[[Category:enm:Money]]
+[[Category:enm:Rooms]]
+
+==Norwegian Nynorsk==
+
+===Etymology 1===
+From {{inh|nn|non|hǫrðar|g=m-p}}, from {{inh|nn|gem-pro|*haruðōz}}.
+
+====Pronunciation====
+* {{IPA|nn|/hoːr/}}
+
+====Noun====
+{{nn-noun-m1}}
+
+# a [[Hord]], a person from [[Hordaland]]
+
+=====Related terms=====
+* {{l|nn|hordalending}}
+
+===Etymology 2===
+From {{inh|nn|non|hǫrð|g=f}}, feminine of {{m|nn|harðr|g=m}}.
+
+====Pronunciation====
+* {{IPA|nn|/hoːr/}}
+* {{a|Setesdal}} {{IPA|nn|[hʊɔːr]}}
+
+====Adjective====
+{{head|nn|adjective form}}
+
+# {{lb|nn|dated}} {{inflection of|nn|hard||f|s}}
+# {{lb|nn|dialectal|Setesdal}} {{inflection of|nn|hard’e||f|s}}
+# {{lb|nn|dialectal|Hardanger}} {{inflection of|nn|hard’u||f|s}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+* {{R:Aasen|Hord}}
+* {{R:Aasen|hard}}
+
+{{topics|nn|Demonyms}}
+
+==Old English==
+
+===Etymology===
+From {{inh|ang|gem-pro|*huzdą}}.
+
+===Pronunciation===
+* {{ang-IPA|hord}}
+
+===Noun===
+{{ang-noun|n|hord}}
+
+# A [[hoard]], especially of valuable items, hidden for preservation.
+
+====Declension====
+{{ang-decl-noun-a-n|hord}}
+
+====Derived terms====
+* {{l|ang|bōchord}}
+* {{l|ang|wordhord}}
+
+====Descendants====
+* {{desctree|enm|hord}}
+
+==Old Saxon==
+
+===Etymology===
+From {{inh|osx|gem-pro|*huzdą}}.
+
+===Noun===
+{{osx-noun|n}}
+
+# a [[treasure]], hiding-place
+
+====Declension====
+{{rfinfl|osx|noun}}
+
+==Swedish==
+
+===Noun===
+{{sv-noun|c}}
+
+# [[horde]]
+
+====Declension====
+{{sv-infl-noun-c-er}}
