@@ -1,0 +1,74 @@
+==Russian==
+
+===Etymology===
+{{inh+|ru|sla-pro|*govoriti}}, from {{der|ru|ine-pro|*gewH-||to call, cry}} with a {{m|ine-pro||-b⁽ʰ⁾-}} enlargement, perhaps connected to the synonymous {{m|ine-pro|*ǵʰewH-}}. Cognate to {{cog|pl|gaworzyć}}, {{cog|cs|hovořit}}, {{cog|uk|говорити}}, {{cog|sh|гово̀рити}}, {{cog|fa|گفتن|tr=goftan|t=to say, to speak}}.
+
+===Pronunciation===
+* {{ru-IPA|говори́ть}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
+
+===Verb===
+{{ru-verb|говори́ть|impf|pf=сказа́ть|pf2=поговори́ть|vn=говоре́ние}}
+
+# to [[speak]], to [[talk]]
+#: {{uxi|ru|[[я|Я]] '''говорю́''' [[по-ру́сски]].|I '''speak''' Russian.}}
+# to [[say]], to [[tell]]
+#: {{uxi|ru|[[что|Что]] [[она́]] '''говори́т'''?|What '''is''' she '''saying'''?}}
+
+====Conjugation====
+{{ru-conj|impf|4b+p|говори́ть}}
+{{ru-conj|impf|4b+p|говори́ть|old=1}}
+
+====Derived terms====
+{{ru-derived verbs
+|-/говори́ться
+|-/гова́ривать<q:iterative>
+|-
+|*-/гова́ривать
+|по
+|пораз
+|*говори́ть/гова́ривать
+|вы́
+|до
+|за
+|на
+|недо
+|о
+|об
+|от
+|пере
+|по-/-
+|под
+|при
+|про
+|раз
+|с
+|у
+|*говори́ться/-
+|на
+|раз
+|*говори́ться/гова́риваться
+|-/пере-
+|вы́
+|до
+|за
+|о
+|от
+|под
+|про
+|с
+|у
+}}
+
+====Related terms====
+{{rel3|ru|вы́говор|го́вор|говори́льня|[[говору́н]], [[говору́нья]]|[[догово́р]], [[до́говор]]|догово́рчик|за́говор|загово́рщик|нагово́р|огово́р|отгово́рка|перегово́ры|погово́рка|пригово́р|разгово́р|сго́вор|скорогово́рка|угово́р}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|гово́рить}}
+
+===Verb===
+{{head|uk|verb form|head=гово́рить}}
+
+# {{inflection of|uk|говори́ти||3|s|pres|impfv}}
