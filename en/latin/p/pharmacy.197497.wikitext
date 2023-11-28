@@ -1,0 +1,263 @@
+==English==
+{{wikipedia|pharmacy (disambiguation)|pharmacy}}
+[[File:Abm-college-pharmacy-assistant-lab-1-5821 x 3881.jpg|thumb|A '''pharmacy''' counter.]]
+
+===Etymology===
+From {{inh|en|enm|pharmacy}}, borrowed from {{der|en|frm|pharmacie||the [[art]] of [[creating]] [[drug]]s; a [[drug]], [[especially]] a [[laxative]]}}, from {{der|en|fro|farmacie}}, from {{der|en|ML.|pharmacia}}, from {{der|en|grc|φαρμακεία||the use of drugs}}, from {{m|grc|φάρμακον||a drug, charm, enchantment}}, of uncertain but likely {{der|en|qsb-grc|-}} origin. Attested since late 14th century.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈfɑːməsi/}}
+* {{audio|en|En-uk-pharmacy.ogg|Audio (UK)}}
+* {{a|GenAm}} {{enPR|fär'məsē}} {{IPA|en|/ˈfɑɹməsi/}}
+* {{audio|en|En-us-pharmacy.ogg|Audio (US)}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{label|en|countable}} A [[place]] [[where]] [[prescription drug]]s [[are]] [[sold]] or [[dispensed]].
+# {{label|en|uncountable}} The [[science]] of [[medicinal]] [[substance]]s, [[inclusive]] of [[pharmaceutics]], [[pharmaceutical]] [[chemistry]], [[pharmacology]], [[phytochemistry]], and [[forensics]].
+# {{label|en|uncountable}} The [[role]] or [[occupation]] of a [[pharmacist]].
+
+====Usage notes====
+The American {{m|en|drugstore}} and British and Commonwealth {{m|en|chemist's}} are more common when referencing a small shop, especially when it is run as a general store that sells food and other goods as well as medicines. The pharmacies operated within hospitals that dispense medicine without acting as a point of sale are sometimes distinguished as {{m|en|dispensaries}}.
+
+====Synonyms====
+* {{sense|drugstore}} {{l|en|drugstore}} {{q|US}}; {{l|en|chemist}}, {{l|en|chemist's}}, {{l|en|chemist's shop}} {{q|UK}}; {{l|en|dispensary}} {{q|dated}}; {{l|en|druggist's}}, {{l|en|druggist's shop}} {{q|US dated}}; {{l|en|apothecary's}}, {{l|en|apothecary's shop}} {{q|UK dated}}; {{l|en|apothecary}} {{q|historical or archaic}}
+
+====Derived terms====
+{{col-auto|en|compounding pharmacy|retail pharmacy
+|megapharmacy}}
+
+====Related terms====
+* {{l|en|pharmacist}}, {{l|en|pharmacian}}
+* {{l|en|pharmacology}}
+* {{l|en|pharmacopolist}}, {{l|en|pharmacopole}}
+
+====Translations====
+{{trans-top|a place where prescription drugs are dispensed}}
+* Afrikaans: {{t+|af|apteek}}
+* Albanian: {{t+|sq|barnatore|f}}
+* Apache:
+*: Western Apache: {{t|apw|izeeʼ idiihyee}}
+* Arabic: {{t|ar|صَيْدَلِيَّة|f}}
+*: Egyptian Arabic: {{t|arz|اجزخانه|f|tr=agzaḵāna}}, {{t|arz|صيدلية|f|tr=ṣaydaliyya}}
+*: Hijazi Arabic: {{t|acw|صيدلية|f|tr=ṣaydaliyya}}
+*: Moroccan Arabic: {{t|ary|فارمسيان|m|tr=fārmasyān}}, {{t|ary|صيدلية|f|tr=ṣaydaliyya}}
+* Armenian: {{t+|hy|դեղատուն}}, {{t+|hy|ապտեկա}} {{qualifier|colloquial}}
+* Assamese: {{t|as|ফাৰ্মাছী}}
+* Asturian: {{t|ast|botica|f}}, {{t|ast|farmacia|f}}
+* Azerbaijani: {{t+|az|aptek}}, {{t|az|dərmanxana}}, {{t|az|əczaxana}}
+* Bashkir: {{t|ba|дарыухана}}
+* Basque: {{t|eu|farmazia|s}}, {{t|eu|botika|s}}
+* Belarusian: {{t|be|аптэ́ка|f}}
+* Bengali: {{t+|bn|ফার্মেসি}}
+* Bulgarian: {{t+|bg|апте́ка|f}}, {{t|bg|дроге́рия|f}}
+* Burmese: {{t+|my|ဆေးဆိုင်}}
+* Catalan: {{t+|ca|farmàcia|f}}
+* Chinese:
+*: Cantonese: {{t|yue|藥店}}, {{t|yue|藥房}}, {{t|yue|藥局}}, {{t|yue|藥鋪}}
+*: Mandarin: {{t+|cmn|藥店}}, {{t+|cmn|藥房}}, {{t+|cmn|藥局}}, {{t+|cmn|藥鋪}} {{qual|usually herbal medicine}}
+* Chukchi: {{t|ckt|маԓявэчгыран|tr=maḷjavėčgyran}}
+* Classical Nahuatl: {{t|nci|pahcalli}}
+* Czech: {{t+|cs|lékárna|f}}
+* Danish: {{t+|da|apotek|n}}
+* Dutch: {{t+|nl|apotheek|f}}
+* Esperanto: {{t+|eo|apoteko}}
+* Estonian: {{t+|et|apteek}}, {{t|et|rohupood}}
+* Farefare: {{t|gur|tɩɩm koosgo deo}}
+* Faroese: {{t|fo|apotek|n}}
+* Finnish: {{t+|fi|apteekki}}
+* French: {{t+|fr|pharmacie|f}}, {{t+|fr|officine|f}}
+* Fula:
+*: Latin: {{t|ff|farmasii}}
+*: Adlam: {{t|ff|𞤬𞤢𞤪𞤥𞤢𞤧𞤭𞥅}}
+* Galician: {{t+|gl|farmacia|f}}, {{t|gl|botica|f}}
+* Georgian: {{t|ka|აფთიაქი}}
+* German: {{t+|de|Apotheke|f}}, {{t+|de|Drogerie|f}}
+*: Alemannic German: {{t|gsw|Abodég|f}}
+* Greek: {{t+|el|φαρμακείο|n}}
+* Greenlandic: {{t|kl|nakorsaataarniarfik}}
+* Gujarati: {{t|gu|ફાર્મસી}}
+* Haitian Creole: {{t|ht|fanmasi}}
+* Hebrew: {{t+|he|בֵּית מִרְקַחַת|m|tr=beyt mirkakhat}}
+* Hindi: {{t|hi|दवाख़ाना|m}}, {{t|hi|फ़ार्मेसी|f}}
+* Hungarian: {{t+|hu|gyógyszertár}}, {{t+|hu|patika}}
+* Icelandic: {{t+|is|apótek|n}}, {{t+|is|lyfjabúð|f}}
+* Indonesian: {{t+|id|apotek}}
+* Irish: {{t|ga|cógaslann|f}}, {{t|ga|siopa poitigéara|m}}
+* Italian: {{t+|it|farmacia|f}}
+* Japanese: {{t+|ja|薬局|tr=やっきょく, yakkyoku}}, {{t+|ja|薬屋|tr=くすりや, kusuriya}}
+* Kalmyk: {{t|xal|эмин саң}}
+* Kannada: {{t+|kn|ಔಷಧಾಲಯ}}
+* Kazakh: {{t+|kk|дәріхана}}
+* Khmer: {{t|km|ឱសថស្ថាន}}, {{t|km|ផ្ទះលក់ថ្នាំ}}, {{t|km|ហាងលក់ថ្នាំ}}, {{t|km|ហ្វាម៉ាស៊ី}}, {{t|km|ភេសជ្ជាគារ}}
+* Korean: {{t+|ko|약국(藥局)}}, {{t+|ko|약방(藥房)}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|دەرمانخانە}}, {{t|ckb|ئەجزاخانە}}
+*: Northern Kurdish: {{t+|kmr|dermanxane}}, {{t+|kmr|eczaxane}}, {{t+|kmr|îlacxane}}
+* Kyrgyz: {{t+|ky|аптека}}, {{t+|ky|дарыкана}}
+* Lao: {{t|lo|ຮ້ານຂາຍຢາ}}, {{t|lo|ຮ້ານຂາຽຢາ}}
+* Latvian: {{t|lv|aptieka|f}}
+* Lithuanian: {{t+|lt|vaistinė|f}}
+* Low German:
+*: Dutch Low Saxon: {{t|nds-nl|apoteek|f}}, {{t+|nds-nl|apotheek|f}}
+*: German Low German: {{t+|nds-de|Aptheek|f}}, {{t+|nds-de|Aftheek|f}}, {{t+|nds-de|Apteek|f}}
+* Luxembourgish: {{t+|lb|Apdikt|f}}
+* Macedonian: {{t|mk|апте́ка|f}}
+* Malay: {{t+|ms|farmasi}}, {{t|ms|kedai ubat}}, {{t|ms|rumah ubat}}, {{t|ms|apotek}}
+* Malayalam: {{t+|ml|ഔഷധാലയം}}
+* Maltese: {{t|mt|spiżerija}}
+* Maori: {{t|mi|whare rongoā}}
+* Marathi: {{t|mr|फार्मसी}}
+* Mongolian: 
+*: Cyrillic: {{t|mn|эмийн сан}}, {{t|mn|эмийн дэлгүүр}} {{qual|China}}, {{t|mn|аптек}}
+*: Mongolian: {{t|mn|ᠡᠮ ᠦᠨ ᠰᠠᠩ}}, {{t|mn|ᠡᠮ ᠦᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ}}, {{t|mn|ᠠᠫᠲ᠋ᠧᠻ}}
+* Moore: {{t|mos|tɩɩm koosg roogo}}
+* Norman: {{t|nrf|apotiqu'sie|f}}
+* Norwegian:
+*: Bokmål: {{t+|nb|apotek|n}}
+* Occitan: {{t+|oc|farmacia|f}}
+* Odia: {{t|or|ଫାର୍ମାସି}}
+* Ojibwe: {{t|oj|mashkikii-adaawewigamig}}
+* Oromo: {{t|om|[[mana qorichaa]]}}
+* Pashto: {{t+|ps|دواخانه|f|tr=dawāxāna}}, {{t+|ps|درملتون|m|tr=darmaltun}}, {{t|ps|دوافروش|m|tr=dawāfaroš}}
+* Persian: {{t+|fa|داروخانِه|tr=dâruxâne}}, {{t|fa|دَواخانَه|tr=dawāxāna}} {{qualifier|Dari}}
+* Polish: {{t+|pl|apteka|f}}
+* Portuguese: {{t+|pt|farmácia|f}}, {{t+|pt|drogaria|f}}
+* Punjabi: {{t|pa|ਫਾਰਮੇਸੀ}}
+* Quechua: {{t|qu|jampiy ranqhana wasi}}
+* Romanian: {{t+|ro|farmacie|f}}
+* Russian: {{t+|ru|апте́ка|f}}
+* Scottish Gaelic: {{t|gd|bùth-cungaidheir|m}}, {{t|gd|bùth-chungaidhean|m}}, {{t|gd|bùth-cheimigeir|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|апоте́ка|f}}, {{t|sh|љѐка̄рна|f}} {{qualifier|Croatia}}
+*: Roman: {{t+|sh|apotéka|f}}, {{t+|sh|ljèkārna|f}} {{qualifier|Croatia}}
+* Sinhalese: {{t|si|ඔසුහල}}
+* Slovak: {{t|sk|lekáreň|f}}
+* Slovene: {{t+|sl|lekarna|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|aptejka|f}}, {{t|dsb|drogerija|f}}
+* Spanish: {{t+|es|farmacia|f}}, {{t+|es|botica|f}}, {{t+|es|droguería}}
+* Swahili: {{t|sw|famasia}}, {{t|sw|duka la dawa}}
+* Swedish: {{t+|sv|apotek}}
+* Tajik: {{t|tg|дорухона}}
+* Tamil: {{t+|ta|மருந்தகம்}}, {{t+|ta|மருந்துக்கடை}}
+* Tatar: {{t|tt|даруханә}}
+* Telugu: {{t|te|ఫార్మసీ}}
+* Thai: {{t|th|ร้านขายยา}}
+* Tibetan: {{t|bo|སྨན་ཚོང་ཁང}}
+* Turkish: {{t+|tr|eczane}}
+* Turkmen: {{t|tk|daruxanä}}, {{t|tk|dermanhana}}, {{t|tk|apteka}}
+* Ukrainian: {{t+|uk|апте́ка|f}}
+* Urdu: {{t|ur|فارْمیسی|f}}, {{t|ur|دَوا خَانَہ|m}}, {{t|ur|صَیدَلِیَّہ|m}}
+* Uyghur: {{t|ug|دوراخانا}}, {{t|ug|دورىخانا}}, {{t|ug|ئاپتېكا}}
+* Uzbek: {{t+|uz|apteka}}, {{t+|uz|dorixona}}
+* Vietnamese: {{t|vi|nhà thuốc}}, {{t|vi|hiệu thuốc}}, {{t|vi|tiệm thuốc}}
+* Walloon: {{t+|wa|farmaçreye|f}}, {{t+|wa|apoticårreye|f}} {{qualifier|old}}
+* Welsh: {{t|cy|fferyllfa|f}}
+* West Frisian: {{t|fy|apoteek}}
+* Yiddish: {{t|yi|אַפּטייק|f}}
+{{trans-bottom}}
+
+{{trans-top|science of medicinal substances}}
+* Afrikaans: {{t+|af|farmasie}}, {{t|af|aptekerswese}}
+* Albanian: {{t+|sq|farmaceutikë|f}}
+* Arabic: {{t|ar|صَيْدَلَة|f}}
+* Armenian: {{t+|hy|դեղագործություն}}
+* Asturian: {{t|ast|farmacia|f}}
+* Azerbaijani: {{t|az|əczaçılıq}}
+* Belarusian: {{t|be|фармацэ́ўтыка|f}}
+* Bulgarian: {{t|bg|фарма́ция|f}}
+* Catalan: {{t+|ca|farmàcia|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|藥劑學}}
+* Czech: {{t|cs|farmacie|f}}, {{t+|cs|lékárnictví|n}}
+* Danish: {{t|da|farmaci|c}}
+* Dutch: {{t+|nl|farmacie|f}}
+* Estonian: {{t|et|farmaatsia}}
+* Finnish: {{t+|fi|farmasia}}
+* French: {{t+|fr|pharmacie|f}}
+* Galician: {{t+|gl|farmacia|f}}
+* Georgian: {{t|ka|ფარმაცევტიკა}}, {{t|ka|ფარმაცია}}
+* German: {{t+|de|Pharmazie|f}}
+* Greek: {{t+|el|φαρμακευτική|f}}
+* Hebrew: {{t+|he|רוֹקְחוּת|f|tr=rokkhút}}
+* Hungarian: {{t+|hu|gyógyszerészet}}, {{t+|hu|farmakológia}}
+* Icelandic: {{t|is|lyfjafræði|f}}
+* Indonesian: {{t+|id|farmasi}}
+* Irish: {{t|ga|cógaisíocht|f}}
+* Italian: {{t+|it|farmacia|f}}
+* Japanese: {{t+|ja|薬学|tr=やくがく, yakugaku}}, {{t+|ja|薬理学|tr=やくり​がく, yakurigaku}}, {{t|ja|薬剤学|tr=やくざいがく, yakuzaigaku}}
+* Kazakh: {{t|kk|фармацевтика}}
+* Korean: {{t+|ko|약학(藥學)}}, {{t+|ko|약리학(藥理學)}}, {{t|ko|조제학(調劑學)}}, {{t|ko|약제학(藥劑學)}}
+* Kyrgyz: {{t|ky|фармацевтика}}
+* Latvian: {{t|lv|farmācija|f}}
+* Lithuanian: {{t|lt|farmacija|f}}
+* Macedonian: {{t|mk|фарма́ција|f}}
+* Malay: {{t|ms|farmaseutik}}
+* Mongolian: 
+*: Cyrillic: {{t|mn|эм зүй}} 
+* Norman: {{t|nrf|apotiqu'sie|f}}
+* Norwegian:
+*: Bokmål: {{t|nb|farmasi|m}}
+*: Nynorsk: {{t|nn|farmasi|m}}
+* Persian: {{t+|fa|داروسازی|tr=dârusâzi}}
+* Polish: {{t+|pl|farmacja|f}}, {{t|pl|farmaceutyka|f}}
+* Portuguese: {{t+|pt|farmácia|f}}
+* Romanian: {{t|ro|farmaceutică|f}}
+* Russian: {{t+|ru|фармаци́я|f}}, {{t+|ru|фармаце́втика|f}}
+* Rwanda-Rundi:
+*: Kinyarwanda: {{t|rw|farumasi}}
+* Scottish Gaelic: {{t|gd|lèigheadaireachd|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|фа̀рма̄ција|f}}
+*: Roman: {{t+|sh|fàrmācija|f}}
+* Slovak: {{t|sk|farmácia|f}}, {{t|sk|lekárnictvo|n}}
+* Slovene: {{t+|sl|farmacija|f}}
+* Spanish: {{t+|es|farmacia|f}}
+* Swahili: {{t|sw|famasia}}
+* Swedish: {{t+|sv|farmaci|c}}
+* Tajik: {{t|tg|дорусозӣ}}
+* Thai: {{t|th|เภสัชศาสตร์}}, {{t|th|เภสัชภัณฑ์}}
+* Turkish: {{t+|tr|eczacılık}}
+* Turkmen: {{t|tk|farmasewtika}}
+* Ukrainian: {{t|uk|фармаці́я|f}}, {{t|uk|фармаце́втика|f}}
+* Uyghur: {{t|ug|فارماتسىيە}}
+* Uzbek: {{t+|uz|farmatsevtika}}
+* Vietnamese: {{t|vi|dược khoa}}, {{t+|vi|dược học}}
+* Walloon: {{t+|wa|farmaçreye|f}}
+* Welsh: {{t|cy|fferylliaeth|m|f}}
+{{trans-bottom}}
+
+{{trans-top|occupation of a pharmacist}}
+* Afrikaans: {{t+|af|apteker}}
+* Arabic: {{t|ar|صَيْدَلَة|f}}
+* Catalan: {{t+|ca|farmàcia|f}}
+* Estonian: {{t|et|farmatseut}}, {{t|et|proviisor}}, {{t+|et|apteeker}}
+* Finnish: {{t+|fi|farmasia}}
+* Greek: {{t+|el|φαρμακοποιία|f}}
+* Hebrew: {{t+|he|רוֹקֵחַ|m|tr=rokeah'}}
+* Indonesian: {{t+|id|apoteker}}, {{t|id|farmasis}}
+* Irish: {{t|ga|poitigéireacht|f}}
+* Italian: {{t+|it|farmacista|m|f}}
+* Japanese: {{t+|ja|薬剤師|tr=やくざいし, yakuzaishi}}
+* Korean: {{t+|ko|약제사(藥劑師)}}
+* Macedonian: {{t|mk|фарма́ција|f}}
+* Norman: {{t|nrf|apotiqu'sie|f}}
+* Persian: {{t+|fa|داروساز|tr=dârusâz}}, {{t|fa|[[دکتر]] [[داروساز]]|tr=doktor-e dârusâz}}
+* Polish: {{t+|pl|aptekarstwo|n}}
+* Russian: {{t+|ru|фармаце́втика|f}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|apothecary}}
+* {{l|en|chemist}}
+* {{l|en|drugstore}}
+
+====Further reading====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+[[Category:en:Medicine]]
+[[Category:en:Pharmacy]]
