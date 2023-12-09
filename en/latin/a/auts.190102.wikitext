@@ -1,0 +1,36 @@
+==Finnish==
+
+===Etymology===
+Probably a natural exclamation, but compare {{ncog|de|autsch}}.
+
+===Pronunciation===
+{{fi-pronunciation|aut#s}}
+
+===Interjection===
+{{fi-int}}
+
+# [[ouch]]!
+#: {{ux|fi|"'''Auts'''! Se sattuu."|"'''Ouch'''! It hurts."}}
+
+===Further reading===
+* {{R:KTSK|accessdate=2023-07-02}}
+
+===Anagrams===
+* {{anagrams|fi|a=astu|-stua|-usta|Satu|astu|asut|satu|suat|taus|tsau|usta}}
+
+==Latvian==
+
+===Participle===
+{{lv-part|aut|t}}
+
+# [[put on]] ([[footwear]]); {{participle of|lv|aut||indef|past|pass}}
+
+====Declension====
+{{lv-decl-part|au|t|extrawidth=-100}}
+
+==Occitan==
+
+===Adjective===
+{{head|oc|adjective form}}
+
+# {{masculine plural of|oc|aut}}
