@@ -1,0 +1,22 @@
+==English==
+
+===Alternative forms===
+* {{l|en|WWII}}
+
+===Proper noun===
+{{head|en|proper noun}}
+
+# {{abbreviation of|en|World War II}}
+
+====Translations====
+{{trans-see|WWII}}
+
+===Anagrams===
+* {{anagrams|en|a=2ww|2WW}}
+
+[[Category:English abbreviations]]
+[[Category:en:Historical events]]
+[[Category:en:History]]
+[[Category:en:Two]]
+[[Category:en:World War II]]
+{{c|en|History of the United States}}
