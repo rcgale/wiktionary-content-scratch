@@ -1,0 +1,79 @@
+{{also|елка|єлка}}
+==Belarusian==
+
+===Alternative forms===
+* {{alt|be|jołka||łacinka}}
+
+===Etymology===
+Cognate with {{cog|ru|ёлка}}.
+
+===Pronunciation===
+* {{be-IPA}}
+* {{audio|be|LL-Q9091 (bel)-Ssvb-ёлка.wav|Audio:}}
+* {{rhyme|be|oɫka|s=2}}
+
+===Noun===
+{{be-noun|ёлка<*>}}
+
+# [[Christmas tree]]
+
+====Declension====
+{{be-ndecl|ёлка<*>}}
+
+====Derived terms====
+* {{l|be|ёлычка}}
+
+===References===
+* {{R:be:slounik.org}}
+
+{{topics|be|Christmas}}
+
+==Kumyk==
+
+===Etymology===
+From {{bor|kum|ru|ёлка}}.
+
+===Noun===
+{{kum-noun}}
+
+# [[Christmas tree]] (used for [[New Year's]]) {{C|kum|New Year}}
+
+====Declension====
+{{kum-decl-noun}}
+
+===Further reading===
+* {{R:kum:KRS-2013}}
+
+==Russian==
+
+===Etymology===
+{{inh+|ru|sla-pro|*edlъka}}. Equivalent to {{af|ru|ель|-ка}}.
+
+===Pronunciation===
+* {{ru-IPA}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
+
+===Noun===
+{{ru-noun+||*|adj=ёлочный|dim=ёлочка}}
+
+# {{diminutive of|ru|ель}}: [[spruce]], [[spruce]] [[tree]]
+# [[Christmas tree]] (in Russia used for [[New Year's]])
+# [[New Year's]] party for children
+
+====Declension====
+{{ru-noun-table||*}}
+{{ru-noun-table|old=1||*}}
+
+====Derived terms====
+* {{l|ru|ёлочкой}}
+
+====Related terms====
+* {{l|ru|ёлки-па́лки}}
+* {{l|ru|ель}}
+* {{l|ru|е́льник}}
+* {{l|ru|ело́вый}}
+
+====Descendants====
+* {{desc|izh|jolkka|bor=1}}
+
+{{topics|ru|Conifers|New Year}}
