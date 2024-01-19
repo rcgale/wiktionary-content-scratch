@@ -1,0 +1,365 @@
+{{also|Appendix:Variations of "dong"}}
+==English==
+{{wikipedia|Vietnamese đồng}}
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/dɒŋ/}}
+* {{a|GA}} {{IPA|en|/dɔŋ/}}
+** {{a|cot-caught}} {{IPA|en|/dɑŋ/}}
+* {{audio|en|En-au-dong.ogg|Audio (AU)}}
+* {{rhymes|en|ɒŋ|s=1}}
+
+===Etymology 1===
+Borrowed from {{bor|en|vi|đồng}}, from {{der|en|ltc|銅|t=copper}}, from {{der|en|och|銅}}. Cognate with {{cog|cmn|銅||copper}}.
+
+====Alternative forms====
+* {{alt|en|đồng||uncommon}}
+
+====Noun====
+{{en-noun|dong|s}}
+
+# The currency of [[Vietnam]], 100 [[xu]]s. Symbol: '''[[₫]]'''
+# {{lb|en|historical}} The currency of [[South Vietnam]], 100 [[xu]]s. Symbol: '''[[Đ.]]'''
+
+=====Translations=====
+{{trans-top|currency of Vietnam}}
+* Arabic: {{t|ar|دُونْغ|m|tr=dunḡ}}, {{t|ar|دُونْج|m|tr=dong}}
+* Chinese:
+*: Mandarin: {{t+|cmn|盾|tr=dùn}}, {{t+|cmn|越南盾|tr=Yuènán dùn}}, {{t|cmn|越盾|tr=yuèdùn}}
+* French: {{t+|fr|dong|m}}
+* German: {{t|de|Dong|m}}
+* Greek: {{t|el|ντονγκ}}
+* Hindi: {{t|hi|दोंग}}
+* Hungarian: {{t+|hu|đồng}}
+* Japanese: {{t+|ja|ドン|tr=don}}
+* Khmer: {{t+|km|ដុង}}
+* Korean: {{t+|ko|동(銅)}}
+* Lao: {{t|lo|ດົ່ງ}}
+* Malay: {{t+|ms|dong}}
+* Portuguese: {{t|pt|dong|m}}
+* Russian: {{t+|ru|донг|m}}
+* Thai: {{t|th|ด่ง}}
+* Vietnamese: {{t+|vi|đồng}} ({{t|vi|銅}})
+{{trans-bottom}}
+
+{{trans-top|currency of South Vietnam}}
+* Vietnamese: {{t+|vi|đồng}} ({{t|vi|銅}})
+{{trans-bottom}}
+
+===Etymology 2===
+{{unk|en}}. Perhaps from ''The Dong with a Luminous Nose'', an 1894 poem by {{w|Edward Lear}} about a mythical creature. Attested since the 1930s.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|slang}} The [[penis]].
+#* {{quote-book|en|author=w:J P Donleavy|title=The Ginger Man|year=1955| year_published=1955 (France)| page=344|passage="That American girl was after you too, wasn't she?"<br>"She didn't mean anything she said. She was just after your '''dong'''. But it's mine."<br>"For sure, Mary."}}
+#* {{quote-book|en|year=1969|author=Philip Roth|title=Portnoy’s Complaint|page=18|text=Nevertheless, I was wholly incapable of keeping my paws from my '''dong''' once it started the climb up my belly.}}
+#* {{quote-text|en|year=1983|chapter=Penis Song|title=w:Monty Python's The Meaning of Life
+|passage=Isn't it awfully nice to have a penis?<br>Isn't it frightfully good to have a '''dong'''?}}
+# {{lb|en|slang|by extension}} A [[dildo]], specifically a [[synthetic]] [[anatomical]] [[replica]] of the penis.
+
+=====Synonyms=====
+* {{sense|penis}} See [[Thesaurus:penis]].
+
+=====Derived terms=====
+* [[double dong]]
+
+=====Related terms=====
+* {{l|en|ding-dong}}
+
+=====Translations=====
+{{trans-top|penis}}
+* German: {{t+|de|Schwanz|m}}
+* Swedish: {{t+|sv|ballefjong|c}}
+{{trans-bottom}}
+
+{{trans-top|dildo}}
+* German: {{t+|de|Dildo|m}}
+{{trans-bottom}}
+
+===Etymology 3===
+{{onomatopoeic|en}}
+
+====Noun====
+{{en-noun}}
+
+# A low-pitched, metallic ringing sound.
+
+=====Translations=====
+{{trans-top-see|onomatopoeia for the ringing sound made by a bell with a low pitch|ding dong}}
+* Chinese:
+*: Mandarin: {{t+|cmn|噹|tr=dāng}}
+* Russian: {{t+|ru|дон}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# To make a low-pitched, metallic ringing sound.
+
+===Etymology 4===
+{{bor|en|ko|동(洞)|t=neighborhood}}
+
+====Noun====
+{{en-noun}}
+
+# A [[submunicipal]] [[administrative]] [[unit]] of a [[city]] in North or South [[Korea]].
+
+===See also===
+* [[dai pai dong]] {{i|etymologically unrelated}}
+* [[dong quai]] {{i|etymologically unrelated}}
+
+===Anagrams===
+* {{anagrams|en|a=dgno|Gond}}
+
+[[Category:English 1-syllable words]]
+{{c|en|Currencies|Historical currencies|Genitalia|Sounds|Vietnam}}
+
+==Ambonese Malay==
+
+===Etymology===
+Syncope of {{m|abs|dorang}}.
+
+===Pronoun===
+{{head|abs|pronoun}}
+
+# [[they]]
+
+===References===
+* {{R:abs:Takaria; Pieter:1998}}
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|nl|/dɔŋ/}}
+* {{audio|nl|Nl-dong.ogg|Audio}}
+* {{hyphenation|nl|dong}}
+* {{rhyme|nl|ɔŋ}}
+
+===Etymology 1===
+From {{inh|nl|dum|*dong}}, from {{inh|nl|odt|*dunga}}, from {{inh|nl|gem-pro|*dungō}}. Cognate to {{cog|en|dung}}.
+
+====Noun====
+{{nl-noun|m|-|-}}
+
+# {{lb|nl|dated|dialectal|Northern Dutch}} {{l|en|dung}}, {{l|en|manure}}
+#: {{syn|nl|mest}}
+
+=====Descendants=====
+* {{desc|dcr|doeng}}
+
+===Etymology 2===
+Borrowed from {{bor|nl|vi|đồng}}.
+
+====Noun====
+{{nl-noun|m|-s|-}}
+
+# {{l|en|dong}}, the currency of [[Vietnam]]
+
+===Etymology 3===
+{{nonlemma}}
+
+====Verb====
+{{head|nl|verb form}}
+
+# {{infl of|nl|dingen||s|past|ind}}
+
+==Hungarian==
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{audio|hu|Hu-dong.ogg|Audio}}
+* {{rhymes|hu|oŋɡ|s=1}}
+* {{homophones|hu|đồng}}
+
+===Etymology 1===
+From an [[onomatopoeia]] + {{af|hu|-g|pos1=frequentative verb-forming suffix|pos=verb}}.<ref>{{R:Zaicz 2006}}</ref>{{cln|hu|onomatopoeias}}
+
+====Verb====
+{{hu-verb}}
+
+# {{lb|hu|intransitive|of an insect}} to [[buzz]], [[bumble]], [[drone]]
+# {{lb|hu|intransitive|of a large hollow object}} to [[boom]], [[rumble]], [[thunder]] {{gloss|to make a dull, low-pitched, reverberating sound when hit}}
+
+=====Conjugation=====
+{{hu-conj-ok|d|o|ng|intrans=y}}
+or
+{{hu-conj-ok|do|n|g|intrans=y}}
+<!-- cf. http://corpus.nytud.hu/cgi-bin/e-szokincs/alaktan?lemma=dong -->
+
+=====Derived terms=====
+{{col4|hu
+|dongás
+|dongó
+}}
+{{hu-verbpref|dong|körül}}
+
+===Etymology 2===
+See {{m|hu|đồng}}.
+
+====Noun====
+{{head|hu|nonstandard forms}}
+
+# {{nonstandard form of|hu|đồng||[[dong#Noun|dong]]|pos=the currency of Vietnam; usually used by thousands or higher denominations}}<ref>{{R:hu:AkH2015|section=212}}</ref>
+
+=====Declension=====
+{{hu-infl-nom|dongo|o}}{{hu-pos-otok|dong|j|jai}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:ErtSz}}
+* {{R:Nagyszotar}}
+
+==Indonesian==
+
+===Pronunciation===
+* {{IPA|id|/ˈdɔŋ/|qual1=}}
+* {{hyphenation|id|dong}}
+* {{rhymes|id|dɔŋ|ɔŋ|ŋ|s=1}}
+
+===Etymology 1===
+From {{bor|id|bew}}, from {{der|id|nl|dong}}, {{m|nl|dingen|t=to [[solicit]]}}, from {{der|id|dum|dingen||to convene, to plead}}, from {{der|id|odt|*thingon}}, from {{der|id|gem-pro|*þingōną}}.
+
+====Adverb====
+{{head|id|adverb}}
+# {{lb|id|colloquial}} [[please]]: {{non-gloss definition|used to make a polite request}}
+#: {{uxi|id|Harga Bensin Pertalite Jangan Naik '''Dong'''.|t='''Please''', don't raise the Pertalite Petrol Price.}}
+# {{lb|id|colloquial}} {{non-gloss definition|indicates a strong command}}
+# {{lb|id|colloquial}} {{non-gloss definition|indicates discord between words and actions}}
+
+===Etymology 2===
+Borrowed from {{bor|id|vi|đồng}}, from {{der|id|ltc|銅|t=copper}}, from {{der|id|och|銅}}. Cognate with {{cog|cmn|銅||copper}}.
+
+====Noun====
+{{id-noun}}
+
+# The currency of [[Vietnam]], 100 [[xu]]s. Symbol: '''[[₫]]'''
+
+===Further reading===
+* {{R:KBBI Daring}}
+
+==Mandarin==
+
+===Romanization===
+{{cmn-pinyin|notr=1}}
+
+# {{nonstandard spelling of|cmn|sc=Latn|dōng}}
+# {{nonstandard spelling of|cmn|sc=Latn|dǒng}}
+# {{nonstandard spelling of|cmn|sc=Latn|dòng}}
+
+====Usage notes====
+* {{cmn-toneless-note}}
+
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{alt form|enm|donge|t=dung|id=dung}}
+
+==Norwegian Bokmål==
+
+===Etymology===
+Shortened form of ''[[kordong]]'', itself possibly a mishearing of ''[[kondom]]''
+
+===Noun===
+{{nb-noun-m1}}
+
+# {{lb|nb|slang}} [[condom]]
+
+==Portuguese==
+
+===Pronunciation===
+{{pt-IPA|dongui^}}
+* {{hyph|pt|dong}}
+
+===Noun===
+{{pt-noun|m|#s}}
+
+# {{l|en|dong}} {{gloss|currency of Vietnam}}
+
+==Romanian==
+
+===Etymology===
+{{bor+|ro|fr|dong}}.
+
+===Noun===
+{{ro-noun|m|dongi}}
+
+# {{l|en|dong}} {{gl|currency}}
+
+====Declension====
+{{ro-noun-m}}
+
+===References===
+* {{R:MDA2}}
+
+==Spanish==
+
+===Noun===
+{{es-noun|m}}
+
+# {{l|en|dong}} {{gloss|currency}}
+
+==Vietnamese==
+
+===Pronunciation===
+{{vi-pron}}
+
+===Verb===
+{{vi-verb|[[𢫝]]}}
+
+# to [[drive]]; to [[escort]]
+
+===Noun===
+{{vi-noun|cls=[[cây]]}}
+
+# {{taxlink|Phrynium placentarium|species}}
+
+==Zou==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|zom|/doŋ˧/}}
+
+====Verb====
+{{head|zom|verb}}
+
+# {{lb|zom|transitive}} to [[solicit]]
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|zom|/doŋ˧/}}
+
+====Verb====
+{{head|zom|verb}}
+
+# {{lb|zom|transitive}} to [[intercept]]
+
+===Etymology 3===
+
+====Pronunciation====
+* {{IPA|zom|/doŋ˧˥/}}
+
+====Verb====
+{{head|zom|verb|head=dóng}}
+
+# {{lb|zom|transitive}} to [[hinder]]
+
+===Etymology 4===
+
+====Pronunciation====
+* {{IPA|zom|/doŋ˧˩/}}
+
+====Verb====
+{{head|zom|verb|head=dòng}}
+
+# {{lb|zom|intransitive}} to [[ask]]
+
+===References===
+* {{R:zom:Singh:2013|page=63}}
