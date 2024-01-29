@@ -1,0 +1,613 @@
+{{also|Sus|SUS|sús|süs|šus|-sus|sus-|sus'|Sus.|šūs|Suś}}
+==Translingual==
+
+===Symbol===
+{{mul-symbol}}
+
+# {{ISO 639|2&3|Susu language|Susu}}
+
+==English==
+
+===Pronunciation===
+* {{IPA|en|/sʌs/}}
+* {{rhymes|en|ʌs|s=1}}
+* {{homophones|en|suss}}
+
+===Etymology 1===
+{{clipping|en|suspicion}}.
+
+====Noun====
+{{en-noun|-}}
+
+# {{lb|en|UK|informal}} {{1|suspicion}} (in terms of a [[sus law]]).
+#* {{quote-text|en|year=2002|author=Simon James|title=British Government: A Reader in Policy Making|page=84
+|passage=The committee {{...}} said ‘'''sus'''’ had acquired a symbolic significance out of all proportion to its significance as a criminal charge.}}
+
+===Etymology 2===
+{{clipping|en|suspicious}}.
+
+====Adjective====
+{{en-adj}}
+
+# {{lb|en|slang}} [[suspicious#Adjective|Suspicious]]; having [[suspicion#Noun|suspicions]] or [[question#Noun|questions]].
+#* {{quote-book|en|year=2010|author=Olwyn Conrau|title=The Importance of Being Cool|location=Carindale|publisher=Glass House Brooks|page=134|url=https://books.google.com/books?id=HMeR3763P5QC|passage=Even my lame psychic ability told me he'd be pretty '''sus''' if he found me pissing on in the lounge room on a week night.}}
+#* {{quote-book|en|year=2015|author=Peter King|title=The Weaving|location=Wellington|publisher=Peter King Publishing|url=https://books.google.com/books?id=r4KACgAAQBAJ|passage=Everyone had been a bit '''sus''' about Mrs Jones and Lana Vilenskaya, so it wasn't surprising that Mrs Jones stood to speak.}}
+#* {{quote-book|en|year=2018|author=Ron Chinchen|title=Scent of the Beast|location=Bloomington|publisher=Xlibris|url=https://books.google.com/books?id=-KFVDwAAQBAJ|passage=I'm still really '''sus''' about those crocs we found in the drains.}}
+# {{lb|en|slang}} Suspicious; raising or causing people to have suspicions.
+#* {{quote-text|en|year=1972|author=Frank Norman|title=The lives of Frank Norman: told in extracts from his autobiographical books Banana boy, Stand on me, Bang to rights, The guntz
+|passage=Why this should be I will never know except I might be a pretty '''sus''' looking geezer or something. They took about six of us who were in the cafe down the nick and dubbed us up in separate peters. After a long while these two bogies came into&nbsp;...}}
+# {{senseid|en|sexually}} {{lb|en|slang|specifically|often|humorous}} Acting in a borderline sexually inappropriate way, causing others to "[[suspect#Verb|suspect]]" them of being sexually attracted to someone and trying to hide it.
+#: {{ux|en|That guy is always acting '''sus''' with the boys—are you sure he's not gay?}}
+#* {{quote-web|en|author=@COGxCam|site=w:Twitter|url=https://twitter.com/COGxCam/status/1436109587225120771|archiveurl=https://archive.ph/ek9dL|archivedate=18 December 2023|date=9 September 2021|passage=I was acting '''sus''' with my friend turns out he's gay I don't think he was joking}}
+#* {{quote-web|en|author=u/Keggerbev|title=(post title)|site=w:Reddit|url=https://www.reddit.com/r/Advice/comments/yih60f/gf_30_was_acting_sus_around_another_guy_and_not/|archiveurl=https://archive.ph/B97cZ|archivedate=18 December 2023|location=r/Advice|date=31 October 2022|passage=Gf [30] was acting '''sus''' around another guy and not sure If im [M20] just overthinking it.}}
+#* {{quote-web|en|author=u/rainbows_are_a_mess|title=The Bombay Movie Club|site=w:Reddit|url=https://www.reddit.com/r/mumbai/comments/11mphpq/the_bombay_movie_club/jbk0zs3/|archiveurl=https://archive.ph/UfCpk|archivedate=17 December 2023|location=r/mumbai|date=9 March 2023|passage=I've also heard many instances of him acting '''sus''' with girls.}}
+#* {{quote-web|en|author=@bridaaah|site=w:Twitter|url=https://twitter.com/bridaaah/status/1688323907193835521|archiveurl=https://archive.ph/ecFp8|archivedate=17 December 2023|date=6 August 2023|passage=Totally not being '''sus''' with my controller}}
+
+=====Derived terms=====
+{{col-auto|en|sussy}}
+
+=====See also=====
+{{col-auto|en|ayo}}
+
+===Etymology 3===
+{{clipping|en|suspended}}.
+
+====Adjective====
+{{en-adj|-}}
+
+# {{lb|en|music}} {{abbreviation of|en|suspended}}
+
+===See also===
+* {{l|en|sus chord}}
+
+===Anagrams===
+* {{anagrams|en|a=ssu|U.S.S.|USS|USs|us's}}
+
+==Afrikaans==
+
+===Etymology===
+From {{inh|af|nl|zus}}, shortening of {{m|nl|zuster}}. Equivalent to a shortening of {{m|af|suster}}.
+
+===Pronunciation===
+* {{IPA|af|/sœs/}}
+
+===Noun===
+{{af-noun|susse|sussie}}
+
+# [[sister]] {{gloss|female sibling}}
+#: {{syn|af|suster}}
+
+====Related terms====
+* {{l|af|suster}}
+
+{{C|af|Family|Female people}}
+
+==Alemannic German==
+
+===Alternative forms===
+* {{alt|gsw|susch|suscht}}
+
+===Etymology===
+From {{inh|gsw|gmh|sus}}. Compare {{cog|de|sonst}}.
+
+===Pronunciation===
+* {{IPA|gsw|/sus/|/sʊs/}}
+
+===Adverb===
+{{head|gsw|adverb}}
+
+# [[otherwise]]
+#* {{quote-journal|gsw
+|url=https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1969%3A65%3A%3A137#164
+|journal=Schweizerisches Archiv für Volkskunde
+|publisher=Schweizerische Gesellschaft für Volkskunde
+|volume=65<!-- Band 65 -->
+|issue=3/4<!-- Heft 3/4 -->
+|year_published=1969
+|title=Die Sagen der Gemeinde Flums
+|trans-title=The sagas of the [[w:Flums|municipality Flums]]
+|author=Alois Senti<!-- Author of this article in the archives. -->
+|coauthors=Robert Wildhaber<!-- Conducted the interviews/surveys.  -->
+|year=1968/1969<!-- Originally collected by Johann Baptist Stoop (1861-1931) in Standard German as part of J. Kuoni's work "Sagen des Kantons St.Gallen". The Alemannic versions go back (in part) to Wildhaber's interviews/surveys in 1968/1969 (see page 128 for more). -->
+|page=154
+|section=Vum Ggaueler
+|passage=138 {{...}} Äs seï ä schwarzä Maa mitemä Huet gsii, aber uuni Chopf. «Ich haa ds Büechli nid beï mer, '''sus''' hett nä aagsprocha...», heï dr Pfarrer Zwyfel gsäit. Gsii isch es dr Ggaueler.
+|t=138 {{...}} It has [reportedly] been a black man with a hat but without a head. “I don't have this booklet on me, '''otherwise''' I would have talked to him...” has pastor {{abbr|Zwyfel|translated: Doubt}} [reportedly] said. It has been the {{abbr|Ggaueler|demonym of "Ggaueli", a location in the municipality Flums near the Tschudiwiese; see also "Gaueli"}}.
+}}
+#* {{quote-book|gsw
+|url=https://books.google.ch/books?id=ESTbAAAAMAAJ&q=%22sus+hett%22&dq=%22sus+hett%22
+|title=Häxäwärch: Sibä Gschichtä im Flumsertiäläggt
+|author=Alois Senti
+|publisher=Verlag des Sarganserländers
+|location=Mels
+|lccn=72340077
+|oclc=249211944
+|year=1970
+|page=27
+|passage=Wägemä äinzigä Moul hät aber niemert müügä nämis säägä. '''Sus''' hett jo dr Leïrer Aberli schu än Uusreïd gfundä, ass er nid hett müessä guu.
+|t=But nobody wanted to say anything [only] because of a single time. '''Otherwise''' the teacher Aberli would have found an excuse anyway so that he wouldn't have had to go.
+}}
+
+====Related terms====
+* {{l|gsw|suschtig}}
+
+==Aromanian==
+
+===Alternative forms===
+* {{alt|rup|ãnsus|nsus|nsusu|susu}}
+
+===Etymology===
+From {{inh|rup|LL.|sūsum}}, from {{inh|rup|la|sursūm}}. Compare {{cog|ro|sus}}.
+
+===Adverb===
+{{head|rup|adverb}}
+
+# [[up]]
+
+====Antonyms====
+* {{l|rup|ghios}} / {{l|rup|nghios}}
+
+==Cebuano==
+
+===Etymology===
+Probably a shortening of {{m|ceb|susmaryosep}}.
+
+===Interjection===
+{{head|ceb|interjection}}
+
+# {{n-g|used as an [[expression]] of [[anger]], [[frustration]] or [[disbelief]]}}
+
+[[Category:Cebuano short forms]]
+
+==Chuukese==
+
+===Etymology===
+Borrowed from {{bor|chk|en|shoes}}.
+
+===Noun===
+{{head|chk|noun}}
+
+# [[shoe]]
+
+[[Category:chk:Clothing]]
+
+==Danish==
+
+===Etymology===
+From the verb {{m|da|suse|t=to hiss, whistle}}, of {{onomatopoeic|da|title=imitative}} origin, similar to {{cog|de|sausen|t=to whizz}}.
+
+===Pronunciation===
+* {{IPA|da|/suːs/|[suːˀs]}}
+
+===Noun===
+{{da-noun|et}}
+
+# [[whistling]], [[singing]]
+# [[whisper]], [[soughing]]
+# [[whizz]]
+# [[rush]] {{qualifier|pleasurable sensation experienced after use of a stimulant}}
+
+====Inflection====
+{{da-noun-infl|et|4=sus'|6=sus'}}
+
+====Synonyms====
+* {{l|da|susen}}
+
+===Verb===
+{{head|da|verb form}}
+
+# {{infl of|da|suse||imp}}
+
+==Fala==
+
+===Pronunciation===
+{{fax-IPA}}
+
+===Determiner===
+{{head|fax|determiner form|g=f-p}}
+
+# {{lb|fax|Lagarteiru}} {{apocopic form of|fax|súas|t=his, her, its, their}}
+
+====Usage notes====
+* Used in Lagarteiru before a feminine plural noun as part of a noun phrase.
+
+====See also====
+{{fax-possessives}}
+
+===References===
+* {{R:fax:Diccionariu|256}}
+
+==Finnish==
+
+===Etymology===
+Shortening from {{m|fi|Jeesus}}.
+
+===Pronunciation===
+{{fi-pronunciation}}
+
+===Interjection===
+{{fi-int}}
+
+# [[oh]]; {{n-g|used only in the expression shown in the example below}}
+#: {{ux|fi|Sus [[siunatkoon]]!|t=[[oh my God|Oh my God]]!}}
+
+===Further reading===
+* {{R:KTSK|accessdate=2023-07-03}}
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{homophones|fr|su|sue|suent|sues|sut|sût}}
+* {{rhymes|fr|y}}
+
+===Etymology 1===
+{{inh+|fr|fro|sus}}, from {{inh|fr|VL.|sūsum}}, from {{inh|fr|la|sūrsum}}. Cognate to {{cog|it|su}} or {{cog|es|suso}}.
+
+====Adverb====
+{{fr-adv}}
+
+# {{lb|fr|dated}} [[up]]
+
+=====Derived terms=====
+* {{l|fr|en sus}}
+* {{l|fr|en sus de}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|fr|verb form}}
+
+# {{inflection of|fr|savoir||1//2|s|phis}}
+
+===Further reading===
+* {{R:fr:TLFi}}
+
+==Irarutu==
+
+===Noun===
+{{head|irh|noun}}
+
+# (woman's) [[breast]]
+
+===References===
+* J. C. Anceaux, ''The Linguistic Situation in the Islands of Yapen, Kurudu, Nau and Miosnum'' (2013), page 46
+
+==Kashubian==
+
+===Etymology 1===
+[[Image:Europäischer Ziesel in Hockstellung.jpg|thumb|Sus (1).]]
+From a {{glossary|back-formation}} of {{der|csb|lang1=|sla-pro|*sъsьlъ}}. Cognates include {{cog|pl|suseł}} and {{cog|cs|sysel}}.
+
+Influenced [[folk etymology|folk etymologically]] by Etymology 2.
+
+====Pronunciation====
+* {{csb-IPA}}
+* {{hyph|csb|sus}}
+
+====Noun====
+{{csb-noun|m-an}}
+
+# [[ground squirrel]] {{gl|rodent of the genus ''[[Spermophilus]]''}}
+
+=====Declension=====
+{{csb-decl-noun|sus|susa|susowi|susu|susã|susu|susu|susë|susów|susóm|susë|susama|susach|susë}}
+
+=====Derived terms=====
+{{col4|csb
+|spac jak sus}}
+
+===Etymology 2===
+{{dercat|csb|gmh|goh|gmw-pro|gem-pro}}
+{{bor+|csb|de|Schuss}}.
+
+====Pronunciation====
+* {{csb-IPA}}
+* {{hyph|csb|sus}}
+
+====Noun====
+{{csb-noun|m-in}}
+
+# [[jump]], [[leap]]
+
+=====Declension=====
+{{csb-decl-noun|sus|susa|susowi|sus|susã|susu|susu|susë|susów|susóm|susë|susama|susach|susë}}
+
+===Further reading===
+* {{R:csb:SJP1893|+}}
+* {{R:csb:SPK|suseł}}
+* {{R:csb:ISKJ|+|10910}}
+
+{{C|csb|Squirrels}}
+
+==Latin==
+
+===Etymology===
+From {{inh|la|itc-pro|*sūs}}, from {{inh|la|ine-pro|*suH-}}. Compare {{cog|grc|ὗς}}, {{cog|pi|sūkara}}, {{cog|en|swine}}, {{m|en|sow}}.
+
+===Pronunciation===
+* {{la-IPA|sūs|eccl=1}}
+
+===Noun===
+{{la-noun|sūs<irreg>|g=m|g2=f}}
+
+# [[pig]]
+#: {{syn|la|porcus|scrōfa}}
+
+====Declension====
+{{la-ndecl|sūs<irreg>}}
+
+====Derived terms====
+{{der3|la|suīle|suīllus|sucula|subulcus|sucerda|sūcīdia}}
+
+====Descendants====
+* {{desc|ro|sor}} {{q|possibly}}
+* {{desc|sc|sughe|sue}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:M&A}}
+* {{R:itc:EDL}}
+* {{R:REW|sūs|639}}
+
+{{topics|la|Pigs}}
+
+==Maltese==
+
+===Pronunciation===
+* {{IPA|mt|/suːs/}}
+
+===Verb===
+{{head|mt|verb form}}
+
+# {{inflection of|mt|sies||2|s|imperative}}
+
+==Middle French==
+
+===Etymology===
+From {{inh|frm|fro|sus}}.
+
+===Adverb===
+{{head|frm|adverb}}
+
+# [[on]]; [[on top of]]
+
+===Preposition===
+{{head|frm|preposition}}
+
+# [[on]]; [[on top of]]; [[atop]]
+
+====Descendants====
+* {{desc|fr|sus}} {{qualifier|obsolete}}
+
+==Middle High German==
+
+===Alternative forms===
+* {{alt|gmh|sust|sunst}}
+
+===Etymology===
+From {{inh|gmh|goh|sus}}.
+
+===Adverb===
+{{head|gmh|adverb}}
+
+# in this [[manner]] that follows, [[thus]]
+# [[otherwise]]
+
+====Descendants====
+* {{desc|gsw|sus|alts=1}}
+* {{desc|de|sonst}}
+
+===Further reading===
+* {{R:Lexer}}
+
+==Norman==
+
+===Pronunciation===
+* {{audio|nrf|Jer-sus.ogg|Audio (Jersey)}}
+
+===Etymology 1===
+From {{inh|nrf|fro|sus}}, from {{inh|nrf|la|sursum}}.
+
+====Preposition====
+{{head|nrf|preposition}}
+
+# {{lb|nrf|Guernsey}} [[on]]
+
+===Etymology 2===
+
+====Verb====
+{{head|nrf|verb form}}
+
+# {{inflection of|nrf|saver||1|s|pret}}
+
+==Northern Sami==
+
+===Pronunciation===
+{{rfp|se}}
+
+===Pronoun===
+{{head|se|pronoun form}}
+
+# {{inflection of|se|son||loc}}
+
+==Norwegian Nynorsk==
+
+===Verb===
+{{head|nn|verb form}}
+
+# {{inflection of|nn|susa||imp}}
+
+==Old French==
+
+===Etymology 1===
+From {{inh|fro|la|subtus}}.
+
+====Alternative forms====
+* {{l|fro|suz}}, {{l|fro|souz}}, {{l|fro|sos}}, {{l|fro|sost}}
+
+====Preposition====
+{{head|fro|preposition}}
+
+# [[under]]; [[underneath]]
+
+=====Descendants=====
+* {{desc|frm|soubs}}
+** {{desc|fr|sous}}
+* {{desc|nrf|souôs}}
+
+===Etymology 2===
+From {{inh|fro|LL.|sūsum}}, from {{inh|fro|la|sūrsum}}.
+
+====Preposition====
+{{head|fro|preposition}}
+
+# [[on]]; [[on top of]]; [[atop]]
+
+=====Descendants=====
+* {{desc|fr|sus}}
+* {{desc|nrf|sus}}
+
+====See also====
+* {{l|en|sus-}}
+* {{l|en|suspend}}
+
+==Old High German==
+
+===Etymology===
+Related to {{der|goh|gmw-pro|*swā|t=in this manner}}, see also {{cog|nl|zus}}.
+
+===Adverb===
+{{goh-adv}}
+
+# in this [[manner]] that follows, [[thus]]
+
+====Descendants====
+* {{desctree|gmh|sus}}
+
+====References====
+# Sievers, Eduard. (2nd. ed. 1892) ''Bibliothek der ältesten deutschen Litteratur-Denkmäler. V. Band. Tatian. Lateinisch und altdeutsch mit ausführlichem Glossar herausgegeben'', p. 438
+
+==Polish==
+
+===Etymology===
+{{dercat|pl|gem-pro}}
+''[[mazurzenie|Mazurzenie]]'' of {{m|pl|szus}}, from {{bor|pl|de|Schuss}}, from {{der|pl|gmh|-}}, from {{der|pl|goh|scuz}}, from {{der|pl|gmw-pro|*skuti}}.
+
+===Pronunciation===
+{{pl-p|a=Pl-sus.ogg}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# [[caper]], [[jump]], [[leap]] {{gl|long, quick jump}}
+#* {{quote-book|1=pl|year=1922|author=Voltaire|title=Prostaczek (L'ingénu)|translator=Tadeusz Boy-Żeleński|chapter=1|page=|text=Zgoła inaczej zachował się pewien młody człowiek bardzo zręcznej postaci, który '''skoczył jednym susem''' poprzez głowy towarzyszy i znalazł się tuż nawprost panienki.|t=That was not the behavior of a well-made youth, who, '''darting''' himself over the heads of his companions, suddenly stood before Miss Kerkabon.}}
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+==Portuguese==
+
+===Pronunciation===
+{{pt-IPA}}
+
+===Interjection===
+{{pt-interj|!}}
+
+# [[come on]]! ({{n-g|inducing courage or willpower}})
+
+==Romanian==
+
+===Etymology===
+{{inh+|ro|LL.|sūsum}}, from {{inh|ro|la|sūrsum}}.
+
+===Adverb===
+{{ro-adv}}
+
+# [[up]]
+#: {{ant|ro|jos}}
+
+===See also===
+* {{l|ro|deasupra}}
+* {{l|ro|peste}}
+
+==Spanish==
+
+===Pronunciation===
+{{es-pr}}
+
+===Interjection===
+{{head|es|interjection}}
+
+# [[c'mon]]; [[attaboy]]
+
+===Determiner===
+{{head|es|determiner form|g=p|possessive}}
+
+# {{plural of|es|su}}; [[one's]], [[his]], [[her]], [[its]], [[their]] (with plural possessee)
+# {{lb|es|formal}} [[your]] (with plural possessee)
+
+====Related terms====
+{{es-possessive determiners}}
+
+===Further reading===
+* {{R:es:DRAE}}
+
+==Swedish==
+
+===Etymology===
+{{deverbal|sv|susa}}.
+
+===Noun===
+{{sv-noun|n}}
+
+# a soft drawn-out [[murmur]] or [[whistling]] noise, like from a [[breeze]] or through a [[crowd]]
+
+====Declension====
+{{sv-noun-unc-irreg-n|2=suset|3=sus}}
+
+====Derived terms====
+* {{l|sv|i sus och dus}}
+
+===References===
+* {{R:svenska.se|saol}}
+* {{R:svenska.se|so}}
+* {{R:svenska.se|saob|id=S_14505-0364.1U2e}}
+
+==Tagalog==
+
+===Etymology===
+From a [[minced oath]] {{clipping|tl|Hesus|nocap=1}}, from {{der|tl|es|Jesus}}.
+
+===Pronunciation===
+* {{tl-IPA}}
+
+===Interjection===
+{{tl-head|pos=interjection|b={{tl-bay sc}}}}
+
+# {{lb|tl|colloquial}} [[geez]]; [[c'mon]]
+
+====Related terms====
+{{rel3|tl|susmaryosep|Hesus|Maria|Jose}}
+
+==Turkish==
+
+===Verb===
+{{head|tr|verb form}}
+
+# {{tr-verb form of|susmak}}
+
+==Zazaki==
+
+===Noun===
+{{zza-noun|n}}
+
+# A plant used in drug production
