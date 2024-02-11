@@ -1,0 +1,136 @@
+==English==
+[[Image:Flag of Edward England.svg|thumb|The flag of [[w:Edward England|Edward England]], a well-known symbol of piracy]]
+
+===Alternative forms===
+* {{alter|en|pyracy||obsolete}}
+
+===Etymology===
+From {{der|en|ML.|pīrātia}}, from Classical {{der|en|la|pīrāta}} + {{m|la|ia}}, or {{der|en|grc|πειρατεία}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈpaɪɹəsi/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-piracy.wav|Audio (Southern England)}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|nautical}} [[robbery|Robbery]] at [[sea]], a violation of international law; taking a [[ship]] away from the control of those who are legally entitled to it.
+#: {{syn|en|pirateship}}
+#: {{ux|en|How should the international community respond to Somali '''piracy'''?}}
+# A similar violation of international law, such as [[hijacking]] of an [[aircraft]].
+# The [[unauthorized]] [[duplication]] of [[goods]] protected by [[intellectual property]] [[law]].
+#: {{ux|en|Some video game consoles use specially designed cartridges to make software '''piracy''' more difficult.}}
+# The [[operation]] of an [[unlicensed]] [[radio]] or [[television]] [[station]].
+# {{lb|en|ornithology}} [[kleptoparasitism|Kleptoparasitism]].
+
+====Synonyms====
+* {{sense|robbery at sea}} {{l|en|buccaneerism}}
+* {{sense|breaking intellectual property law by making unauthorized copies}} {{l|en|bootlegging}}, {{l|en|file sharing}}
+
+====Hyponyms====
+* {{l|en|air piracy}}
+
+====Derived terms====
+{{der2|en|anti-piracy|e-piracy}}
+
+====Translations====
+{{trans-top|robbery at sea}}
+* Afrikaans: {{t|af|seerowery}}
+* Arabic: {{t|ar|قَرْصَنَة|f}}
+* Asturian: {{t|ast|piratería|f}}
+* Azerbaijani: {{t|az|[[dəniz]] [[quldurluq|quldurluğu]]}}, {{t|az|piratlıq}}
+* Belarusian: {{t|be|піра́цтва|n}}
+* Bulgarian: {{t|bg|пиратство|n}}
+* Catalan: {{t|ca|pirateria|f}}
+* Chinese:
+*: Cantonese: {{t|yue|海盜行為|tr=hoi2 dou6 haang4 wai4}}
+*: Mandarin: {{t+|cmn|海盜行為|tr=hǎidào xíngwéi}} {{qualifier|actions}}, {{t+|cmn|海盜|tr=hǎidào}} {{qualifier|pirates}}
+* Czech: {{t|cs|pirátství|n}}
+* Danish: {{t|da|pirateri|n}}, {{t|da|sørøveri|n}}
+* Dutch: {{t+|nl|zeeroverij|f}}, {{t+|nl|piraterij|f}}, {{t+|nl|kaping|f}}
+* Esperanto: {{t|eo|piratado}}
+* Finnish: {{t+|fi|merirosvous}}
+* French: {{t+|fr|piraterie|f}}, {{t+|fr|piratage|m}}
+* Galician: {{t|gl|piratería|f}}, {{t|gl|pirataría|f}}
+* Georgian: {{t|ka|მეკობრეობა}}
+* German: {{t+|de|Piraterie|f}}, {{t+|de|Seeräuberei|f}}
+* Greek: {{t+|el|πειρατεία|f}}
+* Gujarati: {{t|gu|ચાંચિયાગીરી}}
+* Hebrew: {{t+|he|שד ים|m|tr=shod yam|alt=שוד ים}}, {{t+|he|שֹׁד יָמִּי|m|tr=shod yami}}, {{t+|he|פִּירָטִיוּת|f|tr=piratiyut}}
+* Hindi: {{t-needed|hi}}
+* Hungarian: {{t+|hu|kalózkodás}}
+* Ido: {{t+|io|pirateso}}
+* Italian: {{t+|it|pirateria|f}}
+* Japanese: {{t+|ja|海賊|tr=かいぞく, kaizoku}}, {{t|ja|パイレーシ|tr=pairēshi}}
+* Korean: {{t|ko|해적 행위}}, {{t|ko|해적질}}
+* Latin: {{t|la|pīrātica|f}}
+* Lithuanian: {{t+|lt|piratavimas}}
+* Norman: {{t|nrf|pirat'tie|f}}
+* Polish: {{t+|pl|piractwo|n}}
+* Portuguese: {{t+|pt|pirataria|f}}
+* Punjabi: {{t|pa|ਕਜ਼ਾਕੀ|f}}
+* Russian: {{t+|ru|пира́тство|n}}
+* Somali: {{t|so|burcad badeed|f}}
+* Spanish: {{t+|es|piratería|f}}
+* Swahili: {{t|sw|uharamia}}
+* Swedish: {{t|sv|sjöröveri|n}}
+* Tagalog: {{t|tl|pamimirata}}
+* Thai: {{t+|th|โจรกรรม}}
+* Turkish: {{t+|tr|korsanlık}}
+* Ukrainian: {{t|uk|піратство|n}}
+{{trans-bottom}}
+
+{{trans-top|hijacking}}
+* Danish: {{t|da|kapring|c}}
+* Dutch: {{t+|nl|kaping|f}}
+* Finnish: {{t+|fi|kaappaus}}
+* Greek: {{t+|el|πειρατεία|f}}
+* Hebrew: {{t+|he|פִּירָטִיוּת|f|tr=piratiyut}}
+* Hungarian: {{t+|hu|eltérítés}}
+* Italian: {{t+|it|pirateria|f}}
+* Norwegian: {{t|no|kapring}}
+* Spanish: {{t+|es|piratería|f}}, {{t+|es|secuestro|m}}
+* Swahili: {{t|sw|uharamia}}
+{{trans-bottom}}
+
+{{trans-top|unauthorized duplication}}
+* Arabic: {{t|ar|تَزْوِير|m}}
+* Bulgarian: {{t|bg|плагиатство|n}}
+* Catalan: {{t|ca|pirateria|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|著作權侵害|tr=zhùzuòquán qīnhài}}, {{t+|cmn|盜版|tr=dàobǎn}} {{qualifier|pirated edition}}
+* Danish: {{t|da|piratkopiering|c}}
+* Dutch: {{t+|nl|piraterij|f}}
+* Finnish: {{t+|fi|piratismi}}
+* French: {{t+|fr|piratage|f}}
+* Galician: {{t|gl|piratería|f}}, {{t|gl|pirataría|f}}
+* Georgian: {{t|ka|პირატობა}}, {{t|ka|კონტრაფაქცია}}, {{t|ka|საავტორო უფლების დარღვევა}}, {{t|ka|გამომცემლის უფლების დარღვევა}}
+* German: {{t|de|Raubkopieren|n}}; {{t+|de|Raubkopie|f}}, {{t+|de|Raubdruck|m}} {{qualifier|pirated edition}}
+* Greek: {{t+|el|πειρατεία|f}}
+* Hungarian: {{t+|hu|kalózkodás}}
+* Italian: {{t+|it|pirateria|f}}
+* Japanese: {{t|ja|著作権侵害|tr=ちょさくけんしんがい, chosakuken shingai}}, {{t|ja|パイレーシ|tr=pairēshi}}; {{t|ja|偽版|tr=ぎはん, gihan}}　{{t+|ja|海賊版|tr=かいぞくばん, kaizokuban}}　{{qualifier|pirated edition}}
+* Polish: {{t+|pl|piractwo|n}}
+* Portuguese: {{t+|pt|pirataria|f}}
+* Russian: {{t+|ru|пира́тство|n}}, {{t|ru|наруше́ние а́вторского пра́ва|n}}, {{t+|ru|контрафа́кция|f}}; {{t|ru|пира́тская ко́пия|f}} {{qualifier|pirated edition}}
+* Spanish: {{t+|es|piratería|f}}, {{t+|es|falsificación|f}}
+* Swedish: {{t+|sv|piratkopiering|c}}
+* Tagalog: {{t|tl|pamimirata}}
+* Turkish: {{t+|tr|korsanlık}}
+* Ukrainian: {{t|uk|піра́тство|n}}
+{{trans-bottom}}
+
+{{trans-top|unlicensed broadcasting}}
+* Dutch: {{t+|nl|piraterij|f}}, {{t|nl|zendpiraterij|f}}, {{t|nl|etherpiraterij|f}}
+* Finnish: {{t|fi|piraattiradiotoiminta}}
+* Greek: {{t+|el|πειρατεία|f}}
+* Turkish: {{t|tr|korsan yayın}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|pirate}}
+* {{l|en|pirate radio}}
+
+[[Category:English 3-syllable words]]
+[[Category:en:Copyright]]
+[[Category:en:Crime]]
