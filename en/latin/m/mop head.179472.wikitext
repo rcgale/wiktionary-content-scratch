@@ -1,0 +1,22 @@
+{{also|mophead}}
+==English==
+{{rfi|en}}
+
+===Alternative forms===
+* {{alt|en|mophead}}
+
+===Noun===
+{{en-noun}}
+
+# The end of a mop, to which the [[thrums]] or [[rags]] are fastened.
+# {{lb|en|US}} A [[clamp]] for holding the thrums or rags of a mop.
+# A type of thick rounded haircut similar to that worn by {{w|The Beatles|the Beatles}} in the early 1960s.
+# {{lb|en|pejorative}} A person with unkempt hair that stands away from the head.
+
+====Related terms====
+* {{l|en|mop-headed}}
+
+===See also===
+* {{l|en|moppet}}
+
+{{C|en|Cleaning|Hair|People|Tools}}
