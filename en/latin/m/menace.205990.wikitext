@@ -1,0 +1,162 @@
+{{also|menacé}}
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ˈmɛnɪs/}}
+* {{rhymes|en|ɛnɪs|s=2}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-menace.wav |Audio (Southern England)}}
+
+===Etymology 1===
+{{root|en|ine-pro|*men- (stand out)}}
+From {{inh|en|enm|manace}}, from {{der|en|fro|manace}}, {{m|fro|menace}}, &c., from {{der|en|LL.|minācia||[[threat]], menace}}, from {{der|en|la|mināx||[[threatening]]}} + {{m|la|-ia||pos=suffix [[form]]ing [[abstract]] [[noun]]s}}.
+
+====Noun====
+{{en-noun}}
+
+# A [[perceived]] [[threat]] or [[danger]]. {{defdate|a. 1300}}
+#* {{RQ:Dryden Aeneis|9|passage=the dark '''menace''' of the distant war.}}
+# The act of [[threatening]].
+# {{lb|en|informal}} An [[annoying]] and [[bothersome]] person or thing.
+
+=====Synonyms=====
+* {{sense|the act or process of threatening, a tendency to threaten}} {{l|en|minacity}}, {{l|en|minacy}}
+
+=====Derived terms=====
+* {{l|en|yellow menace}}
+
+=====Translations=====
+{{trans-top|perceived threat or danger}}
+* Arabic: {{t|ar|تَهْدِيد|m}}
+* Belarusian: {{t|be|пагро́за|f}}
+* Bulgarian: {{t+|bg|запла́ха|f}}, {{t+|bg|опа́сност|f}}
+* Catalan: {{t+|ca|amenaça|f}}
+* Chinese:
+*: Cantonese: {{t|yue|威脅|tr=wai1 hip3}}
+*: Mandarin: {{t+|cmn|威脅|tr=wēixié}}
+* Czech: {{t+|cs|hrozba|f}}
+* Finnish: {{t+|fi|uhka}}
+* French: {{t+|fr|menace|f}}
+* German: {{t+|de|Drohung}}, {{t+|de|Bedrohung}}, {{t+|de|Druck|m}}
+* Italian: {{t+|it|minaccia|f}}
+* Japanese: {{t+|ja|脅威|tr=きょうい, kyōi}}
+* Korean: {{t+|ko|위협(威脅)}}
+* Macedonian: {{t|mk|закана|f}}
+* Middle English: {{t|enm|manace}}
+* Plautdietsch: {{t|pdt|Jedreiw|n}}
+* Polish: {{t+|pl|zagrożenie|n}}, {{t+|pl|groźba|f}}
+* Portuguese: {{t+|pt|ameaça|f}}
+* Russian: {{t+|ru|угро́за|f}}, {{t+|ru|опа́сность|f}}
+* Slovak: {{t+|sk|hrozba|f}}
+* Spanish: {{t+|es|amenaza|f}}
+* Turkish: {{t+|tr|tehdit}}
+* Ukrainian: {{t|uk|погро́за|f}}
+* Welsh: {{t|cy|bygwl|m}}, {{t|cy|bygylau|m-p}}
+{{trans-bottom}}
+
+{{trans-top|act of threatening}}
+* Bulgarian: {{t|bg|запла́шване|n}}
+* Chinese:
+*: Cantonese: {{t|yue|恐嚇|tr=hung2 haak3}}
+*: Mandarin: {{t+|cmn|恐嚇|tr=kǒnghè}}
+* Finnish: {{t+|fi|uhkailu}}, {{t+|fi|uhkaus}}
+* German: {{t+|de|Androhung}}, {{t+|de|Bedrohung}}
+* Korean: {{t+|ko|위협(威脅)}}, {{t+|ko|협박(脅迫)}}
+* Middle English: {{t|enm|manace}}
+* Plautdietsch: {{t|pdt|Jedreiw|n}}
+* Russian: {{t+|ru|угро́за|f}}
+* Spanish: {{t+|es|amenaza|f}}
+* Welsh: {{t|cy|bygwl|m}}, {{t|cy|bygylau|m-p}}
+{{trans-bottom}}
+
+{{trans-top|annoying and bothersome person}}
+* Finnish: {{t|fi|ilkimys}}, {{t+|fi|ilkiö}}, {{t|fi|maanvaiva}}
+* Galician: {{t|gl|escachapedras}}
+* German: {{t+|de|Plage}}, {{t|de|Landplage}}
+* Italian: {{t+|it|peste|f}}
+* Polish: {{t+|pl|zmora|f}}
+{{trans-bottom}}
+
+====References====
+* “<span class="plainlinks">[http://ed2.oed.com/cgi/display/00143950 menace, ''n.'']</span>” listed in the ''[[w:Oxford English Dictionary|Oxford English Dictionary]]'' [2nd Ed.; 1989]
+
+===Etymology 2===
+First attested in 1303: from {{inh|en|enm|manacen}}, from {{der|en|fro|menacer}}, {{m|fro|manecier}}, {{m|fro|manechier}} and {{der|en|xno|manasser}}, from the assumed {{der|en|VL.|*mināciāre}}, from {{der|en|la|minācia}}, whence [[menace#Etymology 1|the noun]].
+
+====Verb====
+{{en-verb}} {{tlb|en|ambitransitive}}
+
+# {{lb|en|transitive}} To make [[threat]]s against (someone); to [[intimidate]].
+#: {{ux|en|to '''menace''' a country with war}}
+#* {{RQ:Shakespeare Romeo and Juliet|V|iii|passage=My master {{...}} did '''menace''' me with death.}}
+#* {{quote-book|en|author=w:Richard Brinsley Sheridan| chapter=Mr. Sheridan’s Speech, on Summing Up the Evidence on the Second, or Begum Charge against {{w|Warren Hastings}}, Esq., Delivered before the High Court of Parliament, June 1788|title=Select Speeches, Forensick and Parliamentary, with Prefatory Remarks by [[w:Nathaniel Chapman|N[athaniel] Chapman]], M.D.|location=[Philadelphia, Pa.]|publisher=Published by Hopkins and Earle, no. 170, [[w:Market Street (Philadelphia)|Market Street]]| month=June| year=1788| year_published=1808| volume=I| page=474| pageurl=https://books.google.com/books?id=oB4RAAAAYAAJ&pg=PA474| oclc=230944105| passage=The Begums' ministers, on the contrary, to extort from them the disclosure of the place which concealed the treasures, were, {{...}} after being ''fettered'' and ''imprisoned'', led out on to a scaffold, and this array of terrours proving unavailing, the ''meek'' tempered Middleton, as a dernier resort, '''menaced''' them with a confinement in the fortress of Chunargar. Thus, my lords, was a British garrison made the ''climax'' of ''cruelties''!}}
+# To [[threaten]] (an [[evil#Noun|evil]] to be [[inflict]]ed).
+#* {{RQ:Marlowe Tamburlaine|part=1|scene=ii|page=46|passage=Upon his browes was pourtraid vgly death,<br>And in his eies the furies of his heart,<br>That ſhine as Comets, '''menacing''' reueng,<br>And caſts a pale complexion on his cheeks.}}
+#* {{RQ:Shakespeare Henry 8|I|ii|passage=By oath he '''menaced''' / Revenge upon the cardinal.}}
+# To [[endanger]] (someone or something); to [[imperil]] or [[jeopardize]].
+
+=====Translations=====
+{{trans-top|to make threats against, to intimidate}}
+* Bulgarian: {{t+|bg|заплашвам}}, {{t+|bg|застрашавам}}
+* Finnish: {{t+|fi|uhkailla}}, {{t+|fi|pelotella}}
+* German: {{t+|de|androhen}}, {{t+|de|bedrohen}}
+* Maori: {{t|mi|whakahakahaka}}
+* Middle English: {{t|enm|manacen}}
+* Polish: {{t+|pl|grozić|impf}}
+* Russian: {{t+|ru|угрожа́ть|impf}}, {{t+|ru|грози́ть|impf}}
+* Spanish: {{t+|es|amenazar}}
+{{trans-bottom}}
+
+====References====
+* “<span class="plainlinks">[http://ed2.oed.com/cgi/display/00143951 menace, ''v.'']</span>” listed in the ''Oxford English Dictionary'' [2nd Ed.; 1989]
+
+==French==
+
+===Etymology===
+{{inh+|fr|fro|manace}}, from {{inh|fr|la|minācia||threat}}, a noun based on {{m|la|mināx||threatening}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-menace.ogg|audio}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[threat]]
+
+====Related terms====
+* {{l|fr|menacer}}
+
+===Verb===
+{{head|fr|verb form}}
+
+# {{inflection of|fr|menacer||1//3|s|pres|ind//sub|;|2|s|impr}}
+
+===Further reading===
+* {{R:fr:TLFi}}
+
+==Friulian==
+
+===Etymology===
+From {{der|fur|la|minācia||threat}}, possibly via {{bor|fur|it|minaccia}} or another Romance language.
+
+===Noun===
+{{fur-noun|f|pl=menacis}}
+
+# [[threat]], {{l|en|menace}}
+
+====Related terms====
+* {{l|fur|menaçâ}}
+
+==Middle English==
+
+===Verb===
+{{head|enm|verb}}
+
+# {{alt form|enm|manacen}}
+
+==Spanish==
+
+===Verb===
+{{head|es|verb form}}
+
+# {{es-verb form of|menazar}}
