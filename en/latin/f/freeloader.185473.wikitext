@@ -1,0 +1,66 @@
+==English==
+
+===Alternative forms===
+* {{alt|en|free-loader}}
+
+===Etymology===
+{{af|en|free|load|-er|id3=agent noun}}, originally US 1930s.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈfɹiːləʊdə(ɹ)/}}
+* {{a|GA}} {{IPA|en|/ˈfɹiloʊdɚ/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-freeloader.wav |Audio (Southern England)}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|colloquial}} One who does not [[contribute]] or [[pay]] appropriately; one who gets a [[free ride]], etc. without paying a fair share.
+#: {{syn|en|free rider|moocher|Thesaurus:scrounger}}
+# {{lb|en|UK|NZ|Canada}} An individual who takes expired unsold merchandise from the back of supermarket premises.
+
+====Derived terms====
+* [[freeloader fly]]
+
+====Translations====
+{{trans-top|one who does not contribute or pay appropriately}}
+* Azerbaijani: {{t|az|müftəxor}}
+* Catalan: {{t+|ca|paràsit|m}}, {{t|ca|gorrer|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|不速之客|tr=bùsùzhīkè}}, {{t+|cmn|食客|tr=shíkè}}
+* Dutch: {{t+|nl|klaploper|m}}
+* Finnish: {{t+|fi|siipeilijä}}, {{t|fi|siivellä eläjä}}, {{t+|fi|vapaamatkustaja}}
+* French: {{t+|fr|resquilleur|m}}, {{t+|fr|resquilleuse|f}}
+* Georgian: {{t|ka|მუქთამჭამელი}}
+* German: {{t+|de|Schmarotzer|m}}, {{t+|de|Trittbrettfahrer|m}}, {{t+|de|Schnorrer|m}}
+* Greek: {{t+|el|χαραμοφάης|m}}, {{t+|el|παράσιτο|n}}, {{t+|el|τζαμπατζής}}
+* Hungarian: {{t+|hu|potyaleső}}, {{t+|hu|potyázó}}
+* Irish: {{t|ga|diúgaire|m}}, {{t|ga|súmaire|m}}
+* Italian: {{t+|it|scroccone|m}}, {{t+|it|approfittatore|m}}, {{t+|it|parassita|m}}
+* Japanese: {{t+|ja|食客|tr=しょっかく, shokkaku, しょっきゃく, shokkyaku|sc=Jpan}}
+* Latin: {{t|la|parasītus|m}}, {{t|la|parasīta|f}}
+* Macedonian: {{t|mk|муфте́џија|m}}, {{t|mk|муфте́џика|f}}, {{t|mk|мо́лзач|m}}, {{t|mk|мо́лзачка|f}}, {{t|mk|гага́џија|m}}, {{t|mk|гага́џика|f}}
+* Norwegian:
+*: Bokmål: {{t|nb|gratispassasjer|m}}
+* Polish: {{t+|pl|sęp|m}}, {{t+|pl|pasożyt|m}}
+* Portuguese: {{t|pt|bicão|m}}
+* Russian: {{t+|ru|нахле́бник|m}}, {{t+|ru|нахле́бница|f}}, {{qualifier|slang}} {{t+|ru|халя́вщик|m}}, {{t+|ru|халя́вщица|f}}, {{t+|ru|тунея́дец|m}}, {{t+|ru|тунея́дка|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|parazit|m}}
+* Spanish: {{t+|es|gorrón|m}}, {{t+|es|chupóptero}}, {{t+|es|gallofero}}, {{t|es|garronero|m}} {{qualifier|Arg., Ur.}}
+* Swedish: {{t+|sv|snyltare|c}}
+* Welsh: {{t|cy|sbwnjwr|m}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|bludger}}
+
+===Further reading===
+* {{R:Greens|id=qr4h4ha|pos=n}}
+* {{R:Partridge New|volume=1|page=798}}
+
+===Anagrams===
+* {{anagrams|en|a=adeeeflorr|foreleader}}
+
+[[Category:en:Money]]
+[[Category:en:People]]
+[[Category:English adjective-noun compound nouns]]
