@@ -1,0 +1,77 @@
+{{also|boardgame}}
+==English==
+[[File:US Navy 110713-N-NT881-124 Personnel Specialist 2nd Class James Vail, left, and Boatswain's Mate 2nd Class Nathaniel Eaton play board games with ch.jpg|thumb|People playing the board game ''[[Monopoly]]'']]
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# Any of many games of [[strategy]] or [[chance]] played on a specially designed [[board]]; often involves one or more players moving [[piece]]s and using [[dice]] or [[card]]s.
+
+====Hyponyms====
+{{col4|en
+|backgammon
+|chess
+|[[checkers]], [[draughts]]
+|Cluedo
+|go
+|Ludo
+|Monopoly
+|pachisi
+|Scrabble
+|Trivial Pursuit
+}}
+
+====Derived terms====
+{{col-auto|en|boardgamey|board gamer|board gaming}}
+
+====Translations====
+{{trans-top|game played on a board}}
+* Arabic: {{t-needed|ar}}
+* Catalan: {{t|ca|joc de tauler|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|版圖遊戲|tr=bǎntú yóuxì}}, {{t|cmn|圖版遊戲|tr=túbǎn yóuxì}}, {{t|cmn|紙盤遊戲|tr=zhǐpán yóuxì}}, {{t|cmn|棋盤遊戲|tr=qípán yóuxì}}, {{t|cmn|紙上遊戲|tr=zhǐshàng yóuxì}}, {{t|cmn|桌面遊戲|tr=zhuōmiàn yóuxì}}, {{t|cmn|棋類遊戲|tr=qílèi yóuxì}}, {{t+|cmn|桌遊|tr=zhuōyóu}} {{qualifier|colloquial}}
+* Czech: {{t+|cs|desková hra|f}}
+* Danish: {{t+|da|brætspil|n}}
+* Dutch: {{t+|nl|bordspel|n}}
+* Esperanto: {{t|eo|tabulludo}}
+* Estonian: {{t|et|lauamäng}}
+* Finnish: {{t+|fi|lautapeli}}
+* French: {{t+|fr|jeu de société|m}}
+* Georgian: {{t|ka|სამაგიდო თამაში}}
+* German: {{t+|de|Brettspiel|n}}
+* Greek: {{t+|el|επιτραπέζιο}}, {{t+|el|επιτραπέζιο παιχνίδι}}
+* Hungarian: {{t+|hu|társasjáték}}, {{t+|hu|táblajáték}}
+* Icelandic: {{t|is|borðspil|n}}
+* Italian: {{t|it|gioco da tavolo|m}}
+* Japanese: {{t+|ja|ボードゲーム|tr=bōdo gēmu}}
+* Kazakh: {{t|kk|үстел ойыны}}
+* Khmer: {{t|km|ល្បែងក្ដារ|tr=lbaeng kdar|sc=Khmr}}
+* Korean: {{t+|ko|보드게임}}
+* Kyrgyz: {{t+|ky|стол оюну|f|sc=Cyrl}}
+* Latvian: {{t|lv|galda spēle|f}}
+* Lithuanian: {{t|lt|stalo žaidimas|m}}
+* Luxembourgish: {{t|lb|Brietspill|n}}
+* Nahuatl: {{t|nah|huapalpatolli}}
+* Norwegian:
+*: Bokmål: {{t|nb|brettspill|n}}, {{t|nb|brettspell|n}}
+*: Nynorsk: {{t|nn|brettspel|n}}
+* Polish: {{t|pl|gra planszowa|f}}, {{t|pl|planszówka|f}}
+* Portuguese: {{t|pt|[[jogo]] [[de]] [[tabuleiro]]|m}}
+* Romanian: {{t|ro|joc pe tablă|n}}, {{t|ro|joc de tablă|n}}, {{t+|ro|joc de societate|n}}
+* Russian: {{t+|ru|насто́льная игра́|f}}
+* Scots: {{t|sco|buird gemme}}
+* Spanish: {{t|es|juego de mesa|m}}
+* Swahili: {{t+|sw|bao}}
+* Swedish: {{t+|sv|brädspel|n}}
+* Thai: {{t|th|เกมกระดาน}}
+* Turkish: {{t|tr|masa oyunu}}
+* Ukrainian: {{t|uk|насті́льна гра|f}}
+* Welsh: {{t|cy|gêm fwrdd|f}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aabdegmor|game board|gameboard}}
+
+[[Category:en:Board games]]
+[[Category:en:Games]]
