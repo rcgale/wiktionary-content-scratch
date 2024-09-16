@@ -1,0 +1,76 @@
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ˈmæpɪŋ/}}
+* {{hyph|en|map|ping}}
+
+===Noun===
+{{en-noun|~}}
+
+# The process of making [[map]]s.
+# {{lb|en|biology}} The process of [[locating]] [[gene]]s on a [[chromosome]].
+# {{lb|en|computing}} Assigning a [[PC]] to a shared drive or printer port on a network.
+# {{senseid|en|correspondence function}}{{lb|en|mathematics}} A [[function]] that [[map]]s every [[element]] of a given mathematical structure (eg: a [[set]]) to a [[unique]] element of another structure; a [[correspondence]]. [[Category:en:Functions]]
+# {{lb|en|object-oriented programming}} [[conversion]] of [[data type]]s between incompatible [[type system]]s.
+
+====Hyponyms====
+* {{sense|computing}} {{l|en|object-relational mapping}}
+
+====Derived terms====
+{{der3|en|automapping|biomapping|countermapping|crossmapping|heatmapping|imagemapping|immunomapping|karyomapping|keymapping|lightmapping|micromapping|multimapping|phosphomapping|skymapping|bump mapping|conformal mapping|mapping reduction|mapping class group|shear mapping|Schwarz-Christoffel mapping|shadow mapping|tone mapping|time-one mapping}}
+
+====Translations====
+{{trans-top|process of making maps}}
+* Chinese:
+*: Mandarin: {{t+|cmn|製圖|tr=zhìtú}}
+* Czech: {{t|cs|mapování|n}}
+* Finnish: {{t+|fi|kartoitus}}
+* French: {{t+|fr|cartographie|f}}
+* Irish: {{t|ga|mapáil|f}}, {{t|ga|léarscáiliú|m}}, {{t|ga|léarscáilíocht|f}}
+* Macedonian: {{t|mk|картографи́рање|n}}
+* Norwegian:
+*: Bokmål: {{t+|nb|kartlegging|m|f}}, {{t+|nb|kartografi|m}}
+* Portuguese: {{t|pt|mapeamento|m}}
+* Romanian: {{t+|ro|cartografiere|f}}, {{t+|ro|cartografie|f}}
+* Spanish: {{t+|es|mapeo}}
+{{trans-bottom}}
+
+{{trans-top|process of locating genes on a chromosome}}
+* Finnish: {{t|fi|geenikartoitus}}
+* French: {{t+|fr|cartographie|f}}
+{{trans-bottom}}
+
+{{trans-top|computing: assigning a PC to a shared drive or printer port on a network}}
+* French: {{t+|fr|mappage}}
+{{trans-bottom}}
+
+{{trans-top|function that maps every element of a given set to a unique element of another set}}
+* Czech: {{t|cs|zobrazení|n}} (''any function'')
+* Dutch: {{t+|nl|afbeelding|f}}
+* Finnish: {{t+|fi|kuvaus}}
+* French: {{t+|fr|application|f}}
+* Icelandic: {{t|is|vörpun|f}}, {{t|is|færsla|f}}, {{t|is|myndun|f}}, {{t|is|ummyndun|f}}
+* Russian: {{t+|ru|отображение|n}}
+* Serbo-Croatian: {{t|sh|preslikavanje|n}}
+* Spanish: {{t+|es|mapeo|m}}
+{{trans-bottom}}
+
+{{trans-top|object-oriented programming:  conversion of data types between incompatible type systems}}
+* Chinese:
+*: Mandarin: {{t+|cmn|映射|tr=yìngshè}}
+{{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{infl of|en|map||ing-form}}
+
+===References===
+* {{pedia}}
+
+==Spanish==
+
+===Noun===
+{{es-noun|m}}
+
+# {{l|en|mapping}}
