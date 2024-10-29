@@ -1,0 +1,138 @@
+{{also|Bourbon}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+From "[[bourbon whiskey]]", originally "[[Bourbon whiskey]]", of disputed provenance. Generally taken to derive from [[Bourbon County]], [[Kentucky]], but possibly also from [[w:Bourbon Street|Bourbon Street]] in [[New Orleans]], [[Louisiana]].<ref>Kiniry, Laura. "[https://web.archive.org/web/20130914194701/http://blogs.smithsonianmag.com/food/2013/06/the-boozy-history-of-where-bourbon-really-got-its-name-and-more-tips-on-americas-native-spirit/ Where Bourbon Really Got Its Name and More Tips on America’s Native Spirit]". ''Smithsonian.com''. 13 June 2013. Accessed 12 September 2013.</ref>
+
+Both derive from the [[French]] [[w:Bourbon dynasty|Bourbon dynasty]], named for the lordship of {{uder|en|fr|-}} ''Bourbon l'Archambault''. The town's name derives from {{m|en|Borvo}}, a local {{der|en|cel|-}} deity associated with hot springs, from {{der|en|cel-pro|*borvo||froth, foam}}, from {{der|en|ine-pro|*bʰrewh₁-||to be hot, boil}}.  See also [[w:Borvo#Etymology|Borvo]].
+
+===Pronunciation===
+;whiskey:
+* {{IPA|en|/bɜː(ɹ)bən/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-bourbon.wav|a=Southern England}}
+*: {{rhymes|en|ɜː(ɹ)bən|s=2}}
+
+;biscuit:
+* {{IPA|en|/ˈbʊə(ɹ)bən/|/bɔː(ɹ)bən/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-bourbon2.wav|a=Southern England}}
+*: {{rhymes|en|ʊə(ɹ)bən|ɔː(ɹ)bən}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{senseid|en|Q543127}}A [[whiskey]] [[distill|distilled]] from a mixture of grains in which at least 51% is [[corn]], aged in charred, new [[oak]] [[barrel|barrels]]. Made in the United States.
+# A serving of bourbon whiskey.
+#* {{quote-book|1=en|year=1946|author=[[w:George Johnston (novelist)|George Johnston]]|title=Skyscrapers in the Mist|page=17|text=It concerns the gnomelike quality of the average American at a party. I have been to many parties where staid American business men have been transformed by a few ryes or '''bourbons''' into unpredictable gremlins out for adventure.}}
+# A [[Bourbon biscuit]].
+
+====Synonyms====
+{{col3|en|
+|bourbon whiskey
+|Bourbon whiskey
+|bourbon and branch
+|bourbon cream
+}}
+
+====Hypernyms====
+{{col3|en|
+|corn whiskey
+|corn whisky
+|American whiskey
+|American whisky
+|whiskey
+|whisky
+}}
+
+====Coordinate terms====
+{{col3|en|
+|corn malt whiskey
+|corn malt whisky
+|malted corn whiskey
+|malted corn whiskey
+|Tennessee whiskey
+|Tennessee whisky
+}}
+
+====Derived terms====
+{{col-auto|en|bourbonic|bourbon chicken
+|Old Bourbon
+|Bourbon
+}}
+
+====Translations====
+{{trans-top|type of whiskey}}
+* Armenian: {{t+|hy|բուրբոն}}
+* Bulgarian: {{t|bg|бърбън|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|波本威士忌|tr=bōběn wēishìjì}}
+* Dutch: {{t|nl|Bourbon|m}}
+* Finnish: {{t|fi|bourbonviski}}
+* French: {{t+|fr|bourbon|m}}
+* German: {{t+|de|Bourbon|m}}
+* Japanese: {{t|ja|バーボン|tr=bābon|sc=Jpan}}
+* Korean: {{t|ko|버번}}
+* Marathi: {{t|mr|बर्बन|f}}
+* Russian: {{t+|ru|бурбо́н|m}}
+* Spanish: {{t|es|bourbon|m}}
+* Yiddish: {{t|yi|בורבאָן|m}}
+{{trans-bottom}}
+
+{{trans-top|serving of bourbon whiskey}}
+* Finnish: {{t+|fi|bourbon}}
+{{trans-bottom}}
+
+{{trans-top|Bourbon biscuit}}
+* Marathi: {{t|mr|बॉरबॉन|n}}
+{{trans-bottom}}
+
+===References===
+<references/>
+
+{{cln|en|heteronyms}}
+{{C|en|Distilled beverages}}
+{{cln|en|terms derived from toponyms}}
+
+==Finnish==
+
+===Etymology===
+{{bor|fi|en|bourbon}}
+
+===Pronunciation===
+{{fi-p|burbon}}
+
+===Noun===
+{{fi-noun}}
+
+# {{synonym of|fi|bourbonviski||bourbon}}.
+
+====Declension====
+{{fi-decl-risti|i=0|bourbon|||a}}
+
+====Derived terms====
+{{col-auto|fi|title=compounds
+|bourbonviski
+}}
+
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# {{l|en|bourbon}}
+
+===References===
+* {{R:fr:TLFi}}
+
+==Spanish==
+
+===Pronunciation===
+{{es-pr}}
+
+===Noun===
+{{es-noun|m|bourbons}}
+
+# {{l|en|bourbon}}
+
+===Further reading===
+* {{R:es:DRAE}}
