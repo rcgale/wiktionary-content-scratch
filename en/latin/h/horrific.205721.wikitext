@@ -1,0 +1,62 @@
+{{also|horrífic}}
+==English==
+
+===Alternative forms===
+* {{l|en|horrifick}} {{qualifier|obsolete}}
+
+===Etymology===
+Borrowed from {{bor|en|la|horrificus}}, from {{m|la|horreō||to be afraid}} + {{m|la|-ficō||to make}}.
+
+===Pronunciation===
+* {{IPA|en|/həˈɹɪfɪk/|/hɔˈɹɪfɪk/|/hɑˈɹɪfɪk/|a=GA}}
+* {{IPA|en|/həˈɹɪfɪk/|a=RP}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-horrific.wav|a=Southern England}}
+* {{IPA|en|/hɘˈɹɘfɘk/|/hɔˈɹɘfɘk/|a=NZ}}
+* {{rhymes|en|ɪfɪk|s=3}}
+
+===Adjective===
+{{en-adj}}
+
+# Causing [[horror]]; [[horrifying]].
+#: {{synonyms|en|Thesaurus:frightening}}
+#: {{ux|en|a '''horrific''' sight}}
+#: {{ux|en|a '''horrific''' injury}}
+
+====Usage notes====
+* {{U:en:an h}}
+
+====Related terms====
+* {{l|en|horrendous}}
+* {{l|en|horrible}}
+* {{l|en|horrifical}}
+* {{l|en|horrification}}
+* {{l|en|horrify}}
+* {{l|en|horror}}
+
+====Translations====
+{{trans-top|causing horror}}
+* Albanian: {{t-needed|sq}}
+* Armenian: {{t-needed|hy}}
+* Azerbaijani: {{t|az|vahiməli}}, {{t+|az|dəhşətli}}, {{t+|az|qorxunc}}, {{t|az|məşum}}
+* Bulgarian: {{t+|bg|ужасяващ}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Dutch: {{t+|nl|afschuwelijk}}
+* Esperanto: {{t-needed|eo}}
+* Estonian: {{t-needed|et}}
+* French: {{t+|fr|horrifique}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|entsetzlich}}
+* Hungarian: {{t-needed|hu}}
+* Latin: {{t|la|horrificus}}
+* Latvian: {{t-needed|lv}}
+* Lithuanian: {{t-needed|lt}}
+* Polish: {{t+|pl|przerażający}}
+* Romanian: {{t-needed|ro}}
+* Slovak: {{t-needed|sk}}
+* Spanish: {{t|es|horrorífico}}, {{t+|es|truculento}}, {{t|es|horrífico|m}}
+* Turkish: {{t+|tr|korkunç}}
+* Ukrainian: {{t-needed|uk}}
+{{trans-bottom}}
+
+{{C|en|Fear}}
