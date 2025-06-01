@@ -1,0 +1,229 @@
+{{also|Bidet}}
+==English==
+{{wikipedia}}
+[[Image:Bidet Ego Kolo.jpg|thumb|right|250 px|A bidet.]]
+
+===Etymology===
+Borrowed from {{bor|en|fr|bidet}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈbiːdeɪ/|a=UK}}
+** {{rhymes|en|iːdeɪ|s=2}}
+** {{homophone|en|b-day}}
+* {{IPA|en|/bɪˈdeɪ/|a=US}}
+** {{audio|en|En-us-bidet.ogg|a=US}}
+** {{rhymes|en|eɪ|s=2}}
+
+===Noun===
+{{en-noun}}
+
+# A low-mounted plumbing fixture or type of sink intended for washing the [[external]] [[genitalia]] and the [[anus]].
+# {{lb|en|obsolete}} A small [[horse]] formerly allowed to each [[trooper]] or [[dragoon]] for carrying his [[baggage]].
+#* {{quote-text|en|year=1631|author=w:Ben Jonson|title=Chloridia
+|passage=For joy of which I will return to myself, mount my '''bidet''' in a dance}}
+
+====Derived terms====
+{{col|en|bidet shower|bidet spray|bidet sprayer|Bidet}}
+
+====Translations====
+{{trans-top|low-mounted plumbing fixture for cleaning the genitalia and anus}}
+* Arabic: {{t|ar|شَطَّاف|m}}, {{t|ar|شَطَّافَة|f}}
+*: Hijazi Arabic: {{t|acw|بديه|m|tr=bidē}}, {{t|acw|بيديه|m|tr=bīdē}}
+* Bashkir: {{t|ba|биде}}
+* Belarusian: {{t|be|бідэ́|n}}
+* Breton: {{t+|br|bidochenn|f}}
+* Bulgarian: {{t|bg|биде́|n}}
+* Catalan: {{t+|ca|bidet|m}}
+* Chinese:
+*: Cantonese: {{t|yue|坐浴桶|tr=co5 juk6 tung2}}
+*: Mandarin: {{t|cmn|坐浴桶|tr=zuòyùtǒng}}, {{t|cmn|坐浴盤|tr=zuòyùpán}}, {{t|cmn|智能廁板|tr=zhìnéng cèbǎn}}
+* Czech: {{t+|cs|bidet|m}}
+* Danish: {{t+|da|bidet|c}}
+* Dutch: {{t+|nl|bidet|m|n}}
+* Esperanto: {{t|eo|bideo}}
+* Finnish: {{t+|fi|bidee}}, {{t|fi|pesuistuin}}, {{t|fi|alapesuallas}}
+* French: {{t+|fr|bidet|m}}
+* Galician: {{t|gl|bidé|m}}
+* German: {{t+|de|Bidet|n}}
+* Greek: {{t+|el|μπιντές|m}}
+* Hebrew: {{t+|he|בִּידֵה|m}}
+* Hungarian: {{t+|hu|bidé}}
+* Icelandic: {{t|is|skolskál|f}}
+* Ido: {{t+|io|bideto}}
+* Italian: {{t+|it|bidè|m}}, {{t+|it|bidet|m}}
+* Japanese: {{t+|ja|ビデ|tr=bide}}
+* Korean: {{t|ko|비데}}
+* Latvian: {{t|lv|bidē|m}}
+* Lithuanian: {{t|lt|bidė|f}}
+* Luxembourgish: {{t|lb|Bidet|m}}
+* Macedonian: {{t|mk|биде́|n}}
+* Maltese: {{t|mt|bidè|m}}
+* Norman: {{t|nrf|bidet|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bidet|n}}
+*: Nynorsk: {{t|nn|bidet|n}}
+* Persian: {{t+|fa|بیده|tr=bide}}
+* Polish: {{t+|pl|bidet|m}}
+* Portuguese: {{t+|pt|bidê|m}}, {{t+|pt|bidé|m}}
+* Romanian: {{t+|ro|bideu|n}}
+* Russian: {{t+|ru|биде́|n|tr=bidɛ́}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бѝде̄|n|sc=Cyrl}}
+*: Roman: {{t+|sh|bìdē|n}}
+* Sicilian: {{t|scn|bidè|m}}
+* Slovak: {{t|sk|bidet|m}}
+* Slovene: {{t|sl|bide|m}}
+* Spanish: {{t+|es|bidé|m}}, {{t+|es|bidet|m}}
+* Swedish: {{t+|sv|bidé|c}}
+* Turkish: {{t+|tr|bide}}
+* Ukrainian: {{t|uk|біде́|n}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=bdeit|betid|bited|debit}}
+
+{{c|en|Horses|Toilet (room)}}
+
+==Czech==
+{{wp|lang=cs}}
+
+===Etymology===
+{{bor+|cs|fr|bidet}}.
+
+===Pronunciation===
+* {{cs-IPA}}
+* {{hyphenation|cs|bi|det}}
+
+===Noun===
+{{cs-noun|m-in}}
+
+# {{l|en|bidet}}
+
+====Declension====
+{{cs-ndecl|m}}
+
+===Further reading===
+* {{R:cs:PSJC}}
+* {{R:cs:SSJC}}
+
+{{C|cs|Toilet (room)}}
+
+==French==
+
+===Etymology===
+From {{der|fr|frm|bider|t=to trot}}, of {{unk|fr|title=unknown}} ultimate origin, {{suf|fr||-et}}. Possibly related to Medieval {{cog|it|bidetto||small horse}},<ref>{{R:it:Pianigiani|bidetto}}</ref> itself probably related to {{cog|gmw-pro|*biti|t=bite; horse's bit}};<ref>{{R:MacBain|biteag}}</ref> or, possibly from a lost {{der|fr|frm|rabider||go quickly, violently}}, a descendant of {{der|fr|la|rabidus||furious, fierce}}, with loss of the initial prefix.<ref>{{R:fr:TLFi}}</ref>
+
+Modern sense derives from analogy with the straddling of a bidet and the straddling of a small horse.<ref>{{R:Etymonline}}</ref>
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-LoquaxFR-bidet.wav}}
+
+===Noun===
+{{fr-noun|m}}
+
+# [[pony]], small horse
+# {{l|en|bidet}}
+
+====Descendants====
+* {{desc|el|μπιντές|bor=1}}
+* {{desc|pl|bidet|bor=1}}
+* {{desc|pt|bidê|bor=1|alts=1}}
+* {{desc|fa|بیده|tr=bide|bor=1}}
+* {{desc|en|bidet|bor=1}} {{see desc}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:fr:TLFi}}
+
+===Anagrams===
+* {{l|fr|débit}}
+
+{{C|fr|Horses|Toilet (room)}}
+
+==Norman==
+
+===Etymology===
+{{rfe|nrf}}
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{lb|nrf|Jersey}} [[pony]]
+# {{lb|nrf|Jersey}} [[#English|bidet]]
+
+====Synonyms====
+* {{sense|pony}} {{l|nrf|pônîn}}, {{l|nrf|p'tit j'va}}
+
+{{topics|nrf|Horses}}
+
+==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+{{bor+|pl|fr|bidet}}. {{etydate|1819}}.<ref>{{cite-journal
+|journal=Kuryer Litewski
+|issue=92
+|url=https://polona.pl/item/kuryer-litewski-1819-ner-92-25-kwietnia-dod,NjgzNjE4OTQ/2/#info:search:bidet
+|year=1819
+|page=3}}</ref>
+
+===Pronunciation===
+{{pl-pr|a=Pl-bidet.ogg}}
+
+===Noun===
+{{pl-noun|m-in|dim=bidecik}}
+
+# {{l|en|bidet}} {{gl|low-mounted plumbing fixture for cleaning the genitalia and anus}}
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+{{col|pl|title=adjective|bidetowy}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{c|pl|Toilet (room)}}
+
+==Slovak==
+
+===Etymology===
+{{der+|sk|fr|bidet}}.
+
+===Pronunciation===
+* {{sk-IPA|biDet}}
+
+===Noun===
+{{sk-noun|m-in|adj=bidetový}}
+
+# {{l|en|bidet}}
+
+====Declension====
+{{sk-ndecl|m-in|g=u}}
+
+===Further reading===
+* {{R:sk:SDK}}
+
+{{C|sk|Toilet (room)}}
+
+==Spanish==
+
+===Pronunciation===
+{{es-pr}}
+
+===Noun===
+{{es-noun|m}}
+
+# {{alternative form of|es|bidé}}
+
+===Further reading===
+* {{R:es:DEA}}
+* [https://deleahora.com/diccionario/bidet bidet | Diccionario • DELE Ahora]
