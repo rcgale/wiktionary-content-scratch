@@ -1,0 +1,126 @@
+==English==
+
+===Pronunciation===
+{{rfp|en}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-heart attack.wav|a=Southern England}}
+
+===Noun===
+{{en-noun}}
+
+# {{senseid|en|Q12152}}{{lb|en|cardiology|pathology}} An acute [[myocardial infarction]], sometimes [[fatal]], caused by the sudden occurrence of [[coronary thrombosis]], which obstructs the blood supply to the heart and leads to [[necrosis]] of heart muscle tissue.
+#: {{syn|en|myocardial infarction}}
+#* {{quote-journal
+|en
+|date=April 15, 2012
+|author=Phil McNulty
+|title=Tottenham 1-5 Chelsea
+|work=BBC
+|url=http://www.bbc.co.uk/sport/0/football/17649443
+|page=
+|passage=Before kick-off, a section of Chelsea's support sadly let themselves and their club down by noisily interrupting the silence held in memory of the Hillsborough disaster and for Livorno midfielder Piermario Morosini, who collapsed and died after suffering a '''heart attack''' during a Serie B game on Saturday.}}
+# {{lb|en|figurative}} A [[major]] [[fright]].
+#: {{ux|en|She'll have a '''heart attack''' when she sees that!}}
+# {{lb|en|figurative}} [[death|Death]] or [[failure]].
+#: {{ux|en|My computer had a '''heart attack''' when I tried to get it to run that program.}}
+
+====Derived terms====
+{{col2|en
+|heart attack on a plate
+}}
+
+====Descendants====
+* {{desc|fi|haartätäkki|bor=1}}
+
+====Translations====
+{{trans-top|acute myocardial infarction}}
+* Albanian: {{t|sq|infarkti miokardial}}
+* Arabic: {{t|ar|اِحْتِشَاء قَلْبِيّ|m}}, {{t|ar|احتشاء عضلة القلب|m}}
+*: Hijazi Arabic: {{t|acw|جَلْطَة|f|tr=jalṭa}}, {{t|acw|سَكْتَة قَلْبِيَّة|f|tr=sakta galbiyya}}
+* Armenian: {{t|hy|սրտի կաթված|sc=Armn}}
+* Azerbaijani: {{t|az|miokard infarktı}}
+* Basque: {{t|eu|miokardio infartu akutu}}
+* Belarusian: {{t|be|сардэ́чны пры́ступ|m|sc=Cyrl}}, {{t|be|інфа́ркт міяка́рда|m|sc=Cyrl}}, {{t|be|інфа́ркт|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|инфа́ркт на миока́рда|m}}, {{t|bg|инфа́ркт|m|sc=Cyrl}}
+* Catalan: {{t|ca|infart|m}}, {{t|ca|atac de cor|m}}
+* Cebuano: {{t|ceb|atake sa kasingkasing}}
+* Chinese:
+*: Mandarin: {{t+|cmn|心肌梗死|tr=xīnjī gěngsǐ}}, {{t+|cmn|心肌梗塞|tr=xīnjī gěngsè}}, {{t|cmn|[[心臟病]][[發作]]|tr=xīnzàngbìng fāzuò}}
+* Czech: {{t|cs|infarkt myokardu|m}}
+* Danish: {{t|da|hjerteanfald|n}}, {{t|da|hjertetilfælde|n}}
+* Dutch: {{t+|nl|hartaanval|m}}, {{t+|nl|hartinfarct|n}}, {{t+|nl|myocardinfarct|n}}
+* Esperanto: {{t|eo|korinfarkto}}
+* Estonian: {{t|et|südamerabandus}}, {{t|et|südameatakk}}
+* Finnish: {{t+|fi|sydänkohtaus}}, {{t+|fi|sydäninfarkti}}
+* French: {{t+|fr|crise cardiaque}}, {{t+|fr|infarctus du myocarde}}
+* Georgian: {{t|ka|მიოკარდიუმის ინფარქტი|sc=Geor}}
+* German: {{t+|de|Herzinfarkt|m}}, {{t+|de|Myokardinfarkt|m}}, {{t|de|[[akut]]er [[Myokardinfarkt]]|m}}
+* Greek: {{t+|el|έμφραγμα|n}}, {{t+|el|έμφραγμα του μυοκαρδίου|n|sc=Grek}}, {{t|el|καρδιακή προσβολή|f}}
+* Gujarati: {{t|gu|હૃદયાઘાત}}
+* Hebrew: {{t+|he|הֶתְקֵף לֵב}}
+* Hindi: {{t|hi|हृदयाघात|sc=Deva}}
+* Hungarian: {{t+|hu|szívroham}}, {{t+|hu|szívinfarktus}}, {{t+|hu|infarktus}}
+* Icelandic: {{t+|is|hjartaáfall}}
+* Ido: {{t-needed|io}}
+* Indonesian: {{t+|id|serangan jantung}}
+* Ingrian: {{t|izh|syänrapahus}}
+* Interlingua: {{t|ia|infarcimento myocardial}}
+* Irish: {{t|ga|taom croí}}
+* Italian: {{t|it|infarto del miocardio}}, {{t|it|sciopon|m}} {{q|dialectal}}
+* Japanese: {{t+|ja|心筋梗塞|tr=しんきんこうそく, shinkin kōsoku}}, {{t+|ja|心臓発作|tr=しんぞうほっさ, shinzō hossa|sc=Jpan}}, {{t+|ja|心臓麻痺|tr=しんぞうまひ, shinzō mahi|sc=Jpan}}
+* Kazakh: {{t|kk|миокард инфарктысы|sc=Cyrl}}
+* Khmer: {{t|km|គាំងបេះដូង}}
+* Korean: {{t+|ko|심근경색(心筋梗塞)}}, {{t|ko|심장발작(心臟發作)}}, {{t+|ko|심장마비(心臟痲痹)}}
+* Kurdish:
+*: Northern Kurdish: {{t|kmr|Mirina masûlkeyên dil}}, {{t|kmr|Myokardînfarkt}}
+* Latin: {{t|la|infarctus cordis}}, {{t|la|infarctus cordis acutus}}, {{t|la|infarctus myocardii}}, {{t|la|infarctus myocardii acutus}}
+* Latvian: {{t|lv|miokarda infarkts|m}}
+* Lithuanian: {{t|lt|miokardo infarktas|m}}
+* Macedonian: {{t|mk|срцев на́пад|m|sc=Cyrl}}
+* Malay: {{t+|ms|serangan jantung}}
+* Malayalam: {{t|ml|ഹൃദയാഘാതം}}
+* Maori: {{t|mi|mate manawa}}
+* Mongolian: {{t|mn|зүрхний шигдээс|sc=Cyrl}}
+* Norwegian: {{t|no|myokardieinfarkt}}
+*: Bokmål: {{t+|nb|hjerteinfarkt|n}}, {{t|nb|hjerteattakk}}
+*: Nynorsk: {{t|nn|hjarteinfarkt|n}}
+* Persian: {{t|fa|سکته قلبی|tr=sakte-ye qalbi}}, {{t|fa|انفارکتوس میوکارد|tr=enfârktus-e meyukârd}}
+* Plautdietsch: {{t|pdt|Hoatschlach|m}}
+* Polish: {{t+|pl|zawał serca|m}}
+* Portuguese: {{t|pt|ataque cardíaco|m}}, {{t|pt|infarto do miocárdio|m}}, {{t+|pt|infarto|m}}
+* Romanian: {{t|ro|atac de cord|n}}, {{t+|ro|infarct|n}}, {{t+|ro|infarct miocardic|n}}
+* Russian: {{t|ru|серде́чный при́ступ|m}}, {{t|ru|инфа́ркт миока́рда|m}}, {{t+|ru|инфа́ркт|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|срчани удар}}, {{t|sh|инфаркт миокарда}}
+*: Roman: {{t|sh|srčani udar}}, {{t|sh|infarkt miokarda}}
+* Slovak: {{t|sk|infarkt myokardu|m}}
+* Slovene: {{t|sl|miokardni infarkt|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wutšobowy infarkt|m}}
+* Spanish: {{t|es|ataque cardíaco|m}}, {{t|es|ataque al corazón|m}}, {{t+|es|infarto|m}}, {{t|es|infarto agudo de miocardio}}, {{t|es|ataque cardiaco|m}}
+* Swahili: {{t|sw|mshtuko wa moyo}}
+* Swedish: {{t+|sv|hjärtinfarkt|c}}
+* Tagalog: {{t|tl|atake sa puso}}
+* Tamil: {{t+|ta|மாரடைப்பு}}
+* Telugu: {{t|te|గుండెపోటు}}
+* Thai: {{t-needed|th}}
+* Turkish: {{t|tr|kalp krizi}}, {{t|tr|miyokard enfarktüs}}, {{t|tr|miyokardiyal enfarktüs}}
+* Ukrainian: {{t|uk|серцеви́й напа́д|m|sc=Cyrl}}, {{t|uk|інфа́ркт міока́рда|m|sc=Cyrl}}, {{t|uk|інфа́ркт|m|sc=Cyrl}}
+* Urdu: {{t|ur|دل کا دورہ |tr=dil ka daura}}, {{t|ur|دورہ قلب|tr=daura qalb}}, {{t|ur|قلبی دورہ|tr=qalbī daura}}, {{t|ur|قلبی دور|tr=qalbī daur}}
+* Vietnamese: {{t|vi|nhồi máu cơ tim}}
+* Welsh: {{t+|cy|trawiad ar y galon|m}}
+* Yiddish: {{t|yi|האַרץ־אַטאַקע|f}}, {{t|yi|האַרץ־אינפֿאַרקט|m}}
+* Zulu: {{t-needed|zu}}
+{{trans-bottom}}
+
+{{trans-see|death}}
+
+{{trans-see|failure}}
+
+===See also===
+{{col4|en
+|cardiac arrest
+|heart failure
+}}
+
+===Further reading===
+* {{pedia|myocardial infarction}}
