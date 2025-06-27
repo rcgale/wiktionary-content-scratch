@@ -1,0 +1,188 @@
+{{also|Herbarium|herbárium}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{uder|en|la|herbārium}}. {{doublet|en|arbor}}.
+
+===Pronunciation===
+* {{IPA|en|/hɜːˈbɛəɹi.əm/|a=RP}}
+* {{IPA|en|/(h)ɝˈbɛɹi.əm/|a=GA}}
+* {{audio|en|LL-Q1860 (eng)-NaomiAmethyst-herbarium.wav|a=US}}
+* {{rhymes|en|ɛəɹiəm|s=4}}
+
+===Noun===
+{{en-noun|s|herbaria}}
+
+# A [[collection]] of dried [[plant]]s or parts of plants.
+#* {{RQ:Schuster Hepaticae|volume=V|page=vii|text=With fresh material, taxonomic conclusions are leavened by recognition that the material examined reflects the site it occupied; a '''herbarium''' packet gives one only a small fraction of the data desirable for sound conclusions. '''Herbarium''' material does not, indeed, allow one to extrapolate safely: what you see is what you get{{...}}}}
+# A [[building]] or [[institution]] where such a collection is kept.
+
+====Coordinate terms====
+* {{l|en|fungarium}}
+* {{l|en|hortorium}}
+* {{l|en|xylarium}}
+
+====Related terms====
+* {{l|en|herbarial}}
+
+====Translations====
+{{trans-top|collection of dried plants}}
+* Belarusian: {{t|be|герба́рый|m}}
+* Bulgarian: {{t|bg|херба́рий|m}}
+* Catalan: {{t+|ca|herbari}}
+* Chinese:
+*: Mandarin: {{t|cmn|蠟葉標本|tr=làyèbiāoběn}}, {{t|cmn|植物標本|tr=zhíwùbiāoběn}}
+* Czech: {{t+|cs|herbář|m}}
+* Dutch: {{t+|nl|herbarium}}
+* Finnish: {{t+|fi|kasvio}}, {{t+|fi|herbaario}}
+* French: {{t+|fr|herbier|m}}
+* Georgian: {{t|ka|ჰერბარიუმი}}
+* German: {{t+|de|Herbarium|n}}
+* Greek: {{t+|el|φυτολόγιο|n}}
+* Hungarian: {{t|hu|préselt növénygyűjtemény}}
+* Indonesian: {{t+|id|herbarium}}
+* Italian: {{t+|it|erbario|m}}
+* Japanese: {{t|ja|ハーバリアム|tr=hābariamu|sc=Jpan}}
+* Latin: {{t|la|herbārium|n}}
+* Latvian: {{t|lv|herbārijs|m}}, {{t|lv|herbārijs|m}}
+* Lithuanian: {{t|lt|herbariumas|m}}
+* Malay: {{t|ms|herbarium}}
+* Polish: {{t+|pl|zielnik|m}}, {{t+|pl|herbarium|n}}
+* Portuguese: {{t+|pt|herbário|m}}
+* Russian: {{t+|ru|герба́рий|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|хербаријум|m}}
+*: Roman: {{t|sh|herbarijum|m}}
+* Slovak: {{t|sk|herbár|m}}
+* Slovene: {{t|sl|herbarij|m}}
+* Spanish: {{t|es|herbario|m}}
+* Turkish: {{t+|tr|herbaryum}}
+* Ukrainian: {{t|uk|герба́рій|m}}
+{{trans-bottom}}
+
+{{trans-top|building or institution where a collection of plants is held}}
+* Dutch: {{t+|nl|herbarium}}
+* Finnish: {{t+|fi|kasvio}}, {{t+|fi|herbaario}}
+* French: {{t+|fr|herbier|m}}
+* German: {{t+|de|Herbarium|n}}
+* Hungarian: {{t+|hu|herbárium}}
+* Indonesian: {{t+|id|herbarium}}
+* Italian: {{t+|it|erbario|m}}
+* Malay: {{t|ms|herbarium}}
+* Welsh: {{t|cy|llysieufa|f}}
+{{trans-bottom}}
+
+{{checktrans-top|}}
+* Albanian: {{t+|sq|bimëtore|n}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|arboretum}}
+* {{l|en|botanical garden}}
+
+{{cln|en|nouns with irregular plurals}}
+{{C|en|Botany}}
+
+==Dutch==
+
+===Etymology===
+Borrowed from {{bor|nl|la|herbārium}}.
+
+===Pronunciation===
+* {{IPA|nl|/ˌɦɛrˈbaː.ri.ʏm/}}
+* {{audio|nl|Nl-herbarium.ogg}}
+* {{hyphenation|nl|her|ba|ri|um}}
+* {{rhymes|nl|aːriʏm}}
+
+===Noun===
+{{nl-noun|n|herbaria|-}}
+
+# {{l|en|herbarium}}
+# {{l|en|herbarium}} [[book]]
+
+====Descendants====
+* {{desc|id|bor=1|herbarium}}
+
+==Indonesian==
+{{wikipedia||lang=id}}
+
+===Etymology===
+{{bor+|id|nl|herbarium}}, from {{der|id|la|herbārium}}.
+
+===Pronunciation===
+* {{IPA|id|/hɛr.ba.ˈri.ʊm/}}
+* {{rhymes|id|ʊm|s=4}}
+* {{hyphenation|id|her|ba|ri|um}}
+
+===Noun===
+{{id-noun}}
+
+# {{l|en|herbarium}}
+
+===Further reading===
+* {{R:KBBI Daring}}
+
+==Latin==
+
+===Alternative forms===
+* {{alter|la|herb.}}
+
+===Etymology===
+From the neuter of {{m|la|herbārius|herbārius, -a, -um|botanical}} (attested only as a masculine noun, "botanist", in Classical Latin), equivalent to {{af|la|herba|t1=grass, vegetation|-ārium}}.
+
+===Pronunciation===
+* {{la-IPA|herbārium}}
+
+===Noun===
+{{la-noun|herbārium<2>}}
+
+# a [[#English|herbarium]]; a [[collection]] of dried [[plant]]s
+# a herbarium {{gloss|a written work on {{l|en|botany}}}}
+#: {{ux|la|[[w:Pseudo-Apuleius|'''Herbarium''' Apuleii Platonici]]|the '''''Herbarium''''' of Apuleius Platonicus}}
+
+====Declension====
+{{la-ndecl|herbārium<2>}}
+
+====Related terms====
+{{col|la
+|herba
+|herbāceus
+|herbāns
+|herbāria
+|herbāticus
+|herbārius
+}}
+
+====Descendants====
+{{top2}}
+* {{desc|rup|irbar}}
+* {{desc|ca|herbari}}
+* {{desc|en|herbarium}}
+* {{desc|fr|herbier}}
+* {{desc|it|erbario}}
+* {{desc|pt|herbário}}
+* {{desc|ro|ierbar}}
+* {{desc|ru|герба́рий}}
+* {{desc|es|herbario}}
+* {{desc|sv|herbarium}}
+{{bottom}}
+
+===References===
+* {{R:L&S|herbārium}}
+* {{R:du Cange}}
+* {{R:Gaffiot|herbārĭum|p=741/3}}
+
+==Norwegian Bokmål==
+
+===Noun===
+{{nb-noun-n2|herbari}}
+
+# {{l|en|herbarium}}
+
+==Norwegian Nynorsk==
+
+===Noun===
+{{nn-noun-n1|herbari}}
+
+# {{l|en|herbarium}}
